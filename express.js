@@ -1,10 +1,25 @@
 const express = require("express");
 const path = require("path");
+const fs = require("fs");
+
+const fileExists = (path) => {
+    try {
+        fs.statSync(path);
+        return true;
+    } catch (err) {
+        return false;
+    }
+};
 
 const app = express();
 
-const replaceUrlParams = (path) => {
-    return path.replace("?", "%3f").replace("=", "%3d").replace("&", "%26");
+const replaceAllUrlParams = (path) => {
+    return path
+        .replaceAll("?", "%3f")
+        .replaceAll("=", "%3d")
+        .replaceAll("&", "%26")
+        .replaceAll("/www/", "/")
+        .toLowerCase();
 };
 
 const isHtml = (filename) => {
@@ -19,12 +34,20 @@ const isHtml = (filename) => {
 };
 
 app.get("*", (req, res) => {
-    let url = replaceUrlParams(req.originalUrl);
+    const url = replaceAllUrlParams(req.originalUrl);
+
+    const filePath = path.join(__dirname, "/volvo240.dk/", url);
+
+    if (!fileExists(filePath)) {
+        res.set("Content-Type", "text/plain");
+        res.send("Path does not exist: " + filePath);
+        return;
+    }
 
     if (isHtml(url)) {
         res.set("Content-Type", "text/html");
     }
-    res.sendFile(path.join(__dirname, "/volvo240.dk/", url));
+    res.sendFile(filePath);
 });
 
 app.use((req, res, next) => {
@@ -33,5 +56,5 @@ app.use((req, res, next) => {
 
 app.use(express.static("./volvo240.dk"));
 
-console.log("Listening on port", 8080);
-app.listen(8080);
+console.log("Listening on port", 8002);
+app.listen(8002);

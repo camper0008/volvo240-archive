@@ -1,0 +1,264 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id=DMBRI style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name=DMBImgFiles width="1" height="1" border="0" alt="">
+<img src="menu/dmb_m.gif" name=DMBJSCode width="1" height="1" border="0" alt="">
+</div>
+<script type="text/javascript" language="JavaScript" >
+	var rimPath = null;
+	var rjsPath = null;
+	var rPath2Root = null;
+	
+	function InitRelCode() {
+		var iImg;
+		var jImg;
+		var tObj;
+		
+		if(!document.layers) {
+			iImg = document.images['DMBImgFiles'];
+			jImg = document.images['DMBJSCode'];
+			tObj = jImg;
+		} else {
+			tObj = document.layers['DMBRI'];
+			if(tObj) {
+				iImg = tObj.document.images['DMBImgFiles'];
+				jImg = tObj.document.images['DMBJSCode'];
+			}
+		}
+		if(!tObj) {
+			window.setTimeout("InitRelCode()", 700);
+			return false;
+		}
+		
+		rimPath = _gp(iImg.src);
+		rjsPath = _gp(jImg.src);
+		rPath2Root = rjsPath + "../";
+		
+		return true;
+	}
+	
+	function _purl(u) {
+		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
+	}
+	
+	function _fip(img) {
+		if(img.src.indexOf("%%REL%%")!=-1)
+			img.src = rimPath + img.src.split("%%REL%%")[1];
+		return img.src;
+	}
+	
+	function _gp(p) {
+		return p.substr(0,p.lastIndexOf("/")+1);
+	}
+	
+	function FixImages() {
+		var h = null;
+		var f = new Function("h", "if(h)for(var i=0; i<h.length; i++)h[i] = xrep(h[i], '%%REL%%', rimPath);");
+		f(hStyle);f(hshStyle);
+	}
+	
+	function xrep(s, f, n) {
+		if(s) s = s.split(f).join(n);
+		return s;
+	}
+	
+	InitRelCode();
+</script>
+<script type="text/javascript" language="JavaScript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'main.js"><\/script>');return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright (c) 2002-2008 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S_g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=1">Motor</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Forum om <b>Motor</b>. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Motor tikker - sp_rgsm_l om justering af ventiler?</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Anders H&#248;jgaard</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">digital_overdrive@hotmail.com</font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-12-2011&nbsp; 14:05</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">K_re forum,<br>min k_re Volvo 240 GL fra &#39;91 med en B230F motor er begyndt at &#39;tikke&#39; fra motorrummet, n_r den skal k_mpe lidt - f.eks. op ad bakke, eller n_r <br>den f_r lidt pedal. <br>Hvad skyldes det?<br>Kan det l_ses?<br>Er det farligt/usundt at k_re med?<br>OG kan det evt. modvirke den ufattelige t_rst, min bil har? Jeg har lige t_mt en tank p_ ca. 300 km?!?!</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 06-12-2011 15:06)</em></u></strong></font></li><br><font face=Verdana>Hej Anders<br>Jeg tror at du selv har givet svaret, tikken kommer som regel fra ventilerne.<br>Ingen fejlkoder???<br>Jeg k_rer i en Volvo med B230FD motor aut. gear og pilot, og jeg k_rer det dobbelte p_ en tankfuld.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 06-12-2011 18:21)</em></u></strong></font></li><br><font face=Verdana>Hej Anders.<br><br>Hvis den ikke tikker konstant kan det vel evt. v_re noget t_ndingsbanken.<br><br>Og 300km p_ en tankfuld er aaaalt for lidt. Der er noget rivende galt. <br><br>Mvh. Dennis</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Morten VJ, 06-12-2011 18:35)</em></u></strong></font></li><br><font face=Verdana>Jeg er uenig med ventil st_j.<br>Det lyder som den perfekte beskrivelse af t_ndingsbanken.<br>Mit g_t er at det lyder som sm_sten der bliver kastet p_ en rude n_r motoren bliver belastet.<br>Og ellers er der ingen lyd.<br>Hvis det er t_ndingsbanken s_ er det yderst skadeligt at k_re med.<br>Det kan smadre stempler, som br_nde hul i dem !!<br>Har du skiftet benzinselvskab!!<br>Du tanker vel oktan 95???<br>Pr_v evnt. at tanke hos Q8 eller Shell.<br>Hvis du normalt bruger et billigt benzin selskab.<br>Ellers pr_v et rense produkt til indsugnings systemet, og til dyserne.<br>Hvis motoren ellers k_rer ok, og du ikke har nogle fejlkoder.<br>Den d_rlige _konomi skyldes, n_r motoren opfanger at den har t_ndingsbanken, s_ stiller den t_ndingen tilbage, og giver benzin computeren besked om at give mere benzin.<br>Resultatet er d_rlig tr_kkraft og en forinnget benzin _konomi.<br><br>MVh<br><br>Morten</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 07-12-2011 10:19)</em></u></strong></font></li><br><font face=Verdana>er der kat p_ en 91&#39;er? hvis ikke skal du v_re velkommen til at komme til _rhus og f_ m_lt dit blandingsforhold under k_rsel.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Michael C. Jensen, 07-12-2011 11:33)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Helt enig i at det er t_ndingsbanken men jeg har k_rt i 5_r med en B230F hvor der monteret en 531 top der er planet 1,2mm p_<br>92 oktan uden problemer s_ hvis den t_ndingsbanker p_ 92 oktan er der noget andet galt.<br>Kan det t_nkes at den skredet tandremmen.<br>Pr_v at unders_ge om den passer p_ m_rkerne. <br>Mvh<br>Michael<br><br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Anders H&#248;jgaard, 07-12-2011 12:52)</em></u></strong></font></li><br><font face=Verdana>Der er ingen fejlkoder. <br>Yes, det kan nemlig godt lyde som sm_ sten, der bliver drysset p_ forruden. Men kun n_r den f_r gas. Hvad er t_ndingsbanken? Og hvad g_r jeg ved det?<br>Jeg k_rer p_ blyfri 95 og ja, der er katalysator p_. <br>Tandremmen er lige blevet skiftet. <br>Jens Peter - hvor er du bosat i DK? G_r du stadig i biler? Du lyder til at vide alt om biler. :)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 07-12-2011 15:48)</em></u></strong></font></li><br><font face=Verdana>Hej Anders<br>Jeg g_r IKKE i biler overhovedet, jeg g_r KUN i Volvo 200 serien (_rg. 1975-1993)<br>Du er velkommen til at kigge forbi.<br>7500 Holstebro<br>Mit telefon nr. ligger p_ denne site under annoncer.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 07-12-2011 15:51)</em></u></strong></font></li><br><font face=Verdana>Hej igen<br>PS. N_r tandremmen lige er blevet skiftet, kunne jeg m_ske godt f_ den tanke at Michael m_ske har ret i, at den m_ske st_r _n tand forkert.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Anders H&#248;jgaard, 07-12-2011 16:09)</em></u></strong></font></li><br><font face=Verdana>En mekaniker har netop svejset min udst_dning (r_ret var kn_kket lige ved sp_ndeb_ndet til den sidste lydd_mper). Han kunne se, at pakningen til manifolden var ut_t. Jeg giver ham ret. Man kan i hvert fald m_rke, at der kommer varm luft ud. <br>S_ er problemet med tikken forsvundet. Men hvad med _konomien? Den k_rer stadig ikke s_rlig langt p_ literen. Mekanikeren sagde, at det kan v_re fordi, at undertrykket i udst_dningen kan suge luft ind, der opfanges af lambdasonden. Den skruer s_ op for benzinen, for at give en st_rre afbr_ndning. Kan det passe?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Anders H&#248;jgaard, 07-12-2011 16:11)</em></u></strong></font></li><br><font face=Verdana>Men den sagde ogs_ lyden, inden tandremmen blev skiftet. Hvad siger I til ovenst_ende ny respons?<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 07-12-2011 17:02)</em></u></strong></font></li><br><font face=Verdana>S_, ville der v_re fejlkoder lagret<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Anders H&#248;jgaard, 07-12-2011 19:14)</em></u></strong></font></li><br><font face=Verdana>Jeg skal forst_ det s_dan, at der kan v_re fejlkoder i bilens computer, der kan afl_ses, selvom ingen advarselslamper lyser?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 07-12-2011 19:26)</em></u></strong></font></li><br><font face=Verdana>JA!<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Anders H&#248;jgaard, 08-01-2012 16:32)</em></u></strong></font></li><br><font face=Verdana>K_re Alle,<br>jeg vil lige fort_lle denne lille sk_nne historie om den dag, jeg fik nye pakninger og bolte hjem fra spare-parts. 230 kr inkl forsendelse og s_ det tog mig et par timer og et par gode r_d med p_ vejen. Jeg k_rer i en helt ny bil nu. Alt den tikken er forsvunden, jeg har meget mere bundtr_k (m_ske faktisk mere, end fra da jeg k_bte bilen) og nu mangler jeg bare at bruge et par tanke og regne sammen, om jeg har f_et bedre _konomi. Lige pludselig gik det op for mig, hvor dejlig en bil jeg har k_bt. Jeg ved ikke, om der er mulighed for at l_gge et billede ind her p_ siden, men kan forklare, at den ene pakning n_rmest ikke var tilstedev_rende. <br>Tak for hj_lpen. <br>Anders.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 08-01-2012 17:19)</em></u></strong></font></li><br><font face=Verdana>Er det indsugningspakningen der var delvis v_k?<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 08-01-2012 23:21)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Vedr. det alt for store benzinforbrug.<br>Check om benzintanken er m_ske er ut_t og check benzinr_rene, speciel returr_r<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Anders H&#248;jgaard, 09-01-2012 18:52)</em></u></strong></font></li><br><font face=Verdana>Nej, udst_dningspakningen.<br>Returr_rene p_ benzintanken? Hvad er det?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 10-01-2012 08:03)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Det er det r_r der g_r retur fra indspr_jningen og tilbage til tanken, med overskudsbenzin.<br>Hvis dette r_r er ut_t, kan du ikke s_dan lige se eller m_rke det.<br>Den kan v_re ut_t p_ hele linien, men nok mest hvor den g_r over kardanakslen.<br><br>M_ske bankecensor defekt-?<br>Og ja oktan 95 er vigtig.<br><br><br>I en tidligere 240, kunne jeg h_re tydelig h_re p_ den ved acceleration, n_r benzinselskabet havde 92 i 95oktan standeren, og det forekom faktisk ret ofte.<br><br>M_ske du har 2 problemer.<br><br>mvh<br>S_ren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 10-01-2012 17:03)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Hvis motoren har bankecensor, og den ellers virker, s_ kan der sagtens k_res p_ oktan 92. Ellers var der jo ingen grund til, at bankecensoren var der. Den regulerer jo t_ndingen, hvis den begynder at t_ndingsbanke.<br>At der s_ er knapt s_ meget effekt at hente i 92 kontra 95, er en anden snak.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 10-01-2012 19:21)</em></u></strong></font></li><br><font face=Verdana>Du har ret Christian, skrev jeg lidt for hurtig fra morgenstunden<br>mvh<br>S_ren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 11-01-2012 12:52)</em></u></strong></font></li><br><font face=Verdana>men korrekt at der forskel fra 92 til f.eks Vpower. P_ en 230E motor jeg havde i en 240 engang kunne man ligefrem ane forskel p_ "kvikheden" n_r man h_ldte Vpower p_.<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 11-01-2012 16:49)</em></u></strong></font></li><br><font face=Verdana>Hej Jacob<br><br>Ja der er himmelvid forskel p_ oktan 92 og V-power, som er oktan 99.<br>Man kan sagtens m_rke forskel i en B230E, selvom den k_rer med fast fort_nding.<br>I en mere moderne r_dblok som f.eks. min egen B230FK lavtryksturbo med bankecensor, er der himmelvid forskel.<br>Jeg har pr_vet at k_re p_ V-power tilsat oktan-boost. Den gik helt forrygende godt, men det kan nok ikke betale sig med den blanding, da hverken benzinen eller tils_tningen er billig :-), men sjovt at pr_ve.<br><br>Mvh Christian</font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf_j til foretrukne">F_j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">17</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

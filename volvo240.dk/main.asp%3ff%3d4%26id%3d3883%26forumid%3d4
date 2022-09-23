@@ -1,0 +1,216 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright _ 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S_g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=4">Volvo-folk imellem</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp_rge andre Volvo-ejere tilr_ds om alt vedr_rende Volvo. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Opskrift - Konstruktiv _ndringer</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Ben</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">ben.m.cumming@gmail.com</font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">13-04-2010&nbsp; 21:37</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">S_ har jeg endelig styr p_ sagen og min 240 er nu helt lovligt med turbo motor.  Da jeg begyndte p_ projektet havde jeg det sv_rt med at finde ud af reglerne, s_ hvis der sidder nogle i sammen situation kunne lidt information hj_lp.<br><br>Baggrunds informationen:<br><a href="http://www.fstyr.dk/Service&#37;20pages/FAQ/Koretojer/Tekniske&#37;20krav&#37;20til&#37;20koeretoejer/Tuning&#37;20og&#37;20chiptuning.aspx" target="_blank">http://www.fstyr.dk/Service&#37;20pages/FAQ/Koretojer/Tekniske&#37;20krav&#37;20til&#37;20koeretoejer/Tuning&#37;20og&#37;20chiptuning.aspx</a><br><br><br>De vigtige punkter:<br>- Hvis man beholde den oprindelig motorblok og topstykke skal man ikke betale ny afgift p_ bilen.  Den oplysning fik jeg mundtlig fra skat i H_je Taastrup og har er skriftlig oplysning fra en tidligere sag (fra Steen Damsgaard, n_vnte i sidste indl_g her - <a href="http://www.volvo240.dk/main.asp?f=4&id=1558&forumid=1" target="_blank">http://www.volvo240.dk/main.asp?f=4&id=1558&forumid=1</a>).<br><br>- Volvo i Ballerup har nogle papir over hvor mange hk en 240 og 260 er godkendt til.  De var meget hj_lpsom og sendt mig dem straks.  Nu ligger 4 sider p_ nettet her:<br><a href="http://www.filedump.net/dumped/volvotrimningsinformation1af41271185248.pdf" target="_blank">http://www.filedump.net/dumped/volvotrimningsinformation1af41271185248.pdf</a><br><a href="http://www.filedump.net/dumped/volvotrimningsinformation2af41271185289.pdf" target="_blank">http://www.filedump.net/dumped/volvotrimningsinformation2af41271185289.pdf</a><br><a href="http://www.filedump.net/dumped/volvotrimningsinformation3af41271185313.pdf" target="_blank">http://www.filedump.net/dumped/volvotrimningsinformation3af41271185313.pdf</a><br><a href="http://www.filedump.net/dumped/volvotrimningsinformation4af41271185332.pdf" target="_blank">http://www.filedump.net/dumped/volvotrimningsinformation4af41271185332.pdf</a><br><br>- Hvis man har en B230F med LH2.4 indspr_jtnings system kan man nemt s_tte turbo udstyr (manifold, turbo, styrbokser, dysser, osv) fra en 940 over p_ 240&#39;en.  Og fordi den 940 turbo er godkendt i Danmark f_r man ikke milj_ problemer.  Andre B230 motorer kan bruges, men er mere besv_rlige.<br><br>- Bilen skal op til syn.  P_ bagsiden af synsrapporten st_r der noget om konstruktiv _ndringer.  Den f_rste synshal fortalte mig til at glemme det og k_rer bare uden at sige noget.  Derefter fik jeg fat i S_ren fra A-inspektion bilsyn i Taastrup.  Han kender reglerne, er en Volvo mand og var meget hj_lpsom.  Ham ville jeg anbefale.<br><br>- Forsikrings selskab skal orienteres.  Min pris steg fra ca. 4000 til 4500 om _ret.<br><br>- Derefter skal man ud til motorkontor med registreringsattest, forsikrings bevis og syns rapport.  De sender en ny registreringsattest, og s_ er det hele i vinkel.<br><br>Jeg h_ber den overst_ende kan v_re behj_lpelig til nogle<br>Ben</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Henrik S, 13-04-2010 22:02)</em></u></strong></font></li><br><font face=Verdana>Super info. Skal snart igennem samme m_lle.<br><br>F_rst syn, s_ orientere forsikringsselskabet, s_ p_ motorkontoret?<br><br>Hvad er det du orienterer forsikringsselskabet om? Konstruktive _ndringer, eller kender du de nye motoreffekt?<br><br>mvh Henrik</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Bjarke Jensen, 13-04-2010 22:56)</em></u></strong></font></li><br><font face=Verdana>Alts_ du har lagt en B230FT over i en 240?<br><br>Var det lige til?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Stig Bymark, 14-04-2010 09:39)</em></u></strong></font></li><br><font face=Verdana>Et stort tillykke herfra, hvad s_ med ungdomskrimaliteten, stiger den s_ nu,<br>eller har du andre ting at kaste dig over?<br><br>Mange hilsner<br><br>Stig.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ben, 14-04-2010 09:40)</em></u></strong></font></li><br><font face=Verdana>Henrik - det er lige meget hvilken r_kkef_lge man tager syn og forsikring.  Bare at de er begge to p_ plads inden man tager ud p_ motorkontor.<br><br>Bjarke - Nej, jeg har sat B230FT udstyr (turbo, dysser, styrbokser) p_ min B230F.  Det er et vigtigt punkt (ellers koster det 20.000kr i afgift).  Men i hvert faldt er det stort set lige til med en B230FT i 240.  Der er ikke s_ meget plads i et 240 motorrum i forhold til 940, s_ nogle ting skal "justeres" men det er ikke uoverskuelig.<br><br>Billeder af det hele findes her: http://tinyurl.com/cc-snaps<br><br>Ben</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kristoffer, 14-04-2010 21:35)</em></u></strong></font></li><br><font face=Verdana>Tusind tak fordi du har haft tid til at skrive de ting ned - s_ slipper vi andre for at rende fra herodes til pilatus.<br><br>Kunne man g_re det samme med en b200f, som med din b230f ? For hvis det er s_ nemt og billigt, s_ tror jeg sku jeg g_r den vej i stedet for</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 15-04-2010 00:18)</em></u></strong></font></li><br><font face=Verdana>F_r du s_ ikke et problem med at kompressionen den bliver for h_j? for med turbo monteret skal den jo s_nkes<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kristoffer, 15-04-2010 00:59)</em></u></strong></font></li><br><font face=Verdana>I de volvo R-sport turbo kits, var der ikke et wastegate med? S_ jeg vil tro han har l_st det problem p_ samme m_de som de gjorde, ved at brug af et wastgate <br><br><a href="http://picasaweb.google.com/Chookhouse.Chooning/TTurboAndManifold#5407297047677455954" target="_blank">http://picasaweb.google.com/Chookhouse.Chooning/TTurboAndManifold#5407297047677455954</a><br><br>Hvis man</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 15-04-2010 09:18)</em></u></strong></font></li><br><font face=Verdana>hvad har en wastegate at g_re med kompressionen Kristoffer? ikke en skid.... kompressionen skal s_nkes med at montere andre stempler eller montere 2 toppakninger uden at g_re noger spr_nger skidtet i luften.<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ben, 15-04-2010 10:37)</em></u></strong></font></li><br><font face=Verdana>Jeg har ikke s_nket kompression.  Og den har k_rt 6 m_neder p_ ca. 0,4bar (og et par tur p_ ca. 1bar).  Jeg synes ikke det bliver et problem, jeg bruger 99 oktan og h_rer efter fort_nding, der er ogs_ mange (is_r i USA) der har lavet pr_cis denne her ombygning uden de store problemer.<br><br>Men hvis motoren spr_nger, vil jeg erkende at jeg tog fejl, og s_nker kompression inden jeg s_tter en ny motorblok i.<br><br>Kristoffer - Ved ikke helt om en B200... ved ikke om 230 turbo udstyr passer, ellers kunne det v_re sv_rt at finde en godkendt turbo system.  Men tager ned og snakker med din synsmand om projektet.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kristoffer, 15-04-2010 12:57)</em></u></strong></font></li><br><font face=Verdana>Kent Skovsen<br>hvor skrev jeg det _ndrede kompressionen?<br><br>Jeg skrev at volvo R-sport turbo kits klarede problemet med at montere en "for lille" turbo, som s_ spooler hurtigt op, og derefter bruger de wastegaten til at komme af med det overskydende.<br><br>M_ den m_de slipper man for at lave tricket med tykkere/dobbelt pakning eller andre modifikationer. <br><br>Derfor skrev jeg at som jeg kunne se det, der havde han l_st det problem p_ samme m_de som de g_r med Volvos eget R-sport turbo kit</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 16-04-2010 00:36)</em></u></strong></font></li><br><font face=Verdana>volvo.s r sport kit er det da det karburatorturbo kit du refererer til? hvis det er det s_ passer det ikke det du siger.<br>Jeg har monteringsvejledningen til at ligge og der er 2 muligheder<br>den ene andre stempler<br>den anden 2 toppakninger<br>det andet ved jeg ikke hvor du har det fra.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 16-04-2010 09:15)</em></u></strong></font></li><br><font face=Verdana>Det lyder rigtig sp_ndende det her, for jeg tror vi er rigtig mange der har B230F, FD som s_ kan f_ lidt flere hypper for ikke ret mange penge, HVIS det virker/kan holde?<br>MVH Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Morten VJ, 16-04-2010 18:38)</em></u></strong></font></li><br><font face=Verdana>Mit bud er hvis du bare m_ffer rundt i danmark, s_ f_r du ingen problemer.<br>H_ver du effekten, sp_nder huset bag p_ bilen, eller k_rer sydp_, med topfarts _velser.<br>S_ br_kker skidtet sig.<br>Godt nok er en standart motor lavet med store marginaler, men fjerner man dem s_ er nedbrudet n_rt forest_ende.<br><br>Det der m_ske er mere interssant er hvilket smuthul er bilen godtent efter.<br>Rent emmesionsm_ssigt.<br>Da detailforskrifter for k_rert_jer, taler om bilen som helhed og ikke kun motoren.<br><a href="http://www.fstyr.dk/Service&#37;20pages/FAQ/Koretojer/Tekniske&#37;20krav&#37;20til&#37;20koeretoejer/~/media/Files/Syn/Vejledning_om_syn/kap07.ashx" target="_blank">http://www.fstyr.dk/Service&#37;20pages/FAQ/Koretojer/Tekniske&#37;20krav&#37;20til&#37;20koeretoejer/~/media/Files/Syn/Vejledning_om_syn/kap07.ashx</a><br><br>Og det at det er en hybrid motor der ikke er certificeret, da der ikke findes en B230=F+T<br>motor i volvos modeller, s_ den kan umuligt overholde nogen former for avancerede forurenings krav.<br><br>MVH<br><br>Morten</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ren&#233; B&#248;hnke, 23-01-2014 11:08)</em></u></strong></font></li><br><font face=Verdana>Hvor skaffer man de R-sport st_dd_mpere Volvo henviser til (varenr. 552195 og 552196) i deres godkendelsespapirer ?<br><br>MVH<br><br>Ren_</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 24-01-2014 00:54)</em></u></strong></font></li><br><font face=Verdana>Hvorfor Rene? men pr_v evt ved de steder som handler med volvo dele. Spare-parts feks eller classic volvo i voldby eller ebay osv osv osv. <br><br>mvh Kent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lasse Rasmussen, 09-09-2014 21:16)</em></u></strong></font></li><br><font face=Verdana>Er det bare mig eller er alle ovenst_ende links i den originale post d_de? Er der nogen der kan "friske dem op"? Jeg vil gerne have fat i informationerne! :)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 09-09-2014 23:21)</em></u></strong></font></li><br><font face=Verdana>Jeg kan heller ikke f_ dem til at virke.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lasse Rasmussen, 24-09-2014 21:28)</em></u></strong></font></li><br><font face=Verdana>Jeg h_bede p_ nogen m_ske kunne "friske dem op" for os som er interesserede &#59;) *hosthost*</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Steffen Daigaard, 04-06-2015 09:42)</em></u></strong></font></li><br><font face=Verdana>Gammel tr_d!!!! Men er der nogle der har de dokumenter liggende der bliver linket til i starten? Dem kunne jeg godt bruge en kopi af! Link virker ikke l_ngere!<br><br>Mvh Steffen</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ben, 28-07-2015 03:51)</em></u></strong></font></li><br><font face=Verdana>Steffen (og andre), jeg har gravet frem til dem igen.  Send mig en email ved <a href="http://ben.m.cumming" target="_blank">ben.m.cumming</a> snabel-a gmail.com og s_ f_r du dem.  Og hvis der er nogen der kan hoste dem et eller andet sted m_ du meget gerne sige til.<br><br>Mvh Ben</font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf_j til foretrukne">F_j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

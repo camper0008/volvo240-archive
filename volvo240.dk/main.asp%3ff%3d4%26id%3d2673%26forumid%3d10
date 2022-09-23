@@ -1,0 +1,278 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id=DMBRI style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name=DMBImgFiles width="1" height="1" border="0" alt="">
+<img src="menu/dmb_m.gif" name=DMBJSCode width="1" height="1" border="0" alt="">
+</div>
+<script type="text/javascript" language="JavaScript" >
+	var rimPath = null;
+	var rjsPath = null;
+	var rPath2Root = null;
+	
+	function InitRelCode() {
+		var iImg;
+		var jImg;
+		var tObj;
+		
+		if(!document.layers) {
+			iImg = document.images['DMBImgFiles'];
+			jImg = document.images['DMBJSCode'];
+			tObj = jImg;
+		} else {
+			tObj = document.layers['DMBRI'];
+			if(tObj) {
+				iImg = tObj.document.images['DMBImgFiles'];
+				jImg = tObj.document.images['DMBJSCode'];
+			}
+		}
+		if(!tObj) {
+			window.setTimeout("InitRelCode()", 700);
+			return false;
+		}
+		
+		rimPath = _gp(iImg.src);
+		rjsPath = _gp(jImg.src);
+		rPath2Root = rjsPath + "../";
+		
+		return true;
+	}
+	
+	function _purl(u) {
+		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
+	}
+	
+	function _fip(img) {
+		if(img.src.indexOf("%%REL%%")!=-1)
+			img.src = rimPath + img.src.split("%%REL%%")[1];
+		return img.src;
+	}
+	
+	function _gp(p) {
+		return p.substr(0,p.lastIndexOf("/")+1);
+	}
+	
+	function FixImages() {
+		var h = null;
+		var f = new Function("h", "if(h)for(var i=0; i<h.length; i++)h[i] = xrep(h[i], '%%REL%%', rimPath);");
+		f(hStyle);f(hshStyle);
+	}
+	
+	function xrep(s, f, n) {
+		if(s) s = s.split(f).join(n);
+		return s;
+	}
+	
+	InitRelCode();
+</script>
+<script type="text/javascript" language="JavaScript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'main.js"><\/script>');return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright (c) 2002-2008 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S�g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=10">Gearkasse</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Forum om <b>Gearkasse</b>. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=10"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>ombygning fra manuelt til automat gear</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Claus Trappaud Bondesen</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">ctb@stofanet.dk</font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-01-2008&nbsp; 20:49</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Har en 245 glt 88 med 230 E motor og M47 (5trins) kumme godt t�nke <br>mig en Aw 71 (4trin aut + OD) Sp�rgsm�lene er: Hvad sker der med �konomien (k�rer ca 10 km/l)? Hvad sker der med tr�kkraften? og hvad sker der ved k�rsel med stor trailer / campingvogn ca 1500 kg og tr�kkraft?. Vil det �del�gge bilen at lave denne �ndring?</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Claus Trappaud Bondesen, 03-02-2008 13:55)</em></u></strong></font></li><br><font face=Verdana>Er de virkelig ikke nogen i dette forum, der har erfaringer med en s�dan ombygning eller med en tilsvarende 240 / 700 / 900.<br>mvh</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(danny, 03-02-2008 14:38)</em></u></strong></font></li><br><font face=Verdana>hej ja jeg har pr�vet og lave en af mine biler om men nu var det s� ikk en e motor men en a motor...og vil sige den bliver ikk hurtiger af det men det er sk�ndt at k�re med og jeg kunne f� den til at g� ca 10km/l...men hvil du vil k�re med stor triler og s�dan vilie jeg ikk lave om p�<br> den men hvis du vil have s�dan en kasse i skal du huske og sette en olje k�ler mer p� den da den ellers ikk vil holde til k�re med store triler og s�dan mvh danny</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Claus Trappaud Bondesen, 03-02-2008 17:14)</em></u></strong></font></li><br><font face=Verdana>Tak Danny<br>Kunne du ogs� f� den til at k�re 10km/l f�r ombygning? Jeg skal nok huske oliek�ler!<br>mvh  Claus</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(danny, 03-02-2008 18:15)</em></u></strong></font></li><br><font face=Verdana>hej claus ja der gik den lide l�nger p� litern....men hvil du vil k�re med stor trailer og s�dan bliver den jo nok dyr og k�re i....</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 04-02-2008 21:21)</em></u></strong></font></li><br><font face=Verdana>Hej Claus<br>Som du ved k�rer jeg med aut. gear AW70/71 (3 gear + OD)<br>Jeg har idag v�ret i �stjylland med autotraileren, og hentet en havareret Volvo 240 sedan.<br>Jeg har k�rt i de �stjydske bakker, med fuldt l�s p� traileren, og tjekkede herefter olietemp. p� gearkasseolien, den var blot alm. h�ndvarm da jeg parkerede p� g�rdspladsen.<br>S�, alt det der "fis" med ekstra olie-k�ler n�r man k�rer med aut. gear og stor trailer har intet p� sig i Danmark.<br>Det er KUN n�r man k�rer i alperne om sommeren med en stor campingvogn, at en ekstra olie-k�ler er p� sin plads.<br>Ellers er det ikke n�dvendigt.<br>Jeg har k�rt med aut. gear i mange, mange �r, og har ikke haft behov for at k�le olien ekstra ved k�rsel med tungt lastet trailer bagefter.<br>Mvh Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 04-02-2008 22:06)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Jeg vil gerne lige have lov til at blande mig en lille smule. Ikke s� meget i debatten omkring hvor vidt k�leren er n�dvendig (har endnu aldrig ejet en volvo med aut. kasse) men derimod om olien.<br>Jeg tror gerne p� at du har ret Jens Peter (hvem fan sku vide det hvis du ikke g�r) Men det kommer alts� an p� hvilken olie man bruger. Smider man noget billigt bras (kan ik lige huske hvilken standard gearkassen skal have) p� den kan olien meget nemt blive varm.<br>olie temperatur h�nger en del sammen med oliekvaliteten.<br>Om det s� betyder at man skal have en h�jkvalitets olie n�r man ingen olie k�ler har eller om volvos egen anbefalinger er tilstr�kkeligt kan jeg af gode grunde ikke udtale mig om, jeg har som sagt ikke nogen erfaringer med gearkassen.<br>Men med lidt held kan Jens Peter jo fort�lle hvilken olie han k�rer p�, s� ved man jo hvad der kan bruges og burde v�re tilstr�kkelig for langt de fleste mennesker.<br><br>Bare lige et par ord fra min side, h�ber det kan bruges.<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 04-02-2008 23:09)</em></u></strong></font></li><br><font face=Verdana>God aften Kim<br>Jeg k�rer p� Dexron 3 olie i min aut. gearkasse.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 05-02-2008 00:28)</em></u></strong></font></li><br><font face=Verdana>Hej igen<br><br>Kiggede lige i en gammel instruktionsbog. Der st�r Dexron II til alle gearkasser i 200 serien. S� Dexron III er absolut en opgradering, og kan sagtens forklare at en oliek�ler mulighvis ikke er n�dvendig l�ngere.<br>Jeg plejer at anbefale Dexron III til manuelgearkasser, og vi kan konkludere det samme m� g�lde for automatgearkasser.<br><br>vh KJ</font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

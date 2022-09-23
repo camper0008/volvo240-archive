@@ -1,0 +1,276 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="https://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id=DMBRI style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name=DMBImgFiles width="1" height="1" border="0" alt="">
+<img src="menu/dmb_m.gif" name=DMBJSCode width="1" height="1" border="0" alt="">
+</div>
+<script type="text/javascript" language="JavaScript" >
+	var rimPath = null;
+	var rjsPath = null;
+	var rPath2Root = null;
+	
+	function InitRelCode() {
+		var iImg;
+		var jImg;
+		var tObj;
+		
+		if(!document.layers) {
+			iImg = document.images['DMBImgFiles'];
+			jImg = document.images['DMBJSCode'];
+			tObj = jImg;
+		} else {
+			tObj = document.layers['DMBRI'];
+			if(tObj) {
+				iImg = tObj.document.images['DMBImgFiles'];
+				jImg = tObj.document.images['DMBJSCode'];
+			}
+		}
+		if(!tObj) {
+			window.setTimeout("InitRelCode()", 700);
+			return false;
+		}
+		
+		rimPath = _gp(iImg.src);
+		rjsPath = _gp(jImg.src);
+		rPath2Root = rjsPath + "../";
+		
+		return true;
+	}
+	
+	function _purl(u) {
+		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
+	}
+	
+	function _fip(img) {
+		if(img.src.indexOf("%%REL%%")!=-1)
+			img.src = rimPath + img.src.split("%%REL%%")[1];
+		return img.src;
+	}
+	
+	function _gp(p) {
+		return p.substr(0,p.lastIndexOf("/")+1);
+	}
+	
+	function FixImages() {
+		var h = null;
+		var f = new Function("h", "if(h)for(var i=0; i<h.length; i++)h[i] = xrep(h[i], '%%REL%%', rimPath);");
+		f(hStyle);f(hshStyle);
+	}
+	
+	function xrep(s, f, n) {
+		if(s) s = s.split(f).join(n);
+		return s;
+	}
+	
+	InitRelCode();
+</script>
+<script type="text/javascript" language="JavaScript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'main.js"><\/script>');return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright (c) 2002-2003 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S_g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Gearkasse </font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Forum om <b>Gearkasse</b>. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=10"><font face="Verdana"><strong>Til Emne oversift</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Skifter Automatkasse BW55 - Problemer</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">John K. Br&#248;ndbo</font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">John_Brendbo@hotmail.com</font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">22-06-2004&nbsp; 17:32</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er Norsk, men h_per dere skj_nner hva som menes.<br><br>For en stund tilbake begynte girkassen(tror jeg iallefall) _ oppf_re seg unormalt. Min BW55 ville ikke l_se seg i 3 giret. Turtallet bare _kte uten noe form for fremdrift. Turtallet steg til det "n_dde" 2 giret, og f_rst da fikk jeg fremdrift. Dette i alle hastigheter. 1 og 2 giret fungerte greit. Jeg var avhengig av bilen, og ettersom det ikke er noe problem _ kj_re i 80-90 over korte avstander i 2 giret gjorde jeg dette. S_ skjedde det samme med 2 giret og jeg parkerte bilen.<br><br>Etter en del spm. fant jeg ut at det trolig var forskjellige pakninger i min BW55 som var _ldelagt/slitte.<br>Jeg fant en overhalet BW55 som jeg kj_pte _ satte inn i min 240, men har fortsatt store problemer. Den nye kassen fungerte fint en stund, men etter 15 min kj_ring ble den ogs_ vanskelig. Den vil ikke l_se i f_rstegiret, og ettehvert f_r jeg ingenting annet en _kt turtall n_r jeg gir p_. N_ tror jeg det kan v_re konvertern som svikter n_r oljen blir varm eller noe slikt.<br><br>Vedkommende som solgte meg girkassen skal se over den en gang til, men jeg vil ikke sette den inn igjen uten en ny konverter. <br><br>Det som st_r p_ Konverteren min er 5015JBD. Jeg h_per noen kan hjelpe meg med _ finne en ny, evnt. en m_te _ reparere den p_. Har lett lenge n_, men uten hell.<br><br>Takk for et flott forum! Savner dette i Norge!</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Emil J, 26-06-2004 01:03)</em></u></strong></font></li><br><font face=Verdana>Hej! <br>Det m_ da v_re en _ldre 240 du har med den gamle skod gearkasse! :)<br>Det skal lige siges at s_dan en fin Borg/Warner kasse ellers skifter meget p_nt. Har selv k_rt med en.. Men 3500 RPM ved 110 Km/t p_ motor vejen fik mig til at s_tte en AW71 p_ stedet for. Bruger jo meget benzin.<br>Jeg forstod p_ dig at du har k_bt en nyrenoveret gearkasse. Som heller ikke virker? <br>Det du skal n_r du k_ber en "brugt" gearkasse er at sikre dig at converteren sidder p_. <br>S_ er du sikker p_ det hele bare passer sammen. Det med at pille converter fra og gemme osv. Det holder ikke!<br>Men det med at den ikke vil g_ i 3 gear lyder da m_rkeligt. <br>N_r du s_tter den i D. Skifter den s_ fint op fra 1. & 2. gear men ligs_ snart den skal g_ i 3. gear fedter den s_ bare i gearet eller hvad?<br><br>Emil J</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil J, 26-06-2004 01:22)</em></u></strong></font></li><br><font face=Verdana>Og der fik jeg lige blandet et par ting sammen.. Ja ja.. S_dan kan det g_ n_r man ikke sover!<br>Hvorfor s_tter du ikke bare en 4 trins kasse p_. AW71/72.<br>Find en donor bil med automat kassen. Pr_ve k_r den!<br>Og lad converteren sidde p_. Skift. Og nyd stilheden/ikke s_ store benzin regninger! <br>Men check om filteret er tilstoppet siden den ikke vil tr_kke. Det lyder s_dan.<br>At skidtet hvivler op n_r den k_re.. S_ n_r den bliver varm. S_ stopper filteret. Ogs_ vil den ikke tr_kke. <br>Og n_r den er blevet kold.. S_ falder skidtet til bunds. Og gearkassen kan atter tr_kke! <br><br>M.v.h<br><br>Emil j</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(John Kjetil Br&#248;ndbo, 26-06-2004 02:17)</em></u></strong></font></li><br><font face=Verdana>Heisann Emil.<br><br>Takk for svaret ditt, jeg ble faktisk en del klokere. Men skal forklare ting litt enklere her: <br><br>*Det var den gamle kassen som ikke ville l_se i 3' giret, og etterhvert 2'giret. Denne kassen er tatt ut _ satt til side. Det var foresten en BW55. Denne kassen var fysisk _delagt.<br><br>*Har kj_pt en overhalet kasse, akkurat likedan BW55, men den var det noen justeringsfeiler p_ som selger skal rette p_. Det var denne kassen som etter 15 min kj_ring ikke klarte _ g_ fremmover noe mer. Det med at filteret blir tett har streifet meg, men ettersom selger sa at det ikke trengte skiftes f_r ca. 1000Km trodde jeg kanksje det var noe annet. N_ skal jeg skifte det. N_r jeg satte spaken i D p_ denne kassen fungerte den fint i 15 min f_r den begynte _ "ruse". Men n_r jeg skulle "tvangsgire" girkassen ned i 1'giret fikk jeg ikke fremdrift i hele tatt. Selger av kassen mente og at konverteren kunne v_re en flaskehals n_r jeg satte i en overhallet kasse.<br><br>Jeg har faktisk en AW kasse st_ende ogs_ som jeg fikk billig. Er usikker p_ modellnr, og om jeg har riktig konverter, men det er en 3'trinns med overdrive iallefall. Denne hadde det uheldigvis kommet vann inn i via oljepeilehullet s_ vet ikke helt tilstanden p_ den. Mangler ogs_ en kortere aksling til 240 min samt oljer_rene som er noe lengre p_ AW kassen en til min BW55. Dette er vel deler som er enkle _ skaffe, men skal pr_ve den nye BW55 f_rst. Husk jeg bor i Norge, alts_ ikke mange plassene man kan kj_re lovlig 110Km\t!<br><br>N_r alt dette er sagt er det problemet jeg sitter igjen med at jeg trenger en ny konverter. S_ om du vet om et firma som kan skaffe meg en slik hadde det vert flott!</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil J, 26-06-2004 14:31)</em></u></strong></font></li><br><font face=Verdana>Hejsa igen! <br>For lige at f_ en ting p_ det rene:<br>En converter fra en BW55 passer overhovedet ikke p_ en AW7X gearkasse. Jeg mener at der sidder en type plade p_ gearkasserne. Der kan du se model numret. <br>Desuden skal du ogs_ have en kardan der passer p_ din bil. Da en AW71 er l_ngere p.g.a overgearet. <br>Det med at k_be automat gearkasser uden convertere er en d_rlig ting.<br>Men det er bedst at k_be noget du ved der k_re sammen. <br>Jeg ved ikke om man kan k_be convertere separat. Har aldrig h_rt at de skulle g_ hen og g_ i stykker. Men det kan de vel, siden du nu n_vner det.<br>Men pr_v at s_ge lidt p_ nettet. Jeg ved at der er forskellige firmaer der renovere automat gearkasser. S_ kan du evt. kontakte dem ang. convertere. <br>Converterens job er jo at overf_re krafterne fra svinghjulet til gearkassen. Men det foreg_r via en turbine og gearolie i stedet for en kobling, som ved traditionelt manuel gear.    <br><br>M.v.h<br><br>Emil J<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(John K. Br&#248;ndbo, 26-06-2004 17:40)</em></u></strong></font></li><br><font face=Verdana>Heisann!<br><br>Jeg vet at min gamle konverter ikke passer opp mot en AW7X kasse. Men, p_ den AW7X kassen jeg kj_pte for 400,- fulgte det jo med en konverter, men selgeren av denne var faktisk usikker p_ om det var den riktige. Han hadde et verksted fullt av GearBokser osv s_ det var en del rot! ;) Selgeren av denne kassen sa at jeg m_tte bare lete i "skrotet" til jeg fant alle delene. Bakakslingen som jeg fant, og trodde var rett, var desverre feil. S_ jeg trenger en donorbil om jeg skal bruke denne AW7X kassen.<br><br>Den "nye" kassen jeg har kj_pt, er en BW55 fullstendig overhallet, men det fulgte ikke med konverter p_ kj_pet. S_ jeg tenkte jeg skulle pr_ve med den gamle f_rst, somsagt uten stort hell. Men n_ vil jeg helst overhale konverteren ogs_, om jeg ikke kan f_ en ny erstatning til den.<br><br>Det som er litt rart er at den nye oljen som jeg fylte opp den nye kassen med ble veldig tykk, og svart bare etter bare noen f_ (misslykkede) pr_veturer. Jeg regner med det er en del skit som kan ligge i konverteren som har gjort dette.<br><br>N_ har jeg levert tilbake kassen, _ skal pr_ve den igjen etter at den er justert. H_per at jeg finner et firma som kan overhale konverteren til meg. Det finnes vistnok et firma i Trondheim som bytter ut skovlene og skifter andre slitedeler, jeg skal pr_ve dem!<br><br>Takk for hjelpen Emil! Har du noen flere tips p_ lager er mer en velkommen.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil J., 28-06-2004 14:29)</em></u></strong></font></li><br><font face=Verdana>Hmmm.. Du siger olien er sort og tyk?! <br>Det kunne godt v_re som du selv siger: snavs fra converteren.<br>Hvis du har mod p_ det: <br>S_ kunne du gennemskylle gearkasse og converter med frisk AT olie. <br>Der findes et par guider p_ nettet hvordan man g_r.<br>http://au.geocities.com/ozbrick850/atfflushthread1.html#drain.<br>Her er en af dem. Man kan ogs_ finde en guide med billeder, men her er det rimeligt godt beskrevet! :)<br><br>M.v.h<br><br>Emil J<br></font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf_j til foretrukne">F_j volvo240.dk Foretrukne</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

@@ -1,0 +1,306 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright _ 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Jyllands Ringen 2. maj 2004</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S_g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+<table border="0" cellpadding="5" cellspacing="1" width="760" align="center">
+  <tr>
+    <td>
+
+<p>DTC S_sonen 2004 er startet og det foregik 1. og 2 maj 2004 p_ Jyllands 
+Ringen.</p>
+<h2>Volvo S60 DTC</h2>
+<p>F_rst gik turen hen til Volvo's telt for at se deres nye og hurtige Volvo S60 
+racer. Og sikke en bil. </p>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-01.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-01t.jpg" width="128" height="96"></a></td>
+    <td> 
+<p>Holdt i samme farver som S40 fra sidste _r ses her en super Volvo S60 og det 
+er tydeligt at m_rke p_ teamet, at de er tilfreds med bilen. Og det har de grund 
+til, for den vil uden tvivl komme til at befinde sig i toppen af DTC.</p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-02.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-02t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+<p>Bilen var sat op til at kunne vise noget af det bedste som et DTC-race kan 
+byde p_. Teamet var t_ndt og Pontus var klar til at yde sit bedste. Og det 
+levede de alle op til.</p>
+<p>Allerede til tr_ningen viste Volvo'en sig at v_re hurtig. Det var en 
+forn_jelse at se og h_re den race ned af langsiden. Og under acceleration h_rtes 
+lyden af brutal energi udfolde sig n_r de mere end 265 hk blev sluppet l_s af 
+Pontus, som i _vrigt har fuld kontrol over dem alle.</p>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-03.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-03t.jpg" width="128" height="96"></a></td>
+    <td> 
+<p>Under tidtagningen viste Pontus lige hvad vi kan forvente os fra Volvo'ens 
+side i _r. Den k_rer ind p_ en flot 1. plads og skal derfor starte som nummer 12 
+i super pole.</p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-04.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-04t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-05.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-05t.jpg" width="128" height="96"></a></td>
+    <td> 
+<p>Og som vi h_bede s_dan gik det. Volvo'en vandt super pole foran Jason 
+Watt og John Nielsen. Der var lagt op til en super pr_-finale.</p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-06.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-06t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+
+<p>Men, men, men... s_dan skulle det ikke v_re.</p>
+<p>Jason Watt kom f_rst fra start. Pontus fik ikke ordentlig fat i asfalten. Det 
+gjorde John Nielsen, som kom frem p_ ydersiden af Pontus. Men bedst gik det 
+Casper Elgaard, som fra en 6. plads fik en kanon start og lynhurtigt kom op p_ 
+indersiden af Volvo'en. John Nielsen fik lyst til at skifte bane inden f_rste 
+sving, men hov, der var en Volvo. Og s_ gik det galt. F_rst splitter John 
+Nielsen volvo'en ad, og dern_st - og endnu mere - g_r det ud over Casper 
+Elgaard, som var helt uden skyld. De to BMW'er tager turen sidel_ns ind over gr_sset og for at g_re 
+skaden maximal, brager John ogs_ ind i Jason Watt, som ellers var helt fri af 
+tumulten og slet ikke havde den mindste andel i uheldet. Det hele ender i f_rste sving i total masse_del_ggelse og l_bet 
+stoppes.<br>
+Skaderne er omfattende. </p>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-07.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-07t.jpg" width="128" height="96"></a></td>
+    <td> 
+<p>Skaderne var omfattende, og mest af alt syntes alt at v_re kaos. Men 
+oprydningen gik hurtigt og pr_-finalen blev k_rt. Men uden en Volvo...</p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-08.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-08t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-09.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-09t.jpg" width="128" height="96"></a></td>
+    <td> 
+<p>Volvo'en fik smadret kofanger, kn_kket hjuloph_ng og bukket forbroen. S_ var 
+den weekend slut -troede alle, men nej, Volvo teamets mekanikere ydede en 
+kolosal indsats og fik bragt bilen til start i finalen - men selvf_lgelig ikke 
+en bil i topform.</p>
+<p>Casper Elgaards BMW taler vist for sig selv...</p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-10.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-10t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="615">I finalen skulle Volvo'en starte sidst, og med en sk_v forbro og en sammen tapet kofanger, var det flot af Pontus at f_ k_rt den op p_ en 8. plads.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-11.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-11t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+
+
+
+<p align="center">En noget tr_ls slutning p_ _bningsl_bet. Bedst som man tror 
+det g_r s_ godt, kan alting ske.<br>
+<i><b>Intet er sikkert f_r det ternede flag viftes for sidste gang.</b></i></p>
+<h2>&nbsp;</h2>
+<h2>Volvo S40 Turbo</h2>
+<p>I Yokohama klassen kunne man finde den pragtfulde Volvo S40 Turbo i topform. 
+Og Anders Byriel var ogs_ t_ndt p_ et godt race. <br>
+Volvo'en havde et par uheld sidste _r som nu er udbedret. Jeg fik en 
+lille snak med Anders som fortalte om problemerne sidste _r. Vi h_ber p_ et 
+rigtig godt _r for 'Anders fra Randers' i _r. </p>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-12.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-12t.jpg" width="128" height="96"></a></td>
+    <td> 
+<p>Anders holder klar i Volvo'en til at k_re p_ banen til l_rdagens tidtagning.</p>
+    </td>
+    <td width="130">&nbsp;</td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-13.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-13t.jpg" width="128" height="96"></a></td>
+    <td> 
+<p>I de to tidtagninger kom Anders ind p_ hhv. en 7 og en 4 plads.<br>
+Det s_ lovende ud.</p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-14.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-14t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+<p>S_ndag formiddag var regnfuld og banen var meget v_d. Det satte sine begr_nsninger for k_rerne. Tilmed blev begge Yokohama klasser k_rt i samme heat.
+</p>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-15.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-15t.jpg" width="128" height="96"></a></td>
+    <td> 
+<p>I de to heat endte Anders p_ hhv. en 6. plads og en 5. plads.</p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040502-16.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040502-16t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+
+<p align="center">volvo240.dk f_lger fortsat Anders Byriel i sin Volvo S40 Turbo 
+og _nsker ham det bedste fremover.</p>
+<p>&nbsp;</p>
+
+<hr>
+
+
+    </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf_j til foretrukne">F_j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

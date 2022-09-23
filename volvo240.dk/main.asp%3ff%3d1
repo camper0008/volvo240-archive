@@ -1,0 +1,241 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright _ 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Nyheder</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S_g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+
+<table width='760' align='center' bgcolor='#c0c0c0' border='1'>
+  <tr>
+    <td>
+
+<table border='1' align='center'><thead><tr><td><font face=arial>Fredag d. 3 april 2015</font>  -  <font face=arial color=#ffffff><B>Volvo240.dk flytter udbyder</B></font></td></tr></thead><tbody><tr><td bgcolor=#F0F0F0><font face=arial>Volvo240.dk flytter udbyder<br>
+Der vil derfor kunn opst_ forstyrelser i l_bet af den 3. og 4. april 2015.<br>
+<br>
+mvh<br>
+F. Kruse
+</td></tr><tr><td><hr></td></tr></tbody><thead><tr><td><font face=arial>Torsdag d. 26 december 2013</font>  -  <font face=arial color=#ffffff><B>Internet Explorer og volvo240</B></font></td></tr></thead><tbody><tr><td bgcolor=#F0F0F0><font face=arial>Microsoft har lavet om i Internet Explorer, s_ nogle sider ikke vises korrekt. Men de ved det godt.<br>
+Derfor skal volvo240.dk tilf_jes kompatibilitetsvisning.<br>
+<br>
+G_ ind p_ forsiden af volvo240.dk<br>
+<br>
+Klik:<br>
+Funktioner<br>
+Indstillinger for kompatibilitetsvisning.<br>
+Tryk p_ [Tilf_j]<br>
+<br>
+Herefter vil volvo240.dk vises korrekt.<br>
+<br>
+<br>
+/Finn Kruse</td></tr><tr><td><hr></td></tr></tbody><thead><tr><td><font face=arial>Mandag d. 9 april 2012</font>  -  <font face=arial color=#ffffff><B>K_b & Salg p_ forsiden</B></font></td></tr></thead><tbody><tr><td bgcolor=#F0F0F0><font face=arial><strong>K_b & Salg</strong> rubrikken p_ forsiden er _ndret  til nu at vise de seneste 30 annoncer.<br>
+<br>
+Som det ses, sker der ved at der kan scrolles op og ned.<br>
+<br>
+/FinnK</td></tr><tr><td><hr></td></tr></tbody><thead><tr><td><font face=arial>Torsdag d. 22 marts 2012</font>  -  <font face=arial color=#ffffff><B>Ny Login metode</B></font></td></tr></thead><tbody><tr><td bgcolor=#F0F0F0><font face=arial>Den 1. maj 2012 _ndres <b><i>log in</i></b>-metode fra <b>Brugernavn og Password</b> til <b>E-mail og Password</b>.<br>
+<br>
+Derfor opfordres du til at opdatere dine personoplysninger. V_lg <a href="http://www.volvo240.dk/mains.asp?f=94">[Log ud]-[Mine Personlige Data]</a> i menuen.<br>
+<br>
+/Finn Kruse</td></tr><tr><td><hr></td></tr></tbody><thead><tr><td><font face=arial>Onsdag d. 14 marts 2012</font>  -  <font face=arial color=#ffffff><B>K_b & Salg</B></font></td></tr></thead><tbody><tr><td bgcolor=#F0F0F0><font face=arial>Navn, Email og Telefonnr kan ikke _ndres for hver annonce mere.<br>
+<br>
+Opdater din oplysninger p_ sider:<br>
+V_lg <a href="http://www.volvo240.dk/mains.asp?f=94">[Log ud]-[Mine Personlige Data]</a> i menuen.<br>
+Her kan du opdatere dine personline oplysninger.<br>
+<br>
+/FinnK</td></tr><tr><td><hr></td></tr></tbody><thead><tr><td><font face=arial>Tirsdag d. 13 marts 2012</font>  -  <font face=arial color=#ffffff><B>Opdatering af K_b og Salg</B></font></td></tr></thead><tbody><tr><td bgcolor=#F0F0F0><font face=arial>Efter _nske fra flere brugere, er K_b og Salg siden blevet opdateret med PostNr p_ K_ber/S_lger.<br>
+<br>
+/Finn K</td></tr><tr><td><hr></td></tr></tbody><thead><tr><td><font face=arial>S_ndag d. 11 marts 2012</font>  -  <font face=arial color=#ffffff><B>Volvo 200 Klub, Danmark</B></font></td></tr></thead><tbody><tr><td bgcolor=#F0F0F0><font face=arial><b>Volvo 200 Klubben</b>s hjemmeside bliver om kort tid integreret her p_ volvo240.dk.<BR>
+<BR>
+I en testperiode fra nu, vil der v_re et ekstra menu-punkt: [<b>Volvo 200 Klub</b>] i den gr_ menulinie.<BR>
+Den ses af de brugere, som er logget ind p_ volvo240.dk.<BR>
+<BR>
+Nogle menupunkter vil v_re tilg_ngelig for alle registrerede brugere p_ volvo240.dk.<BR>
+Andre menupunkter vil i testperioden IKKE v_re tilg_ngelig. Heller ikke for de brugere af volvo240.dk som OGS_ er medlem af <b>Volvo 200 Klubben</b>.<BR>
+<BR>
+N_r testpeioden er slut, vil alle registrerede brugere p_ volvo240.dk som OGS_ er medlem af <b>volvo 200 Klubben</b> kunne nyde godt af al klubbens indhold.<br>
+<br>
+/Finn Kruse<BR></td></tr><tr><td><hr></td></tr></tbody><thead><tr><td><font face=arial>Mandag d. 23 august 2010</font>  -  <font face=arial color=#ffffff><B>Nyt Forum: Volvo 200 Klub</B></font></td></tr></thead><tbody><tr><td bgcolor=#F0F0F0><font face=arial>Et nyt Forum er blevet oprettet: <b>Volvo 200 Klub</b><br><br>
+
+Forummet er oprettet p_ opfordring fra den nyoprettede <b>Volvo 200 Klub, Danmark</b><br><br>.
+
+
+/FinnK</td></tr><tr><td><hr></td></tr></tbody><thead><tr><td><font face=arial>Torsdag d. 5 august 2010</font>  -  <font face=arial color=#ffffff><B>Nyt Forum: Volvo 200 Tr_f</B></font></td></tr></thead><tbody><tr><td bgcolor=#F0F0F0><font face=arial>Et nyt Forum er blevet oprettet: <b>Volvo 200 Tr_f</b><br><br>
+
+Forummet er oprettet op opfordring, med henblik p_ at lave et snarligt Tr_f udelukkende for Volvo 200 modeller.<br><br>
+
+Ved samme lejlighed ses p_ muligheden for oprettelse af en Volvo 200 Serie klub i Danmark.<br><br>
+
+
+/FinnK</td></tr><tr><td><hr></td></tr></tbody><thead><tr><td><font face=arial>Torsdag d. 5 juni 2008</font>  -  <font face=arial color=#ffffff><B>Nyt Forum: Relaterede Forum Indl_g</B></font></td></tr></thead><tbody><tr><td bgcolor=#F0F0F0><font face=arial>Et nyt Forum er blevet oprettet: <b>Relaterede Forum Indl_g</b><br><br>
+
+Det er meningen, at forummet KUN indeholder <b>links</b> til andre indl_g med indhold svarende til overskriften.<br><br>
+
+P_ den m_de kan jeg lave en samling af forummet som g_r det langt nemmere at finde rundt i.<br><br>
+
+Du m_ meget gerne bidrage til dette forum ved at tilf_je links til en eksisterende overskrift, eller oprette et nyt emne med links til andre indl_g om det samme emne.<br>
+Undg_ beskrivende tekst, kun links.<br><br>
+
+
+/Finn</td></tr><tr><td><hr></td></tr></tbody></table>
+
+    </td>
+  </tr>
+</table>
+
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf_j til foretrukne">F_j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

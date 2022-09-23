@@ -1,0 +1,216 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright _ 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S_g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=1">Motor</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Forum om <b>Motor</b>. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>B230AT mister pusten plus andet</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Tue</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"></font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">02-09-2014&nbsp; 07:34</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa folkens<br>Ja nu giver jeg alts_ op. Min gamle 240 fra 89 med en B230AT i har jeg endelig n_sten f_et op og k_re ordentlig. Jeg har f_r lavet et spg da den k_rte virkelig d_rligt og fand der en del vacuum l_ager. <br>Den k_rte s_ find men jeg kunne ikke styre wastegaten, og efter at have k_bt en  ny og skulle montere den fandt jeg en br_kket <a href="http://slange....ja" target="_blank">slange....ja</a> det burde jeg jo have tjekket, men den sad lige op af et sp_ndeb_nd, s_ det var umuligt at se f_r jeg faktisk fl_ede i den for at tage den af.<br><br>N_ men nu k_re b_stet s_ nogenlunde.<br>Problemeter i to dele:<br>Del 1: Den mister ligesom pusten efter 4000 omdr. Jeg har tjekket ALLE vacuum slanger og skiftet diafragmet. Nogen ide?<br>Del 2: N_r den er kold, s_ er det ligesom den ikke vil tr_kke fra <a href="http://tomgang.....som" target="_blank">tomgang.....som</a> om den ikke reagere f_rst og s_ kommer der gang i den. Dette forsvinder lige s_ stille n_r den er varm. Plus n_r man slipper gassen fra h_je omdr falder den helt under tomgang og s_ hopper den op til tomgang igen (Kan det have noget at g_re med jeg h_ldte lidt for meget karb olie p_)<br>Alt ideer tager jeg imod med kysh_nd.<br>Mvh<br>Tue</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Mads Hansen, 02-09-2014 12:02)</em></u></strong></font></li><br><font face=Verdana>at den mister pusten efter 4000 omdr. kan v_re to ting. t_nding eller br_ndstof <br><br>1: t_nding. tjek din rotor og t_ndkabler samt t_ndr_r. <br>2 br_ndstof. tjek filter og hvilken pumpe k_re du med ??? er det en elektrisk eller en rigtig _AT_ pumpe med 3 studser ? hvis det bare er en standard pumpe s_ har du h_jst sandsynligt problemet der. <br><br>Din del 2 lyder umiddelbart som et t_ndings problem, som jo nok godt kan v_re relateret til dit f_rste problem.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 02-09-2014 20:26)</em></u></strong></font></li><br><font face=Verdana>Hej Tue<br><br>Hvilken type olie har du h_ldt p_ d_mper-klokken p_ karburatoren?<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tue, 03-09-2014 11:02)</em></u></strong></font></li><br><font face=Verdana>Hejsa Christian<br>1: Hvordan tjekker jeg rotor og t_ndkabler, skal det v_re en spec impedans i kablerne? Alts_ m_le det med et multimeter.<br>2: Pumpen er en elektrisk for et give nok. Til addon p_ del 2, s_ er det blevet meget v_rre efter jeg h_ldte olie (den alm jeg bruger til motoren ogs_ for at svare p_ Mads spg) og skiftet diafragme. Jeg har dobbelt og trippel tjekket at det nye diafragme er intakt. S_ burde det vil ikke v_re et t_ndings issue, n_r det skete efter olie og diafragme opdatering. Det hj_lper ikke n_r jeg skifter tilbage til det gamle. Dog virker det til den bedre kan tage omdrejninger med det gamle diafragme?<br>Skal det v_re et spec tiafragme til trykkarb, eller er det ok med et alm fra B230A karben?<br>Mvh<br>Tue<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 03-09-2014 21:42)</em></u></strong></font></li><br><font face=Verdana><br>Hvilken karburator k_rer du med?<br>Pierburg eller den "rigtige" Stromberg trykkarburator?<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tue, 05-09-2014 14:08)</em></u></strong></font></li><br><font face=Verdana>Jeg kan ikke lige se et solex p_ den. Ordret st_r der "175 CD" _verst, og nederst "Solex" (UK) LTD. Men den har det bl_ l_g som jeg mener tryk karben skal have?<br>Er det et svar der kan bruges?<br>Mvh<br>Tue</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tue, 07-09-2014 18:44)</em></u></strong></font></li><br><font face=Verdana>Jeg har dummet mig. Jeg har ikke f_et sat fjederen i , s_ nu k_re den igen fint mht tomgang. Dog er problemet stadig med fuld gas.<br>Jeg har pr_vet at skrue op for benzin trykket, da det stod p_ ca 0,5. Er der nogen der ved hvad det rigtigt burde v_re. Regner med at jeg vil have et boost p_ ca 1bar.<br>Er det normalt et bilen drukner n_r benzintrykket er for h_jt? Den d_de da jeg skruede op for trykket. Det burde den vel egentlig ikke?<br>Mvh<br>Tue</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 08-09-2014 10:47)</em></u></strong></font></li><br><font face=Verdana>Det bedste ville v_re hvis du fik den justeret ind p_ et rullefelt.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 08-09-2014 16:06)</em></u></strong></font></li><br><font face=Verdana>Hejsa<br><br>Nu har jeg aldrig haft en Karburator turbo bil, men hvis den drukner n_r benzintrykket bliver for h_jt ville jeg kigge om n_leventilen er slidt eller fyldt med lort. De bliver slidt med tiden. <br><br>MVH<br><br>Emil</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tue, 09-09-2014 07:02)</em></u></strong></font></li><br><font face=Verdana>Lige min tanke, dog vidste jeg ikke det hed en n_leventil, men det er den ventil der lukker benz ind i sv_mmehuset korrekt?<br><br>Det st_rste problem er at jeg nu har kigget efter et renoverings kit til min karb, uden held. Er der nogen der ved hvor man kan skaffe s_dan et? Har tjekket ved KG trim, og de f_ danske volvo klassik parts steder.<br><br>Mvh<br>Tue</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 09-09-2014 12:52)</em></u></strong></font></li><br><font face=Verdana>Hej Tue<br><br>Det er korrekt. Har du pr_vet hos S_ren i Stenl_se?<br><br>MVH<br><br>Emil</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tue, 10-09-2014 07:03)</em></u></strong></font></li><br><font face=Verdana>Hej Emil<br>Jeg har lige skrevet til ham. S_ m_ vi se. Sidst jeg snakkede med ham, anbefalede han karb rens. Men det har ikke afhjulpet <a href="http://problemet......desv" target="_blank">problemet......desv</a>_rre. Nu m_ vi se om de har et kit.<br>Tak for support.<br><br>Mvh<br>Tue</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 10-09-2014 10:13)</em></u></strong></font></li><br><font face=Verdana>Pr_v evt at brug google til din s_gning og i s_gefeltet skriver du hvad karburatoren hedder og tilf_jer......(repair kit) s_ er jeg ret sikker p_ at du f_r mange muligheder hvis ikke S_ren kan hj_lpe dig.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tue, 16-09-2014 09:41)</em></u></strong></font></li><br><font face=Verdana>Nu giver jeg snart op igen <a href="http://igen......Er" target="_blank">igen......Er</a> der nogen der ved hvad B230AT karben egentlig hedder. Jeg f_r stort set ikke nogle hits p_ Solex 175cd, men en masse p_ Stromberg, og Zenith. Jeg kan l_se mig til et fabrikken engang hed Zenith, men efter krigen, gik de sammen med Solex og hed derfor Solex. Men er B230AT karben der hedder Solex 175CD den helt samme som Zenith 175CD? Og et plus spg, er Stromberg bare en betegnelse for den type karburator?<br><br>Derudover s_ findes der ikke et kit til en turbo karbrator. Efter at have snust rundt kan jeg se n_leventilen skal v_re 2,5mm og ikke 2,0 som de er p_ alm B230. Derudover s_ skal n_len vel ogs_ v_re en anden st_rrelse? Plus indgangen er 8mm og ikke 6mm som standard. Det ender med jeg ikke kan finde et kit til den. <br>S_ er spg om jeg kan n_jes med et alm kit, og s_ opgradere n_leventilen, og genbruge resten.<br>Mvh<br>Tue</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 17-09-2014 23:17)</em></u></strong></font></li><br><font face=Verdana>Pr_v at se det katalog som man kan downloade fra spareparts. Der kan du finde pakninger og n_l og n_leventil til det du s_ger.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Mads Hansen, 18-09-2014 11:34)</em></u></strong></font></li><br><font face=Verdana>S_dan en tryk karburator hedder vist  175 CD2 <br><br>det st_r der ihvertfald p_ de tre styk jeg har liggende. jeg fik paknings-s_t og membraner til renovering  ved kg trim, da jeg besluttede mig at renovere den ene.<br><br>den virker fortr_ffeligt. Jeg skiftede dog ikke n_l, da den ikke er s_dan at skifte. Den er trykket i (det var den ihvertfald p_ den jeg renoverede, og ikke lige s_dan at pille ud med alm v_rkt_j) <br><br>den k_rte af H til, men en ordentligt reng_ring udskiftning af pakninger og membran, og den spillede som ny igen.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tue, 19-09-2014 07:18)</em></u></strong></font></li><br><font face=Verdana>Jeg har tjekket spare parts kataloget igennem, og der er n_l og n_leventil, men pakninger kan jeg ikke lokalisere. Men til g_ng_ld har jeg fundet er site zenithcarb i england, hvor de har alt (plus meget billigere end spare-parts). Jeg kan igen bare ikke finde ud af hvilken karburator model en B230AT g_r ind under.<br>Mads, jeg kan ikke umiddelbart se min er en cd2. Der burde vel v_re er serienr p_ s_dan en bandit? Har i en ide om hvor man finder det?</font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf_j til foretrukne">F_j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

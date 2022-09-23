@@ -1,0 +1,350 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright _ 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Jyllands Ringen 1. maj 2005</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S_g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+<head>
+<style>
+<!--
+                Table {}
+                .ReportTable {}
+                Td    {}
+                .ReportTable .Data {}
+-->
+</style>
+</head>
+
+<table border="0" cellpadding="5" cellspacing="1" width="760" align="center">
+  <tr>
+    <td>
+
+<p>S_ startede 2005 s_sonen for DTC. I _r den 1. maj.<p>Siden sidst er der sket 
+nogle f_rer _ndringer. Pontus M_rth er blevet afl_st af Jason Watt. Og
+Anders Byriel har solgt sin Volvo S40 Turbo. Denne k_res nu af Michael Jensen 
+fra Roskilde.</p>
+<h2>DTC</h2>
+<h3>L_rdag:</h3>
+<p>Jason Watt og Volvo Teamet havde allerede p_ forh_nd en id_ om at ikke alt 
+skulle g_ som de kunne _nske sig. Den nye motor som skulle ligge i den nymalede 
+og flotte DTC racer var ikke kommet til teamet og de m_tte derfor k_re med en 
+ikke helt optimal ops_tning af bilen i forhold til hvad der var planen.</p>
+<p>Og det var heller ikke til at skjule, at bilen ikke var optimal. I l_rdagens 
+warmup blev det kun til 16. bedste tid - en bedste tid p_ 1:13,270 - n_sten 2 
+sek. efter nr 17 Michel Nykj_r i Seat.<br>
+I tidtagningen forbedrede Jason tiden med over _ sek (1:12,640). Jason var en 
+tur i sandet , og med kun en chanche tilbage efter pit bes_g, skulle alt s_ttes 
+ind. Desv_rre s_nkede Mike Legarth ham s_ han ikke n_ede at forbedre tiden. Det 
+blev til en 14. plads.</p>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-01w.jpg&palt=','','height=270,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-01t.jpg" width="128" height="48"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-02w.jpg&palt=','','height=270,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-02t.jpg" width="128" height="48"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-03w.jpg&palt=','','height=270,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-03t.jpg" width="128" height="48"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-04w.jpg&palt=','','height=270,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-04t.jpg" width="128" height="48"></a></td>
+  </tr>
+</table>
+<p>Volvo'en var desv_rre ikke at finde blandt de 12 biler i Super Pole</p>
+<h3>S_ndag:</h3>
+<p>Super polen blev k_rt i denne r_kkef_lge:</p>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-05w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-05t.jpg" width="128" height="85"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-06w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-06t.jpg" width="128" height="85"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-07w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-07t.jpg" width="128" height="85"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-08w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-08t.jpg" width="128" height="85"></a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="25%" align="center"> 99 Mike Legarth<br>
+	Endte nr. 9</td>
+    <td width="25%" align="center"> 25 Martin Pedersen<br>
+	Endte nr. 8</td>
+    <td width="25%" align="center"> 44 Philip Andersen<br>
+	Endte nr.&nbsp; 10</td>
+    <td width="25%" align="center"> 3 Martin Jensen<br>
+	Endte nr. 12</td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-09w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-09t.jpg" width="128" height="85"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-10w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-10t.jpg" width="128" height="85"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-11w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-11t.jpg" width="128" height="85"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-12w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-12t.jpg" width="128" height="85"></a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="25%" align="center"> 4 Jens Edman<br>
+		Endte nr. 5</td>
+    <td width="25%" align="center"> 22 Jens Reno M_ller<br>
+	Endte nr. 7</td>
+    <td width="25%" align="center"> 9 Michael Carlsen<br>
+	Endte nr. 11</td>
+    <td width="25%" align="center"> 23 Jan Magnussen<br>
+	Endte nr. 6</td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-13w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-13t.jpg" width="128" height="85"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-14w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-14t.jpg" width="128" height="85"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-15w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-15t.jpg" width="128" height="85"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-16w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-16t.jpg" width="128" height="85"></a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="25%" align="center"> 8 Henrik Lundgaard<br>
+		Endte nr. 3</td>
+    <td width="25%" align="center"> 1 Casper Elgaard<br>
+	Endte nr. 2</td>
+    <td width="25%" align="center"> 17 Michel Nykj_r<br>
+	Endte nr. 1</td>
+    <td width="25%" align="center"> 33 John Nielsen<br>
+	Endte nr. 4</td>
+  </tr>
+</table>
+
+<h3>Prefinalen</h3>
+<p>Efter sidste _rs katastrofale start, hvor John Nielsen p_ det n_rmeste fik 
+smadret alle bilerne i front, gik starten stille og roligt. Michel Nykj_r i 
+front, droppede totalt. Koblingen svigtede og han kom f_rst i gang da 7 biler 
+havde passeret ham.<br>
+Ikke overraskende kom Casper Elgaard i front inden f_rste sving efterfulgt af 
+Henrik Lundgaard og John Nielsen.</p>
+<p>Uden st_rre dramatik kom Casper Elgaard i m_l som den f_rste. Og John Nielsen 
+kom forbi Lundg_rd uden at _del_gge Lundgaards bil. (Det kan alts_ lade sig 
+g_re).</p>
+<p>Jason Watt fik Volvo'en i m_l som nummer 15. Ikke den placering vi havde 
+h_bet p_, men n_r det nu ikke kunne v_re anderledes, s_ kom der trods alt point 
+i kassen.</p>
+<p>Efter Casper Elgaard og John Nielsen kom Henrik Lundgaard, Michel Nykj_r og 
+Jan Magnussen. Disse 5 skal s_ starte i omvendt r_kkef_lge, s_ igen skal Nykj_r 
+starte i forreste r_kke.</p>
+<h3>Finalen</h3>
+<p>Jan Magnussen og Henrik Lundgaard kom flot fra start og n_ede f_rst ned til 
+f_rste sving efterfulgt af John Nielsen, Casper Elgaard og Michell Nykj_r. </p>
+<p>Lundgaard k_rte en flot finale og kunne holde BMW'erne bag sig indtil x. 
+omgang, og dermed give Magnussen et lille forspring som ikke kunne hentes.</p>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-17w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-17t.jpg" width="128" height="85"></a></td>
+    <td> 
+<p>Tv: Lundgaard foran Nielsen og Elgaard.<br>
+Th: Lundgaard bag Nielsen og Elgaard. </p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-18w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-18t.jpg" width="128" height="85"></a></td>
+  </tr>
+</table>
+
+<p>Jason Watt fik Volvo'en k_rt frem til en 11. plads, men m_tte udg_ med 
+tekniske problemer efter 8 omgange. Det var ikke en god start for p_ s_sonen for 
+Volvo, men jeg er ikke i tvivl om, at de kommer st_rkt tilbage. B_de Jason Watt 
+og Volvo Teamet vil have mange point i kassen - rigtig mange.</p>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-19w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-19t.jpg" width="128" height="85"></a></td>
+    <td> 
+<p>Tv: Volvo S60 i nye kl_der.<br>
+Th: Volvo S60 n_r den er smukkest. </p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-20w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-20t.jpg" width="128" height="85"></a></td>
+  </tr>
+</table>
+<p>Finalen blev vundet af Jan Magnussen foran John Nielsen og Casper Elgaard.</p>
+<hr>
+<h2>Yokohama</h2>
+<p>I Yokohama klassen har Anders Byriel's Volvo S40 Turbo skiftet ejer. Anders 
+kommer vi desv_rre ikke til at se s_ meget til i denne s_son.</p>
+<p>Volvo S40 Turbo k_res af Michael Jensen fra Roskilde. Og Volvo'en har f_et 
+nye farver: Sort og gul. Flot ser den ud. Den er en del af Team Lund Racing som 
+ogs_ har en Renault Megane DTC Racer med nummer 41 p_ siden og Kim Lund Johansen ved rattet.</p>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-21w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-21t.jpg" width="128" height="85"></a></td>
+    <td> 
+<p>Tv: Michael R. Jensen.<br>
+Th: Volvo S40 Turbo.</p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20050501-22w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20050501-22t.jpg" width="128" height="85"></a></td>
+  </tr>
+</table>
+<p>I b_de tidtagningerne og de to heat, var Volvo'en ca. 2 sek. bagefter p_ de 
+hurtigste omgange. Det lyder ikke af meget, men p_ 10 omgange rykker det nogle 
+placeringer ned i r_kken.</p>
+<p>S_ledes endte den som nummer 16 i _rets f_rste heat og som nummer 14 i 2. 
+heat. Ikke helt der hvor de fleste point er at hente. I DM stillingen ligger 
+Michael Jensen nu p_ en 15. plads. <br>
+N_r Volvo'en er blevet optimeret lidt mere, vil vi uden tvivl se Michael arbejde 
+sig op af for at slutte blandt de bedste.</p>
+<p>Jeg ser frem til at se meget mere til B_de Michael Volvo'en og nogle kanon 
+resultater.</p>
+
+<hr>
+
+
+    <p><br>
+	Alt i alt var det ikke lige Volvo's weekend, men det kommer.... Ingen tvivl 
+	om det.</td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf_j til foretrukne">F_j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

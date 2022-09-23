@@ -1,0 +1,216 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright � 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S�g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=1">Motor</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Forum om <b>Motor</b>. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Volvo 240 motor...???</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Tim</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Odder@ofir.dk</font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-04-2006&nbsp; 11:53</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle sammen..!:) er den lykkelige ejer af en volvo 240 gle injection fra 89... Har g�et meget og t�nkt over noget motor skift, noget med noget mere ryk i... hva kan man egentlig smide i af motor som passer over i..???? med noget mere ryk i... p� forh�nd tak..M.V.H TIm</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Ruben, 05-04-2006 16:51)</em></u></strong></font></li><br><font face=Verdana>Hej. Du beh�ver faktisk ikke skifte motor. Monter et turbos�t som jeg har gjort p� min det virker fint s� l�nge du ikke justerer den alt for h�jt op i tryk. Men en 30 hk eller s�dan er helt sikkert inden for r�kkevidde.<br><br>Alternativt kan du montere en komplet turbomotor.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tim, 05-04-2006 17:24)</em></u></strong></font></li><br><font face=Verdana>hej rubin... har jeg t�nkt en del p�, men ved sgu ikke rigtig om jeg t�r, da motoren har rundet 327 tusind, k�rer stadig godt, men er bange for om den kan holde..!;)   Passer en 2,3 liters turbo fra en  740 i min..????</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(, 05-04-2006 17:32)</em></u></strong></font></li><br><font face=Verdana>ja den passer fra en 740... du skal flytte dine motoroph�ng fra din 240 motor over p� den 740 turbomotor s� passer den lige i.... men husk (det er ikke lovligt) det er kun lovligt hvis du som ruben skriver at montere turbokit fra volvo R sport..... jeg har min volvo til salg den kan du se p� galleriet i diverse... en r�d 245 turbo</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tim, 06-04-2006 09:04)</em></u></strong></font></li><br><font face=Verdana>Okay.. s� kun motor oph�ng... men nu skriver du at jeg bare kan smide et volvo r sportskit p� med turbo og det er lovligt... hvordan kan det v�re lovligt n�r min bil er f�dt uden turbo.....???  M.V.h Tim</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(, 06-04-2006 17:50)</em></u></strong></font></li><br><font face=Verdana>fordi volvo R sport turbokittet er typegodkendt af volvo danmark... og derfor skal synshallerne godkende det....</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ruben, 07-04-2006 11:58)</em></u></strong></font></li><br><font face=Verdana>JA det skal de men det er stadig afgiftberettiget da alt trykladning konsekvent g�lder som en overskridelse af tuningsreglen omkring de 20% for�gelse. Der er kommet nye regler. Check <a href="http://www.f-styr.dk" target="_blank">www.f-styr.dk</a> ud der st�r det desv�rre sort p� hvidt.<br><br>Dog skal det siges at det ikke er sikkert at de siger noget til det til syn.. Men det g�r det ikke lovligt ....</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jes, 07-04-2006 12:21)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>I debatten om tuning af motor er det vigtigt at skelne imellem synsregler og afgiftsregler.<br>Synsregler om tuning kan findes, som det ogs� er n�vnt, p� fstyr.dk.<br>reglerne om evt. fornyet afgiftsbetaling har jeg tidligere lavet et l�ngere indl�g her p� siden.<br>Hovedreglen er at der kun skal betales ny afgift hvis bilen har mistet/�ndret identitet. I forhold til tuning er dette tilf�ldet s�fremt den oprindelige motor er udskiftet med en anden OG den nye motor yder mere end 20 % mere effekt end den oprindelige.<br>Den oprindelige motor m� med hensyn til afgiftsp�rgsm�let tunes mere end 20 % uden det udl�ser fornyet afgift. Med den oprindelige menes i dette tilf�lde den motorst�rrelse, type og udf�relse bilen oprindeligt er f�dt med, eks. en B23A. D.v.s. skift fra en B23A til en anden B23A er at betragte som den oprindelige motor. Hvis man tuner mere end 20 % m� man ikke g� fra karburator til indspr�jtning uden at betale afgift. det er bl.a. derfor Volvo�s eget turbokit til B 23A ikke udl�ser fornyet afgift. Effekten siger fra ca. 110 hk. til 143 hk (og 160 med intercooler). dette er mere end 20 %, men da det fortsat er med karburator, s� udl�ser det ikke fornyet afgift. <br>Derudover har praksis ved told ogs� �ndret sig. Jeg kender et konkret eksempel hvor en person afgiftsfrit har udskiftet sin B 21A motor med en B 21ET i en 240 �rgang 1984. Toldv�senet har i den sag ikke kr�vet fornyet afgift.<br>Jeg har selv ombygget et par 240 fra B 21A til B 28A (V6 motor fra 264) uden det har givet anledning til problemer. Effekten steg fra 107 hk til 129 hk �hvilket er 20 % + 0,6 hk gratis.<br><br>mvh<br><br>Jes</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(, 07-04-2006 16:03)</em></u></strong></font></li><br><font face=Verdana>det er totalt afgiftfrit at montere turbokittet fra volvo R sport...<br>diverse dokumenter kan du f� volvo danmark til at sende til dig..<br>(du skal snakke med tommy hos volvo danmark tlf 70112700 )<br>han sender dig typegodkendelse p� turbokittet + imitetstest + det afgiftfrie dokument fra told/skat... jeg har v�ret til syn med min og da jeg kom til synshallen ville de ikke syne den, men da de s� diverse papirer fra volvo danmark fik jeg den synet..<br>hilsen thomas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tim, 08-04-2006 16:01)</em></u></strong></font></li><br><font face=Verdana>Hej... mange tak for besvarelserne...!:) Tror jeg vil give volvo danmark et kald, og vis de ogs� siger ok, ja s� ryger volvo r kitte p� i stedet for...!:)  Men det er da ikke noget problem n�r min er med indspr�jtning vel..??? M .V .H Tim</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ruben, 08-04-2006 20:01)</em></u></strong></font></li><br><font face=Verdana>Hej igen. Jeg vil meget gerne foresl� dig at ringe til f�rdselsstyrelsen. De er meget hj�lpsomme med den slags. Grunden til at du skal g�re det er at ihht de nye regler der kom for et par �r siden til trods for hvad andre herinde siger g�r en hel del ud over turbotuning. Nu g�lder ALT turboladning f�rst og fremmest som en konstruktiv �ndring dvs det skal kunne godkendes. Det er nemt nok med Volvo R sport kittet og med turbo p� volvo generelt da flere er f�dt med det. Men det g�lder ogs� automatisk som en for�gelse p� over 20% uanset om du f�r 20% ekstra eller ej.. <br><br>Jeg siger det kun for at hj�lpe s� g�r dig selv en rigtig stor tjeneste og snak med dem derinde. <br><br>Til jer andre der mener det godt kan lade sig g�re s� er dette et punkt vi kan diskutere rigtig l�nge. Men grundreglen omkring 20% tun er at enten m� du udskifte din motor med en st�rre s�l�nge den nye motor holder sig indenfor de originale hk + 20%. Eks m� du skifte din originale 100hk motor ud med en anden og st�rre der max har 120hk.<br><br>Du m� ogs� tune p� den originale motor ud over 20% hvis bilen er fra f�r 1984 MEN der m� ikke foretages konstruktive �ndringer f.eks udskiftning af topstykke fra 8V til 16V, turbomontering, �ndring af boring og slagl�ngde osv. Du m� til geng�ld gerne monter dobbelte karburatorer, knastaksel f� bearbejdet topstykke osv ..<br><br>Men igen. Forhold jer til f�rdselsstyrelsen det er nu engang dem der laver reglerne....</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kent, 09-04-2006 16:17)</em></u></strong></font></li><br><font face=Verdana>Der er en ting vi kan sl� helt fast.S� l�nge volvo st�r bag kan man f� det synet.Den motor du k�rer med ska s�nkes i <a href="http://komp...ellers" target="_blank">komp...ellers</a> risikerere du motorhavari.Den gang volvo lavede de turbos�t Lavede de ogs� en motor man ku k�be lige til at l�gge i,med turbos�ttet monteret Den hed en FLEN motor Men hvis du er meget i tvivl Sp�rg da hos volvo,og det er jo ikke kun 200 serien at man monterede det kit.300,700 serien blev de jo ogs� brugt til mvh Kent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tim, 09-04-2006 18:54)</em></u></strong></font></li><br><font face=Verdana>Okay..tak for hj�lpen.. giver lige dem og volvo danmark et kald... hva ligger s�dan en volvo r sportskit i...???</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ruben, 09-04-2006 19:09)</em></u></strong></font></li><br><font face=Verdana>Hej Kent. Nixenbixen ALLE regler blev lavet om for et par �r siden s� hvad Volvo har solgt dengang disse biler var nye osv er fuldst�ndig ligegyldigt. Du slipper IKKE for at betale afgift af en turboombygning p� en bil der ikke er f�dt med turbo UANSET hvilket m�rke bil det er.. Tro mig s�dan er det. Jeg vil sgu stille en kasse bajere p� h�jkant :o)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kent, 09-04-2006 22:03)</em></u></strong></font></li><br><font face=Verdana>Det Lyder da sp�ndende.Min er monteret med r.sport kit.Men har ikke v�ret p� plader i ca 6 �r,s� det bliver da sp�ndende at k�re til syn med den n�r jeg kommer s� langt.men jeg har nu ikke de store bekymringer om det.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ruben, 10-04-2006 10:07)</em></u></strong></font></li><br><font face=Verdana>Kent :o) <br><br>Hvad der kan lade sig g�re og hvad der er lovligt er to helt forskellige ting. <br><br><<Hvis bilen eftermonteres med kompressor med wastegate eller med turbolader, vil det i alle tilf�lde anses for at have givet en effektfor�gelse over 20 %.>><br><br>Dette er taget direkte fra f�rdselsstyrelsens hjemmeside og dermed skal der betales afgift af en turboombygning. <br><br>Det kan ses ca midt p� denne side <a href="http://www.fstyr.dk/sw23095.asp" target="_blank">http://www.fstyr.dk/sw23095.asp</a><br><br>Men g�r den s� g�r den. Man skal bare huske p� at bare fordi bilen er synet ved en synshal er den ikke n�dvendigvis lovlig og hvis du eks bliver indblandet i et uheld kan du risikere at de opdager det og s� er dit forsikringsselskab ikke forpligtet til at hj�lpe dig! S� man kan i v�rste fald skulle st� for gildet selv.. :o(<br><br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kent, 11-04-2006 00:05)</em></u></strong></font></li><br><font face=Verdana>Dengang jeg k�bte bilen i sin tid,var s�ttet monteret. Da havde den v�ret til syn et halvt �r forinden,med s�ttet p�.S� lad os nu se.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Michael, 11-04-2006 07:59)</em></u></strong></font></li><br><font face=Verdana>Hej Tim..<br><br>Denne debat omkring dit �nske om trimning af en GLE, injection �rgang 89, peger i retning af nogle "sl�rede" forhold vedr�rende lovlighed, forsikring m.m..<br><br>Som jeg forst�r dig, s� har der v�ret "hestetyve" p� spil efter 327.000 p� klokken eftersom du ikke er tilfreds med bilens pr�stationer. Jeg har selv en bil fuldst�ndig magen til din, og den g�r utrolig godt selvom, at den er p� vej mod de 500'. Og det kan da godt v�re, at ikke alle hestene er i stalden, og at nogen er kommet p� gras - men den f�lger stadig med de fleste biler, og kan ogs� godt g� speedometeret i bund,,,tja, max. hast. i Dk er 110, s� den klarer vel forholdene. Derfor har jeg to forslag til dig, som vil lette din beslutning en hel del.<br><br>1. Du k�ber en ny GLE motor hos Volvo (pris: 25-30.000 kr.), og l�gger i. <br><br>2. Du s�lger din nuv�rende 240, og k�ber en brugt 240 turbo med rigtig meget riv i, og tager den derfra. Det g�r det nemmere med syn, forsikring m.m. <br><br>Mvh. Michael</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(, 11-04-2006 19:14)</em></u></strong></font></li><br><font face=Verdana>hej tim vil lige h�re om du har snakket med volvo danmark endnu.. hilsen thomas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tim, 15-04-2006 17:38)</em></u></strong></font></li><br><font face=Verdana>Hej alle sammen..!:) var lige p� p�sketur med en amsse kammerater, s� kunne ikke lige komme p� nettet..!:)<br><br>mange tak for besvarelserne, kan godt se der er delte meninger om det...!:)<br><br>Jeg giver lige f�rdselsstyrelsen og volvo danmark et opkald her tirsdag eller onsdag, og s� skal jeg nok lige skrive hva de fort�ller mig..!;)<br><br>Men ja k�rer stadig kanon selvom den har k�rt 327 tusind...!:)<br><br>Kan i alle sammen have en �fortsat god p�ske... M.v.h Tim</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Allan J. Kokspang, 11-06-2006 19:35)</em></u></strong></font></li><br><font face=Verdana>Vil det sige, at man skal betale afgift, hvis man skifter en B230A, ud med en B23E.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(steen damsgaard, 13-06-2006 22:19)</em></u></strong></font></li><br><font face=Verdana>Goddag alle sammen<br>En 240 med 740 turbo intercooler motor. Den blev n�gtet synet med denne motor, ejeren blev forvirret og jeg k�bte bilen og fors�gte mig lidt frem. Det medf�rte at jeg nu har to vigtige dokumenter:<br><br>Et brev fra told og skat, hvor det fremg�r at jeg aldeles ikke skal betale fornyet afgift, og at bilen kan synes hvis Volvo kan godkende �ndringen.<br><br>Et brev fra Volvo G�teborg, via Volvo Danmark, der godkender en hvilken somhelst motor ogs� ikke-Volvo motor, n�r blot efekter ikke overstiger 200 HK.<br>Sender gerne kopi af dokumenterne. <br>Mvh <br>Steen Frederikssund<br>Tlf 41406892<br></font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

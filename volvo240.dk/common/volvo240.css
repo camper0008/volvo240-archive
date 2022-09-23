@@ -1,0 +1,134 @@
+﻿TABLE
+{
+    FONT-SIZE: 12px
+}
+BODY
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    FONT-SIZE: 12px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px;
+    FONT-FAMILY: Verdana
+}
+FORM
+{
+}
+TABLE THEAD
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #c8c8c8
+}
+TABLE TR
+{
+}
+TABLE TD
+{
+}
+TABLE TD#grplist
+{
+FONT-SIZE: 10px;
+}
+TABLE TBODY
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #f0f0f0
+}
+TABLE TFOOT
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: whitesmoke
+}
+H1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: left
+}
+H2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    TEXT-TRANSFORM: uppercase;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: left
+}
+H3
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    FONT-STYLE: italic;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: left
+}
+H4
+{
+    TEXT-ALIGN: left
+}
+H5
+{
+	font-weight: normal;
+	font-size: 9px;
+	color: black;
+	font-family: Verdana;
+	text-align: center;
+}
+H6
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 9px;
+    COLOR: gray;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: center
+}
+A:link
+{
+    COLOR: blue;
+    FONT-FAMILY: Verdana
+}
+A:active
+{
+    COLOR: blue;
+    FONT-FAMILY: Verdana
+}
+A:visited
+{
+    COLOR: blue;
+    FONT-FAMILY: Verdana
+}
+A:hover
+{
+    COLOR: #ffff00;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #000080
+}
+TABLE CAPTION
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px
+}
+TBODY#motorspec
+{
+    FONT-SIZE: 10px
+}
+UL#hg
+{
+	margin-left: 0px;
+	list-style-type: none;
+}
+UL#ug
+{
+	margin-left: 20px;
+	list-style-type: none;
+}
+TR#ll
+{
+	cursor: hand;
+}

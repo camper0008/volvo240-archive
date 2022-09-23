@@ -1,0 +1,457 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright _ 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Syn</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S_g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+<table width="960" border=1 align="center">
+<thead>
+  <tr>
+    <td colspan="2" width="958">N_r bilen skal til periodisk syn</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th width="150" valign="top" align="left">Hvorn_r er n_ste periodiske syn?</th>
+    <td width="810">Periodisk syn sker i henhold til bilens m_nedsdato, som normalt tager 
+udgangspunkt i bilens 1. registreringsdato. P_ registreringsattesten findes 
+feltet: &quot;Periodisk syn (anmeldt m_nedsdato)&quot;. Hvis der ikke er angivet en dato i 
+dette felt, er udgangspunktet bilens 1. registreringsdato, men hvis der er 
+angivet fx. &quot;15.09&quot;, skal bilen til syn med udgangspunkt i september m_ned. Hvis 
+der er angivet en godkendelsesdato: &quot;15.09.98&quot;, indkaldes bilen til syn alle 
+lige _r omkring den 15. september. Hvis der p_ registreringsattesten ikke findes 
+en dato, der indeholder &quot;15.09&quot;, kan man ikke vide, om det periodiske syn falder 
+i et lige eller ulige _r.</td>
+  </tr>
+  <tr>
+    <th width="150" valign="top" align="left">Forberedelse</th>
+    <td width="810">
+<p>Ved synet kontrolleres det, at bilen er i lovlig stand.</p>
+<p>Det er en god id_, at du f_r synet sikrer dig, at bilen ikke har 
+i_jnefaldende fejl, der har betydning for sikkerhed og milj_.<br>
+Som bilist b_r man selv v_re i stand til at kontrollere lovligheden af et lang 
+r_kke af bilens udstyr og egenskaber som fx lygter, spejle, sikkerhedsseler, 
+d_k, parkeringsbremse osv.</p>
+<p>For kontrol af andre dele, fx katalysator, eller vanskeligt tilg_ngelige 
+detaljer, fx bremser_r under bunden, vil det nok v_re n_dvendigt, at bes_ge et 
+v_rksted, der har det n_dvendige udstyr til kontrollen.</p>
+<p>Bilen skal v_re i en s_dan stand, herunder rengjort, at vi kan gennemf_re 
+synet uden vanskelighed. <br>
+Der er ikke krav om, at bilen skal v_re s_rlig grundigt rengjort i anledning af 
+synet.<br>
+Det skal dog understreges, at bilens undervogn og motorrum ikke m_ v_re tils_let 
+af snavs, olierester og lignende som hindrer, at synsmedarbejderen kan besigtige 
+detaljer af sikkerhedsm_ssig eller milj_m_ssig betydning.<br>
+V_r forberedt p_, at synsmedarbejderen kan v_re n_dt til at kr_ve afrensning af 
+rustbeskyttelse, der hindrer besigtigelse af dele og omr_der af sikkerhedsm_ssig 
+betydning. Af hensyn til syn og evt. efterf_lgende reparationer p_ v_rksted er 
+det klogt at vente med ny rustbeskyttelse til bilen er godkendt. I modsat fald 
+kan du blive n_dt til at fjerne den nye rustbeskyttelse for at synet kan 
+gennemf_res med tilstr_kkelig kvalitet.</p>
+<p>Statens Bilinspektion har lagret de fleste tekniske oplysninger om den danske 
+bilpark i en biljournal. Det er s_ledes ikke 
+n_dvendigt, til periodisk syn af en almindelig person- eller varebil, at 
+medbringe bilens registreringsattest eller andre bilpapirer. </p>
+<p>Er der derimod tale om et registreringssyn skal en udfyldt anmeldelsesblanket 
+og - for en sikkerheds skyld - bilens seneste registreringsattest, medbringes.</p>
+<p>Ved syn af biler importeret som brugt skal der under alle omst_ndigheder 
+medbringes dokumentation for bilens registrering i udlandet.</p>
+    </td>
+  </tr>
+</tbody>
+</table>
+<br>
+<table width="960" border=1 align="center">
+<thead>
+  <tr>
+    <th width="150" valign="top" align="left">Synet</th>
+    <td width="810">Kontrollen omfatter bl. a.:</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th width="150" valign="top" align="left">
+      <A href="" onclick="window.open( '/common/showwin.asp?fname=/diverse/syn/start.htm&fTitle=Syn->Start','','channelmode=no,height=320,width=630,location=no,menubar=no,resizable=no,scrollbars=yes,status=no,titlebar=yes,toolbar=no,dependent=yes'); &#13;&#10;&#9;return false">[Start]</A>
+    </th>
+    <td width="810">
+<ul>
+  <li>Identitetskontrol:<ul>
+    <li>At bilens indpr_gede stelnummer stemmer overens med de senest 
+    registrerede oplysninger om bilen</li>
+    <li>At stelnummeret er helt og ubeskadiget.</li>
+    <li>_ndringer af k_ret_jet der medf_rer registrerings-afgiftspligt.</li>
+    <li>Overensstemmelse mellem nummerpladerne og oplysningerne i 
+    Centralregisteret for Motork_ret_jer.</li>
+  </ul>
+  </li>
+  <li>Batteri:<ul>
+    <li>At akkumulatoren (batteriet) er forsvarligt fastsp_ndt, s_ledes der i 
+    forbindelse med uheld ikke opst_r kortslutninger.</li>
+  </ul>
+  </li>
+  <li>El-ledinger<ul>
+    <li>At tilsluttet ekstraudstyr er forbundet gennem sikringer.</li>
+    <li>At ledninger er velisolerede og tilstr_kkelig fastgjort.</li>
+    <li>At ledningsf_ring gennem huller i bilens karosseri er forsynet med 
+    gummigennemf_ringer el. lign.</li>
+    <li>El-stik for tilslutning til p_h_ngsk_ret_jer</li>
+  </ul>
+  </li>
+  <li>For- og baglygter<ul>
+    <li>N_rlysets styrke og justering</li>
+    <li>Fjernlysets styrke</li>
+    <li>Baglygternes virkning</li>
+    <li>Brud og defekter p_ glas og paraboler</li>
+  </ul>
+  </li>
+  <li>Stop- og blinklys<ul>
+    <li>Lygternes virkning, herunder farve</li>
+    <li>Lygternes lysstyrke</li>
+    <li>Blinklysets frekvens</li>
+  </ul>
+  </li>
+  <li>_vrige lygter<ul>
+    <li>Lygternes virkning, herunder farve</li>
+    <li>Lygternes montering og tilslutning</li>
+    <li>Reflekserne farve og anbringelse</li>
+  </ul>
+  </li>
+</ul>
+    </td>
+  </tr>
+  <tr>
+    <th width="150" valign="top" align="left">
+      <A href="" onclick="window.open( '/common/showwin.asp?fname=/diverse/syn/kabine.htm&fTitle=Syn->Kabine','','channelmode=no,height=300,width=630,location=no,menubar=no,resizable=no,scrollbars=yes,status=no,titlebar=yes,toolbar=no,dependent=yes'); &#13;&#10;&#9;return false">[Kabine]</A>
+    </th>
+    <td width="810">
+<ul>
+  <li>Ruder<ul>
+    <li>Bilens forrude, sideruder og bagrude kontrolleres visuelt for 
+    lysgennemgang og beskadigelser</li>
+  </ul>
+  </li>
+  <li>Vinduesvisker og -vasker<ul>
+    <li>Vinduesvisker og -vasker kontrolleres for funktion</li>
+  </ul>
+  </li>
+  <li>Gear og kobling</li>
+  <li>Bremsepedal<ul>
+    <li>Det kontrollerer SBI</li>
+    <li>Bremsepedalens bel_gning</li>
+    <li>Bremsepedalens oph_ng</li>
+  </ul>
+  </li>
+  <li>Kontrollamper</li>
+  <li>Horn</li>
+  <li>Rat<ul>
+    <li>Fastg_relse</li>
+    <li>At rattet er helt og ubeskadiget</li>
+  </ul>
+  </li>
+  <li>Sikkerhedssele<ul>
+    <li>Tilstedev_relse</li>
+    <li>Beskadigelser</li>
+  </ul>
+  </li>
+  <li>Airbag</li>
+  <li>S_der<ul>
+    <li>Fastg_relse</li>
+    <li>Mulighed for indstilling</li>
+    <li>Tilstedev_relse af nakkest_tter</li>
+  </ul>
+  </li>
+</ul>
+    </td>
+  </tr>
+  <tr>
+    <th width="150" valign="top" align="left">
+      <A href="" onclick="window.open( '/common/showwin.asp?fname=/diverse/syn/bremser.htm&fTitle=Syn->Bremser','','channelmode=no,height=320,width=630,location=no,menubar=no,resizable=no,scrollbars=yes,status=no,titlebar=yes,toolbar=no,dependent=yes'); &#13;&#10;&#9;return false">[Bremser]</A>
+    </th>
+    <td width="810">
+      <ul>
+        <li>Driftbremse<ul>
+        <li>Bremsekraft for hvert hjul</li>
+        <li>Ovalitet</li>
+        <li>Sk_vbremsning</li>
+      </ul>
+        </li>
+  <li>Parkeringsbremse<br>
+  <ul>
+    <li>Virkning</li>
+    <li>Sp_rreanordning</li>
+  </ul>
+  </li>
+  </ul>
+
+&nbsp;</td>
+  </tr>
+    <th width="150" valign="top" align="left">
+      <A href="" onclick="window.open( '/common/showwin.asp?fname=/diverse/syn/undervogn.htm&fTitle=Syn->Undervogn','','channelmode=no,height=320,width=630,location=no,menubar=no,resizable=no,scrollbars=yes,status=no,titlebar=yes,toolbar=no,dependent=yes'); &#13;&#10;&#9;return false">[Undervogn]</A>
+    </th>
+    <td width="810">
+  <ul>
+    <li>Hjul<ul>
+      <li>Slidbane </li>
+      <li>Buler og uj_vnheder </li>
+      <li>Ens d_ktype </li>
+      <li>D_ktryk</li>
+    </ul>
+    </li>
+    <li>Hjuloph_ng og fjedre<ul>
+      <li>Slid i de hjulf_rende led</li>
+      <li>Slid/brud i fjedre</li>
+    </ul>
+    </li>
+    <li>Styreapparat<ul>
+      <li>Funktionalitet</li>
+      <li>Ratsl_r</li>
+    </ul>
+    </li>
+    <li>Bremsedele<ul>
+      <li>Bremser_r</li>
+      <li>Bremseslanger</li>
+      <li>Bremseskiver og -tromler</li>
+    </ul>
+    </li>
+    <li>Br_ndstofsystem<ul>
+      <li>T_thed</li>
+      <li>Montering</li>
+    </ul>
+    </li>
+    <li>Udst_dningssystem<ul>
+      <li>T_thed</li>
+      <li>Montering </li>
+    </ul>
+    </li>
+    <li>Karosseri 
+    <ul>
+      <li>Zone A</li>
+      <li>Zone B</li>
+      <li>Zone C</li>
+      <li>Zone D</li>
+    </ul>
+    </li>
+  </ul>
+&nbsp;</td>
+  </tr>
+  <tr>
+    <th width="150" valign="top" align="left">
+      <A href="" onclick="window.open( '/common/showwin.asp?fname=/diverse/syn/forurening.htm&fTitle=Syn->Forurening','','channelmode=no,height=320,width=630,location=no,menubar=no,resizable=no,scrollbars=yes,status=no,titlebar=yes,toolbar=no,dependent=yes'); &#13;&#10;&#9;return false">[Forurening]</A>
+    </th>
+    <td width="810">
+  <ul>
+    <li>CO-m_ling<ul>
+      <li>Forurening</li>
+    </ul>
+    </li>
+    <li>4-gasm_ling<ul>
+      <li>Forurening</li>
+    </ul>
+    </li>
+    <li>R_ggasm_ling<ul>
+      <li>Forurening</li>
+    </ul>
+    </li>
+    <li>St_jm_ling<ul>
+      <li>St_jniveau</li>
+    </ul>
+    </li>
+  </ul>
+    </td>
+  </tr>
+  <tr>
+    <th width="150" valign="top" align="left">
+      <A href="" onclick="window.open( '/common/showwin.asp?fname=/diverse/syn/provekorsel.htm&fTitle=Syn->Pr_vek_rsel','','channelmode=no,height=320,width=630,location=no,menubar=no,resizable=no,scrollbars=yes,status=no,titlebar=yes,toolbar=no,dependent=yes'); &#13;&#10;&#9;return false">[Pr_vek_rsel]</A>
+    </th>
+    <td width="810">
+  <ul>
+    <li>Bremsepr_ve<ul>
+      <li>Bremsekraftfordeling</li>
+    </ul>
+    </li>
+    <li>Styreapparat<ul>
+      <li>Selvopretning </li>
+      <li>Funktion</li>
+    </ul>
+    </li>
+  </ul>
+    </td>
+  </tr>
+  <tr>
+    <th width="150" valign="top" align="left">Afslutning</th>
+    <td width="810">
+  <ul>
+    <li>Synsresultater<ul>
+      <li>GODKENDT</li>
+      <li>BETINGET GODKENDT</li>
+      <li>IKKE GODKENDT</li>
+    </ul>
+    </li>
+    <li>Fejloversigt</li>
+    <li>Servicebem_rkninger</li>
+    <li>Sp_rgeskema</li>
+    <li>Klagevejledning</li>
+  </ul>
+    </td>
+  </tr></tbody>
+</table>
+
+<h6>Udarbejdet med stor hj_lp fra Jes Hebsgaard.</h6>
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf_j til foretrukne">F_j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

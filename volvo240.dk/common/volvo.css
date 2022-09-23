@@ -1,0 +1,125 @@
+TABLE
+{
+    FONT-SIZE: 10px;
+/*    BORDER: 1px solid #ff0000  */
+}
+BODY
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    FONT-SIZE: 10px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px;
+    FONT-FAMILY: Verdana
+}
+FORM
+{
+}
+TABLE THEAD
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #c8c8c8
+}
+TABLE TR
+{
+}
+TABLE TD
+{
+    BORDER: 1px solid #c8c8c8
+}
+TABLE TBODY
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 9px;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #f0f0f0
+}
+TABLE TFOOT
+{
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: whitesmoke
+}
+H1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: left
+}
+H2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    TEXT-TRANSFORM: uppercase;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: left
+}
+H3
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    FONT-STYLE: italic;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: left
+}
+H4
+{
+    TEXT-ALIGN: left
+}
+H5
+{
+    TEXT-ALIGN: left
+}
+H6
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 9px;
+    COLOR: gray;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: center
+}
+A:link
+{
+    COLOR: blue;
+    FONT-FAMILY: Verdana
+}
+A:active
+{
+    COLOR: blue;
+    FONT-FAMILY: Verdana
+}
+A:visited
+{
+    COLOR: blue;
+    FONT-FAMILY: Verdana
+}
+A:hover 
+{
+  color: #FFFF00;
+  font-family: Verdana;
+  background-color: #000080;
+}
+#RegisterIDForm
+{
+    Z-INDEX: 2;
+    LEFT: 100px;
+    FLOAT: none;
+    POSITION: absolute;
+    TOP: 50px
+}
+#RegisterIDImage
+{
+    Z-INDEX: 1;
+    LEFT: 100px;
+    POSITION: absolute;
+    TOP: 50px
+}
+TABLE CAPTION
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px
+}

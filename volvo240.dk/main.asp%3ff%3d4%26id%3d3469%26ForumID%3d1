@@ -1,0 +1,278 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id=DMBRI style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name=DMBImgFiles width="1" height="1" border="0" alt="">
+<img src="menu/dmb_m.gif" name=DMBJSCode width="1" height="1" border="0" alt="">
+</div>
+<script type="text/javascript" language="JavaScript" >
+	var rimPath = null;
+	var rjsPath = null;
+	var rPath2Root = null;
+	
+	function InitRelCode() {
+		var iImg;
+		var jImg;
+		var tObj;
+		
+		if(!document.layers) {
+			iImg = document.images['DMBImgFiles'];
+			jImg = document.images['DMBJSCode'];
+			tObj = jImg;
+		} else {
+			tObj = document.layers['DMBRI'];
+			if(tObj) {
+				iImg = tObj.document.images['DMBImgFiles'];
+				jImg = tObj.document.images['DMBJSCode'];
+			}
+		}
+		if(!tObj) {
+			window.setTimeout("InitRelCode()", 700);
+			return false;
+		}
+		
+		rimPath = _gp(iImg.src);
+		rjsPath = _gp(jImg.src);
+		rPath2Root = rjsPath + "../";
+		
+		return true;
+	}
+	
+	function _purl(u) {
+		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
+	}
+	
+	function _fip(img) {
+		if(img.src.indexOf("%%REL%%")!=-1)
+			img.src = rimPath + img.src.split("%%REL%%")[1];
+		return img.src;
+	}
+	
+	function _gp(p) {
+		return p.substr(0,p.lastIndexOf("/")+1);
+	}
+	
+	function FixImages() {
+		var h = null;
+		var f = new Function("h", "if(h)for(var i=0; i<h.length; i++)h[i] = xrep(h[i], '%%REL%%', rimPath);");
+		f(hStyle);f(hshStyle);
+	}
+	
+	function xrep(s, f, n) {
+		if(s) s = s.split(f).join(n);
+		return s;
+	}
+	
+	InitRelCode();
+</script>
+<script type="text/javascript" language="JavaScript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'main.js"><\/script>');return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright (c) 2002-2008 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S_g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=1">Motor</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Forum om <b>Motor</b>. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Ekspert s_ges til tomgangsproblemer p_ B200F</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Per Wulff Nielsen</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">tomasfugl@hotmail.com</font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">28-06-2009&nbsp; 11:06</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg skriver ang_ende en B 200 F motor der sidder i ellers dejlig 240 / Polar. Den har et Bosch LH-Jetronic benzin-system. Bilen er importeret fra Italien, er fra 91 og har k_rt cirka 225.000 km. Problemet er den ikke kan ramme den rigtige tomgang p_ de 900 rm. Den starter i for lav tomgang p_ 500 rm, og n_r den er varm g_r den normalt op p_ 1200 rm, i nogen tilf_lde helt op i 2200 rm. Har dog ogs_ v_ret udsat for at den konsekvent har holdt sig nede p_ de 500 rm under k_rsel. <br><br>Den har efterh_nden v_ret meget p_ v_rksted uden at det har l_st problemet. B_de hos egen lokal mekaniker og hos Volvo mekanikere hos Autohuset Vestergaard i Odense. F_lgende st_rre dele er blevet skiftet:<br><br>Lamdasonde<br>Temperaturf_ler<br>Katalysator<br>Tomgangsregulator <br><br>Gode r_d samt henvisninger til eksperter der kunne l_se problemet er meget velkommende. Bor p_ Fyn. <br><br>P_ forh_nd tak<br><br>Tomas</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 28-06-2009 12:21)</em></u></strong></font></li><br><font face=Verdana>Hej Tomas<br>Fin beskrivelse af dit lille problem med B200F motoren.<br>Da du har skiftet alt det du n_vner, s_ er der faktisk kun _n ting tilbage at skifte, og det er svinghjulsf_leren, hvis din motor har en s_dan.<br>S_, skulle din tomgang blive i orden.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Michael C. Jensen, 28-06-2009 14:44)</em></u></strong></font></li><br><font face=Verdana>Hvad s_tter den af fejlkoder ?<br><br>Det kunne m_ske v_re spj_ldkontakten.<br>Mvh<br>Michael J.<br>Viborg</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 28-06-2009 15:19)</em></u></strong></font></li><br><font face=Verdana>Pr_v at rense dit gasspj_ld med BellAdd, det kan ihvertfald ikke skade, inden du kaster flere penge ud p_ g_tterier.<br><br><a href="http://www.volvo240.dk/main.asp?f=4&id=3426&ForumID=1" target="_blank">http://www.volvo240.dk/main.asp?f=4&id=3426&ForumID=1</a><br><br>MVH Peter<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Per Wulff Nielsen, 28-06-2009 19:39)</em></u></strong></font></li><br><font face=Verdana>Mange tak for svarene og forslagene, de vil blive afpr_vet. Vi har desv_rre ikke udstyr til at l_se fejlkoderne, men det er de blevet hos mekanikerne. Det med at med rense gasspj_let med BellAdd er blevet fors_gt. Kender I evt. til nogen v_rksteder der er eksperter i Volvomotoren, hvis forslagene ikke hj_lper?<br><br>mvh<br>Tomas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Per Wulff Nielsen, 28-06-2009 20:10)</em></u></strong></font></li><br><font face=Verdana>En ting mere mht til symptomer: n_r motoren endelig g_r de 800-900rm, har den en tendens til at ryste ganske voldsomt, mere end hvad er normalt for Volvoer... <br><br>Kunne der gemme sig et problem i det elektriske system?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim, 28-06-2009 23:01)</em></u></strong></font></li><br><font face=Verdana>din volvo burde ha en boks i motorrummet hvor du selv kan afl_se fejlkoder...   det kr_ver intet v_rkt_j..   udover en kuglepen og papir--</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Martin Odgaard, 29-06-2009 00:21)</em></u></strong></font></li><br><font face=Verdana>Hej Per<br><br>Du skriver det med at rense med BellAdd er fors_gt. Personligt har jeg ikke s_ meget fidus til s_danne "nemme l_sninger" med bare at spr_jte noget ind. Jeg vil meget hellere afmontere spj_ldhuset, det er alligevel b_de hurtigt og nemt, s_dan at man kan se ordentligt efter om der faktisk sidder snavs deri, og om en kanal evt skulle v_re tilstoppet. Er der snavs kan det fjernes mere effektivt, ved at g_re det med en klud med lidt sprit p_. Derp_ justeres gasspj_ldet, stangforbindelsen og kablet forskriftsm_ssigt. D_n operation har afhjulpen en del tomgangsproblemer som dine. Jeg kan selvf_lgelig ikke love, at det ogs_ hj_lper i dit tilf_lde, men udgiften er nu en gang kun 17 kr til en ny pakning til spj_ldhuset. Billigere og bedre end en flaske BellAdd etc. <br>Falsk luft kan evt ogs_ drille, og der kan i det hele taget v_re en del andre muligheder, herunder spj_ldkontakten, som Michael n_vnte. D_n kan heldigvis kontrolleres med en pr_velampe eller et ohmmeter.<br>Glipper det hele fortsat, s_ bor der en seri_s og dygtig Volvo specialist i Horsens: Kurt Mejers Auto. Ham kan du jo evt. pr_ve.<br><br>Mvh. Martin</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Bjarke Jensen, 29-06-2009 10:28)</em></u></strong></font></li><br><font face=Verdana>Hej Martin<br>Lige n_r vi snakker om det. kan du s_ ikke komme med en forklaring om hvordan man indstiller gasspj_ld og potentiometer korrekt p_ en volvo 240 B230FX?<br><br>Hilsen Bjarke</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Martin Odgaard, 29-06-2009 16:18)</em></u></strong></font></li><br><font face=Verdana>Hej Bjarke<br><br>Jo:<br><br><a href="http://www.volvoclub.org.uk/faq/EngineFuelinjection.html" target="_blank">http://www.volvoclub.org.uk/faq/EngineFuelinjection.html</a>#ThrottleBodyandThrottlePositionSwitchAdjustment<br><br>Mvh. Martin</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Bjarke Jensen, 29-06-2009 16:53)</em></u></strong></font></li><br><font face=Verdana>Hej Martin.. <br> Jeg er ikke helt sikker p_ at jeg forstod det ret. (det er engelsk) men jeg vil da pr_ve den fremgangsm_de s_ godt jeg kan<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Per Wulff Nielsen, 06-07-2009 14:06)</em></u></strong></font></li><br><font face=Verdana>Hej igen. Vi har selvf_lgelig selv kunne afl_se fejlkoderne, og det er jo dejligt at l_re noget nyt:) Vi har afl_st en 1-1-3 og en 2-3-2 fejl. Det viser sig at indsugningsmanifolden er sk_v og suger falsk luft ind. Mekanikkeren har sendt den til op retning og vi krydser fingere for at det virker<br><br>Tak for hj_lpen<br><br>Tomas</font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf_j til foretrukne">F_j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">12</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

@@ -1,0 +1,277 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id=DMBRI style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name=DMBImgFiles width="1" height="1" border="0" alt="">
+<img src="menu/dmb_m.gif" name=DMBJSCode width="1" height="1" border="0" alt="">
+</div>
+<script type="text/javascript" language="JavaScript" >
+	var rimPath = null;
+	var rjsPath = null;
+	var rPath2Root = null;
+	
+	function InitRelCode() {
+		var iImg;
+		var jImg;
+		var tObj;
+		
+		if(!document.layers) {
+			iImg = document.images['DMBImgFiles'];
+			jImg = document.images['DMBJSCode'];
+			tObj = jImg;
+		} else {
+			tObj = document.layers['DMBRI'];
+			if(tObj) {
+				iImg = tObj.document.images['DMBImgFiles'];
+				jImg = tObj.document.images['DMBJSCode'];
+			}
+		}
+		if(!tObj) {
+			window.setTimeout("InitRelCode()", 700);
+			return false;
+		}
+		
+		rimPath = _gp(iImg.src);
+		rjsPath = _gp(jImg.src);
+		rPath2Root = rjsPath + "../";
+		
+		return true;
+	}
+	
+	function _purl(u) {
+		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
+	}
+	
+	function _fip(img) {
+		if(img.src.indexOf("%%REL%%")!=-1)
+			img.src = rimPath + img.src.split("%%REL%%")[1];
+		return img.src;
+	}
+	
+	function _gp(p) {
+		return p.substr(0,p.lastIndexOf("/")+1);
+	}
+	
+	function FixImages() {
+		var h = null;
+		var f = new Function("h", "if(h)for(var i=0; i<h.length; i++)h[i] = xrep(h[i], '%%REL%%', rimPath);");
+		f(hStyle);f(hshStyle);
+	}
+	
+	function xrep(s, f, n) {
+		if(s) s = s.split(f).join(n);
+		return s;
+	}
+	
+	InitRelCode();
+</script>
+<script type="text/javascript" language="JavaScript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'main.js"><\/script>');return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright (c) 2002-2006 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S�g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=10">Gearkasse</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Forum om <b>Gearkasse</b>. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=10"><font face="Verdana"><strong>Til Emne oversift</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>hvor meget olie?</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Rene Demsgaard</font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">demsgaard@tele2adsl.dk</font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-01-2007&nbsp; 16:08</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">ja det kan godt v�re det her sp�rgsm�l er lidt langt ude, men h�ber der er en der gider at svare alligevel.. <br><br>har en volvo 240 med aut gear. og den har spildt lidt olie, og nu har jeg s� f�et lidt olie til den men hvor meget skal der p� ? snakker vi 1L 5L  eller?</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 03-01-2007 17:46)</em></u></strong></font></li><br><font face=Verdana>Hej Rene<br>Som du sikkert ved s� skal olien (ATF olie)(eller Dexron) p�fyldes ned igennem r�ret hvor m�lerpinden sidder i.(speciel p�fyldningstragt el. studs)<br>M�lerpinden har som regel 2 afl�sningssider (kold & varm)<br>Det er MEGET vigtigt at man holder oliestanden inden for stregerne p� m�lepinden, ellers fungerer automat-gearet ikke optimalt.<br>S�, hvor meget der skal p�fyldes afl�ses p� m�lerpinden.<br>"FOR LIDT & FOR mEGET FORD�RVER ALT"<br>MVH Jens Peter<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Rene Demsgaard, 04-01-2007 06:14)</em></u></strong></font></li><br><font face=Verdana>det er bare fordi jeg kan kun afl�se m�lepinden n�r jeg lige har fyldt p�. k�re jeg en lille tur s� er m�le pinden knas t�r igen, men automat gearet funger fint nok.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Niels Peder Nielsen, 04-01-2007 10:23)</em></u></strong></font></li><br><font face=Verdana>Jeg vil godt byde ind her. Jeg har selv lidt erfaringer med AW70/71/72 (min og min svigers�ns). Er det s�dan en du har? det kan du kende p� om den har fire gear og en lille knap p� gearv�lgeren. Alle AWmodeller har det med at blive slidt i den bagerste b�sning, og det giver oliespildet (som regel) Den fejl kan relativ nemt repareres for ca. 500 kr i dele. Dog kan der ogs� komme lidt spild fra konverteren, men det er i reglen ganske lidt der spildes der. Der hersker lidt uklarhed om, hvordan man afl�ser oliestanden. Den jeg har f�et overleveret af en mekaniker er, at man starter bilen, s�tter h�ndbremsen kraftigt til eller en stolpe for forhjulene :-). S� k�rer man gearv�lgeren igennem alle gearene og lader den sluttelig st�r i stilling D. S� hiver man oliepinden op, t�rrer den af, og s�tte den p� plads igen og hiver den op, og da skal man, som Jens Peter siger, regne efter kold eller varm motot/gearkasse. Er det en "kold" vogn, s� skal den st� p� minimum. Denne metode betyder dog, at man f�r en lidt for h�j oliestand, n�r den har v�re slukket en tid, fordi olien l�ber tilbage til sumpen. <br>Volvopr�sten Niels Peder Nielsen</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Niels Peder Nielsen, 04-01-2007 10:28)</em></u></strong></font></li><br><font face=Verdana>Jeg har gemt et tip fra Erling, der er nordmand:<br>NP<br><br>For � skifte b�sningen m� den aller bakerste delen av kassen avmonteres, det er seks bolter som holder den. Det er en fordel � ha bilen l�ftet i bakenden, s� renner minst mulig olje ut. Denne delen ville jeg tatt med til et verksted og f�tt b�sningen presset ut med egnet hydraulisk utstyr, og f� den nye presset inn p� samme sted. Du vil ogs� trenge en ny pakning n�r du skal montere den renoverte bakdelen av kassen p� plass. <br><br>Her er hele prosedyren mer utfyllende beskrevet (engelsk tekst):<br>http://www.brickboard.com/FAQ/700-900/TransmissionAuto.htm#Trans_Output_Shaft_Bushing<br><br>Erling.<br>http://home.no.net/ebrox://home.no.net/ebrox<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kasper, 04-01-2007 13:27)</em></u></strong></font></li><br><font face=Verdana>Dette er ikke direkte til hj�lp i din situation, men af egen erfaring fra en 740'er med aut.:<br>Hvis du k�re t�r for olie, s� kan gearkassen ryge i luften ved, at b�sningen bagerst revner... S� kan du ikke k�re l�ngere. Bilen vil hoppe og danse og larme som om den ingen udst�gning har p�, ved et hastighed p� 20 km/t. L�g m�rke som om det summer fra gearkassen n�r du k�re, s� kan det v�re tegn p� sl�r i b�sningen bagerst. S� kan du v�re p� vej til snarligt stop. (det er surt n�r det sker i Taulov l�rdag aften p� vej hjem til Kbh.!)<br>Aut.gearkassen er typisk ved at v�re slidt op ved 350-400.000 km. (det kan bl.a. verificeres via nogle svenske hjemmesider), hvilket fx kan m�rkes ved at den sifter i ryk og kun ved lidt h�je omdrejninger. S� er sp�rgsm�let om det overhovet kan betale sig at bruge penge p� at skifte b�sningen.<br>En god volvohugger kan have en brugt aut.kasse der inkl. montering, olie, garanti osv. kan f�s for ca. 13.000 kr. En bytter-aut.gearkasse fra Volve koster 19-20.000 kr. alene for aut.gearkassen.<br>/Kasper<br>- Og ja, at afl�se oliestanden i aut.gearkassen er sv�rt. G�r det fx. om morgenen n�r alt er koldt i bilen. S� skal du kunne se olie p� pinden. Skal du fylde den helt op fra bunden, s� tager aut.gearkassen 7 liter.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 04-01-2007 14:41)</em></u></strong></font></li><br><font face=Verdana>Har lige et par ord at sige om Automat kasser:<br>Normalt kr�ver s�dan en ikke n�rmere vedligeholdelse, men en god ide kan v�re at lave et "flush" af al olien p� den om for�ret. <br>http://www.volvoclub.org.uk/faq/TransmissionAuto.html<br>Rens / skift sump filteret. Husk at skifte bundpakningen, ellers f�r du den aldrig t�t. Dette olieskift, forl�nger helt klart din gearkasse�s levetid. Tjek de 2 olier�r p� siden af den. De kan godt kn�kke eller blive l�se, s� den spilder olie der. Hvis b�sningen er g�et i gearkassen, s� er det helt sikkert pakd�sen vil blive ut�t. S� hvis du kan se olie spild ved kardan akslen, s� har du en slidt b�sning. Fartvinden g�r jo sit. :)<br><br>For at afl�se din olie stand, s� skal du:<br>K�re MINDST 20 - 30 min blandet k�rsel. S� er gearkasse & olie varm. S� parkere du p� en plan overflade, f�re gearv�lger langsomt gennem alle trin. Og du ender i P. S� hiver du pinden op. T�rre af, s�tter den p� plads. Venter 10 sek. Hiver den op igen og afl�ser p� den varme side. Der er 1 liter mellem min og max stregerne. Husk at f� pinden HELT ned, forbi l�sen. Mange g�r den fejl at de ikke putter den helt ned, og det giver s� en forkert afl�sning. Din motor SKAL hele tiden g� i tomgang mens du afl�ser. Ogs� mens du f�re gearv�lgeren igennem alle trin. <br><br>Hvis vi er ude i en ombytter gearkasse: S� g� efter modellen med "Lock Up" converter. Disse gearkasser sidder typisk p� 740 og de senere 240. De giver bedre �konomi. Du kan se det p� typeskiltet: AW7XL (Der findes AW70/71/72) (L for Lock-Up Converter)<br>72 modellen er den st�rkeste model. Velegnet til Turbo motore. Du kan f� en gearkasse lige fra 1000 - 3000 kr brugt. S�rg for at coverteren f�lger med. Og hvis det kan lade sig g�re: Pr�v gearkassen i donorbilen inden du k�ber. <br>Jeg ville ALDRIG g� til Volvo for en ombytter gearkasse. Det er ALT for dyrt. <br><br>Bare lige mit input. <br><br>MVH<br><br>Emil J.<br>244GL - 1986 - B230A & AW71</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Rene Demsgaard, 06-01-2007 12:01)</em></u></strong></font></li><br><font face=Verdana>jeg har pr�vet at kigge efter oile spild.. men efter 12-14 timer m�ske en dr�be.. og det kommer ca derfra hvor udst�dningen kommer ned fra motoren og drejer under bilen..<br><br><br>men hvis der skal ca 7 l olie p� s� er jeg nok lidt fra endnu.. <br>for grunden til at jeg fat ud at jeg manglede olie var at den ikke rigtig kunne holde gearne n�r bilen var kold.. og efter som jeg ikke ved noget om biler og slet ikke automat gear. fandt jeg lidt ud af hvordan det funker og problemet ville naturlig v�re manglede olie... smid somsagt 1-1� olie p� og nu holder den gearne 100% hele tiden..  <br><br>men vil lige pr�ve at afl�se den n�r den er varm..<br><br>tak for hj�lpen! og alle r�dene</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 06-01-2007 13:32)</em></u></strong></font></li><br><font face=Verdana>Hvis ikke der var noget olie p� din gearkasse, s� kunne bilen slet ikke k�re. Jeg tror bare den har v�ret meget lav i oliestanden. Hvis der bare mangler 1 - 2 liter, s� kan jeg love dig for at den skaber sig, ved at ikke ville skifte gear, og m�ske hoppe ud af gear. Fyld den op til du ser olien p� pinden. Du kan ikke h�lde for meget olie p� en automatgear kasse. Den vil bare smide det gennem et ventilations hul i siden. <br>Automatgearkasser virker KUN ved hj�lp af olien. Hvis du vil vide mere om hvordan s�dan en virker, kan jeg anbefale dig at bes�ge: http://auto.howstuffworks.com/automatic-transmission.htm<br><br>MVH<br><br>Emil J.<br>244GL - 1986 - B230A & AW71<br></font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">10</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

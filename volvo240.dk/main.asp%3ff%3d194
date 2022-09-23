@@ -1,0 +1,667 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id=DMBRI style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name=DMBImgFiles width="1" height="1" border="0" alt="">
+<img src="menu/dmb_m.gif" name=DMBJSCode width="1" height="1" border="0" alt="">
+</div>
+<script type="text/javascript" language="JavaScript" >
+	var rimPath = null;
+	var rjsPath = null;
+	var rPath2Root = null;
+	
+	function InitRelCode() {
+		var iImg;
+		var jImg;
+		var tObj;
+		
+		if(!document.layers) {
+			iImg = document.images['DMBImgFiles'];
+			jImg = document.images['DMBJSCode'];
+			tObj = jImg;
+		} else {
+			tObj = document.layers['DMBRI'];
+			if(tObj) {
+				iImg = tObj.document.images['DMBImgFiles'];
+				jImg = tObj.document.images['DMBJSCode'];
+			}
+		}
+		if(!tObj) {
+			window.setTimeout("InitRelCode()", 700);
+			return false;
+		}
+		
+		rimPath = _gp(iImg.src);
+		rjsPath = _gp(jImg.src);
+		rPath2Root = rjsPath + "../";
+		
+		return true;
+	}
+	
+	function _purl(u) {
+		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
+	}
+	
+	function _fip(img) {
+		if(img.src.indexOf("%%REL%%")!=-1)
+			img.src = rimPath + img.src.split("%%REL%%")[1];
+		return img.src;
+	}
+	
+	function _gp(p) {
+		return p.substr(0,p.lastIndexOf("/")+1);
+	}
+	
+	function FixImages() {
+		var h = null;
+		var f = new Function("h", "if(h)for(var i=0; i<h.length; i++)h[i] = xrep(h[i], '%%REL%%', rimPath);");
+		f(hStyle);f(hshStyle);
+	}
+	
+	function xrep(s, f, n) {
+		if(s) s = s.split(f).join(n);
+		return s;
+	}
+	
+	InitRelCode();
+</script>
+<script type="text/javascript" language="JavaScript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'main.js"><\/script>');return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright (c) 2002-2008 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Polsk renovering</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S�g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+<table border="0" width="100%" id="table1">
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">
+		<h2>Polsk renovering af min danske Volvo 240</h2>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top" height="31">&nbsp;</td>
+		<td valign="top"><font size="2">(af bilens ejer Henrik Funk)</font></td>
+	</tr>
+	<tr>
+		<td valign="bottom" colspan="2">
+		<h5>Bilen:
+		</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">Bilen er en Volvo 240 fra 1988 med en B230K motor, som jeg k�bte i sommeren 2004 af en 
+mekanikerl�rling. P� dav�rende tidspunkt havde den g�et 212.000 km og var i ret 
+god stand. Nu har den rundet 224.000 km.<br>
+		Den var i gennem et grundigt tjek inden den skulle til priodisk syn den 2. 
+		marts i �r. Den 
+		gik gennem synet uden anm�rkninger. Nu var jeg helt sikker p�, at jeg har en 
+ganske s�rlig bil st�ende i indk�rslen.<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>Ideen:
+		</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">I sommeren 2005 transporterede den mine drenge og jeg 
+		til Paris, Normandiet, Italien, Tjekkiet og hjem igen. 5000 km uden et 
+		eneste problem, selv om den til tider rundede 180 km/t, n�r den var i 
+		godt hum�r.<br>
+		Under denne tur blev k�rligheden til den besejlet og jeg besluttede, at 
+		det skulle v�re &quot;os&quot; i lang tid fremover.<p>Hen p� efter�ret 
+		talte jeg med en kammerat, som kendte �n, der kendte �n, som havde f�et 
+		ordnet sin bil i Polen. Den id� gik jeg og lurede p� Samtidigt blev 
+		nettet brugt til lidt research; hvem, hvad, hvor meget��i Polen.<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>Kontakten:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">Undervejs i denne research fandt jeg 4 mellemm�nd og beskrev i November det 
+arbejde, som jeg gerne ville have udf�rt. Beskrivelsen blev sendt til dem. Efter 
+et par uger havde jeg f�et besked fra 3 af dem.<p>Den ene insisterede p� at lade min bil transportere til Polen af ham selv � nul. 
+		Jeg afleverer den selv og vil se hvem der skal ordne den og se selve 
+v�rkstedet.</p>
+		<p>Den anden l�d ikke videre engageret. Jeg f�lte n�rmest, at jeg var til besv�r. 
+Fint nok, men giv mig ikke indtryk af, at min bil er til besv�r!</p>
+		<p>Den tredje virkede trov�rdig p� mail og var �ben for dialog. Jeg udvidede min 
+&quot;�nskeliste&quot; og skrev igen og fik relativt hurtigt svar fra mellemmanden. Efter 
+en t�nkepause skrev jeg igen i slutningen af januar m�ned, at nu kom bilen og 
+jeg den 9. Marts. Denne mail gav ingen respons. Efter et par uger ringede jeg 
+til manden, som hedder Jan og er p�redansk. Jan havde travlt, men ville snarest 
+kontakte mig. Efter flere telefon samtaler blev m�dested, m�detid og et 
+forel�big tilbud aftalt. Det med prisen var med lidt t�ven, men jeg havde jo 
+heller ikke forsynet ham med billeder af bilen, s� hvad skulle han estimere p� 
+baggrund af? Endvidere aftalte vi, at jeg skulle medbringe zloty svarende til 
+v�rkstedets udl�g for materialer.</p>
+		<p>Den fjerde mellemmand h�rte jeg intet fra.<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>S� kom dagen:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">Den 8. marts tog min far og jeg Polferries-f�rgen fra K�benhavn kl. 20 med 
+ankomst til Swinoujsce kl. 8 den efterf�lgende morgen. Af sted p� den gamle vej og smukke 
+tur mod Stettin. M�destedet var SAS hotellet kl. 10. Vi var der i god tid 
+inden.<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>M�det:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">Ved ankomsten ringede vi som aftalt til Monika. Efter en kort 
+		tid 
+ankom hun til hotellet. Sammen drog vi alle 3 i 2 biler til mekanikeren, som havde sit v�rksted 15-20 
+minutters k�rsel fra hotellet. Her introducerede Monika os for 2 mekanikere. Den 
+ene kunne noget engelsk, den anden talte udelukkende polsk, men hans fordel var, 
+at han tydeligvis havde l�rt alt om biler.<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>Gennemsyn og vurdering:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">Inde p� v�rkstedets kontor blev min nu polsk oversatte �nskeliste diskuteret 
+igennem. Herefter blev listen gennemg�et igen ude ved bilen. Monika tog en del 
+billeder og skrev endnu en liste over det, der skulle ordnes. Intet blev 
+overladt til tilf�ldighederne. Den kyndige mekaniker havde et par forslag 
+og �ndringer i forhold til min �nskeliste, hvilket bevirkede at min pris blev 
+reduceret! Det blev jeg noget imponeret af og han scorede en del point p� den 
+konto. Vi aftalte, at hvis de finder noget uforudset p� bilen, skal de tage et 
+billede af det og sende dem og en pris til mig p� mail. Billeder vil de tage 
+under alle omst�ndigheder, n�r de er halvvejs og sende til mig � s� kan jeg 
+sidde med et lommet�rkl�de i h�nden og kigge p� dem. Slutteligt fik jeg ad vide, at 
+bilen ville v�re klar igen om 4-5 uger. Gisp � jeg havde satset p� 3 uger. Efter 
+at vi havde klappet bilen farvel, k�rte Monika os tilbage til SAS hotellet. Jeg 
+havde fortsat alle mine zloty i lommen, v�rkstedet havde ikke bedt om dem 
+alligevel. Hele v�rksteds turen var klaret p� 2 timer.<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>Aftalen:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">
+<ol>
+	<li>Varme apparat skal ordnes/renses � det afgiver kun kold luft.</li>
+<li>Stuen skal afmonteres og renses. Endvidere skal gulv renses og evt behandles 
+for rust.</li>
+	<li>Ny bagsk�rmskanter i begge sider.</li>
+<li>Ny paneler i begge sider.</li>
+	<li>2 sm�/begyndende huller i undervogn skal lappes.</li>
+<li>Undervognsbehandling hvor det er n�dvendigt.</li>
+	<li>Motorrum inkl. k�ler hjelm skal behandles for rust og males.</li>
+<li>De slappe sikkerhedsseler skal ordnes, s� de selv ruller p� plads.</li>
+	<li>Rust ved bagrude skal ordnes.</li>
+<li>Alle vinduer, lister, kofanger, l�se, greb skal afmonteres og bilen skal 
+slibes i bund inden den igen skal males i original bl� farve.</li>
+	<li>Gennemt�ring i d�rstolper (2 steder af 3x3cm) skal ordnes.</li>
+<li>Evt. udskiftning af fjedre og st�dd�mpere.</li>
+</ol>		
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>Hjemturen:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">Vi havde forud k�bt busbilletter til hjemturen, som afgik kl. 15. P� vejen hjem 
+gik der mange tanker gennem mit hoved. Hvad var det egentligt jeg havde rodet 
+mig ud i og vil jeg nogensinde se bilen igen? P� den anden side forestillede jeg 
+mig hvor flot den vil v�re, n�r jeg skulle afhente den. Til og med uden 
+rust. Efter en problemfri hjemtur ankom vi til K�benhavn kl. 23.30. Vi havde kun v�ret 
+hjemme fra i sm� 30 timer og det var g�et som smurt og i henhold til det 
+aftalte. Nu t�ller jeg dagene og tjekker mail et par gange om dagen!<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+</table>
+
+<table border="0" cellpadding="5" cellspacing="1" width="100%">
+  <tr>
+    <td colspan="5"><h5>F�r-billeder</h5></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0101.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0101t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0102.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0102t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0103.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0103t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0104.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0104t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0105.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0105t.jpg" width="128" height="96"></a></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="100%">
+  <tr>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0106.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0106t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0107.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0107t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0108.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0108t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0109.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0109t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0110.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0110t.jpg" width="128" height="96"></a></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="100%">
+  <tr>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0111.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0111t.jpg" width="128" height="96"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0112.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0112t.jpg" width="128" height="96"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0113.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0113t.jpg" width="128" height="96"></a></td>
+    <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0114.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0114t.jpg" width="128" height="96"></a></td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">&nbsp;</a></td>
+    <td width="25%" align="center">&nbsp;</a></td>
+    <td width="25%" align="center">&nbsp;</a></td>
+    <td width="25%" align="center">&nbsp;</a></td>
+  </tr>
+</table>
+<hr>
+<table border="0" cellpadding="5" cellspacing="1" width="100%">
+  <tr>
+    <td colspan="5"><h5>F�rste s�t billeder fra Polen</h5>
+	<p>S� er er billeder fra Polen.<br>
+	De er godt i gang - billederne er stort set selv 
+	forklarende. De har slebet rust langs siderne af karosseriet, sk�ret rust 
+	bort fra bagsk�rmene, afmonteret kofanger &amp; d�re mm. Ogs� varmeapparatet 
+	er i bedring.<br>
+	S� vidt jeg kan bed�mme, har de ikke fundet nogen 
+	overraskelser.</p>
+	</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0201.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0201t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0202.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0202t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0203.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0203t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0204.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0204t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0205.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0205t.jpg" width="128" height="96"></a></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="100%">
+  <tr>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0206.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0206t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0207.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0207t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0208.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0208t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0209.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0209t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0210.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0210t.jpg" width="128" height="96"></a></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="100%">
+  <tr>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0211.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0211t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0212.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0212t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0213.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0213t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0214.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0214t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0215.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0215t.jpg" width="128" height="96"></a></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+  </tr>
+</table>
+<table border="0" width="100%">
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>S� kom den store dag!:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">
+		<p>Bilen var klar og skulle afhentes torsdag den 13. April. Vi havde en 
+		aftale med Monika kl. 13.30, igen ved SAS hotellet.<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>M�destedet:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">
+		<p>Vi ankom til hotellet allerede kl. 13 og jeg ringede til Monika. Hun 
+		kom efter 20 minutter og fortalte at bilen var klar. Den var parkeret i 
+		k�lderen under hotellet.<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>Gensynet:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">
+		<p>Jeg havde lyst til at hoppe op og ned, da jeg s� den. Det var jo en 
+		ny bil! Jeg var rundt om den og inde i den tall�se gange. Det var et 
+		meget flot stykke arbejde, som var lavet.<ul>
+			<li>nye paneler</li>
+			<li>nye sk�rmkanter</li>
+			<li>hel lakering</li>
+			<li>sele strammere</li>
+			<li>nyt varme apparat</li>
+		</ul>
+		<p>Et kig ned i motorrummet var et smukt syn.<p>Jeg bem�rkede et par 
+		sm�ting, som ikke var aftalt men lavet:<br>
+		Klappen til benzin p�fyldningen havde gabt 4-5 mm., det havde de lige 
+		set og ordnet.<br>
+		Det indvendige d�rgreb havde set bedre dage og kunne f�r g� delvist 
+		l�st, det havde de lige set og ordnet.<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>V�rkstedet:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">
+		<p>Vi havde et renoveret f�rers�de med, som jeg gerne ville have sat i. 
+		Monika tilb�d, at vi k�rte ud til v�rkstedet for at f� det ordnet. Som 
+		sagt, s� gjort, Ved ankomsten rullede vi ind p� v�rkstedet og 
+		mekanikerne fik ordnet det p� f� minutter.<br>
+		Med Monikas hj�lp fik jeg spurgt til undervognen og stuens gulv med 
+		hensyn til rust. Den �ldre mekaniker garanterede mig, at der ikke var 
+		rust nogen steder. De havde noteret sig, at den rustbehandlingen som 
+		bilen havde f�et i efter�ret tr�ngte til en delvis opfriskning � og det 
+		havde de s� ordnet.<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>Afregning:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">
+		<p>Efterf�lgende k�rte vi i min &quot;nye&quot; bil tilbage mod Stettins centrum 
+		og Monikas kontor for at ordne afregningen. Ved ankomsten blev vi budt 
+		p� kaffe og regningen blev skrevet. Prisen l� indenfor rammerne af den 
+		oprindelige aftale og var pr�cist det, som var blevet telefonisk aftalt 
+		4 dage tidligere.<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>Ud af byen:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">
+		<p>Vi var noget usikre med hensyn til at komme den rigtige vej ud af 
+		Stettin og fange landevejen til Pasewalk. Monika tilb�d at k�re med til 
+		byens udkant. Adspurgt om, hvordan hun s� ville komme tilbage til 
+		kontoret svarede hun; &quot;Du er min kunde og dette er min by.&quot; Som sagt s� 
+		gjort. Vi satte hende af i udkanten af byen og takkede for god 
+		behandling.<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>Hjemturen:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">
+		<p>Turen hjem forl�b i god ro og orden med autobahn hastighed. F�rgen i 
+		Rostock afgik kl. 19 og vi var i K�benhavn igen kl. 22.30 � med varme i 
+		bilen! Ved hjemkosten var der h�ngt flag p� garagens port! Velkommen 
+		hjem.<br>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2">
+		<h5>Samlet vurdering:</h5>
+		</td>
+	</tr>
+	<tr>
+		<td width="32" valign="top">&nbsp;</td>
+		<td valign="top">
+		<p>Servicen var professionel: konkret, venlig og trov�rdig. Bilen blev 
+		lavet som aftalt (og lidt til) og til aftalt pris og tid.<br>
+&nbsp;</td>
+	</tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="100%">
+  <tr>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0216.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0216t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0217.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0217t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0218.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0218t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0219.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0219t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0220.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0220t.jpg" width="128" height="96"></a></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="100%">
+  <tr>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0221.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0221t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0222.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0222t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0223.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0223t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0224.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0224t.jpg" width="128" height="96"></a></td>
+    <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0225.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0225t.jpg" width="128" height="96"></a></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center">&nbsp;</a></td>
+  </tr>
+</table>
+
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">9</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

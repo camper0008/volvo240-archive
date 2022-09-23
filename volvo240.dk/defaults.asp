@@ -1,0 +1,45 @@
+<!-- # include virtual="/common/dbcon.asp"-->
+<!-- # include virtual="/common/logme.asp"-->
+
+<HTML>
+    <HEAD>
+        <META NAME="Description" CONTENT="Alt om Volvo 200-Serien" />
+        <META NAME="Title" CONTENT="Volvo 200-serien" /><meta charset="utf-8" />
+        <META
+            NAME="Keywords"
+            CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265"
+        />
+        <META NAME="Copyright" CONTENT="volvo240.dk" />
+        <META NAME="Author" CONTENT="Finn Kruse" />
+        <META NAME="Rating" CONTENT="safe for kids" />
+        <META NAME="Revisits" CONTENT="10" />
+        <META NAME="ROBOTS" CONTENT="ALL" />
+        <META NAME="Distribution" CONTENT="Global" />
+        <META NAME="Classification" CONTENT="Hobbies" />
+        <META NAME="VW96.objecttype" CONTENT="HOWTO " />
+        <META NAME="GOOGLEBOT" CONTENT="ALL" />
+        <META NAME="ROBOTS" CONTENT="ALL,FOLLOW" />
+        <META NAME="date" CONTENT="2002-07-16" />
+        <META NAME="revisit-after" CONTENT="8 days" />
+        <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA" />
+        <META
+            HTTP-EQUIV="CONTENT-Type"
+            CONTENT="text/html; charset=iso-8859-1"
+        />
+        <META HTTP-EQUIV="Window-Target" CONTENT="_top" />
+        <META HTTP-EQUIV="Expires" CONTENT="0" />
+        <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache" />
+        <META HTTP-EQUIV="Pragma" CONTENT="no-cache" />
+        <META HTTP-EQUIV="imagetoolbar" CONTENT="no" />
+        <META
+            name="verify-v1"
+            content="4SPQKBlJyoo/0LayYo/2inNIwBOjdBJQcdTO9treOkc="
+        />
+
+        <TITLE>Volvo 200-serien</TITLE>
+    </HEAD>
+
+    <body>
+        <p align="center"><img border="1" src="/images/last240.jpg" /></p>
+    </body>
+</HTML>

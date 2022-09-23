@@ -1,0 +1,447 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright _ 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Volvo 200 Diesel</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S_g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+<table border="0" width="760" cellpadding="25" cellspacing="0" align="center">
+  <tr>
+    <td>
+
+<table border="1" width="100%" id="table1">
+	<tr>
+		<th width="100%" align="left" colspan="2">Motor</th>
+	</tr>
+	<tr>
+		<td width="100%" colspan="2">Sekscylindret r_kkedieselmotor med 
+		hvirvelkammer og gl_der_rsforvarmning. Krumtapaksel i syv lejer. 
+		Tandremsdrevet overliggende knastaksel. Topstykke i letmetal. 
+		Knastakseldreven vacuumpumpe til bremseservo.</td>
+	</tr>
+	<tr>
+		<th width="100%" align="left" colspan="2">Sm_resystem</th>
+	</tr>
+	<tr>
+		<td width="100%" colspan="2">Oliepumpe af Cresent-type i 
+		cylinderblokkens forkant, drevet direkte af krumtapakselen. Olievolumen: 
+		6 liter excl. filter.</td>
+	</tr>
+	<tr>
+		<th width="100%" align="left" colspan="2">K_lesystem</th>
+	</tr>
+	<tr>
+		<td width="100%" colspan="2">Frostbeskyttet og lukket Volumen: 9,5 
+		liter. Tandremmen driver vandpumpen, som tillige virker som remstrammer. 
+		Fast ventilator.</td>
+	</tr>
+	<tr>
+		<th width="100%" colspan="2" align="left">Luftfilter</th>
+	</tr>
+	<tr>
+		<td width="100%" colspan="2">Luftfilter og indsugnings lydd_mper er 
+		monteret p_ karrosseriet og oph_ngt i gummi. Udskiftelig filter indsats.</td>
+	</tr>
+	<tr>
+		<th width="100%" colspan="2" align="left">Elsystem</th>
+	</tr>
+	<tr>
+		<td width="100%" colspan="2">12 V/90 Ah batteri. 55 A 
+		vekselstr_msgenerator. Startmotor: 2,7 hk (2 kW).</td>
+	</tr>
+	<tr>
+		<th width="100%" colspan="2" align="left">Br_ndstoftank</th>
+	</tr>
+	<tr>
+		<td width="100%" colspan="2">Rumindhold: 60 liter. Sikkerheds-placeret 
+		ved bagakselen.</td>
+	</tr>
+	<tr>
+		<th width="100%" colspan="2" align="left">Transmission</th>
+	</tr>
+	<tr>
+		<td width="100%" colspan="2">Kobling af solfjedertype. Gearkassen (M 45) 
+		har fire trin og er fuldsynkroniseret. 1. gears udveksling _ndret fra 
+		3,71:1 til 4,03:1 for dieselvogne. Kan leveres med overgear (M 46) som 
+		aktiveres fra 4. gear. Automatisk gearkasse (BW 55) kan leveres som 
+		alternativ.</td>
+	</tr>
+	<tr>
+		<th width="100%" colspan="2" align="left">Styret_j</th>
+	</tr>
+	<tr>
+		<td width="100%" colspan="2">Tandstangskonstruktion. Delt rataksel af 
+		sikkerhedstype. Servoassisteret styring er standardudrustning p_ 
+		GL-typer.</td>
+	</tr>
+	<tr>
+		<th width="100%" colspan="2" align="left">Hjuloph_ng</th>
+	</tr>
+	<tr>
+		<td width="100%" colspan="2">P_ forhjul fjederben. Bagakselen er udelt 
+		og oph_ngt i langsg_ende b_rearme i gummilejer. Dertil kommer to 
+		momentst_nger og tv_rstang.</td>
+	</tr>
+	<tr>
+		<th width="100%" colspan="2" align="left">Bremsesystemet</th>
+	</tr>
+	<tr>
+		<td width="100%" colspan="2">To bremsekredse - hver kreds virker p_ 
+		begge forhjul og et af baghjulene. Kobberlegerede bremser_r. 
+		Skivebremser p_ alle hjul. Bremseservo. En reduktionsventil i hver kreds 
+		forhindrer baghjulene i at blokere f_r forhjulene ved kraftig 
+		opbremsning. Hovedbremsecylinder i todelt kammer og med to trins stempel. 
+		Parkeringsbremse virker p_ baghjulene via separate tromlebremser.</td>
+	</tr>
+	<tr>
+		<th width="100%" colspan="2" align="left">Instrumentpanelet</th>
+	</tr>
+	<tr>
+		<td width="100%" colspan="2">Polstret og uden fremspring. Indstillelig 
+		instrumentbelysning. 6-cifret kilometert_ller med tript_ller, 
+		br_ndstofm_ler og k_lev_sketermometer. Indikerings lampe til 
+		gl_deautomatik. Advarselslamper til opladning, olietryk, fjernlys, 
+		parkeringsbremse og bremsekredsfejl. Lygtekontrol. Lyd- og lyssignal til 
+		blinklys. Handskerumsbelysning. Kombineret rat- og t_ndingsl_s. 
+		Midterkonsol har kontakter til el opvarmet bagrude og katastrofeblink. 
+		Lampe til selehukommelse. Kontakter til varme- og ventilationsanl_g. 
+		Cigart_nder, askeb_ger og plads til radio.</td>
+	</tr>
+	<tr>
+		<th width="100%" colspan="2" align="left">_vrig udrustning</th>
+	</tr>
+	<tr>
+		<td width="100%" colspan="2">Stilkkontakt til blinklys, fjern- og n_rlys 
+		samt oyerhalingsblink. Stilkkontakt til visker med to hastigheder, 
+		intervalvisker samt elektrisk forrudevasker. (Herreg_rdsvognen har 
+		tilmed visker og vasker p_ bagruden.) Forlygtevisker og -vasker. 
+		Halogenlamper. Automatisk k_relys. Automatiske baklygter. 
+		Nakkebeskyttere og rulleseler p_ forstolene. P_ bags_det to rulleseler 
+		og en hoftesele. El opvarmet f_rerstol. &quot;High impact&quot; lamelglas i 
+		forruden. Polstrede solsk_rme. Udvendige sidespejle med indvendig 
+		regulering. Bl_ndfrit bakspejl af sikkerhedstype. B_rnel_s p_ bagd_re. 
+		Bugserkrog for og bag.</td>
+	</tr>
+	<tr>
+		<td width="100%" colspan="2">&nbsp;</td>
+	</tr>
+	<tr>
+		<th width="100%" colspan="2" align="left">Motor:</th>
+	</tr>
+	<tr>
+		<td width="24%">Typekode</td>
+		<td width="867">D24</td>
+	</tr>
+	<tr>
+		<td width="24%">Motortype</td>
+		<td width="867">6-cyl. diesel/r_kke</td>
+	</tr>
+	<tr>
+		<td width="24%">Cylindervolumen cm<sup>3</sup></td>
+		<td width="867">2383</td>
+	</tr>
+	<tr>
+		<td width="24%">Maks. ydeevne hk DIN v. o/m </td>
+		<td width="867">82/4800</td>
+	</tr>
+	<tr>
+		<td width="24%">Maks. drejningsmoment Nm DIN v. o/m</td>
+		<td width="867">140/2820</td>
+	</tr>
+	<tr>
+		<td width="24%">Kompression</td>
+		<td width="867">23:1</td>
+	</tr>
+	<tr>
+		<td width="24%">Ventilsystem</td>
+		<td width="867">Tandremsdreven, overliggende knastaksel. Ventilsystem 
+		som p_ B 21</td>
+	</tr>
+	<tr>
+		<th width="24%" align="left">Sm_rresystem</th>
+		<th width="867" align="left">&nbsp;</th>
+	</tr>
+	<tr>
+		<td width="24%">Volumen</td>
+		<td width="867">6 liter excl. filter</td>
+	</tr>
+	<tr>
+		<th width="24%" align="left">K_lesystem</th>
+		<th width="867" align="left">&nbsp;</th>
+	</tr>
+	<tr>
+		<td width="24%">Frostbeskyttet og lukket</td>
+		<td width="867">Volumen: 9,5 liter</td>
+	</tr>
+	<tr>
+		<th width="24%" align="left">Elsystem</th>
+		<th width="867" align="left">&nbsp;</th>
+	</tr>
+	<tr>
+		<td width="24%">Batteri</td>
+		<td width="867">12 V/90 Ah</td>
+	</tr>
+	<tr>
+		<td width="24%">Vekselstr_msgenerator</td>
+		<td width="867">55 A</td>
+	</tr>
+	<tr>
+		<td width="24%">Startmotor</td>
+		<td width="867">2,7 hk (2kW)</td>
+	</tr>
+	<tr>
+		<th width="24%" align="left">Transmission</th>
+		<th width="867" align="left">&nbsp;</th>
+	</tr>
+	<tr>
+		<td width="24%">Manuel gearkasse</td>
+		<td width="867">M 45 - 4 trins (DL/Gl )<br>
+		M 46 - 4 trins + el overgear (GL)</td>
+	</tr>
+	<tr>
+		<td width="24%">Automatisk gearkasse</td>
+		<td width="867">BW 55 - 3-trins momentforst_rker (DL/GL) </td>
+	</tr>
+	<tr>
+		<th width="24%" align="left">Br_ndstoftank</th>
+		<th width="867" align="left">&nbsp;</th>
+	</tr>
+	<tr>
+		<td width="24%">Sikkerhedsplaceret v. bagaksel</td>
+		<td width="867">Volumen: 60 liter </td>
+	</tr>
+	<tr>
+		<th width="24%" align="left">Styret_j</th>
+		<th width="867" align="left">&nbsp;</th>
+	</tr>
+	<tr>
+		<td width="24%">Delt rataksel af sikkerhedstype</td>
+		<td width="867">Udveksling: servo 17,3:1<br>
+		manuel 21.4:1</td>
+	</tr>
+	<tr>
+		<td width="24%">Ratomdrejninger mellem fulde hjuludslag</td>
+		<td width="867">servo: 3,5<br>
+		manuel: 4,3</td>
+	</tr>
+	<tr>
+		<td width="24%">Vendediameter - yderside af d_k</td>
+		<td width="867">9,8 m</td>
+	</tr>
+	<tr>
+		<th width="24%" align="left">Hjuloph_ng</th>
+		<th width="867" align="left">&nbsp;</th>
+	</tr>
+	<tr>
+		<td width="24%">Forhjul</td>
+		<td width="867">Fjederben</td>
+	</tr>
+	<tr>
+		<td width="24%">Baghjul</td>
+		<td width="867">Stiv bagaksel</td>
+	</tr>
+	<tr>
+		<th width="24%" align="left">Bremser</th>
+		<th width="867" align="left">&nbsp;</th>
+	</tr>
+	<tr>
+		<td width="24%">Forhjul/baghjul</td>
+		<td width="867">Skiver</td>
+	</tr>
+	<tr>
+		<th width="24%" align="left">Bagagerum -244</th>
+		<th width="867" align="left">&nbsp;</th>
+	</tr>
+	<tr>
+		<td width="24%">Volumen </td>
+		<td width="867">615 dm3</td>
+	</tr>
+	<tr>
+		<td width="24%">M_lt med SAE tasker</td>
+		<td width="867">395 dm3</td>
+	</tr>
+	<tr>
+		<th width="24%" align="left">Lastrum -245</th>
+		<th width="867" align="left">&nbsp;</th>
+	</tr>
+	<tr>
+		<td width="24%">Med rejst bags_de</td>
+		<td width="867">Volumen: ca. 1,2 m3</td>
+	</tr>
+	<tr>
+		<td width="24%">Med s_nket bags_de</td>
+		<td width="867">Volumen: ca. 2,15 m3</td>
+	</tr>
+	<tr>
+		<td width="24%">Ekstrarum </td>
+		<td width="867">ca 59 dm3</td>
+	</tr>
+	<tr>
+		<td width="24%">Bagklap</td>
+		<td width="867">maks. bredde 1160 mm</td>
+	</tr>
+	<tr>
+		<td width="24%">&nbsp;</td>
+		<td width="867">&nbsp;</td>
+	</tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf_j til foretrukne">F_j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

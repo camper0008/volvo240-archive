@@ -1,0 +1,496 @@
+
+
+<html>
+<HEAD>
+    <META chrset="UTF-8">
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright � 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;D�k</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="S�g" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+<table border="0" width="760" cellpadding="25" cellspacing="0" align="center">
+  <tr>
+    <td>
+    
+<h2>D�kkets st�rrelse</h2>
+    
+<p>D�kkets st�rrelse angives som bredde/h�jde type f�lgdiameter
+belastningskode hastighedskode.<br>
+Eks: <b> 185/70 14 88 T</b></p>
+<table border="1" cellpadding="5" cellspacing="0" width="600" align="center">
+  <thead>
+  <tr>
+    <td colspan="2" align="left" valign="top">Beskrivelser</td>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <th width="66" align="left" valign="top">Bredde</th>
+    <td>Bredde er afstanden mellem de ydre d�ksider udtrykt i mm. (b p� figuren)</td>
+  <tr>
+    <th width="66" align="left" valign="top">H�jde</th>
+    <td>H�jden er afstanden fra f�lgens kant til slidbanens
+      yderside udtrykt som procent af bredden. (h p� figuren). P� et 185/70 er
+      h�jden s�ledes 70% af 185 mm = 130 mm.<br>
+      Hvis intet st�r angivet, er h�jden 82% af bredden.</td>
+  </tr>
+  <tr>
+    <th width="66" align="left" valign="top">Type</th>
+    <td>Type er i dag n�sten altid R for Radial.</td>
+  </tr>
+  <tr>
+    <th width="66" align="left" valign="top">F�lgdiameter</th>
+    <td>F�lgens diameter udtrykkes i tommer.</td>
+  </tr>
+  <tr>
+    <th width="66" align="left" valign="top">Belastningskode</th>
+    <td>Denne kode angiver den st�rste belastning for et d�k ved den hastighed, der 
+svarer til hastighedskoden.</td>
+  </tr>
+  <tr>
+    <th width="66" align="left" valign="top">Hastighedskode</th>
+    <td>Angiver d�kket max. hastighed.<br>
+      De mest almindelige symboler er:&nbsp;
+      <table border="1" cellpadding="0" cellspacing="0" width="250">
+        <tr>
+          <td width="25" align="center"><b>Q</b></td>
+          <td width="100">&nbsp;&nbsp;&lt;160 kh/t</td>
+          <td width="25" align="center"><b>T</b></td>
+          <td width="100">&nbsp;&nbsp;&lt;190 km/t</td>
+        </tr>
+        <tr>
+          <td width="25" align="center"><b>H</b></td>
+          <td width="100">&nbsp;&nbsp;&lt;210 km/t</td>
+          <td width="25" align="center"><b>V</b></td>
+          <td width="100">&nbsp;&nbsp;&lt;240 km/t</td>
+        </tr>
+        <tr>
+          <td width="25" align="center"><b>W</b></td>
+          <td width="100">&nbsp;&nbsp;&lt;270 km/t</td>
+          <td width="25" align="center"><b>Y</b></td>
+          <td width="100">&nbsp;&nbsp;&lt;300 km/t</td>
+        </tr>
+        <tr>
+          <td width="25" align="center"><b>ZR</b></td>
+          <td width="100">&nbsp;&nbsp;&gt;240 km/t</td>
+          <td width="25" align="center"><b>&nbsp;</b></td>
+          <td width="100">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
+<br>
+<p align="center">
+<img border="2" src="/240info/technic/tires/images/240_tires_01.gif">
+</p>
+<p>&nbsp;</p>
+<table border="1" cellpadding="0" cellspacing="0" width="503" align="center">
+  <caption>Beregningseksempel p� <b>185/70 14 88 T</b></caption>
+  <tr>
+    <th width="117" align="left">Bredde</th>
+    <td width="25" align="center">b</td>
+    <td width="37" align="center">185</td>
+    <td width="314">185 mm</td>
+  </tr>
+  <tr>
+    <th width="117" align="left">H�jde</th>
+    <td width="25" align="center">h</td>
+    <td width="37" align="center">70</td>
+    <td width="314">129,5 mm</td>
+  </tr>
+  <tr>
+    <th width="117" align="left">F�lgdiameter</th>
+    <td width="25" align="center">d</td>
+    <td width="37" align="center">14</td>
+    <td width="314">355,6 mm</td>
+  </tr>
+  <tr>
+    <th width="117" align="left">Belastningskode</th>
+    <td width="25" align="center">&nbsp;B</td>
+    <td width="37" align="center">88</td>
+    <td width="314">&nbsp;560 Kg</td>
+  </tr>
+  <tr>
+    <th width="117" align="left">Hastighedskode</th>
+    <td width="25" align="center">&nbsp;H</td>
+    <td width="37" align="center">T</td>
+    <td width="314">&nbsp;&lt;190 km/t</td>
+  </tr>
+  <tr>
+    <th width="117" align="left">Diameter</th>
+    <td width="25" align="center">D</td>
+    <td width="37" align="center">&nbsp;</td>
+    <td width="314">2 * h + d = 2 * 129,5 + 355,6 = 614,6 mm</td>
+  </tr>
+  <tr>
+    <th width="117" align="left">Omkreds</th>
+    <td width="25" align="center">O</td>
+    <td width="37" align="center">&nbsp;</td>
+    <td width="314">D * pi = 3.14 * 614,6 = 1931 mm</td>
+  </tr>
+</table>
+<br>
+<h2>Lovkrav om d�k�ndringer</h2>
+D�kkets omkreds m� ikke afvige mere end 5% fra omkredsen p� den type godkendte d�komkreds.<br>
+Det g�lder ogs� hvis f�lgdiameteren �ndres.<br>
+Dvs. st�rste tilladte omkreds er: 2028 mm<br>
+og mindste omkreds er: 1835<br>
+
+<A href="/240info/technic/tires/tirecalc.asp" onclick="window.open( '/240info/technic/tires/tirecalc.asp','','height=240,width=320,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false">D�kst�relse beregninger</A>
+
+<p>&nbsp;</p>
+<h2>Hjul og d�k � vigtige for bilens k�reegenskaber!</h2>
+<p>Bilens gode k�reegenskaber kan forandres m�rkbart, hvis man f. eks. ikke holder det korrekte d�ktryk.</p>
+<h2>Generelt om hjul og d�k</h2>
+<p>Volvo 240 modellerne er fra fabrikken forsynet med  radiald�k i f�lgende dimensioner:</p>
+
+<table border="1" cellpadding="5" cellspacing="0" width="600" align="center">
+  <tr><thead>
+    <th width="300" colspan="2">2/4-d�res modeller</th>
+    <th width="300" colspan="2">5 d�rs modeller</th>
+  </thead>
+  <tr><tbody>
+    <th width="150" align="left">240, 240 GL</td>
+    <td width="150" align="left">175 SR 14</td>
+    <th width="150" align="left">240, 240 GL</td>
+    <td width="150" align="left">185 SR 14</td>
+  </tr>
+  <tr>
+    <th width="150" align="left">GLE, GLT</th>
+    <td width="150" align="left">185/70 TR 14</td>
+    <th width="150" align="left">GLE, GLT</th>
+    <td width="150" align="left">185 HR 14</td>
+  </tr>
+  <tr>
+    <th width="150" align="left">Turbo</th>
+    <td width="150" align="left">195/60 HR 15</td>
+    <th width="150" align="left">Turbo</th>
+    <td width="150" align="left">195/60 HR 15</td>
+  </tbody>
+</table>
+
+<p>Visse varianter af 5-d�res modellen har d�k med betegnelsen 185 SR 14 R, hvor det sidste bogstav R st�r for Reinforced = forst�rket. Hvis De skifter d�k: Pas p� at De f�r d�k med samme dimension (betegnelse) og helst ogs� af samme fabrikat p� alle fire hjul, da der ellers er risiko for, at bilens k�reegenskaber �ndres.</p>
+
+<p>&nbsp;</p>
+<h2>D�kslidtage</h2>
+<p>Min. m�nsterdybde er 1,6 mm, m�lt p� den <b>midterste 3/4 dele af slidbanen</b>. D.v.s. de yderste 12,5 % i hver side ikke t�ller med ved m�ling af m�nsterdybde. Derudover er det et lovkrav at d�kkene er med slidindikator. P� visse steder i bunden af m�nsteret er der en lille "klods". Den er 1,6 mm h�j, d.v.s. n�r d�kket er slidt ned til klodsen er det p� minimum.</p>
+<p>T�nk p�, at d�k med lille m�nsterdybde har meget d�rligt vejgreb i regn og sne, hvilket forringer sikkerheden betydeligt.<br>
+Ved vinterk�rsel anbefales det at m�nsterdybde er min. 3 mm.</p>
+<h2>S�ledes kan man undg� un�dig d�kslitage</h2>
+<ul>
+  <li><p>Hold de korrekte d�ktryk.</li>
+  <li><p>K�r j�vnt. Undg� h�rde igangs�tninger, h�rd kurvek�rsel og h�rde opbremsninger.</li>
+  <li><p>T�nk p�, at h�j hastighed slider meget p� d�kkene.</li>
+  <li><p>Skift ikke hjulene om indbyrdes.</li>
+  <li><p>K�r ikke med forkert hjulindstilling.</li>
+  <li><p>F� hjulene afbalanceret, hvis det er n�dvendigt.</li>
+  <li><p>Pas p� d�kkene ved parkering ind til en fortovskant.</li>
+</ul>
+<p align="center"><img border="2" src="/240info/technic/tires/images/240_tires_02.gif">
+<h2>&quot;Morgensyge&quot;</h2>
+<p>Alle d�k bliver varme under k�rsel. N�r d�kkene derefter k�les af, mens man parkerer, deformeres d�kkene mod underlaget. Det bety�der, at de f�r hver et fladt punkt. Denne deformation kan man kalde for "Morgensyge" og den kan for�rsage lidt vibrationer og ubalance, indtil d�kkene er varmet op. De forskellige d�ktyper har mere eller mindre tendens til "Morgensyge" p� grund af de forskellige typer materiale i d�kket.<br>
+l koldt vejr tager det naturligvis l�ngere tid, inden d�kkene bliver varme og vibrationerne forsvinder.</p>
+<h2>Pigd�k, snek�der</h2>
+<p><b>Pigd�k</b> skal tilk�res 500-1000 km med j�vn fart, s�ledes at piggene s�tter sig rigtigt i d�kkene. Det vil give d�kkene og piggene en l�ngere levetid. Lad d�kkene k�re med samme rotationsretning i hele deres levetid.<br>
+Hvis De vil skifte hjulene, skal De lade hjulet sidde p� samme side som tidligere.<br>
+<b>Snek�der</b> kan s�ttes p� bilens <b> baghjul</b> hvis k�derne har fine led, som ikke g�r s� langt ud fra d�kket, at de kan skrabe mod bremse�gene eller andre dele.<br>
+Volvo-forhandleren har godkendte Volvo-konstruerede snek�der!<br>
+Bem�rk! Man m� ikke k�re hurtigere end 60 km/t med snek�der!<br>
+K�r ikke p� rene veje mere end h�jst n�dvendigt, da det slider meget h�rdt p� snek�der og d�k.<br>
+De s�kaldte &quot;<b>Snabbl�nkar</b>&quot; m� ikke bruges, da afstanden mellem skivebremserne og hjulene er for lille.</p>
+<table border="1" cellpadding="5" cellspacing="0" width="700" align="center">
+  <tr>
+    <td>
+    <h2>ADVARSEL!</h2>
+    <h2>Speclalf�lge</h2>
+<p>De eneste godkendte specialf�lge til Deres Volvo, er de letmetalf�lge som er afpr�vet p� Volvo-fabrikken og som s�lges gennem Volvo-forhandlerne.</p>
+<h2>Spoiler</h2>
+<p>Hvis Deres bil er forsynet med spoiler p�virkes k�leluftstr�mmen til forhjulsbremserne. Spoiler m� derfor kun anvendes sammen med letmetalf�lge af Volvos fabrikat, eller med st�lf�lge model 1980 eller senere og ventilerede bremseskiver (sp�rg Deres Volvo-forhandler, hvis De er i tvivl).</p>
+    </td>
+  </tr>
+</table>
+
+<h2>Lufttrykket i d�kkene er vigtigt!</h2>
+<p>Kontroller lufttrykket i d�kkene ved hver tankning!<br>
+Det korrekte tryk kan findes i tabellen til herunder.<br>
+Hvis man k�rer med forkert d�ktryk, kan man forringe bilens gode k�reegenskaber m�rkbart og desuden �ges d�kslitagen.<br>
+T�nk p� at v�rdierne i tabellen er beregnet p� kolde d�k. Allerede efter nogle kilometers k�rsel, bliver d�kkene varme og trykket �ges. Dette er normalt og man skal alts� ikke s�nke trykket, hvis dette kontrolleres mens d�kkene er varme. Derimod kan man �ge trykket, hvis det er for lavt.<br>
+Ved varme d�k g�lder 10-30 kPa (1,5-4 psi) h�jere v�rdier afh�ngigt af temperaturen.</p>
+<h2>Lufttryk l d�k, kPa (100 kPa = 1 kp/cm2)</h2>
+
+<table border="1" cellpadding="0" cellspacing="0" width="500" align="center">
+  <thead><tr>
+    <td width="150" rowspan="2">Bilmodel</td>
+    <td width="150" rowspan="2">D�k</td>
+    <td width="150" colspan="2">1-3 personer</td>
+    <td width="150" colspan="2">Fuld last</td>
+  </tr>
+  <tr>
+    <td width="75">For</td>
+    <td width="75">Bag</td>
+    <td width="75">For</td>
+    <td width="75">Bag</td>
+  </tr></thead>
+  <tbody><tr>
+    <th width="150">240, GL</th>
+    <td width="150">175 R 14</td>
+    <td width="75">180</td>
+    <td width="75">190</td>
+    <td width="75">180</td>
+    <td width="75">220</td>
+  </tr>
+  <tr>
+    <th width="150">GLE, GLT, Turbo</th>
+    <td width="150">185/70 R 14<br>195/60 R 15</td>
+    <td width="75">180</td>
+    <td width="75">190</td>
+    <td width="75">190</td>
+    <td width="75">230</td>
+  </tr>
+  <tr>
+    <th width="150">5-d�res, model</th>
+    <td width="150">185 R 14<br>185 R 14 R<br>195/60 R 15</td>
+    <td width="75">190<br>190<br>180</td>
+    <td width="75">210<br>210<br>210</td>
+    <td width="75">200<br>200<br>180</td>
+    <td width="75">280<br>300<br>280</td>
+  </tr>
+  <tr>
+    <th width="300" colspan="2">Reserved�k &quot;Special Spare&quot;</th>
+    <td width="75">280</td>
+    <td width="75">280</td>
+    <td width="75">280</td>
+    <td width="75">280</td>
+  </tbody></tr>
+</table>
+<p>
+Hvis man skal k�re l�nge med h�j hastighed (mere end en time over 120 km/t), b�r man �ge d�ktrykket med ca. 30 kPa.<br>
+Bem�rk! <b> Dette g�lder ikke reservehjulet "Special Spare&quot;</b>, l dette hjul skal lufttrykket altid v�re 280 kPa.</p>
+<p>&nbsp</p>
+
+<table border="1" cellpadding="5" cellspacing="0" width="600" align="center">
+  <thead><tr>
+    <td colspan="2" width="598">
+    <p align="center">D�KKETS V�RSTE FJENDER</td>
+  </tr></thead>
+  <tbody><tr>
+    <th width="25" valign="top" align="center">1</th>
+    <td width="575"><b>For lidt lufttryk:</b><br>
+D�kket bliver slidt uregelm�ssigt, der er fare for b�ltel�sning og d�kspr�ngning! 
+I tilf�lde af l�ngere tids k�rsel med for lidt luft kan der komme m�rke skygger 
+    indvendigt p� d�ksiden, som et forvarsel til en senere separation i d�kket.</td>
+  </tr>
+  <tr>
+    <th width="25" valign="top" align="center">2</th>
+    <td width="575"><b>For h�jt lufttryk:</b><br>
+�ldre d�ktyper (80-serie) slides p� midten af slidbanen, hurtigere nedslidning. 
+Lavprofild�k kr�ver derimod ofte et lidt h�jere d�ktryk for at slides j�vnt.</td>
+  </tr>
+  <tr>
+    <th width="25" valign="top" align="center">3</th>
+    <td width="575"><b>Manglende d�kkontrol:</b><br>
+D�k skal kontrolleres grundigt hver 14. dag. Slidbanen kontrolleres for uj�vnt 
+slid og eventuelle fremmedlegemer. Lufttrykket kontrolleres ved kolde d�k! 
+Mister d�kket luft, s� skal d�kket kontrolleres hos en fagmand.</td>
+  </tr>
+  <tr>
+    <th width="25" valign="top" align="center">4</th>
+    <td width="575"><b>Overk�rsel af kantsten i spids vinkel:</b><br>
+    D�kket kan f� klemt sidev�ggen og er dermed �delagt karkassen. D�kspr�ngning 
+    er dermed forprogrammeret.</td>
+  </tr>
+  <tr>
+    <th width="25" valign="top" align="center">5</th>
+    <td width="575"><b>Hurtig k�rsel over h�jt placerede kloakd�ksler og vejhuller:</b><br>
+D�kket bliver klemt og derved �delagt. Der kan opst� brud i d�kket, resultat: 
+D�kspr�ngning.</td>
+  </tr>
+  <tr>
+    <th width="25" valign="top" align="center">6</th>
+    <td width="575"><b>K�rsel med d�rlige st�dd�mpere:</b><br>
+Markant �get d�kslid, ofte med punktvis slidtage af d�kket. </td>
+  </tr>
+  <tr>
+    <th width="25" valign="top" align="center">7</th>
+    <td width="575"><b>K�rsel med forkert sporing: (toe-in)</b><br>
+Markant �get d�kslid, ofte med uregelm�ssigt slid af d�km�nsteret. </td>
+  </tr>
+  <tr>
+    <th width="25" valign="top" align="center">8</th>
+    <td width="575"><b>K�rsel med forkert styrt�jsindstilling: (camber)</b><br>
+Markant �get d�kslid, ofte p� den ene skulder.</td>
+  </tr>
+  <tr>
+    <th width="25" valign="top" align="center">9</th>
+    <td width="575"><b>Nedbremsning med blokering:</b><br>
+D�kket f�r mere eller mindre et fladt punkt, som ikke kan repareres! Komforten 
+bliver ringere, og i visse tilf�lde er d�kket ikke l�ngere anvendeligt.</td>
+  </tr>
+  <tr>
+    <th width="25" valign="top" align="center">10</th>
+    <td width="575"><b>Reng�ring af d�k med h�jtryks-dampspuler (70 bar):</b><br>
+D�k kan selv ved anvendelse af koldt vand p� kort afstand blive beskadiget eller 
+�delagt p� f� sekunder. Skaderne viser sig som &quot;brands�r&quot; p� d�ksiden.</td>
+  </tr></tbody>
+</table>
+
+    </td>
+  </tr>
+</table>
+<h6>Udarbejdet med stor hj�lp fra Jes Hebsgaard.</h6>
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

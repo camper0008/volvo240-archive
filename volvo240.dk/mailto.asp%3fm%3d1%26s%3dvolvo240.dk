@@ -1,0 +1,10 @@
+
+
+<html>
+<head>
+</head>
+<body onload="window.location='mailto:fkruse@volvo240.dk?subject=Volvo240.dk';window.self.close();return false">
+
+
+</body>
+</html>

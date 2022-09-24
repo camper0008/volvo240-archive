@@ -1,0 +1,70 @@
+
+
+<HTML>
+<HEAD>
+<TITLE>Syn-</TITLE>
+</HEAD>
+<link rel="stylesheet" type="text/css" href="/common/volvofree.css">
+<BODY>
+
+
+<html>
+
+<head>
+<title>Synet -> Prøvekørsel</title>
+</head>
+
+<body bgcolor="#f0f0f0">
+<table border="0" bordercolor="#f0f0f0" align="center">
+  <tr>
+    <td>
+<table width="590" border=1 align="center">
+<thead>
+  <tr>
+    <td colspan="2" width="588">Prøvekørsel</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th width="150" valign="top" align="left">Bremseprøve</th>
+    <td width="810">
+    <ul>
+      <li>Synsmedarbejderen foretager en bremseprøve under prøvekørslen. Hvis 
+        bremseprøven giver anledning til en udskridning, er dette tegn på en 
+        forkert fordeling af bremsekræfterne.</li>
+      <li>Bilen skal under normale forhold altid blokere forhjulene først. 
+        Sker det modsatte, at baghjulene blokerer først, vil bilen sandsynligvis 
+        skride ud til en af siderne.</li>
+      <li>Fejlen kan opstå hvis de forreste bremseskiver er tilsmudsede eller 
+        angrebet af rust. På biler med en lastafhængig bremseventil, kan fejlen 
+        ofte henføres til forkert justering eller manglende funktion.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <th width="150" valign="top" align="left">Styreapparat</th>
+    <td width="810">
+    <ul>
+      <li>Prøvekørslen har til formål at vise, om styretøjet kan betjenes let, 
+        sikkert og hurtigt. Eventuelle trægheder i hjulophæng eller 
+        styreforbindelser vil kunne bevirke, at bilen ikke retter op efter et 
+        sving.</li>
+    </ul>
+    </td>
+  </tr>
+</tbody>
+</table>
+<p align="right">
+<input type="button" value="Luk" onclick="window.close();">
+    </td>
+  </tr>
+</table>
+
+
+
+</body>
+
+</html>
+
+</BODY>
+</HTML>

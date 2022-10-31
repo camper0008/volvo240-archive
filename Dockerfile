@@ -7,4 +7,3 @@ COPY . /docker
 WORKDIR /docker
 
 RUN npm ci --only=production
-RUN npm run build

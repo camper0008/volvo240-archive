@@ -1,0 +1,9 @@
+services:
+  backend:
+    container_name: volvo240
+    build: ./docker
+    command: "node index.js"
+    depends_on: 
+      - db
+    ports:
+      - "80:8002"

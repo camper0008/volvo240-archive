@@ -53,7 +53,7 @@ func handle(w http.ResponseWriter, r *http.Request) {
 
 func main() {
 	http.HandleFunc("/", handle)
-	fmt.Printf("Listening on port %d\n", 8002)
-	err := http.ListenAndServe(":8002", nil)
+	fmt.Printf("Listening on port %d\n", 8080)
+	err := http.ListenAndServe(":8080", nil)
 	log.Fatalln(err)
 }

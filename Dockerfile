@@ -9,4 +9,5 @@ USER runner
 WORKDIR /home/runner
 COPY --from=builder --chown=runner /src/volvo240_server /home/runner
 COPY --chown=runner volvo240.dk /home/runner/volvo240.dk
+EXPOSE 8080
 CMD ["./volvo240_server"]

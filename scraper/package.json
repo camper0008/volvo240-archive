@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "start": "node dist/main.js",
+        "build": "tsc",
+        "dev": "tsc --watch"
+    },
+    "dependencies": {
+        "@types/node": "^20.5.6",
+        "node-html-parser": "^6.1.10",
+        "sqlite3": "^5.1.6",
+        "typescript": "^5.2.2"
+    }
+}

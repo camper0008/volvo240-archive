@@ -1,0 +1,4 @@
+dist/
+node_modules/
+scraper.db
+errors.txt

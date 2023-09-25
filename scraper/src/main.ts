@@ -1,4 +1,4 @@
-import { mkdir, readdir, readFile } from "fs/promises";
+import { readdir, readFile } from "fs/promises";
 import HTMLParser from 'node-html-parser';
 const sqlite3 = require("sqlite3").verbose();
 
@@ -7,8 +7,6 @@ const sqlite3 = require("sqlite3").verbose();
 // id = id
 // forumid = forumid
 // showsub = show reply
-
-
 
 function fix(value: string | undefined, bad: string): string | null {
     if (!value) {
@@ -20,7 +18,6 @@ function fix(value: string | undefined, bad: string): string | null {
 async function main() {
     console.log(process.cwd() + "/scraper.db")
     const db = new sqlite3.Database(`sqlite://../scraper.db`);
-    await mkdir("chunks").catch(_ => _);
     const dirs = await readdir("../volvo240.dk");
     const base_url = "https://volvo240.dk"
     const dirs_map = dirs

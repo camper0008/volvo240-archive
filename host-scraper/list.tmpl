@@ -1,0 +1,6 @@
+<h1>Forum | {{ .Offset }} - {{ .NextRange }}</h1>
+{{ range .Items }}
+<li><a href="/post?post_id={{ .PostId }}&forum_id={{ .ForumId }}">{{ .Name }}</a></li>
+{{ end }}
+<a href="/list?forum={{ .ForumId }}&offset={{ .PreviousRange }}">previous</a>
+<a href="/list?forum={{ .ForumId }}&offset={{ .NextRange }}">next</a>

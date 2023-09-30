@@ -70,10 +70,6 @@ async function main() {
         rows.shift()?.trim();
         let reply_content = rows.shift()?.trim();
 
-        if (sub_id) {
-            reply_content = reply_content?.split(/Re: .*\n?/).map(str => str.trim()).filter(str => str !== "").join("");
-        }
-
         stmnt.run(forum_id, post_id, sub_id, fix(title, "Emne:"), fix(author, "Navn:"), fix(email, "Email:"), fix(date, "Dato:"), initial_content, reply_content, 0);
 
         return null;

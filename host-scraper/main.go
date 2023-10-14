@@ -66,7 +66,35 @@ type ForumItem struct {
 func forumName(forumId int) string {
 	switch forumId {
 	case 1:
-		return "Test"
+		return "Motor"
+	case 4:
+		return "Volvo-folk imellem"
+	case 5:
+		return "volvo240.dk"
+	case 6:
+		return "Reservedele"
+	case 7:
+		return "Volvo 700 Serien"
+	case 8:
+		return "Volvo Motorsport"
+	case 9:
+		return "Volvo 900 Serien"
+	case 10:
+		return "Gearkasse"
+	case 12:
+		return "Volvo 800 Serien"
+	case 13:
+		return "Forum"
+	case 14:
+		return "Brugerundersøgelse"
+	case 15:
+		return "Om volvo240.dk"
+	case 16:
+		return "Relateret Forum Indlæg"
+	case 17:
+		return "Volvo 200 træf"
+	case 18:
+		return "Volvo 200 Klub"
 	default:
 		return "Ukendt forum"
 	}

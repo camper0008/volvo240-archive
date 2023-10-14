@@ -1,0 +1,9 @@
+.content {
+    max-width: 1000px;
+    margin-inline: auto;
+}
+
+.text-post {
+    white-space: pre-wrap;
+    line-height: 150%;
+}

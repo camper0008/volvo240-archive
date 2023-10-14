@@ -1,5 +1,6 @@
 import { readdir, readFile } from "fs/promises";
 import HTMLParser from 'node-html-parser';
+import { JSDOM } from "jsdom";
 const sqlite3 = require("sqlite3").verbose();
 
 // URL NOTE:
@@ -8,11 +9,45 @@ const sqlite3 = require("sqlite3").verbose();
 // forumid = forumid
 // showsub = show reply
 
-function fix(value: string | undefined, bad: string): string | null {
-    if (!value) {
+function unescape(string: string): string {
+    const DOMParser = new JSDOM().window.DOMParser;
+    return new DOMParser().parseFromString(string, 'text/html').documentElement.textContent ?? "";
+}
+
+function fix(value: string | null | undefined, bad: string, replacement?: string): string | null {
+    if (value === null || value === undefined) {
         return null
     }
-    return value.replace(bad, "").trim();
+    let str = value;
+    while (str.search(bad) !== -1) {
+        str = str.replace(bad, replacement ?? "").trim();
+    }
+    return str;
+}
+
+function fix_iso_8859_encoding(value: string | null): string | null {
+    if (value === null) {
+        return null;
+    }
+    const fixes = [
+        ["&nbsp;", "",],
+    ]
+    const is_fixed = (str: string, bad: string[]) => {
+        return !bad.map(bad => str.search(bad)).some(v => v !== -1);
+    }
+
+    const bad_items = value.matchAll(/&#\d{0,3};/g);
+    for (const bad_item of bad_items) {
+        if (fixes.findIndex(([bad]) => bad === bad_item[0]) === -1)
+            fixes.push([bad_item[0], unescape(bad_item[0])])
+    }
+
+    while (!is_fixed(value, fixes.map(([bad]) => bad))) {
+        for (const [bad, good] of fixes) {
+            value = value.replace(bad, good);
+        }
+    }
+    return value;
 }
 
 async function main() {
@@ -70,7 +105,18 @@ async function main() {
         rows.shift()?.trim();
         let reply_content = rows.shift()?.trim();
 
-        stmnt.run(forum_id, post_id, sub_id, fix(title, "Emne:"), fix(author, "Navn:"), fix(email, "Email:"), fix(date, "Dato:"), initial_content, reply_content, 0);
+        stmnt.run(
+            forum_id,
+            post_id,
+            sub_id,
+            fix_iso_8859_encoding(fix(title, "Emne:")),
+            fix_iso_8859_encoding(fix(author, "Navn:")),
+            fix_iso_8859_encoding(fix(email, "Email:")),
+            fix_iso_8859_encoding(fix(date, "Dato:")),
+            fix_iso_8859_encoding(initial_content ?? ""),
+            fix_iso_8859_encoding(reply_content ?? ""),
+            0
+        );
 
         return null;
     })

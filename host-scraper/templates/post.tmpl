@@ -1,0 +1,15 @@
+{{ define "content" }}
+    <h2><a href="/list?forum={{ .Post.ForumId }}">Tilbage</a></h2>
+    <h1><span class="post-id-info">({{ .Post.ForumTitle }} #{{ .Post.PostId }})</span> {{ .Post.Title }}</h1>
+    <span>{{ .Post.Author }} | {{ .Post.Date }}</span>
+    <p class="text-post">{{ .Post.InitialContent }}</p>
+    {{ if not .Post.ReplyContent }}
+        <hr>
+        <p class="text-post">{{ .Post.ReplyContent }}</p>
+    {{ end }}
+    {{ range .SubPosts }}
+        <hr>
+        <span class="post-id-info">#{{ .SubId }}</span>
+        <p class="text-post">{{ .ReplyContent }}</p>
+    {{ end }}
+{{ end }}

@@ -23,12 +23,14 @@ func max(a int, b int) int {
 }
 
 type List struct {
-	Items         []ListItem
-	Offset        int
-	PreviousRange int
-	NextRange     int
-	ForumId       int
-	Name          string
+	Items        []ListItem
+	Page         int
+	PreviousPage int
+	NextPage     int
+	Limit        int
+	Length       int
+	ForumId      int
+	Name         string
 }
 
 type ListItem struct {
@@ -164,25 +166,26 @@ func forumPostList(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, r *http
 		w.Write([]byte("err: " + err.Error()))
 		return
 	}
-	offset, err := strconv.Atoi(r.URL.Query().Get("offset"))
+	page, err := strconv.Atoi(r.URL.Query().Get("page"))
 	if err != nil {
-		offset = 0
+		page = 0
 	}
 	limit := 20
-
-	rows, err := db.Query("SELECT DISTINCT forum_id, post_id, title FROM post WHERE forum_id=? LIMIT ? OFFSET ?", forum, limit, offset)
+	rows, err := db.Query("SELECT DISTINCT forum_id, post_id, title FROM post WHERE forum_id=? LIMIT ? OFFSET ?", forum, limit, page*limit)
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
 	}
 	defer rows.Close()
 	list := List{
-		Items:         make([]ListItem, 0),
-		Offset:        offset,
-		PreviousRange: max(0, offset-limit),
-		NextRange:     offset + limit,
-		ForumId:       forum,
-		Name:          forumName(forum),
+		Items:        make([]ListItem, limit),
+		Page:         page,
+		PreviousPage: max(0, page-1),
+		NextPage:     page + 1,
+		Limit:        limit,
+		Length:       0,
+		ForumId:      forum,
+		Name:         forumName(forum),
 	}
 	for rows.Next() {
 		var forumId int
@@ -193,7 +196,8 @@ func forumPostList(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, r *http
 			w.Write([]byte("err: " + err.Error()))
 			return
 		}
-		list.Items = append(list.Items, ListItem{ForumId: forumId, PostId: postId, Name: name})
+		list.Items[list.Length] = ListItem{ForumId: forumId, PostId: postId, Name: name}
+		list.Length++
 	}
 	temp, err := template.ParseFiles("templates/forum-page.tmpl", "templates/base.tmpl")
 	if err != nil {

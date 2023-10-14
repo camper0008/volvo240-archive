@@ -1,15 +1,28 @@
 {{ define "content" }}
-    <h1>{{ .Name }} | {{ .Offset }} - {{ .NextRange }}</h1>
-    {{ range .Items }}
-        <li><a href="/post?post_id={{ .PostId }}&forum_id={{ .ForumId }}">{{ .Name }}</a></li>
-    {{ end }}
+    <h2><a href="/">Tilbage</a></h2>
+    <h1>{{ .Name }} | s. {{ .Page }}</h1>
+    <ul class="forum-list">
+        {{ range .Items }}
+            {{ if ne .Name "" }}
+                <li>• <a href="/post?post_id={{ .PostId }}&forum_id={{ .ForumId }}">{{ .Name }}</a></li>
+            {{ else }}
+                <li>&nbsp;</li>
+            {{ end }}
+        {{ end }}
+    </ul>
     <center>
-    {{ if ne .Offset 0 }}
-        <a href="/list?forum={{ .ForumId }}&offset={{ .PreviousRange }}">Tidligere side</a>
+    {{ if ne .Page 0 }}
+        <a href="/list?forum={{ .ForumId }}&page={{ .PreviousPage }}">Tidligere side</a>
     {{ else }}
         <span>Tidligere side</span>
     {{ end }}
     •
-    <a href="/list?forum={{ .ForumId }}&offset={{ .NextRange }}">Næste side</a>
+    {{ .Page }}
+    •
+    {{ if eq .Length .Limit }}
+        <a href="/list?forum={{ .ForumId }}&page={{ .NextPage }}">Næste side</a>
+    {{ else }}
+        <span>Næste side</span>
+    {{ end }}
     </center>
 {{ end }}

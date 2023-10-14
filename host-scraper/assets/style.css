@@ -7,3 +7,12 @@
     white-space: pre-wrap;
     line-height: 150%;
 }
+
+.forum-list {
+    padding: 0;
+    list-style: none;
+}
+
+.dev-info {
+    color: gray;
+}

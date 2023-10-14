@@ -1,6 +1,6 @@
 {{ define "content" }}
     <h2><a href="/list?forum={{ .Post.ForumId }}">Tilbage</a></h2>
-    <h1><span class="post-id-info">({{ .Post.ForumTitle }} #{{ .Post.PostId }})</span> {{ .Post.Title }}</h1>
+    <h1>{{ .Post.Title }} <span class="dev-info">({{ .Post.ForumTitle }} #{{ .Post.PostId }})</span></h1>
     <span>{{ .Post.Author }} | {{ .Post.Date }}</span>
     <p class="text-post">{{ .Post.InitialContent }}</p>
     {{ if not .Post.ReplyContent }}
@@ -9,7 +9,7 @@
     {{ end }}
     {{ range .SubPosts }}
         <hr>
-        <span class="post-id-info">#{{ .SubId }}</span>
+        <span class="dev-info">#{{ .SubId }}</span>
         <p class="text-post">{{ .ReplyContent }}</p>
     {{ end }}
 {{ end }}

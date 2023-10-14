@@ -67,6 +67,10 @@ func forumName(forumId int) string {
 	switch forumId {
 	case 1:
 		return "Motor"
+	case 2:
+		return "Teknik"
+	case 3:
+		return "Karosseri"
 	case 4:
 		return "Volvo-folk imellem"
 	case 5:
@@ -81,6 +85,8 @@ func forumName(forumId int) string {
 		return "Volvo 900 Serien"
 	case 10:
 		return "Gearkasse"
+	case 11:
+		return "Bagtøj"
 	case 12:
 		return "Volvo 800 Serien"
 	case 13:

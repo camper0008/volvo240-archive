@@ -108,16 +108,65 @@ func forumName(forumId int) string {
 	}
 }
 
-func editPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.Request) {
-	mutex.Lock()
-	defer mutex.Unlock()
+func getMainPost(db *sql.DB, forum int, id int) (Post, error) {
+	var mainPost Post
 
-	forum, err := strconv.Atoi(req.URL.Query().Get("forum"))
+	err := db.QueryRow("SELECT title, author, date, forum_id, post_id, initial_content, reply_content FROM post WHERE forum_id=? AND post_id=? AND sub_id IS NULL", forum, id).Scan(&mainPost.Title, &mainPost.Author, &mainPost.Date, &mainPost.ForumId, &mainPost.PostId, &mainPost.InitialContent, &mainPost.ReplyContent)
+
+	mainPost.ForumTitle = forumName(mainPost.ForumId)
+
+	return mainPost, err
+
+}
+
+func getSubPosts(db *sql.DB, forum int, id int) ([]Post, error) {
+	query, err := db.Query("SELECT DISTINCT sub_id, reply_content FROM post WHERE forum_id=? AND post_id=? AND sub_id IS NOT NULL", forum, id)
+	if err != nil {
+		return nil, err
+	}
+	defer query.Close()
+	sub_posts := make([]Post, 0)
+	for query.Next() {
+		var sub_post Post
+		err = query.Scan(&sub_post.SubId, &sub_post.ReplyContent)
+		if err != nil {
+			return nil, err
+		}
+		sub_posts = append(sub_posts, sub_post)
+	}
+
+	return sub_posts, err
+}
+
+func queryValue(req *http.Request, query string) (int, error) {
+	return strconv.Atoi(req.URL.Query().Get(query))
+}
+
+func writeTemplate[T any](w http.ResponseWriter, templatePath string, value T) {
+	temp, err := template.ParseFiles(templatePath, "templates/base.tmpl")
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
 	}
-	id, err := strconv.Atoi(req.URL.Query().Get("post"))
+	w.Header().Add("Content-Type", "text/html")
+	err = temp.ExecuteTemplate(w, "base", value)
+	if err != nil {
+		w.Write([]byte("err: " + err.Error()))
+		return
+	}
+
+}
+
+func editPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.Request) {
+	mutex.Lock()
+	defer mutex.Unlock()
+
+	forum, err := queryValue(req, "forum")
+	if err != nil {
+		w.Write([]byte("err: " + err.Error()))
+		return
+	}
+	post, err := queryValue(req, "post")
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
@@ -143,40 +192,28 @@ func editPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.Re
 		}
 
 		for key, values := range req.PostForm {
-			if key == "title" {
-				tx.Exec("UPDATE post SET title=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, id)
-				continue
+			switch key {
+			case "title":
+				tx.Exec("UPDATE post SET title=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
+			case "author":
+				tx.Exec("UPDATE post SET author=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
+			case "initial-content":
+				tx.Exec("UPDATE post SET initial_content=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
+			case "reply-content":
+				tx.Exec("UPDATE post SET reply_content=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
+			default:
+				if !strings.HasPrefix(key, "sub-reply-content-") {
+					continue
+				}
+				sub_id := strings.TrimPrefix(key, "sub-reply-content-")
+				sub_id_int, err := strconv.Atoi(sub_id)
+				if err != nil {
+					w.Write([]byte("err: " + err.Error()))
+					return
+				}
+				tx.Exec("UPDATE post SET reply_content=?, corrected=1 WHERE forum_id=? AND post_id=? AND sub_id=?", values[0], forum, post, sub_id_int)
 			}
-
-			if key == "author" {
-				tx.Exec("UPDATE post SET author=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, id)
-				continue
-			}
-
-			if key == "initial-content" {
-				tx.Exec("UPDATE post SET initial_content=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, id)
-				continue
-			}
-
-			if key == "reply-content" {
-				tx.Exec("UPDATE post SET reply_content=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, id)
-				continue
-			}
-
-			if !strings.HasPrefix(key, "sub-reply-content-") {
-				continue
-			}
-
-			sub_id := strings.TrimPrefix(key, "sub-reply-content-")
-			sub_id_int, err := strconv.Atoi(sub_id)
-			if err != nil {
-				w.Write([]byte("err: " + err.Error()))
-				return
-			}
-
-			tx.Exec("UPDATE post SET reply_content=?, corrected=1 WHERE forum_id=? AND post_id=? AND sub_id=?", values[0], forum, id, sub_id_int)
 		}
-
 		err = tx.Commit()
 		if err != nil {
 			w.Write([]byte("err: " + err.Error()))
@@ -184,171 +221,61 @@ func editPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.Re
 		}
 	}
 
-	main_post, err := db.Query("SELECT title, author, date, forum_id, post_id, initial_content, reply_content FROM post WHERE forum_id=? AND post_id=? AND sub_id IS NULL", forum, id)
+	mainPost, err := getMainPost(db, forum, post)
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
-	}
-	defer main_post.Close()
-
-	main_post_obj := Post{}
-	for main_post.Next() {
-		var title string
-		var author string
-		var date string
-		var forumId int
-		var postId int
-		var initialContent string
-		var replyContent string
-		err = main_post.Scan(&title, &author, &date, &forumId, &postId, &initialContent, &replyContent)
-		if err != nil {
-			w.Write([]byte("err: " + err.Error()))
-			return
-		}
-		main_post_obj.Title = title
-		main_post_obj.Author = author
-		main_post_obj.Date = date
-		main_post_obj.InitialContent = initialContent
-		main_post_obj.PostId = postId
-		main_post_obj.ForumId = forumId
-		main_post_obj.ForumTitle = forumName(forumId)
-		main_post_obj.ReplyContent = replyContent
 	}
 
-	sub_posts, err := db.Query("SELECT DISTINCT sub_id, reply_content FROM post WHERE forum_id=? AND post_id=? AND sub_id IS NOT NULL", forum, id)
+	subPosts, err := getSubPosts(db, forum, post)
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
-	}
-	defer sub_posts.Close()
-	sub_posts_obj := make([]Post, 0)
-	for sub_posts.Next() {
-		sub_post := Post{}
-		var subId int
-		var replyContent string
-		err = sub_posts.Scan(&subId, &replyContent)
-		if err != nil {
-			w.Write([]byte("err: " + err.Error()))
-			return
-		}
-		sub_post.SubId = subId
-		sub_post.ReplyContent = replyContent
-		sub_posts_obj = append(sub_posts_obj, sub_post)
 	}
 
-	temp, err := template.ParseFiles("templates/edit-post.tmpl", "templates/base.tmpl")
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
-	}
-	w.Header().Add("Content-Type", "text/html")
-	err = temp.ExecuteTemplate(w, "base", PostWithReplies{Post: main_post_obj, SubPosts: sub_posts_obj})
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
-	}
-	err = main_post.Err()
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
-	}
+	writeTemplate[PostWithReplies](w, "templates/edit-post.tmpl", PostWithReplies{Post: mainPost, SubPosts: subPosts})
 }
 
-func forumPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, r *http.Request) {
+func forumPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.Request) {
 	mutex.Lock()
 	defer mutex.Unlock()
 
-	forum, err := strconv.Atoi(r.URL.Query().Get("forum"))
+	forum, err := queryValue(req, "forum")
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
 	}
-	id, err := strconv.Atoi(r.URL.Query().Get("post"))
+	post, err := queryValue(req, "post")
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
 	}
 
-	main_post, err := db.Query("SELECT title, author, date, forum_id, post_id, initial_content, reply_content FROM post WHERE forum_id=? AND post_id=? AND sub_id IS NULL", forum, id)
+	mainPost, err := getMainPost(db, forum, post)
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
-	}
-	defer main_post.Close()
-
-	main_post_obj := Post{}
-	for main_post.Next() {
-		var title string
-		var author string
-		var date string
-		var forumId int
-		var postId int
-		var initialContent string
-		var replyContent string
-		err = main_post.Scan(&title, &author, &date, &forumId, &postId, &initialContent, &replyContent)
-		if err != nil {
-			w.Write([]byte("err: " + err.Error()))
-			return
-		}
-		main_post_obj.Title = title
-		main_post_obj.Author = author
-		main_post_obj.Date = date
-		main_post_obj.InitialContent = initialContent
-		main_post_obj.PostId = postId
-		main_post_obj.ForumId = forumId
-		main_post_obj.ForumTitle = forumName(forumId)
-		main_post_obj.ReplyContent = replyContent
 	}
 
-	sub_posts, err := db.Query("SELECT DISTINCT sub_id, reply_content FROM post WHERE forum_id=? AND post_id=? AND sub_id IS NOT NULL", forum, id)
+	subPosts, err := getSubPosts(db, forum, post)
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
-	}
-	defer sub_posts.Close()
-	sub_posts_obj := make([]Post, 0)
-	for sub_posts.Next() {
-		sub_post := Post{}
-		var subId int
-		var replyContent string
-		err = sub_posts.Scan(&subId, &replyContent)
-		if err != nil {
-			w.Write([]byte("err: " + err.Error()))
-			return
-		}
-		sub_post.SubId = subId
-		sub_post.ReplyContent = replyContent
-		sub_posts_obj = append(sub_posts_obj, sub_post)
 	}
 
-	temp, err := template.ParseFiles("templates/post.tmpl", "templates/base.tmpl")
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
-	}
-	w.Header().Add("Content-Type", "text/html")
-	err = temp.ExecuteTemplate(w, "base", PostWithReplies{Post: main_post_obj, SubPosts: sub_posts_obj})
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
-	}
-	err = main_post.Err()
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
-	}
+	writeTemplate[PostWithReplies](w, "templates/post.tmpl", PostWithReplies{Post: mainPost, SubPosts: subPosts})
 }
 
-func forumPostList(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, r *http.Request) {
+func forumPostList(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.Request) {
 	mutex.Lock()
 	defer mutex.Unlock()
 
-	forum, err := strconv.Atoi(r.URL.Query().Get("forum"))
+	forum, err := queryValue(req, "forum")
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
 	}
-	page, err := strconv.Atoi(r.URL.Query().Get("page"))
+	page, err := queryValue(req, "page")
 	if err != nil {
 		page = 0
 	}
@@ -358,6 +285,7 @@ func forumPostList(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, r *http
 		w.Write([]byte("err: " + err.Error()))
 		return
 	}
+
 	defer rows.Close()
 	list := ForumPostList{
 		Items:        make([]PostItem, limit),
@@ -369,35 +297,25 @@ func forumPostList(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, r *http
 		ForumId:      forum,
 		Name:         forumName(forum),
 	}
+
 	for rows.Next() {
-		var forumId int
-		var postId int
-		var name string
-		var corrected int
-		err = rows.Scan(&forumId, &postId, &name, &corrected)
+		var item PostItem
+		err = rows.Scan(&item.ForumId, &item.PostId, &item.Name, &item.Corrected)
 		if err != nil {
 			w.Write([]byte("err: " + err.Error()))
 			return
 		}
-		list.Items[list.Length] = PostItem{ForumId: forumId, PostId: postId, Name: name, Corrected: corrected == 1}
+		list.Items[list.Length] = item
 		list.Length++
 	}
-	temp, err := template.ParseFiles("templates/forum-page.tmpl", "templates/base.tmpl")
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
-	}
-	w.Header().Add("Content-Type", "text/html")
-	err = temp.ExecuteTemplate(w, "base", list)
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
-	}
+
 	err = rows.Err()
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
 	}
+
+	writeTemplate[ForumPostList](w, "templates/forum-page.tmpl", list)
 
 }
 
@@ -413,31 +331,22 @@ func forumsList(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, r *http.Re
 	defer rows.Close()
 	list := make([]ForumItem, 0)
 	for rows.Next() {
-		var forumId int
-		err = rows.Scan(&forumId)
+		var item ForumItem
+		err = rows.Scan(&item.Id)
 		if err != nil {
 			w.Write([]byte("err: " + err.Error()))
 			return
 		}
-		name := forumName(forumId)
-		list = append(list, ForumItem{Name: name, Id: forumId})
-	}
-	temp, err := template.ParseFiles("templates/all-forums.tmpl", "templates/base.tmpl")
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
-	}
-	w.Header().Add("Content-Type", "text/html")
-	err = temp.ExecuteTemplate(w, "base", list)
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
+		item.Name = forumName(item.Id)
+		list = append(list, item)
 	}
 	err = rows.Err()
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
 	}
+
+	writeTemplate[[]ForumItem](w, "templates/all-forums.tmpl", list)
 
 }
 

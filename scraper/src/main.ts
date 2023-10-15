@@ -31,6 +31,7 @@ function fix_iso_8859_encoding(value: string | null): string | null {
     }
     const fixes = [
         ["&nbsp;", "",],
+        ["&quot;", "\"",],
     ]
     const is_fixed = (str: string, bad: string[]) => {
         return !bad.map(bad => str.search(bad)).some(v => v !== -1);

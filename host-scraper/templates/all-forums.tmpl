@@ -1,6 +1,8 @@
 {{ define "content" }}
     <h1>Forums</h1>
-    {{ range . }}
-        <li><a href="/list?forum={{ .Id }}">{{ .Name }}</a></li>
-    {{ end }}
+    <ul class="forum-list">
+        {{ range . }}
+            <li>• <a href="/list?forum={{ .Id }}">{{ .Name }}</a></li>
+        {{ end }}
+    </ul>
 {{ end }}

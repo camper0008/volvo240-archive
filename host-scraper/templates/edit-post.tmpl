@@ -2,7 +2,7 @@
     <h2><a href="/post?forum={{ .Post.ForumId }}&post={{ .Post.PostId }}">Tilbage</a></h2>
     <form method="post">
         <h1><input name="title" class="editable" value="{{ .Post.Title }}"> <span class="dev-info">({{ .Post.ForumTitle }} #{{ .Post.PostId }})</span> <button type="submit">Gem</button></h1>
-        <span><input name="author" value="{{ .Post.Author }}"> | {{ .Post.Date }}</span>
+        <span><input name="author" value="{{ .Post.Author }}"> • {{ .Post.Date }}</span>
         <textarea name="initial-content" class="text-post editable">{{ .Post.InitialContent }}</textarea>
         {{ if not .Post.ReplyContent }}
             <hr>

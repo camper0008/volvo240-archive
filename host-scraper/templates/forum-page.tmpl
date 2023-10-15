@@ -1,6 +1,6 @@
 {{ define "content" }}
     <h2><a href="/">Tilbage</a></h2>
-    <h1>{{ .Name }} | s. {{ .Page }}</h1>
+    <h1>{{ .Name }} • Side {{ .Page }}</h1>
     <ul class="forum-list">
         {{ range .Items }}
             {{ if ne .Name "" }}

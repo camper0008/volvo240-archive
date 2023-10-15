@@ -111,7 +111,7 @@ func forumName(forumId int) string {
 func getMainPost(db *sql.DB, forum int, id int) (Post, error) {
 	var mainPost Post
 
-	err := db.QueryRow("SELECT title, author, date, forum_id, post_id, initial_content, reply_content FROM post WHERE forum_id=? AND post_id=? AND sub_id IS NULL", forum, id).Scan(&mainPost.Title, &mainPost.Author, &mainPost.Date, &mainPost.ForumId, &mainPost.PostId, &mainPost.InitialContent, &mainPost.ReplyContent)
+	err := db.QueryRow("SELECT title, author, date, forum_id, post_id, initial_content, reply_content FROM post WHERE forum_id=? AND post_id=?", forum, id).Scan(&mainPost.Title, &mainPost.Author, &mainPost.Date, &mainPost.ForumId, &mainPost.PostId, &mainPost.InitialContent, &mainPost.ReplyContent)
 
 	mainPost.ForumTitle = forumName(mainPost.ForumId)
 
@@ -157,7 +157,7 @@ func writeTemplate[T any](w http.ResponseWriter, templatePath string, value T) {
 
 }
 
-func editPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.Request) {
+func forumEditPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.Request) {
 	mutex.Lock()
 	defer mutex.Unlock()
 
@@ -359,7 +359,7 @@ func main() {
 	defer db.Close()
 	http.Handle("/assets/", http.StripPrefix("/assets/", http.FileServer(http.Dir("assets"))))
 	http.HandleFunc("/post", func(w http.ResponseWriter, r *http.Request) { forumPost(db, mutex, w, r) })
-	http.HandleFunc("/edit", func(w http.ResponseWriter, r *http.Request) { editPost(db, mutex, w, r) })
+	http.HandleFunc("/edit", func(w http.ResponseWriter, r *http.Request) { forumEditPost(db, mutex, w, r) })
 	http.HandleFunc("/list", func(w http.ResponseWriter, r *http.Request) { forumPostList(db, mutex, w, r) })
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) { forumsList(db, mutex, w, r) })
 	fmt.Println("running server on :3333")

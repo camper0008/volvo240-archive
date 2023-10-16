@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=1644"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1644"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>moter kan ikke st&#229; i tomgang</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>moter kan ikke stå i tomgang</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-04-2004&nbsp; 21:12</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-04-2004 21:12</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej allesammen.<br><br>Jeg har en volvo 240 fra 89 med en b23 moter.<br>Den k�rer up�klageligt, men lige pludselig vil den ikke st� i<br>tomgang. Jeg kan ikke tro at det er et sp�rgsm�l om justering,n�r<br>den st�r perfekt den ene dag ikke vil den n�ste dag. Men som sagt<br>den k�rer perfekt det er n�r jeg holder for r�dt jeg har problemet<br>H�ber nogle kan hj�lpe.<br>P� forh�nd tak<br>vh hans</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1732'>Re: moter kan ikke st&#229; i tomgang</a> <em>(Kim Poulsen, 26-04-2004 17:59)</em></strong></font></li><br><font face=Verdana>Hej Hans!<br>Det er et stykke tid siden dit sp�rgsm�l kom, men hvis du ikke har f�et held med bilen har jeg et helt andet forslag: Da du k�rer b230k har du formodentlig en masse vacuum slanger i alle regnbuens farver p� karburatoren,  - Pr�v og f�lg det samlede bundt, det leder dig over til venste indersk�rm (f�rersiden) Der sidder et lille stik i n�rheden af dem fastgjort p� forsiden at t�rnet. rundt om stikket er der gummi s� det er godt beskyttet mod fugt - men s� kan du heller ikke se om det sidder l�st! -har selv pr�vet det en gang! Tomgangen styres herfra - Piller du stikket kan motoren godt k�rer hvis du giver gas, men slipper du d�r den med det samme. ALts� kontroller forbindelsen i stikket. Med venlig hilsen Kim Poulsen kim_d_poulsen@hotmail.com</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1648'>Re: moter kan ikke st&#229; i tomgang</a> <em>(Robert Tastesen, 13-04-2004 09:09)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1647'>Re: moter kan ikke st&#229; i tomgang</a> <em>(Emil J, 11-04-2004 20:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1646'>Re: moter kan ikke st&#229; i tomgang</a> <em>(hans, 11-04-2004 19:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1645'>Re: moter kan ikke st&#229; i tomgang</a> <em>(Jes, 10-04-2004 23:15)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1732'>Re: moter kan ikke stå i tomgang</a> <em>(Kim Poulsen, 26-04-2004 17:59)</em></strong></font></li><br><font face=Verdana>Hej Hans!<br>Det er et stykke tid siden dit sp�rgsm�l kom, men hvis du ikke har f�et held med bilen har jeg et helt andet forslag: Da du k�rer b230k har du formodentlig en masse vacuum slanger i alle regnbuens farver p� karburatoren,  - Pr�v og f�lg det samlede bundt, det leder dig over til venste indersk�rm (f�rersiden) Der sidder et lille stik i n�rheden af dem fastgjort p� forsiden at t�rnet. rundt om stikket er der gummi s� det er godt beskyttet mod fugt - men s� kan du heller ikke se om det sidder l�st! -har selv pr�vet det en gang! Tomgangen styres herfra - Piller du stikket kan motoren godt k�rer hvis du giver gas, men slipper du d�r den med det samme. ALts� kontroller forbindelsen i stikket. Med venlig hilsen Kim Poulsen kim_d_poulsen@hotmail.com</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1648'>Re: moter kan ikke stå i tomgang</a> <em>(Robert Tastesen, 13-04-2004 09:09)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1647'>Re: moter kan ikke stå i tomgang</a> <em>(Emil J, 11-04-2004 20:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1646'>Re: moter kan ikke stå i tomgang</a> <em>(hans, 11-04-2004 19:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1645'>Re: moter kan ikke stå i tomgang</a> <em>(Jes, 10-04-2004 23:15)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">50</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">50</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

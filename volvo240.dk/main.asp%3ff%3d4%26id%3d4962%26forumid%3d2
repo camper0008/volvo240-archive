@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -153,7 +153,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">S&#248;ren Frydendahl Krab</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Søren Frydendahl Krab</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-11-2014&nbsp; 23:23</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-11-2014 23:23</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br>Jeg har problemer med mit benzin fyr, p_ min 240/93.<br>Den har digital display i kabinen.<br>Den starter benzinpumpen under bilen.<br>Fyret g_r i gang, og k_rer med fulde omdrejninger, og d_r s_ hen.<br>Den t_nder ikke fyret.<br>Hvad kan jeg g_re-?<br>mvh<br><br>S_ren</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 24-11-2014 08:31)</em></u></strong></font></li><br><font face=Verdana>Hejsa<br><br>Jeg vil jo g_tte p_ at det lidt ala et Oliefyr, bare i mini format. Du skal tjekke om den f_r br_ndstof. Det kan jo ogs_ v_re det gl_der_r der skal ant_nde br_ndstoffet, eller det kan v_re den lille pumpe som tr_kker br_ndstof frem. <br><br>Find evt en manual p_ nettet. Der st_r nogle gode fejlfindings fif i. <br><br>MVH<br><br>Emil Jensen</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 24-11-2014 08:31)</em></u></strong></font></li><br><font face=Verdana>Hejsa<br><br>Jeg vil jo g_tte p_ at det lidt ala et Oliefyr, bare i mini format. Du skal tjekke om den f_r br_ndstof. Det kan jo ogs_ v_re det gl_der_r der skal ant_nde br_ndstoffet, eller det kan v_re den lille pumpe som tr_kker br_ndstof frem. <br><br>Find evt en manual p_ nettet. Der st_r nogle gode fejlfindings fif i. <br><br>MVH<br><br>Emil Jensen</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

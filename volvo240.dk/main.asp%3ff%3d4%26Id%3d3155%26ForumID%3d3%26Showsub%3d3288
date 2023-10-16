@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=3"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=3&amp;MessageId=3155"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=3&MessageId=3155"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>F&#230;lge i sk&#230;rmkant</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Fælge i skærmkant</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-04-2005&nbsp; 19:53</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-04-2005 19:53</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle..<br><br>Sidste efter�r k�bte jeg lykkeligt et s�t 18" f�lge til den store 240, det ser brand-godt ud og den k�rer godt med dem p�, og sad ogs� fint sidste �r. I mellemtiden har det v�ret vinter, jeg har haft sm� hjul p�, og f�et kraftigere fjedre og andre d�mpere i, MEN... Nu kan mit baghjul sat** ikke v�re der! Sp�rgsm�let lyder nu: (synes nemlig ikke mine nye fjedre var lavere, blot til mere v�gt (k�rer 244) hvordan l�ser jeg mit problem s� mine f�lge igen kan v�re der. Skal jeg k�be s�nkningsfjedre (lyder dumt, den bliver lavere, men trods alt meget h�rdere (st�der p� n�r der er sm� bump) eller nye d�mpere? Eller hvad skal jeg? Skal helst bestille noget imorgen, skal til jylland over weekenden, s�tter stor pris p� hurtigt svar. P� forh�nd tusind tak - Dennis</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4699'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(Christian Jensen, 15-12-2005 10:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4698'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(Andreas Christensen, 15-12-2005 01:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4691'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(Christian Jensen, 13-12-2005 18:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4671'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(Andreas Christensen, 12-12-2005 02:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3288'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(morten, 02-05-2005 09:49)</em></strong></font></li><br><font face=Verdana>En spacer er en skive der typisk er 20 mm, som du s�tter p� hjulnavet inden du s�tter hjul p�.s�ledes at hjulet kommer l�ngere ud mod sk�rmen.</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3285'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(morten, 01-05-2005 21:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3274'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(Simon D. Hansen, 30-04-2005 06:01)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3162'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(Dennis Kristensen, 08-04-2005 19:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3156'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(morten, 06-04-2005 20:56)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4699'>Re: Fælge i skærmkant</a> <em>(Christian Jensen, 15-12-2005 10:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4698'>Re: Fælge i skærmkant</a> <em>(Andreas Christensen, 15-12-2005 01:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4691'>Re: Fælge i skærmkant</a> <em>(Christian Jensen, 13-12-2005 18:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4671'>Re: Fælge i skærmkant</a> <em>(Andreas Christensen, 12-12-2005 02:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3288'>Re: Fælge i skærmkant</a> <em>(morten, 02-05-2005 09:49)</em></strong></font></li><br><font face=Verdana>En spacer er en skive der typisk er 20 mm, som du s�tter p� hjulnavet inden du s�tter hjul p�.s�ledes at hjulet kommer l�ngere ud mod sk�rmen.</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3285'>Re: Fælge i skærmkant</a> <em>(morten, 01-05-2005 21:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3274'>Re: Fælge i skærmkant</a> <em>(Simon D. Hansen, 30-04-2005 06:01)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3162'>Re: Fælge i skærmkant</a> <em>(Dennis Kristensen, 08-04-2005 19:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3156'>Re: Fælge i skærmkant</a> <em>(morten, 06-04-2005 20:56)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">58</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">58</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

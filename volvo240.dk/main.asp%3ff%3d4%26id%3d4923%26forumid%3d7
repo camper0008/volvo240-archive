@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-07-2014&nbsp; 23:19</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-07-2014 23:19</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle jer :)<br><br>Da jeg selv har siddet og n_sten hevet h_ret ud flere gange over mangel p_ decideret teknisk info om min 740 B204GT &#59;) <br><br>Har jeg s_ fundet denne fra volvo. <br>Servicemanual: 700 serien (1982 - 1991) 940/960 (1991)<br>Fejls_gning, Rep og vedligeholdelse. <br> <br><a href="http://brickspeed.net/VolvoDocs/My-Scans/7s-and-9s/Specs-82-to-91-700-91-940-and-960.pdf" target="_blank">http://brickspeed.net/VolvoDocs/My-Scans/7s-and-9s/Specs-82-to-91-700-91-940-and-960.pdf</a><br><br><br>Hvis du st_r og mangler dele s_ tjek den her forhandler f_r du k_ber for dyrt !<br><a href="http://stores.ebay.co.uk/caffynsvolvoparts" target="_blank">http://stores.ebay.co.uk/caffynsvolvoparts</a>/<br><br>Jeg har bestilt flere gange herfra selv uden problemer eller klager !! <br>Det er originale dele, rigtig god service og r_dgivning, hurtig levering, ok til billige priser alt efter hvor du handler nu :)<br>Jeg har f_et en h_ndskrevet hilsen og tak for k_bet fra forskellige medarbejdere p_ kvitteringen hver gang &#59;) <br><br><br>S_ til alle jer der har set det her, har jeg kun en ting at sige. Del del og del lidt mere rundt omkring :)<br><br>Mvh Jacob</font></td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-05-2015&nbsp; 23:12</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-05-2015 23:12</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Min 230FD (km216000) gik forleden ved et trafiklys i tomgang i st_, og ville ikke starte igen. Efter 2-3 min gik den i gang, ingen problem p_ vej hjem. Sener igen vil den ikke starte. Tjekket for str_mforsyning, t_ndning  men ej tomgangsventil/regulator! Kan det v_re at den _h_nger_ eller slit op? Eller noget anden der kunne v_re _rsagen?? Tak for ideer!</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Bj&#248;rn Kooper, 03-05-2015 12:35)</em></u></strong></font></li><br><font face=Verdana>Tjeck for fejlkoder- m_ske rel_et til benzinpumpen.<br>mvh Bj_rn</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 03-05-2015 13:19)</em></u></strong></font></li><br><font face=Verdana>Tak Bj_rn, har udl_st fire gange fejlkoder, altid 1-1-1, skiftet rel_et, nye t_ndr_r, bensintrykreg., rotor/str_mford.d_ksel,t_ndmodul ca. 10000km. der kommer bensin frem til t_ndr_r, men ej testet t_ndspole og ledninger.!?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Bj&#248;rn Kooper, 03-05-2015 15:21)</em></u></strong></font></li><br><font face=Verdana>Har du ogs_ udl_st fejlkoder i hul nr 6?<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 03-05-2015 16:32)</em></u></strong></font></li><br><font face=Verdana>Ja ogs_ i nr. 6</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 03-05-2015 16:40)</em></u></strong></font></li><br><font face=Verdana>Har nu bestillt nye t_ndledninger/spole, ledninger er 40&#39;oookm gammel, spolen m_ske(?) st_digv_k original d.v.s.215000 km gammel.!?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob Nielsen, 04-05-2015 21:55)</em></u></strong></font></li><br><font face=Verdana>Hej Antonio.<br><br> Jeg har haft lignende fejl p_ en B230FD og her var fejlen en defekt toppunksf_ler/ impulsgiver.<br><br>Hilsen Jacob</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 06-05-2015 20:26)</em></u></strong></font></li><br><font face=Verdana>Hej Jacob,<br>Tak for svaret! Er impulsgiver bare et andet ord for bankesensor? Gik din kun i st_ i tomgang? Var det v_d i indsugning/t_ndr_r?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 06-05-2015 20:26)</em></u></strong></font></li><br><font face=Verdana>Jacob, heller ingen fejlkoder??</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 07-05-2015 19:29)</em></u></strong></font></li><br><font face=Verdana>S_! Problem fundet-krumtapsensor var i stykker, det samme som hos dig Jacob. Tak for alle svar!<br>Hilsen Antonio</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Bjørn Kooper, 03-05-2015 12:35)</em></u></strong></font></li><br><font face=Verdana>Tjeck for fejlkoder- m_ske rel_et til benzinpumpen.<br>mvh Bj_rn</font><br><li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 03-05-2015 13:19)</em></u></strong></font></li><br><font face=Verdana>Tak Bj_rn, har udl_st fire gange fejlkoder, altid 1-1-1, skiftet rel_et, nye t_ndr_r, bensintrykreg., rotor/str_mford.d_ksel,t_ndmodul ca. 10000km. der kommer bensin frem til t_ndr_r, men ej testet t_ndspole og ledninger.!?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Bjørn Kooper, 03-05-2015 15:21)</em></u></strong></font></li><br><font face=Verdana>Har du ogs_ udl_st fejlkoder i hul nr 6?<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 03-05-2015 16:32)</em></u></strong></font></li><br><font face=Verdana>Ja ogs_ i nr. 6</font><br><li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 03-05-2015 16:40)</em></u></strong></font></li><br><font face=Verdana>Har nu bestillt nye t_ndledninger/spole, ledninger er 40&#39;oookm gammel, spolen m_ske(?) st_digv_k original d.v.s.215000 km gammel.!?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob Nielsen, 04-05-2015 21:55)</em></u></strong></font></li><br><font face=Verdana>Hej Antonio.<br><br> Jeg har haft lignende fejl p_ en B230FD og her var fejlen en defekt toppunksf_ler/ impulsgiver.<br><br>Hilsen Jacob</font><br><li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 06-05-2015 20:26)</em></u></strong></font></li><br><font face=Verdana>Hej Jacob,<br>Tak for svaret! Er impulsgiver bare et andet ord for bankesensor? Gik din kun i st_ i tomgang? Var det v_d i indsugning/t_ndr_r?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 06-05-2015 20:26)</em></u></strong></font></li><br><font face=Verdana>Jacob, heller ingen fejlkoder??</font><br><li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 07-05-2015 19:29)</em></u></strong></font></li><br><font face=Verdana>S_! Problem fundet-krumtapsensor var i stykker, det samme som hos dig Jacob. Tak for alle svar!<br>Hilsen Antonio</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

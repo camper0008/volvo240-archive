@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -209,7 +209,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-08-2013&nbsp; 21:47</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-08-2013 21:47</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Goddag<br>Volvo 240GL STC 1989 456000 Km. Motor B230A H_nger tr_k monteret med splittet stoplys forbindelser. Ingen anh_nger er p_monteret under f_lgende forl_b, og der er kun de to normale stoplys.<br><br>P_re-fejl-lampe i instrument panelet lyser ved bremsning, trods alle p_rer er ok.<br><br>Ved start lyser alarm lampen i korrekt i instrumentbordet.<br>Efter at motoren er startet lyser alarm lampen stadig, og g_r f_rst ud n_r bremsepedalen er blevet tr_dt ned og sluppet f_rste gang. Siden lyser alarm lampen hver gang der bremses.<br><br>Gjort indtil videre nye p_rer, ny str_mvagt / rel_et er monteret.<br>Stadig samme problem. Jeg ved at jeg bare kan tage p_ren ud af instrumentbordet. Men det er jo lidt usportsligt ikke??<br><br>Nogle god ideer ??<br><br>Mange hilsener<br>Steen <br>Frederikssund</font></td>
@@ -220,7 +220,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 18-08-2013 22:05)</em></u></strong></font></li><br><font face=Verdana>Jeg har oplevet at p_ren ville lyse n_r motoren lige var startet, og holdt op med at lyse indtil man r_rte bremsen. Oplever en gang i mellem at p_ren t_nder ud af det bl_. Et tr_d p_ bremsen f_r den til at g_ ud igen.<br>Sidst den gjorde l_ste jeg det ved at rense polerne p_ b_de fatningerne og p_rerne i baglygterne. Alts_ jeg gik selve lygtern efter s_ jeg var sikker p_ at der var god gennemgang fra plus til stel i hele lygten.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Vagn Poulsen, 19-08-2013 09:29)</em></u></strong></font></li><br><font face=Verdana>Gl_delampevagten fungerer ved at den sammenligner str_mforbruget til de enkelte p_rer i f.eks. stoplys. Systemet vil derfor melde fejl hvis der er en smule d_rlig forbindelse til en af stoplysene (som derfor lyser lidt svagere). Systemet melder ogs_ om fejl hvis p_rerne ikke er ens. Hvis der originalt er monteret et 3. stoplys i bagruden, skal denne p_re ogs_ fungere ok, ellers meldes der fejl.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 21-08-2013 21:21)</em></u></strong></font></li><br><font face=Verdana>Goddag Alle<br><br>Tak til Jacob og Vagn for svar. <br>Vagn, jeg tror du har fat i den rigtige ende her. Det er nemlig s_dan at jeg satte en anden bagklap p_ uden stoplys lygte. S_ den ekstra lygte har bilen ikke mere. Jeg vil kikke p_ ledningsdiagrammet for at se hvordan denne 3. stoplygte er strikket p_. Men Vagn har du allerede opskriften p_ hvad man g_r i s_dan en situation er dit svar velkomment.<br><br>Med venlig hilsen<br>Steen<br>Frederikssund<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 21-08-2013 21:46)</em></u></strong></font></li><br><font face=Verdana>Hej Steen, var uds_t for at gl_delampevagten lyste p_ grund af en defekt (n_sten kn_kket) ledning i bagklap. Jeg t_nkte bare med hensyn til det med : alle p_rene er ok men st_digv_k lyser "p_revagten". En kn_kket ledning "transporterer" eller forbruger jo ogs_ mindre str_m, ikke?<br>M.v.h.<br>Antonio</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 22-08-2013 17:16)</em></u></strong></font></li><br><font face=Verdana>Hvis du har taget bag klappen fra en uden bremse lys, s_ skal du have fat p_ lygte vagten fra samme bil.<br>Der er mange forskellige lygte vagte, b_de til med og uden bremse lys i bag klappen, men ogs_ til med og uden k_re lys.<br><br>Mvh Pede</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Vagn Poulsen, 22-08-2013 22:58)</em></u></strong></font></li><br><font face=Verdana>Hej Steen,<br>Du kunne f.eks. montere et stoplys i bagruden, det beh_ver jo ikke at v_re originalt, bare str_mforbruget passer. Det vil jo ogs_ g_re det lettere for os andre at undg_ at p_k_re dig bagfra :-)<br>Mvh.<br>Vagn</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 18-08-2013 22:05)</em></u></strong></font></li><br><font face=Verdana>Jeg har oplevet at p_ren ville lyse n_r motoren lige var startet, og holdt op med at lyse indtil man r_rte bremsen. Oplever en gang i mellem at p_ren t_nder ud af det bl_. Et tr_d p_ bremsen f_r den til at g_ ud igen.<br>Sidst den gjorde l_ste jeg det ved at rense polerne p_ b_de fatningerne og p_rerne i baglygterne. Alts_ jeg gik selve lygtern efter s_ jeg var sikker p_ at der var god gennemgang fra plus til stel i hele lygten.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Vagn Poulsen, 19-08-2013 09:29)</em></u></strong></font></li><br><font face=Verdana>Gl_delampevagten fungerer ved at den sammenligner str_mforbruget til de enkelte p_rer i f.eks. stoplys. Systemet vil derfor melde fejl hvis der er en smule d_rlig forbindelse til en af stoplysene (som derfor lyser lidt svagere). Systemet melder ogs_ om fejl hvis p_rerne ikke er ens. Hvis der originalt er monteret et 3. stoplys i bagruden, skal denne p_re ogs_ fungere ok, ellers meldes der fejl.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 21-08-2013 21:21)</em></u></strong></font></li><br><font face=Verdana>Goddag Alle<br><br>Tak til Jacob og Vagn for svar. <br>Vagn, jeg tror du har fat i den rigtige ende her. Det er nemlig s_dan at jeg satte en anden bagklap p_ uden stoplys lygte. S_ den ekstra lygte har bilen ikke mere. Jeg vil kikke p_ ledningsdiagrammet for at se hvordan denne 3. stoplygte er strikket p_. Men Vagn har du allerede opskriften p_ hvad man g_r i s_dan en situation er dit svar velkomment.<br><br>Med venlig hilsen<br>Steen<br>Frederikssund<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 21-08-2013 21:46)</em></u></strong></font></li><br><font face=Verdana>Hej Steen, var uds_t for at gl_delampevagten lyste p_ grund af en defekt (n_sten kn_kket) ledning i bagklap. Jeg t_nkte bare med hensyn til det med : alle p_rene er ok men st_digv_k lyser "p_revagten". En kn_kket ledning "transporterer" eller forbruger jo ogs_ mindre str_m, ikke?<br>M.v.h.<br>Antonio</font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 22-08-2013 17:16)</em></u></strong></font></li><br><font face=Verdana>Hvis du har taget bag klappen fra en uden bremse lys, s_ skal du have fat p_ lygte vagten fra samme bil.<br>Der er mange forskellige lygte vagte, b_de til med og uden bremse lys i bag klappen, men ogs_ til med og uden k_re lys.<br><br>Mvh Pede</font><br><li><font face=Verdana><strong><u>Re: - <em>(Vagn Poulsen, 22-08-2013 22:58)</em></u></strong></font></li><br><font face=Verdana>Hej Steen,<br>Du kunne f.eks. montere et stoplys i bagruden, det beh_ver jo ikke at v_re originalt, bare str_mforbruget passer. Det vil jo ogs_ g_re det lettere for os andre at undg_ at p_k_re dig bagfra :-)<br>Mvh.<br>Vagn</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -229,7 +229,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">33</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">33</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

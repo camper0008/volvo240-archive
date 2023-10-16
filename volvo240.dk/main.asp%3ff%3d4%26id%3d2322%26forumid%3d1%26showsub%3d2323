@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=2322"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2322"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">27-10-2004&nbsp; 23:47</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">27-10-2004 23:47</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej folkens<br><br>jeg måtte i sommers sige farvel til min gamle 242 med B21A motor som havde kørt 325000 den sidste tur inden stålormene fik overtaget gik til norge hvor den med fuld last gik 11.8 km/l ved et snit på ca 100.<br>jeg har så lige (efter en kort periode i ford excort! py føj)købt en fin 244 med B230K. det er en vældig fin motor med godt bundtræk men jeg synes den tar sig lidt rigeligt batalt da jeg ikke kan tvinge den over 7,5 km/l. jeg kører godt nok på vinterdæk, ultra grip 5, men kan det være det alene. den kendte solex cirax kaburator ser fin ud, bilen har kun kørt 209000 og er generalt i orden. der er nyt luft-, benzin- og oliefilter, jeg har af kokste motoren og chekket hved jeg nu lige kan komme på. mit sidste bud må være en fejl i vacum systemet eller en "hemmelighed" jeg ikke kender.<br><br>hjælp mig inden jeg bliver for fattig til at kører i min fine hvide volvo<br><br>mvh Rasmus</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej folkens<br><br>jeg mÃ¥tte i sommers sige farvel til min gamle 242 med B21A motor som havde kÃ¸rt 325000 den sidste tur inden stÃ¥lormene fik overtaget gik til norge hvor den med fuld last gik 11.8 km/l ved et snit pÃ¥ ca 100.<br>jeg har sÃ¥ lige (efter en kort periode i ford excort! py fÃ¸j)kÃ¸bt en fin 244 med B230K. det er en vÃ¦ldig fin motor med godt bundtrÃ¦k men jeg synes den tar sig lidt rigeligt batalt da jeg ikke kan tvinge den over 7,5 km/l. jeg kÃ¸rer godt nok pÃ¥ vinterdÃ¦k, ultra grip 5, men kan det vÃ¦re det alene. den kendte solex cirax kaburator ser fin ud, bilen har kun kÃ¸rt 209000 og er generalt i orden. der er nyt luft-, benzin- og oliefilter, jeg har af kokste motoren og chekket hved jeg nu lige kan komme pÃ¥. mit sidste bud mÃ¥ vÃ¦re en fejl i vacum systemet eller en "hemmelighed" jeg ikke kender.<br><br>hjÃ¦lp mig inden jeg bliver for fattig til at kÃ¸rer i min fine hvide volvo<br><br>mvh Rasmus</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2322&ForumID=1&Showsub=2323'>Re: B230K</a> <em>(Christian Fisker, 28-10-2004 10:47)</em></strong></font></li><br><font face=Verdana>Hej Rasmus<br><br>Det er det generelle problem med B230K. De er omtrent umulige at justere, når først de kommer ud af trit. Begynd endelig ikke at bruge alle dine sparepenge på justering. <br>Det eneste der efter min menig er at gøre er, at skifte hele kaburatoren ud med en Weber 36/36 eller simpelthen monterer en Stromberg fra en B23A med manifold og det hele eller en Pierburg fra en B230A. Husk chokerkablet.<br>Weber 36/36 kan godt monteres på den eksisterende indsugningsmanifold, hvis hullerne files lidt større. Og det er meget vigtigt, at det er en Weber 36/36 og under ingen omstændigheder en 28/36, da den ikke kan trække luft nok ind, og du derved ikke får løst dit problem. En af min venner prøvede dette og det var penge ud af vinduet. Efter trimning på rullefelt kom den ikke engang over 100 hk.<br>God fornøjelse.<br><br>mvh Christian</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2322&ForumID=1&Showsub=2323'>Re: B230K</a> <em>(Christian Fisker, 28-10-2004 10:47)</em></strong></font></li><br><font face=Verdana>Hej Rasmus<br><br>Det er det generelle problem med B230K. De er omtrent umulige at justere, nÃ¥r fÃ¸rst de kommer ud af trit. Begynd endelig ikke at bruge alle dine sparepenge pÃ¥ justering. <br>Det eneste der efter min menig er at gÃ¸re er, at skifte hele kaburatoren ud med en Weber 36/36 eller simpelthen monterer en Stromberg fra en B23A med manifold og det hele eller en Pierburg fra en B230A. Husk chokerkablet.<br>Weber 36/36 kan godt monteres pÃ¥ den eksisterende indsugningsmanifold, hvis hullerne files lidt stÃ¸rre. Og det er meget vigtigt, at det er en Weber 36/36 og under ingen omstÃ¦ndigheder en 28/36, da den ikke kan trÃ¦kke luft nok ind, og du derved ikke fÃ¥r lÃ¸st dit problem. En af min venner prÃ¸vede dette og det var penge ud af vinduet. Efter trimning pÃ¥ rullefelt kom den ikke engang over 100 hk.<br>God fornÃ¸jelse.<br><br>mvh Christian</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">23</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">23</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

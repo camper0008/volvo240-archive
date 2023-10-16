@@ -17,21 +17,21 @@
 
 <body>
 
-<font face="Verdana">Her et forenklet eksempel</font><p><font face="Verdana">Et typisk logon script kunne indeholde denne SQL sætning:<br>
-<b>&quot;SELECT * FROM users WHERE name = '&quot; + un + &quot;';&quot;<br>
+<font face="Verdana">Her et forenklet eksempel</font><p><font face="Verdana">Et typisk logon script kunne indeholde denne SQL sÃ¦tning:<br>
+<b>"SELECT * FROM users WHERE name = '" + un + "';"<br>
 </b>hvor <i>un</i> er hentet fra det felt brugeren har indtastet sit navn i.<br>
-Hvis en bruger har skrevet <i><b>Finn</b></i> vil der komme til at stå:<br>
-<b>&quot;SELECT * FROM users WHERE name = 'Finn';&quot;<br>
+Hvis en bruger har skrevet <i><b>Finn</b></i> vil der komme til at stÃ¥:<br>
+<b>"SELECT * FROM users WHERE name = 'Finn';"<br>
 </b>Hvis <i><b>Finn</b></i> findes i tabellen, returneres den post med alle oplysninger om Finn. Hvis Finn ikke eksisterer, returneres ingen poster.<br>
 Og det er helt fint.<br>
 <br>
 Men hvis brugeren har indtastet dette<br>
 <i><b>a';DROP TABLE users;SELECT * FROM data WHERE name LIKE '%</b></i><br>
-vil SQL sætningen se således ud:<br>
-<b>&quot;SELECT * FROM users WHERE name = 'a';DROP TABLE users;SELECT * FROM data <br>
-WHERE name LIKE '%';&quot;<br>
-</b>Dette vil først returnere 0 poster. Derefter slettes <i>users</i> (altså tabellen med alle brugerne) og til sidst returneres alle posterne fra tabellen <i>data</i>.<br>
-Og det vil være meget uheldigt.<br>
+vil SQL sÃ¦tningen se sÃ¥ledes ud:<br>
+<b>"SELECT * FROM users WHERE name = 'a';DROP TABLE users;SELECT * FROM data <br>
+WHERE name LIKE '%';"<br>
+</b>Dette vil fÃ¸rst returnere 0 poster. Derefter slettes <i>users</i> (altsÃ¥ tabellen med alle brugerne) og til sidst returneres alle posterne fra tabellen <i>data</i>.<br>
+Og det vil vÃ¦re meget uheldigt.<br>
 <br>
 /Finn
 

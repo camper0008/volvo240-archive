@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-07-2014&nbsp; 19:54</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-07-2014 19:54</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle i kloge mennesker :)<br><br>Som n_vnt ovenover: 740 b204gt 1990 (sedan)<br><br>Min stakkels 740 d_de pludseligt under k_rsel med campingvogn.<br>Havde selv k_rt sm_ 100 km i bilen den dag uden det mindste symptom.<br>Min onkel l_ner bilen og k_re 3 km, nu med campingvogn og bum d_d.<br>Der kom ingen mislyde eller noget, den "satte" ud under let accelaration op a en let bakke.<br><br>Falck kom og hentede den, han pr_vede f_rst en masse ting (aner dog ikke hvad, da jeg ikk var der :/  ) Ved dog at han til sidst m_lte sig frem til at der kun var str_m frem til rotord_ksel og ikke videre.<br><br>Her er s_ hvad jeg har pr_vet og skiftet.<br><br>Fredag: Ny rotor og rotord_ksel (bilen starter stadig ikke)(t_ndkablerne blev monteret som falck manden havde sat dem p_ igen) Har str_m frem til t_ndr_rene nu (fin bl_ gnist)<br>T_ndkabler og t_ndr_r er ca 1 _r gammle og original volvo.<br>K_bte nye t_ndr_r alligevel bare for at v_re sikker :) stadig original<br><br>Benzinpumpen k_rer og der ses benzin ved t_ndr_rene. <br>Har en 2.0 diesel til at k_re str_m p_ volvo&#39;en under og efter alle de startsfors_g.<br>Bilen starter stadig ikke, ikk s_ meget som en lille prut.<br><br><br>Jeg v_lger at sl_ t_ndingsr_kkef_lgen op, fordi han har pillet ved det. og den t_nder p_ 1-3-4-2. jeg montere kablerne s_dan og den starter s_ p_ 2 cyl. Bilen hopper og st_r virkeligt uj_vnt tomgang, kan n_sten ikk holde sig k_rende.  <br>Cyl. 1 og 4 k_re. dette har jeg testet ved at fjerne t_ndh_tten og s_ lytte efter forskel i tomgangen.<br>N_r jeg fjerne 1 og 4 d_r den, hvis jeg fjerner 2 og 3 er der ingen forskel<br><br>t_ndkablerne er monteret 1-3-4-2 talt nedefra p_ rotord_kslet og cyl 1 t_ttest kabinen. <br>Har pr_vet at "bytte rundt" p_ t_ndkabler som hvis jeg talte fra forkert side, b_de i forhold til cylinder og rotord_ksel. S_ vil den ikk starte.<br><br>L_rdag: Jeg l_ste fejlkoder idag og fik de her koder ud.<br>T_ndings systemet er EZ116K<br><br>Port 2: 1-1-1 (ingen fejl)<br><br>Port 6: 1-1-1 (ingen fejl)<br><br>Port 5: 4-2-3 og 4-3-1  Kan ikke finde de koder nogen som helst steder, har s_gt og s_gt...<br><br>Har taget stel fra batteriet i 30 min for at nulstille fejl og derefter startet bilen og l_st fejl igen, der f_r jeg samme koder igen.<br><br><br>S_ nu sidder jeg her og aner ikk hva mit n_ste skridt skal v_re pt... Jeg h_ber virkelig der er nogle der byder ind med noget viden :)<br><br>P_ forh_nd, siger jeg mange tusind slags tak :)<br>Mvh Jacob</font></td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

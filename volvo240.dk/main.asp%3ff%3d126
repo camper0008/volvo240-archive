@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Ring Djursland 10 aug. 2003</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Ring Djursland 10 aug. 2003</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -181,13 +181,13 @@ omgange.</p>
     <td width="130" valign="top"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081002.jpg&palt=T_rnet','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081002t.jpg" width="128" height="96"></a></td>
   </tr>
   <tr>
-    <td colspan="2" width="745">Hver bil er udstyret med en &quot;transponder&quot;, p_ st_rrelse med en pakke cigaretter, som sender et signal til Hebsgaards PC via et coaxialkabel nedgravet i m_llinjen hver gang den passerer m_llinjen eller k_rer ud fra pit. Tiderne registreres med 1/1000 sek. n_jagtighed. Ud fra disse tider beregner systemet hver bilens omgangstider o.m.a. Tiderne sendes herfra videre til en anden PC som opdaterer de sk_rme der st_r placeret rundt om p_ omr_det. P_ Internettet kan l_bene f_lges med tider som ogs_ leveres herfra. Og ikke mindst f_r den d_kkende TV kanal tiderne. Det var utroligt sp_ndende at se systemet.<br>
+    <td colspan="2" width="745">Hver bil er udstyret med en "transponder", p_ st_rrelse med en pakke cigaretter, som sender et signal til Hebsgaards PC via et coaxialkabel nedgravet i m_llinjen hver gang den passerer m_llinjen eller k_rer ud fra pit. Tiderne registreres med 1/1000 sek. n_jagtighed. Ud fra disse tider beregner systemet hver bilens omgangstider o.m.a. Tiderne sendes herfra videre til en anden PC som opdaterer de sk_rme der st_r placeret rundt om p_ omr_det. P_ Internettet kan l_bene f_lges med tider som ogs_ leveres herfra. Og ikke mindst f_r den d_kkende TV kanal tiderne. Det var utroligt sp_ndende at se systemet.<br>
     I t_rnet r_der pr_cision og n_jagtighed og en stor entusiasme hos de som befinder sig deroppe.<p>Fra t_rnet fulgte jeg et helt l_b: Historiske, klasse 1971. Med start nummer 544 var en Volvo 544 Sport f_rt af Ulrik Nielsen og med start nummer 44 var en Volvo P1800 f_rt af Charlotte Engel. Desv_rre kom ingen af de to p_ podiet, hvor Brian Stoltze stod _verst efter at have k_rt en Ford Mustang HT i m_l som nummer 1. 12 omgange k_rt p_ 12 min 12.396 sek.</td>
   </tr>
 </table>
-&nbsp;<h3>Omr_det<br>
+<h3>Omr_det<br>
 </h3>
-<p>P_ min tur rundt i omr_det, fandt jeg frem til &quot;depotsvinget&quot;. Det var et 
+<p>P_ min tur rundt i omr_det, fandt jeg frem til "depotsvinget". Det var et 
 fremragende sted at s_ og tage nogle gode billeder. To meter fra bilerne n_r de 
 accelererer efter svinget, fik jeg den perfekte oplevelse af motorsport n_r det 
 er bedst. </p>
@@ -206,8 +206,8 @@ Randers. </p>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081003.jpg&palt=Volvo S40','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081003t.jpg" width="128" height="96"></a></td>
     <td> 
 <p>Lyden fra de mange veltrimmede og velkontrollerede hestekr_fter fra den 
-h_jtydende Volvo motor, gav publikum f_lelsen af at &quot;her sker der virkelig 
-noget&quot;. Varmen gjorde desv_rre at alle disse mange hestekr_fter havde besv_r med 
+h_jtydende Volvo motor, gav publikum f_lelsen af at "her sker der virkelig 
+noget". Varmen gjorde desv_rre at alle disse mange hestekr_fter havde besv_r med 
 at blive overf_rt til asfalten, da d_kkene mistede sin maximale vejgreb. Anders 
 Byriel k_rte Volvoen ind p_ en tredjeplads i dette l_b.</p>
     </td>
@@ -217,7 +217,7 @@ Byriel k_rte Volvoen ind p_ en tredjeplads i dette l_b.</p>
 p_ grund af at oliepinden var gledet op og olien derved fandt vej ud af 
 motoren.)<h3>Depotet</h3>
 <p>Med en depotbillet n_r man ikke at se alle l_bene. Alle bilerne er 
-&quot;udstillet&quot; i depotet. Og hos langt de fleste var mekanikere og k_rere meget 
+"udstillet" i depotet. Og hos langt de fleste var mekanikere og k_rere meget 
 venlige til at fort_lle om hvad de bes_gende ville vide. </p>
 <p>Depotomr_derne er del i to store omr_der. P_ en mark overfor AMU Centret 
 ligger det ene depotomr_de. P_ selve AMU Centrets omr_de ved banen ligger det 
@@ -249,7 +249,7 @@ Herfra foregik en del interviews som blev vist p_ TV</p>
     Under den m_rkebl_ motorhjelm er motorrummet velpakket men tilg_ngelig.<br>
     Kabinen er ikke velegnet som familiebil. Den er bygget  til _n person. 
     Og instrumenteringen er et PI-instrument med datalogger.<br>
-    Bag de 7x17&quot; store f_lge sidder 355 mm store bremser foran. Dette giver 
+    Bag de 7x17" store f_lge sidder 355 mm store bremser foran. Dette giver 
     f_reren mulighed for at udnytte bilens potentielle grib optimalt.</td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081008.jpg&palt=Volvo S40 DTC - Forhjul','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081008t.jpg" width="128" height="96"></a></td>
   </tr>
@@ -266,7 +266,7 @@ Herfra foregik en del interviews som blev vist p_ TV</p>
   </tr>
 </table>
 
-&nbsp;<p>Der var ogs_ andre biler i depotet end Volvoen.<p>En af de mest bes_gte stande var Peugeot-Statoil 
+<p>Der var ogs_ andre biler i depotet end Volvoen.<p>En af de mest bes_gte stande var Peugeot-Statoil 
 teamet med Jason Watt og Jan Magnussen. Jan Magnussen viste bilen til enkelte 
 tilskuere.<br>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
@@ -283,7 +283,7 @@ tilskuere.<br>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="615">Valvoline Racing (Valvoline er dem med de suver_ne olier her 
-    i blandt &quot;Max Life&quot; som er perfekt til Volvo 240) var repr_senteret med en Seat 
+    i blandt "Max Life" som er perfekt til Volvo 240) var repr_senteret med en Seat 
     Toledo - start nummer 18 - med Michael Nykj_r ved rattet.</td>
     <td width="130" valign="top" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081012.jpg&palt=Valvoline Racing','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081012t.jpg" width="128" height="96"></a></td>
   </tr>
@@ -313,7 +313,7 @@ bunden. Det var den eneste racerbil, som ikke var totalt ripper for ekstra v_gt.
   </tr>
 </table>
 
-<p>&nbsp;</p>
+<p></p>
 
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
@@ -417,7 +417,7 @@ interesserede.</b></p>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

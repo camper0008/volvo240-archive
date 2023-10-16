@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -201,7 +201,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Anton M&#248;ller</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Anton Møller</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -209,7 +209,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">02-08-2013&nbsp; 07:27</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">02-08-2013 07:27</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej. Er det samme f_lg st_rrelse p_ en V50 og en 240 ? Mvh Anton</font></td>
@@ -220,7 +220,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 02-08-2013 22:19)</em></u></strong></font></li><br><font face=Verdana>Goddag Anton<br>Er der d_k p_, s_ kik p_ siden af d_kket, s_ kan du ogs_ se hvilken f_lgst_rrelse der er tale om.<br><br>Med venlig hilsen<br>Steen <br>Frederikssund</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 02-08-2013 23:59)</em></u></strong></font></li><br><font face=Verdana>Hej Anton<br><br>Du kan ikke se f_lgst_rrelsen p_ side af d_kket. Det eneste du kan l_se ud af st_rrelsen p_ d_kket sammenlignet med st_rrelsen p_ f_lgen, er f_lgens diameter m_lt i tommer. F_lgens bredde og indpresningen kan ikke tydes ud fra d_kket.<br><br>F_lge fra en Volvo V50 har ikke samme st_rrelse som til Volvo 240. Indpresningen, som er navets forskydning i forhold til midten af f_lgen og som angives med et ET-m_l, er slet ikke det samme.<br>Volvo 240 k_rer med ET 20-25 og V50 med ET 45-50. S_ f_lge fra en Volvo V50, vil p_ en Volvo 240 komme til at sidde 25 mm l_ngere inde og derved skrabe p_ fjedrebenene foran.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kenneth Poulsen, 04-08-2013 16:39)</em></u></strong></font></li><br><font face=Verdana>S_dan groft set, s_ kan en forhjulstr_kker og baghjulstr_kker ikke passe f_lge sammen.<br><br>Pga. ovenst_ende forklaring.<br><br>Mvh</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Elo Christensen, 05-08-2013 20:56)</em></u></strong></font></li><br><font face=Verdana>Det er jo s_ ikke helt rigtigt.<br>Eks.850 v/s 960 kan passe f_lge sammen,b_de ET,Nav og Krydsm_l.<br>Bare en tanke. Mvh Elo.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 14-08-2013 10:56)</em></u></strong></font></li><br><font face=Verdana>Volvo 960 k_rer med multilink bagt_j. DERFOR har disse modeller samme indpresning som forhjulstr_kkere.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 29-08-2013 19:35)</em></u></strong></font></li><br><font face=Verdana>De f_rste 960&#39;ere k_rer med samme ET som 200/700/940. Mener at det skiller i 1994, hvor de s_ f_r samme ET som forhjulstr_kkerne. 960&#39;erne f_s jo med to forskellige multilink "bagender". Uafh_ngig affjedring med to skruefjedre, og s_ den nyere udgave med _n stor tv_rg_ende fjeder. <br><br>/Dennis</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 02-08-2013 22:19)</em></u></strong></font></li><br><font face=Verdana>Goddag Anton<br>Er der d_k p_, s_ kik p_ siden af d_kket, s_ kan du ogs_ se hvilken f_lgst_rrelse der er tale om.<br><br>Med venlig hilsen<br>Steen <br>Frederikssund</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 02-08-2013 23:59)</em></u></strong></font></li><br><font face=Verdana>Hej Anton<br><br>Du kan ikke se f_lgst_rrelsen p_ side af d_kket. Det eneste du kan l_se ud af st_rrelsen p_ d_kket sammenlignet med st_rrelsen p_ f_lgen, er f_lgens diameter m_lt i tommer. F_lgens bredde og indpresningen kan ikke tydes ud fra d_kket.<br><br>F_lge fra en Volvo V50 har ikke samme st_rrelse som til Volvo 240. Indpresningen, som er navets forskydning i forhold til midten af f_lgen og som angives med et ET-m_l, er slet ikke det samme.<br>Volvo 240 k_rer med ET 20-25 og V50 med ET 45-50. S_ f_lge fra en Volvo V50, vil p_ en Volvo 240 komme til at sidde 25 mm l_ngere inde og derved skrabe p_ fjedrebenene foran.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kenneth Poulsen, 04-08-2013 16:39)</em></u></strong></font></li><br><font face=Verdana>S_dan groft set, s_ kan en forhjulstr_kker og baghjulstr_kker ikke passe f_lge sammen.<br><br>Pga. ovenst_ende forklaring.<br><br>Mvh</font><br><li><font face=Verdana><strong><u>Re: - <em>(Elo Christensen, 05-08-2013 20:56)</em></u></strong></font></li><br><font face=Verdana>Det er jo s_ ikke helt rigtigt.<br>Eks.850 v/s 960 kan passe f_lge sammen,b_de ET,Nav og Krydsm_l.<br>Bare en tanke. Mvh Elo.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 14-08-2013 10:56)</em></u></strong></font></li><br><font face=Verdana>Volvo 960 k_rer med multilink bagt_j. DERFOR har disse modeller samme indpresning som forhjulstr_kkere.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 29-08-2013 19:35)</em></u></strong></font></li><br><font face=Verdana>De f_rste 960&#39;ere k_rer med samme ET som 200/700/940. Mener at det skiller i 1994, hvor de s_ f_r samme ET som forhjulstr_kkerne. 960&#39;erne f_s jo med to forskellige multilink "bagender". Uafh_ngig affjedring med to skruefjedre, og s_ den nyere udgave med _n stor tv_rg_ende fjeder. <br><br>/Dennis</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -229,7 +229,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">24</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">24</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

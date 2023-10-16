@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-05-2013&nbsp; 13:18</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-05-2013 13:18</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br>jeg har en ut_t varmeventil - det drypper ud mellem en metalring og det sorte plastic den sidder om. <br>Findes der et vidundermiddel der kan t_tne ventilen midlertidigt? <br><br>Jeg har bestilt en ny, men den kommer f_rst efter pinsen og jeg vil gerne bruge bilen inden da.<br><br>vh Henrik</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Simon Bagger, 17-05-2013 17:46)</em></u></strong></font></li><br><font face=Verdana>Jeg har desv_rre ikke noget svar p_ dit sp_rgsm_l, men et sp_rgsm_l omkring placeringen af denne varmeventil? Min bil drypper nemlig ogs_ lidt i venstreside 20 cm bagved ford_kket. Undskyld for et ekstra sp_rgsm_l. <br>VH Simon</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 18-05-2013 14:11)</em></u></strong></font></li><br><font face=Verdana>Hejsa<br><br>Kig her: <br><br><a href="http://www.bilgalleri.dk/fotoalbum/guider/10733-volvo_242___udskiftning_af_varmeventil" target="_blank">http://www.bilgalleri.dk/fotoalbum/guider/10733-volvo_242___udskiftning_af_varmeventil</a><br><br>(Copy / Paste hele linket ind i din browser)<br><br>Ang t_tningen af den, s_ har ingen bud. Ikke andet at man kunne sk_re de 2 varme slange i motor rummet, og s_tte dem sammen med et stykke kobber_r og 2 sp_ndeb_nd s_ vandet ikke n_r varmeapparatet indtil man f_r skiftet varmeventilen, hvis man SKAL bruge bilen.<br><br>Har faktisk gjort det p_ en gammel Volvo 140 engang.<br><br>God Pinse <br><br>MVH<br><br>Emil</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Simon Bagger, 17-05-2013 17:46)</em></u></strong></font></li><br><font face=Verdana>Jeg har desv_rre ikke noget svar p_ dit sp_rgsm_l, men et sp_rgsm_l omkring placeringen af denne varmeventil? Min bil drypper nemlig ogs_ lidt i venstreside 20 cm bagved ford_kket. Undskyld for et ekstra sp_rgsm_l. <br>VH Simon</font><br><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 18-05-2013 14:11)</em></u></strong></font></li><br><font face=Verdana>Hejsa<br><br>Kig her: <br><br><a href="http://www.bilgalleri.dk/fotoalbum/guider/10733-volvo_242___udskiftning_af_varmeventil" target="_blank">http://www.bilgalleri.dk/fotoalbum/guider/10733-volvo_242___udskiftning_af_varmeventil</a><br><br>(Copy / Paste hele linket ind i din browser)<br><br>Ang t_tningen af den, s_ har ingen bud. Ikke andet at man kunne sk_re de 2 varme slange i motor rummet, og s_tte dem sammen med et stykke kobber_r og 2 sp_ndeb_nd s_ vandet ikke n_r varmeapparatet indtil man f_r skiftet varmeventilen, hvis man SKAL bruge bilen.<br><br>Har faktisk gjort det p_ en gammel Volvo 140 engang.<br><br>God Pinse <br><br>MVH<br><br>Emil</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

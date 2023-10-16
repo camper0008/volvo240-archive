@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,13 +198,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spørge andre Volvo-ejere tilråds om alt vedrørende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spÃ¸rge andre Volvo-ejere tilrÃ¥ds om alt vedrÃ¸rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=518"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=518"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-06-2003&nbsp; 14:14</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-06-2003 14:14</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej!<br><br>Jeg ville hører om der er nogen som, evt. ved hvad en Volvo Amazon GT fra 1966-67, skal koste i indkøb? Den er ret rusten men starter og kører fint! Står nemlig og har gik på én! Har selv tænkt på en pris, men ville lige hører andre volvo fans af også.<br><br>God volvo side iøvrigt!<br><br>Mvh. Hans</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej!<br><br>Jeg ville hÃ¸rer om der er nogen som, evt. ved hvad en Volvo Amazon GT fra 1966-67, skal koste i indkÃ¸b? Den er ret rusten men starter og kÃ¸rer fint! StÃ¥r nemlig og har gik pÃ¥ én! Har selv tÃ¦nkt pÃ¥ en pris, men ville lige hÃ¸rer andre volvo fans af ogsÃ¥.<br><br>God volvo side iÃ¸vrigt!<br><br>Mvh. Hans</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=518&ForumID=4&Showsub=526'>Re: Amazon GT</a> <em>(H.Martin Lotzfeldt, 16-06-2003 08:54)</em></strong></font></li><br><font face=Verdana>Hej med jer.<br>En Volvo Amazone GT har hvis den er monteret med to SU Kaburatore<br>ca. 130 hk. og køre som en drøm. Den må koste alt mellem 5.000 og <br>15.000 kr da den efter en renovation vil koste 25.000 kr.<br>Når nu du skal prøve den næste gang så læg mærke til om der kommer<br>blå rør fra udstødningen når du motor bremser fra høj fart.<br>Hvis der gør det skal du forventet at motoren skal renoveres (have nye Oil`e ringe)<br>Mvh. Martin Lotzfeldt</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=518&ForumID=4&Showsub=519'>Re: Amazon GT</a> <em>(Torben, 15-06-2003 14:16)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=518&ForumID=4&Showsub=526'>Re: Amazon GT</a> <em>(H.Martin Lotzfeldt, 16-06-2003 08:54)</em></strong></font></li><br><font face=Verdana>Hej med jer.<br>En Volvo Amazone GT har hvis den er monteret med to SU Kaburatore<br>ca. 130 hk. og kÃ¸re som en drÃ¸m. Den mÃ¥ koste alt mellem 5.000 og <br>15.000 kr da den efter en renovation vil koste 25.000 kr.<br>NÃ¥r nu du skal prÃ¸ve den nÃ¦ste gang sÃ¥ lÃ¦g mÃ¦rke til om der kommer<br>blÃ¥ rÃ¸r fra udstÃ¸dningen nÃ¥r du motor bremser fra hÃ¸j fart.<br>Hvis der gÃ¸r det skal du forventet at motoren skal renoveres (have nye Oil`e ringe)<br>Mvh. Martin Lotzfeldt</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=518&ForumID=4&Showsub=519'>Re: Amazon GT</a> <em>(Torben, 15-06-2003 14:16)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">5</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">5</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

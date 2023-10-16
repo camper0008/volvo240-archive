@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">30-10-2013&nbsp; 10:31</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">30-10-2013 10:31</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle. Har et problem med bremserne p_ min 240 B230A fra 86.<br>Jeg har nu skiftet alle kalibrene p_ bilen, nye gummislanger foran, alle klodser, halvdelen af bremser_rene og nye skiver bag. Har udluftet b_de etfer den "gamle" og "nye" metode, som beskrevet her p_ forum og det virker - indtil jeg starter motoren!<br>Pedalen er ganske h_rd og kontant med slukket motor og tager fat efter bare et par centimeters vandring p_ bremsepedalen. Men n_r jeg starter bilen synker pedalen og og det f_les som om der er for lidt v_ske p_ (beholderen er fyldt op). Under k_rsel skal pedalen trykkes l_ngere ned end f_r med de gamle bremser p_. Jeg har k_rt ny v_ske igennem systemet og har luftet ud 5-6 gange nu. Det hele virker t_t og bilen bremser ret godt, men den tager f_rst fat n_r pedalen n_rmer sig bunden. Kan det v_re hovedcylinderen der er g_et? Og hvordan tester man den? Det f_les som om den mister tryk n_r motoren er startet. Tr_der jeg 2-3 gange n_r jeg skal bremse bremser den fint.<br>Volvo-hilsen<br>Ren_ T<br></font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 30-10-2013 11:34)</em></u></strong></font></li><br><font face=Verdana>Det er hoved cylinderen der er f_rdig<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 30-10-2013 22:15)</em></u></strong></font></li><br><font face=Verdana>enig. Den har nok revet en l_be. Det med at du kan pumpe 2-3 gange og s_ er der fuld effekt lyder meget som en tr_t hovedcylinder. Kan man ikke f_ et rep-kit hos spare-parts?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Rene Thorvald, 08-11-2013 10:32)</em></u></strong></font></li><br><font face=Verdana>Hej igen og tak for svar. Er det selve hovedcylinderen eller bare pakningerne?<br>Jeg har set et rep.kit med pakninger hos skruvat.se til 55 kr. M_ske kan man pr_ve med det f_rst? (jeg kan ikke se noget hos Spare-Parts (m_ske har den v_ret p_ en gammel prisliste).<br>Jacob: Revet en l_be? er det pakningen eller selve hovedcylinderen?<br>S_ vidt jeg kan se i Haynes-bogen er der 5 pakninger i hovedcylinderen.<br>mvh<br>Ren_<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 09-11-2013 16:11)</em></u></strong></font></li><br><font face=Verdana>revet en af de 5( ? ) pakningner p_ stemplet i cylinderen. Ikke selve holvedcylinderen. <br>Du kan ogs_ overveje en hovedcylinder fra en hugger eller Jens Peter. Helt _rligt. Det er sgu noget nemmere, og ikke ret meget dyrere.<br>Men ellers er der ingen ben i at renovere cylinderen.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 30-10-2013 11:34)</em></u></strong></font></li><br><font face=Verdana>Det er hoved cylinderen der er f_rdig<br>MVH Jens Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 30-10-2013 22:15)</em></u></strong></font></li><br><font face=Verdana>enig. Den har nok revet en l_be. Det med at du kan pumpe 2-3 gange og s_ er der fuld effekt lyder meget som en tr_t hovedcylinder. Kan man ikke f_ et rep-kit hos spare-parts?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Rene Thorvald, 08-11-2013 10:32)</em></u></strong></font></li><br><font face=Verdana>Hej igen og tak for svar. Er det selve hovedcylinderen eller bare pakningerne?<br>Jeg har set et rep.kit med pakninger hos skruvat.se til 55 kr. M_ske kan man pr_ve med det f_rst? (jeg kan ikke se noget hos Spare-Parts (m_ske har den v_ret p_ en gammel prisliste).<br>Jacob: Revet en l_be? er det pakningen eller selve hovedcylinderen?<br>S_ vidt jeg kan se i Haynes-bogen er der 5 pakninger i hovedcylinderen.<br>mvh<br>Ren_<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 09-11-2013 16:11)</em></u></strong></font></li><br><font face=Verdana>revet en af de 5( ? ) pakningner p_ stemplet i cylinderen. Ikke selve holvedcylinderen. <br>Du kan ogs_ overveje en hovedcylinder fra en hugger eller Jens Peter. Helt _rligt. Det er sgu noget nemmere, og ikke ret meget dyrere.<br>Men ellers er der ingen ben i at renovere cylinderen.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Volvo 264 TE</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Volvo 264 TE</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -194,7 +194,7 @@ document.onmousedown=click;
 		<td align="center"><img border="0" src="/240info/generel/images/264te_01t.jpg"></td>
 	</tr>
 	<tr>
-		<td align="center"><font face="Magneto" size="5">Eksklusiv elegance. Prægtig komfort. Volvo Top Executive.</font></td>
+		<td align="center"><font face="Magneto" size="5">Eksklusiv elegance. PrÃ¦gtig komfort. Volvo Top Executive.</font></td>
 	</tr>
 	<tr>
 		<td align="center"><hr></td>
@@ -203,11 +203,11 @@ document.onmousedown=click;
 <table border="0" cellpadding="5" cellspacing="1" width="745" align="center">
 	<tr>
 		<td>
-			<p>Hensigten med 264 TE var at lave en fuldblods VIP bil. Og derfor blev næsten alle lavet i mørke blå og sort.<p>
-			<p>Volvo 264 TE blev bygget i Italien fra 1975. Den blev selvfølgelig også lavet som st.car. Volvo 245 T (Transfer) der som 264 TE var 70 cm. længere. 245 T blev produceret på fabrikken i Kalmar.<br>
-			Det blev til 335 stk. af disse "lange" udgaver, og heraf blev de 125 solgt i Øst Tyskland.<br>
-			Den sidste blev bygget i 1981 og var en 245 T (Pudsigt nok var den sidste Volvo 240 også en st.car.)</p>
-			<p>Teknisk set er der kun meget få ændringer i forhold til de almindelige 264 udgaver, men interiøret er væsentlig mere luxoriøst.</p>
+			<p>Hensigten med 264 TE var at lave en fuldblods VIP bil. Og derfor blev nÃ¦sten alle lavet i mÃ¸rke blÃ¥ og sort.<p>
+			<p>Volvo 264 TE blev bygget i Italien fra 1975. Den blev selvfÃ¸lgelig ogsÃ¥ lavet som st.car. Volvo 245 T (Transfer) der som 264 TE var 70 cm. lÃ¦ngere. 245 T blev produceret pÃ¥ fabrikken i Kalmar.<br>
+			Det blev til 335 stk. af disse "lange" udgaver, og heraf blev de 125 solgt i Ã˜st Tyskland.<br>
+			Den sidste blev bygget i 1981 og var en 245 T (Pudsigt nok var den sidste Volvo 240 ogsÃ¥ en st.car.)</p>
+			<p>Teknisk set er der kun meget fÃ¥ Ã¦ndringer i forhold til de almindelige 264 udgaver, men interiÃ¸ret er vÃ¦sentlig mere luxoriÃ¸st.</p>
 		</td>
 	</tr>
 </table>
@@ -217,7 +217,7 @@ document.onmousedown=click;
     <td align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/240info/generel/images/264te_02.jpg&palt=','','height=343,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/240info/generel/images/264te_02t.jpg" width="196" height="96"></a></td>
   </tr>
   <tr>
-    <td align="center">Det eksklusive interiør giver en karakteristisk atmosfære af elegance.</td>
+    <td align="center">Det eksklusive interiÃ¸r giver en karakteristisk atmosfÃ¦re af elegance.</td>
   </tr>
 </table>
 <br>
@@ -230,13 +230,13 @@ document.onmousedown=click;
   </tr>
   <tr>
     <td width="25%" align="center" valign="top">Volvo 264 TE er udstyret med to foldbare 
-	ekstrasæder.</td>
-    <td width="25%" align="center" valign="top">Armlænet har kontrolknapper til læselamperne 
-	og volumenkontrol af højtalerne.</td>
-    <td width="25%" align="center" valign="top">Justerbare læselamper for bagsæde 
+	ekstrasÃ¦der.</td>
+    <td width="25%" align="center" valign="top">ArmlÃ¦net har kontrolknapper til lÃ¦selamperne 
+	og volumenkontrol af hÃ¸jtalerne.</td>
+    <td width="25%" align="center" valign="top">Justerbare lÃ¦selamper for bagsÃ¦de 
 	passagererne - en i hver side.</td>
-    <td width="25%" align="center" valign="top">Kufferter kan placeres med håndtaget op i det 
-	rummelige bagagerum som har samme høje standard som interiøret.</td>
+    <td width="25%" align="center" valign="top">Kufferter kan placeres med hÃ¥ndtaget op i det 
+	rummelige bagagerum som har samme hÃ¸je standard som interiÃ¸ret.</td>
   </tr>
 </table>
 <br>
@@ -260,67 +260,67 @@ document.onmousedown=click;
 		<td vAlign="top" width="250">B 27 E, V6</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
 		<td vAlign="top" width="525">Antal cylindre </td>
 		<td vAlign="top" width="250">6</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
 		<td vAlign="top" width="525">Slagvolumen</td>
 		<td vAlign="top" width="250">2664</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
-		<td vAlign="top" width="525">Boring og slaglængde, mm </td>
+		<td vAlign="top" width="125"></td>
+		<td vAlign="top" width="525">Boring og slaglÃ¦ngde, mm </td>
 		<td vAlign="top" width="250">88.0 x 73.0</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
 		<td vAlign="top" width="525">Max. effekt hk ved r/m DIN</td>
 		<td vAlign="top" width="250">148/5700</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
 		<td vAlign="top" width="525">Max. effekt kW ved r/s DIN</td>
 		<td vAlign="top" width="250">109/95</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
 		<td vAlign="top" width="525">Max. drejningsmoment kpm ved r/m DIN</td>
 		<td vAlign="top" width="250">22/3000</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
 		<td vAlign="top" width="525">Max. drejningsmoment Nm ved r/s DIN</td>
 		<td vAlign="top" width="250">218/50</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
 		<td vAlign="top" width="525">Kompressions forhold</td>
 		<td vAlign="top" width="250">9.5:1</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
-		<td vAlign="top" width="525">Brændstofsystem</td>
+		<td vAlign="top" width="125"></td>
+		<td vAlign="top" width="525">BrÃ¦ndstofsystem</td>
 		<td vAlign="top" width="250">Cl injection system</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
 		<td vAlign="top" width="525">Oktan</td>
 		<td vAlign="top" width="250">97-98</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
 		<td vAlign="top" width="525">Motorblok og cylinderhoveder af letmetal.</td>
-		<td vAlign="top" width="250">&nbsp;</td>
+		<td vAlign="top" width="250"></td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
-		<td vAlign="top" width="525">Ventilsystem: overliggende knastaksler, Vippearme.&nbsp;Kædetræk til knastaksel</td>
-		<td vAlign="top" width="250">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
+		<td vAlign="top" width="525">Ventilsystem: overliggende knastaksler, Vippearme.KÃ¦detrÃ¦k til knastaksel</td>
+		<td vAlign="top" width="250"></td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125"><h5>Køler system:</h5></td>
+		<td vAlign="top" width="125"><h5>KÃ¸ler system:</h5></td>
 		<td vAlign="top" width="525">Lukket med overtrykssystem. Kapacitet:</td>
 		<td vAlign="top" width="250">ca.. 10.9 l</td>
 	</tr>
@@ -330,85 +330,85 @@ document.onmousedown=click;
 		<td vAlign="top" width="250">12V/70Ah</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
 		<td vAlign="top" width="525">Kapacitet</td>
 		<td vAlign="top" width="250">70A</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
-		<td vAlign="top" width="525">Tændningssystem</td>
+		<td vAlign="top" width="125"></td>
+		<td vAlign="top" width="525">TÃ¦ndningssystem</td>
 		<td vAlign="top" width="250">Elektronisk</td>
 	</tr>
 	<tr>
 		<td vAlign="top" width="125"><h5>Transmission:</h5></td>
 		<td vAlign="top" width="525">Automatisk transmission. 3-trins.</td>
-		<td vAlign="top" width="250">&nbsp;</td>
+		<td vAlign="top" width="250"></td>
 	</tr>
 	<tr>
 		<td vAlign="top" width="125"><h5>Affjedring:</h5></td>
-		<td vAlign="top" width="525">For:&nbsp;Mc-pherson fjederben&nbsp;med stabilisator.<br>
-		Bag: Stiv aksel med bærerame og langsgående stabilisatorarme. Tværgående panhardstang og krængningsstabilisator. Skruefjedre og teleskop støddæmpere.</td>
-		<td vAlign="top" width="250">&nbsp;</td>
+		<td vAlign="top" width="525">For:Mc-pherson fjederbenmed stabilisator.<br>
+		Bag: Stiv aksel med bÃ¦rerame og langsgÃ¥ende stabilisatorarme. TvÃ¦rgÃ¥ende panhardstang og krÃ¦ngningsstabilisator. Skruefjedre og teleskop stÃ¸ddÃ¦mpere.</td>
+		<td vAlign="top" width="250"></td>
 	</tr>
 	<tr>
 		<td vAlign="top" width="125"><h5>Bremse system:</h5></td>
-		<td vAlign="top" width="525">Skivebremser med servo. 2 kreds bremsesystem. Hver kreds opererer samtidig på begge forhjul og hver et af baghjulene.<br>
-		Bremserør af rustfri kobber- og nikkel legering. Ventilerede skiver på forhjulene.&nbsp;Begrænser ventil&nbsp;i hver kreds sikre mod at baghjulene blokerer for tidligt ved nødbremsning.	To-trins hovedcylinder Håndbremsen virker på baghjulene gennem separate tromler. </td>
-		<td vAlign="top" width="250">&nbsp;</td>
+		<td vAlign="top" width="525">Skivebremser med servo. 2 kreds bremsesystem. Hver kreds opererer samtidig pÃ¥ begge forhjul og hver et af baghjulene.<br>
+		BremserÃ¸r af rustfri kobber- og nikkel legering. Ventilerede skiver pÃ¥ forhjulene.BegrÃ¦nser ventili hver kreds sikre mod at baghjulene blokerer for tidligt ved nÃ¸dbremsning.	To-trins hovedcylinder HÃ¥ndbremsen virker pÃ¥ baghjulene gennem separate tromler. </td>
+		<td vAlign="top" width="250"></td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125"><h5>Brændstof tank:</h5></td>
+		<td vAlign="top" width="125"><h5>BrÃ¦ndstof tank:</h5></td>
 		<td vAlign="top" width="525">Sikkert placeret over bagakslen.</td>
-		<td vAlign="top" width="250">&nbsp;</td>
+		<td vAlign="top" width="250"></td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
 		<td vAlign="top" width="525">Kapacitet</td>
 		<td vAlign="top" width="250">60 l</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125"><h5>Styretøj:</h5></td>
+		<td vAlign="top" width="125"><h5>StyretÃ¸j:</h5></td>
 		<td vAlign="top" width="525">Tandstang med servo. Rataksel af sikkerhedstype.</td>
-		<td vAlign="top" width="250">&nbsp;</td>
+		<td vAlign="top" width="250"></td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
 		<td vAlign="top" width="525">Udveksling</td>
 		<td vAlign="top" width="250">17.2:1 Servo.</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
+		<td vAlign="top" width="125"></td>
 		<td vAlign="top" width="525">Antal omdrejninger</td>
 		<td vAlign="top" width="250">3.5</td>
 	</tr>
 	<tr>
 		<td vAlign="top" width="125"><h5>Instrumentering:</h5></td>
-		<td vAlign="top" width="525">I polstret instrumentbord. Rheostat-kontrolleret instrument belysning. Sekscifret km. tæller med triptæller, benzinmåler og kølevandstemperatur måler. Advarselslamper for batterilader, olietryk, hovedlys, blinklys, håndbremse og bremsesystem svigt. Sensor for pære svigt. Handskerums belysning. Kombineret rat og tændingslås.<br>
-		Center konsol: Kontrol for el opvarmet bagrude, katastrofeblink, ventilation og aircondition system. Lampe for &quot;husk sikkerhedssele&quot;. Cigar tænder. Askebæger. Radio med kassette bånd afspiller.</td>
-		<td vAlign="top" width="250">&nbsp;</td>
+		<td vAlign="top" width="525">I polstret instrumentbord. Rheostat-kontrolleret instrument belysning. Sekscifret km. tÃ¦ller med triptÃ¦ller, benzinmÃ¥ler og kÃ¸levandstemperatur mÃ¥ler. Advarselslamper for batterilader, olietryk, hovedlys, blinklys, hÃ¥ndbremse og bremsesystem svigt. Sensor for pÃ¦re svigt. Handskerums belysning. Kombineret rat og tÃ¦ndingslÃ¥s.<br>
+		Center konsol: Kontrol for el opvarmet bagrude, katastrofeblink, ventilation og aircondition system. Lampe for "husk sikkerhedssele". Cigar tÃ¦nder. AskebÃ¦ger. Radio med kassette bÃ¥nd afspiller.</td>
+		<td vAlign="top" width="250"></td>
 	</tr>
 	<tr>
 		<td vAlign="top" width="125"><h5>Standard udstyr:</h5></td>
-		<td vAlign="top" width="525">Interiør:<br>
-		Ur, speedometer m/kilometertæller, elektriske vinduer, plys polstring,
-		tykke tæpper, aircondition, stereo højtalere, faste nakkestøtter, tæpper i bagagerum, bagagerums belysning. </p>Kombineret kontaktarm for afviser, kort og lang lys og overhalingslys. Kombineret kontaktarm for vindues visker med 2 hastigheder og elektrisk sprinkler. Motorrums lys. Lamineret forrude. Polstret solskærme. Dag/nat bakspejl af sikkerheds type. Rulle seler ved forsæder og de to yderste bagsædepladser. fast sele i midten.<br>
+		<td vAlign="top" width="525">InteriÃ¸r:<br>
+		Ur, speedometer m/kilometertÃ¦ller, elektriske vinduer, plys polstring,
+		tykke tÃ¦pper, aircondition, stereo hÃ¸jtalere, faste nakkestÃ¸tter, tÃ¦pper i bagagerum, bagagerums belysning. </p>Kombineret kontaktarm for afviser, kort og lang lys og overhalingslys. Kombineret kontaktarm for vindues visker med 2 hastigheder og elektrisk sprinkler. Motorrums lys. Lamineret forrude. Polstret solskÃ¦rme. Dag/nat bakspejl af sikkerheds type. Rulle seler ved forsÃ¦der og de to yderste bagsÃ¦depladser. fast sele i midten.<br>
 		<br>
-		Exteriør:<br>
-		Rektangulære halogen forlygter. Automatisk baklys. Slæbekrog for og bag. Forlygte visker og vasker, tonede ruder. 5.5 J-14&quot; fælge. Stålradial dæk 185SR14.</td>
-		<td vAlign="top" width="250">&nbsp;</td>
+		ExteriÃ¸r:<br>
+		RektangulÃ¦re halogen forlygter. Automatisk baklys. SlÃ¦bekrog for og bag. Forlygte visker og vasker, tonede ruder. 5.5 J-14" fÃ¦lge. StÃ¥lradial dÃ¦k 185SR14.</td>
+		<td vAlign="top" width="250"></td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125"><h5>Vægt:</h5></td>
-		<td vAlign="top" width="525">Køreklar vægt ca.</td>
+		<td vAlign="top" width="125"><h5>VÃ¦gt:</h5></td>
+		<td vAlign="top" width="525">KÃ¸reklar vÃ¦gt ca.</td>
 		<td vAlign="top" width="250">1635 kg</td>
 	</tr>
 	<tr>
-		<td vAlign="top" width="125">&nbsp;</td>
-		<td vAlign="top" width="525">Total vægt</td>
+		<td vAlign="top" width="125"></td>
+		<td vAlign="top" width="525">Total vÃ¦gt</td>
 		<td vAlign="top" width="250">2180 kg</td>
 	</tr>
 </table>
-<h6>Udarbejdet med stor hjælp fra Jes Hebsgaard.</h6>
+<h6>Udarbejdet med stor hjÃ¦lp fra Jes Hebsgaard.</h6>
 
     </td>
   </tr>
@@ -420,7 +420,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -429,9 +429,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-08-2014&nbsp; 20:30</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-08-2014 20:30</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Min 245 fra 93 med B230FD melder denne fejlkode. Bilen k_rer udem_rket (12km/l), men giver dog engang imellem lidt hoppen i 1. eller 2. gear. What to do?</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 04-08-2014 21:29)</em></u></strong></font></li><br><font face=Verdana>Kan v_re lampda sonden.<br>Men pr_v lige at slette fejlkoden og s_ se om den kommer igen?<br><br>Mvh Pede</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jeppe Halkier Hansen, 04-08-2014 21:51)</em></u></strong></font></li><br><font face=Verdana>Har haft str_mmen af to gange og hver gang er den kommet tilbage n_sten med det samme.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 05-08-2014 08:01)</em></u></strong></font></li><br><font face=Verdana>Du skal kunne l_se 1-1-1 ud lige n_r du har slettet fejlen og inden du har k_rt i bilen.<br>Hvis den s_ kommer igen er mit bedste bud lampdasonde hvid den ellers er t_t i alle slanger?<br><br>Mvh Pede</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 15-08-2014 09:38)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Er det n_r du starter bilen og k_rer.<br>Min g_r det, i denne tid, i f_rste og anden gear, men jeg lader den acc. let til, s_ er det ingen problem, og det er v_k efter et par km.<br>Tror det er koldstartf_leren. da det er som om den f_r for meget at leve af der.<br>mvh<br>S_ren</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 04-08-2014 21:29)</em></u></strong></font></li><br><font face=Verdana>Kan v_re lampda sonden.<br>Men pr_v lige at slette fejlkoden og s_ se om den kommer igen?<br><br>Mvh Pede</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jeppe Halkier Hansen, 04-08-2014 21:51)</em></u></strong></font></li><br><font face=Verdana>Har haft str_mmen af to gange og hver gang er den kommet tilbage n_sten med det samme.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 05-08-2014 08:01)</em></u></strong></font></li><br><font face=Verdana>Du skal kunne l_se 1-1-1 ud lige n_r du har slettet fejlen og inden du har k_rt i bilen.<br>Hvis den s_ kommer igen er mit bedste bud lampdasonde hvid den ellers er t_t i alle slanger?<br><br>Mvh Pede</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren Frydendahl Krab, 15-08-2014 09:38)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Er det n_r du starter bilen og k_rer.<br>Min g_r det, i denne tid, i f_rste og anden gear, men jeg lader den acc. let til, s_ er det ingen problem, og det er v_k efter et par km.<br>Tror det er koldstartf_leren. da det er som om den f_r for meget at leve af der.<br>mvh<br>S_ren</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

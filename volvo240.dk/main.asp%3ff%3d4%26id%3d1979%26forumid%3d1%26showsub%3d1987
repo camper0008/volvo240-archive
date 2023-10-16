@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=1979"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1979"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-07-2004&nbsp; 21:39</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-07-2004 21:39</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Ejer en gammel træt 245 med ombyttermotor, kan belært af siden her aldersbestemme topstykket til 31.10.77, men kan stadig ikke efter 3 motorrumsvask finde nogen indikation af hvilken motor der er tale om ??<br><br>Hvor finder man en sådan typeangivelse, kan nogen lede mig på vej ????</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Ejer en gammel trÃ¦t 245 med ombyttermotor, kan belÃ¦rt af siden her aldersbestemme topstykket til 31.10.77, men kan stadig ikke efter 3 motorrumsvask finde nogen indikation af hvilken motor der er tale om ??<br><br>Hvor finder man en sÃ¥dan typeangivelse, kan nogen lede mig pÃ¥ vej ????</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1990'>Re: typebestemmelse af motor</a> <em>(Jan H, 06-07-2004 13:06)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1989'>Re: typebestemmelse af motor</a> <em>(Christian Fisker, 06-07-2004 13:02)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1987'>Re: typebestemmelse af motor</a> <em>(Jan H, 06-07-2004 12:47)</em></strong></font></li><br><font face=Verdana>Jeg havde ellers lige bestemt mig for en B210A, mest på grund af alderen, men 230'eren er også en mulighed.<br><br>Jeg skiftede membran og platiner samme dag jeg købte vidunderet, men har her til morgen indkøbt komplet tændings og filtersæt, nu skal den få skal den! tak for tipsene vil straks få dem prøvet af.<br><br>Jeg kunne ikke rigtig finde den helt rigtige 245 at bygge videre på da jeg stod og manglede bil, derfor købte jeg dette vrag med 16md syn for 6000 og tænkte at den kunne holde det den nu kan, og så kan den måske lære mig hvad volvo egentlig er for noget, så er jeg måske det klogere næste gang jeg køber volvo.<br><br>Ingen tvivl om at 245'eren er det rigtige køretøj med 4 børn, barnevogn og stor hund. Til trods for alle sine skavanker kan man et eller andet sted godt fornemme at der er tale om en anden kvalitet bil end de japanere jeg ellers har været glad for.</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1985'>Re: typebestemmelse af motor</a> <em>(Emil J, 06-07-2004 02:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1984'>Re: typebestemmelse af motor</a> <em>(Jan H, 06-07-2004 00:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1983'>Re: typebestemmelse af motor</a> <em>(Kent, 05-07-2004 23:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1982'>Re: typebestemmelse af motor</a> <em>(Emil J, 05-07-2004 23:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1981'>Re: typebestemmelse af motor</a> <em>(Jan H, 05-07-2004 23:24)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1980'>Re: typebestemmelse af motor</a> <em>(Emil J, 05-07-2004 23:03)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1990'>Re: typebestemmelse af motor</a> <em>(Jan H, 06-07-2004 13:06)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1989'>Re: typebestemmelse af motor</a> <em>(Christian Fisker, 06-07-2004 13:02)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1987'>Re: typebestemmelse af motor</a> <em>(Jan H, 06-07-2004 12:47)</em></strong></font></li><br><font face=Verdana>Jeg havde ellers lige bestemt mig for en B210A, mest pÃ¥ grund af alderen, men 230'eren er ogsÃ¥ en mulighed.<br><br>Jeg skiftede membran og platiner samme dag jeg kÃ¸bte vidunderet, men har her til morgen indkÃ¸bt komplet tÃ¦ndings og filtersÃ¦t, nu skal den fÃ¥ skal den! tak for tipsene vil straks fÃ¥ dem prÃ¸vet af.<br><br>Jeg kunne ikke rigtig finde den helt rigtige 245 at bygge videre pÃ¥ da jeg stod og manglede bil, derfor kÃ¸bte jeg dette vrag med 16md syn for 6000 og tÃ¦nkte at den kunne holde det den nu kan, og sÃ¥ kan den mÃ¥ske lÃ¦re mig hvad volvo egentlig er for noget, sÃ¥ er jeg mÃ¥ske det klogere nÃ¦ste gang jeg kÃ¸ber volvo.<br><br>Ingen tvivl om at 245'eren er det rigtige kÃ¸retÃ¸j med 4 bÃ¸rn, barnevogn og stor hund. Til trods for alle sine skavanker kan man et eller andet sted godt fornemme at der er tale om en anden kvalitet bil end de japanere jeg ellers har vÃ¦ret glad for.</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1985'>Re: typebestemmelse af motor</a> <em>(Emil J, 06-07-2004 02:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1984'>Re: typebestemmelse af motor</a> <em>(Jan H, 06-07-2004 00:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1983'>Re: typebestemmelse af motor</a> <em>(Kent, 05-07-2004 23:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1982'>Re: typebestemmelse af motor</a> <em>(Emil J, 05-07-2004 23:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1981'>Re: typebestemmelse af motor</a> <em>(Jan H, 05-07-2004 23:24)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1979&ForumID=1&Showsub=1980'>Re: typebestemmelse af motor</a> <em>(Emil J, 05-07-2004 23:03)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">129</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">129</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

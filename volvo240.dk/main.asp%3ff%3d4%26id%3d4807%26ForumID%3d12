@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -201,7 +201,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Johnny Tj&#248;rnfelt</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Johnny Tjørnfelt</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -209,7 +209,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-08-2013&nbsp; 17:36</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-08-2013 17:36</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg m_, til stor irritation, ofte se Lambda-lampen lyse. Hver gang er det en fejl 2-1-2, men den kan slettes med det samme. Jeg har gennem tiden st_dt p_ "sjove" ledninger og forbindelser i bilen, og derfor frygter jeg at det kan v_re en leder i bunden af computerboksen. Det kan sikkert blive sp_ndende at skille ad - not. Men der sikkert andre muligheder. Er der nogen der har haft samme udfordring - og fundet l_sningen, vil jeg gerne h_re om det.<br>P_ forh_nd tak</font></td>
@@ -220,7 +220,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 11-08-2013 21:03)</em></u></strong></font></li><br><font face=Verdana>Det er nok bare din Lampdazonde der er ved at v_re f_rdig, hvor langt har den k_rt?<br><br>MVH Pede</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 12-08-2013 13:40)</em></u></strong></font></li><br><font face=Verdana>fejlkode 2-1-2 i A2 er manglende eller fejlagtigt signal fra lambdasonden.<br>Tid til ny sonde.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Johnny Tj&#248;rnfelt, 15-09-2013 10:54)</em></u></strong></font></li><br><font face=Verdana>Undskylder den sene respons p_ jeres svar. Bilen har nu k_rt 407000km. Jeg g_tter p_ det er original-sonden der sidder i. Men - der har ikke v_ret fejl siden mit oprindelige indl_g. Det er alts_ periodisk - i perioder med ofte lange pauser imellem. Men tak for inputtet.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 11-08-2013 21:03)</em></u></strong></font></li><br><font face=Verdana>Det er nok bare din Lampdazonde der er ved at v_re f_rdig, hvor langt har den k_rt?<br><br>MVH Pede</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 12-08-2013 13:40)</em></u></strong></font></li><br><font face=Verdana>fejlkode 2-1-2 i A2 er manglende eller fejlagtigt signal fra lambdasonden.<br>Tid til ny sonde.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Johnny Tjørnfelt, 15-09-2013 10:54)</em></u></strong></font></li><br><font face=Verdana>Undskylder den sene respons p_ jeres svar. Bilen har nu k_rt 407000km. Jeg g_tter p_ det er original-sonden der sidder i. Men - der har ikke v_ret fejl siden mit oprindelige indl_g. Det er alts_ periodisk - i perioder med ofte lange pauser imellem. Men tak for inputtet.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -229,7 +229,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">32</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">32</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

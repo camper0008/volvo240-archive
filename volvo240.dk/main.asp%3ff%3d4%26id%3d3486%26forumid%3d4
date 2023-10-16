@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-07-2009&nbsp; 00:29</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-07-2009 00:29</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">hej,er der nogen der kender,et godt volvo-v_rksted? jeg skal have justeret tomgangen,og evt.skiftet b_sninger bagi.(760 GLE 88)</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(kim, 07-07-2009 00:32)</em></u></strong></font></li><br><font face=Verdana>jeg glemte at skrive, at jeg bor i kbh..</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kim, 09-07-2009 08:02)</em></u></strong></font></li><br><font face=Verdana>hej igen,er der virkelig ikke nogen,der kender et godt v_rksted.Eller laver i allesammen,jeres biler selv???</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 09-07-2009 11:29)</em></u></strong></font></li><br><font face=Verdana>Hej: jo det g_r jeg da, det er godt nok et par siden at jeg brugte det sidst, men<br>Det hedder autohj_rnet i Esperg_rde og ejes af Mogens Jensen, han har rep, volvo i mange _r og ligger ogs_ inde med brugte stumper efter hvad jeg kan huske,<br>Der skulle ogs_ ligge en p_ eller ved Islevdalsvej, men ham kan jeg ikke finde i vejviseren.<br>jeg ogs_ fort_lle at jeg selv laver n_sten alt p_ mine volvoer <br>(indehaver af en volvo 240GLE 1989 & volvo 164E 1973)<br>Jeg h_ber at du kan bruge mine oplysninger.<br>volvolige hilsner fra Tommy</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Mathiasen, 09-07-2009 14:16)</em></u></strong></font></li><br><font face=Verdana>Hej Kim<br>Ikke for at skr_mme dig hvad ang_r Autohj_rnet i Esperg_rde, men s_ har han ry for at v_re en dyr f_tter at bes_ge, har brugt ham for _r tilbage, han er skide dygtig, og arbejdet kan man ikke stille sp_rgsm_l ved - men du kommer ogs_ til at betale for det !! Har h_rt efterf_lgende at det nu er hans s_n der mere eller mindre driver det, s_ m_ske det er blevet bedre :-)<br><br>Mvh<br>Chr.M.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(kim, 07-07-2009 00:32)</em></u></strong></font></li><br><font face=Verdana>jeg glemte at skrive, at jeg bor i kbh..</font><br><li><font face=Verdana><strong><u>Re: - <em>(kim, 09-07-2009 08:02)</em></u></strong></font></li><br><font face=Verdana>hej igen,er der virkelig ikke nogen,der kender et godt v_rksted.Eller laver i allesammen,jeres biler selv???</font><br><li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 09-07-2009 11:29)</em></u></strong></font></li><br><font face=Verdana>Hej: jo det g_r jeg da, det er godt nok et par siden at jeg brugte det sidst, men<br>Det hedder autohj_rnet i Esperg_rde og ejes af Mogens Jensen, han har rep, volvo i mange _r og ligger ogs_ inde med brugte stumper efter hvad jeg kan huske,<br>Der skulle ogs_ ligge en p_ eller ved Islevdalsvej, men ham kan jeg ikke finde i vejviseren.<br>jeg ogs_ fort_lle at jeg selv laver n_sten alt p_ mine volvoer <br>(indehaver af en volvo 240GLE 1989 & volvo 164E 1973)<br>Jeg h_ber at du kan bruge mine oplysninger.<br>volvolige hilsner fra Tommy</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Mathiasen, 09-07-2009 14:16)</em></u></strong></font></li><br><font face=Verdana>Hej Kim<br>Ikke for at skr_mme dig hvad ang_r Autohj_rnet i Esperg_rde, men s_ har han ry for at v_re en dyr f_tter at bes_ge, har brugt ham for _r tilbage, han er skide dygtig, og arbejdet kan man ikke stille sp_rgsm_l ved - men du kommer ogs_ til at betale for det !! Har h_rt efterf_lgende at det nu er hans s_n der mere eller mindre driver det, s_ m_ske det er blevet bedre :-)<br><br>Mvh<br>Chr.M.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -267,7 +267,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

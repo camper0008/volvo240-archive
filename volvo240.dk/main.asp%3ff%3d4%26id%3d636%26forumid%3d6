@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-08-2004&nbsp; 11:41</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-08-2004 11:41</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">jeg skal ha skiftet alle b_sninger i alle oph_ngene til forbro og bagt_j  men hvilke skal man k_be  originale eller uoriginale??det er ikke s_ meget prisen det handler om ,mere kvaliteten.er her en der har nogle erfaringer med dette??</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(flemming andersen, 09-08-2004 21:24)</em></u></strong></font></li><br><font face=Verdana>hej kent mn kan k_be nogle pollitanb_ssinger ved kg trimming i dalby i sverige hilsen flemming</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Simon Hansen, 06-03-2005 10:33)</em></u></strong></font></li><br><font face=Verdana>Jeg har k_bt samtlige b_sninger de har hos Kg Trimning og forventer at have min bil p_ gaden sidst i april. Jeg skal nok skriv en lille kommentar om dem herinde, s_ snart jeg har oplevet dem :)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kent, 06-03-2005 17:46)</em></u></strong></font></li><br><font face=Verdana>Det m_ du da meget gerne.Forresten kender jeg godt din bil og din mekaniker,men det er jo en anden snak.mvh Kent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Simon D. Hansen, 30-04-2005 06:06)</em></u></strong></font></li><br><font face=Verdana>Bilen er p_ gaden og den k_rer ganske fornuftigt. Jeg har dog lidt sv_rt ved at vurdere effekten, da gearingen er lavere og tr_kket derfor er meget anderledes - selv uden motordelene.<br><br>Undervognen er sindssygt kanon - bilen ligger virkerlig l_kkert p_ vejen. Den styrer helt kanon og der er s_ godt som n_sten ingen kr_ngning tilbage. Jeg er klar over, at meget af det skyldes mine 1" kr_ngningsstabilisatorer, men noget af det m_ ogs_ skyldes Powerflex b_sningerne.<br><br>Jeg skal p_ rullefelt mandag morgen, s_ jeg h_ber bestemt der bliver fundet en helvedes omgang heste der. Bilen er ok hurtig nu, men med de penge jeg har brugt og med s_ fornuftig en motor, vil jeg FANME ikke have baghjul af en Golf 4 med 125hk!<br><br>P.s. Kent, kender jeg ogs_ dig eller? :)</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(flemming andersen, 09-08-2004 21:24)</em></u></strong></font></li><br><font face=Verdana>hej kent mn kan k_be nogle pollitanb_ssinger ved kg trimming i dalby i sverige hilsen flemming</font><br><li><font face=Verdana><strong><u>Re: - <em>(Simon Hansen, 06-03-2005 10:33)</em></u></strong></font></li><br><font face=Verdana>Jeg har k_bt samtlige b_sninger de har hos Kg Trimning og forventer at have min bil p_ gaden sidst i april. Jeg skal nok skriv en lille kommentar om dem herinde, s_ snart jeg har oplevet dem :)</font><br><li><font face=Verdana><strong><u>Re: - <em>(kent, 06-03-2005 17:46)</em></u></strong></font></li><br><font face=Verdana>Det m_ du da meget gerne.Forresten kender jeg godt din bil og din mekaniker,men det er jo en anden snak.mvh Kent</font><br><li><font face=Verdana><strong><u>Re: - <em>(Simon D. Hansen, 30-04-2005 06:06)</em></u></strong></font></li><br><font face=Verdana>Bilen er p_ gaden og den k_rer ganske fornuftigt. Jeg har dog lidt sv_rt ved at vurdere effekten, da gearingen er lavere og tr_kket derfor er meget anderledes - selv uden motordelene.<br><br>Undervognen er sindssygt kanon - bilen ligger virkerlig l_kkert p_ vejen. Den styrer helt kanon og der er s_ godt som n_sten ingen kr_ngning tilbage. Jeg er klar over, at meget af det skyldes mine 1" kr_ngningsstabilisatorer, men noget af det m_ ogs_ skyldes Powerflex b_sningerne.<br><br>Jeg skal p_ rullefelt mandag morgen, s_ jeg h_ber bestemt der bliver fundet en helvedes omgang heste der. Bilen er ok hurtig nu, men med de penge jeg har brugt og med s_ fornuftig en motor, vil jeg FANME ikke have baghjul af en Golf 4 med 125hk!<br><br>P.s. Kent, kender jeg ogs_ dig eller? :)</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -264,9 +264,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">23</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">23</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

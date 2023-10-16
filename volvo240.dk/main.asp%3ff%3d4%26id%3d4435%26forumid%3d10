@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -222,7 +222,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-08-2011&nbsp; 22:35</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-08-2011 22:35</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">er der nogen herinde der har et helt klart svar p_ om den findes en baghjulstr_k gearkasse der passer p_ 850Turbo 5 cyl.(forhjulstr_k)???<br>Helt klare svar tak jeg er ikke volvo mand,og det er ligemeget med om det kan godkendes det er ikke til en gadebil..s_ kan det rent praktisk lade sig g_re?</font></td>
@@ -233,7 +233,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 25-08-2011 00:48)</em></u></strong></font></li><br><font face=Verdana>pr_v at klik der hvor der st_r motorsport _verst oppe og s_ klik der hvor der st_r 850 turbo.<br><br>mvh Kent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ben, 25-08-2011 11:21)</em></u></strong></font></li><br><font face=Verdana>Ja, du kan bruge en M90 gearkasse (fra 1995 og op efter 900 serie).  Men du skal finde _n fra en seks cylindrede maskin, dvs. en 960.  De har en 6cyl whiteblock motor og er baghjulstr_k.  En 850 motor er en 5cyl whiteblock og gearkasser fra den _n passer p_ den anden.  Desv_rre er whiteblock M90er mere sj_lendte og koster mere end redblock M90er.<br><br>Andre muligheder er custom, Getrag 265 er en mulighed, lige som en Ford T5.  De kr_ver bare lidt mere arbejde.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Bjarke Jensen, 25-08-2011 15:09)</em></u></strong></font></li><br><font face=Verdana>Det skal v_re Gearkassen fra en volvo 960 2.5 r6 ikke fra 3.0</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ben, 26-08-2011 16:06)</em></u></strong></font></li><br><font face=Verdana>Bjarke, hvorfor det?  Hvad er forskellen mellem gearkasserne bag de to motorer?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Per Sand Lauridsen, 05-09-2011 11:38)</em></u></strong></font></li><br><font face=Verdana>Hej,<br><br>S_ vidt jeg ved:<br><br>- M90 gearkassen findes i f_lgende varianter: M90 L1 og L2 samt M90 H1 og H2.<br>- H1 og L1 har forskellig gearudveksling i 1. og 2. gear, men er ellers identiske.<br>- H2 og L2 har forskellig gearudveksling i 1. og 2. gear og er st_rkere i konstruktionen end H1 og L1.<br><br>Der findes udgaver til r_d- og hvidblok motorer og dem der passer p_ hvidblok er ikke forskellige fra hinanden p_ baggrund af motorens slagvolumen. R_d- og hvidblok forskellen er en flancheforskel, mellem svinghjulshus og motorblok.<br><br>Mvh.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 25-08-2011 00:48)</em></u></strong></font></li><br><font face=Verdana>pr_v at klik der hvor der st_r motorsport _verst oppe og s_ klik der hvor der st_r 850 turbo.<br><br>mvh Kent</font><br><li><font face=Verdana><strong><u>Re: - <em>(Ben, 25-08-2011 11:21)</em></u></strong></font></li><br><font face=Verdana>Ja, du kan bruge en M90 gearkasse (fra 1995 og op efter 900 serie).  Men du skal finde _n fra en seks cylindrede maskin, dvs. en 960.  De har en 6cyl whiteblock motor og er baghjulstr_k.  En 850 motor er en 5cyl whiteblock og gearkasser fra den _n passer p_ den anden.  Desv_rre er whiteblock M90er mere sj_lendte og koster mere end redblock M90er.<br><br>Andre muligheder er custom, Getrag 265 er en mulighed, lige som en Ford T5.  De kr_ver bare lidt mere arbejde.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Bjarke Jensen, 25-08-2011 15:09)</em></u></strong></font></li><br><font face=Verdana>Det skal v_re Gearkassen fra en volvo 960 2.5 r6 ikke fra 3.0</font><br><li><font face=Verdana><strong><u>Re: - <em>(Ben, 26-08-2011 16:06)</em></u></strong></font></li><br><font face=Verdana>Bjarke, hvorfor det?  Hvad er forskellen mellem gearkasserne bag de to motorer?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Per Sand Lauridsen, 05-09-2011 11:38)</em></u></strong></font></li><br><font face=Verdana>Hej,<br><br>S_ vidt jeg ved:<br><br>- M90 gearkassen findes i f_lgende varianter: M90 L1 og L2 samt M90 H1 og H2.<br>- H1 og L1 har forskellig gearudveksling i 1. og 2. gear, men er ellers identiske.<br>- H2 og L2 har forskellig gearudveksling i 1. og 2. gear og er st_rkere i konstruktionen end H1 og L1.<br><br>Der findes udgaver til r_d- og hvidblok motorer og dem der passer p_ hvidblok er ikke forskellige fra hinanden p_ baggrund af motorens slagvolumen. R_d- og hvidblok forskellen er en flancheforskel, mellem svinghjulshus og motorblok.<br><br>Mvh.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -242,7 +242,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -266,7 +266,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">7</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">7</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

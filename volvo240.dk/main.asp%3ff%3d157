@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Ring Djursland den 7. og 8. august 2004</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Ring Djursland den 7. og 8. august 2004</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -172,7 +172,7 @@ banen som en grusvej....</td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd20040808-02.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd20040808-02t.jpg" width="128" height="96"></a></td>
   </tr>
 </table>
-<h3>&nbsp;</h3>
+<h3></h3>
 <h3>S_ndag:</h3>
 <p>F_lgende biler k_rte i Super:</p>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
@@ -190,7 +190,7 @@ banen som en grusvej....</td>
     <td width="25%" align="center"> 8 Henrik Lundgaard<br>
 	Endte nr. 1</td>
     <td width="25%" align="center"> 14 Martin Jensen<br>
-	Endte nr.&nbsp; 4</td>
+	Endte nr. 4</td>
     <td width="25%" align="center"> 15 Philip Andersen <br>
 	Endte nr. 5</td>
   </tr>
@@ -246,7 +246,7 @@ og lade bilen k_re ud i sandfanget som tog det sidste af farten.</p>
 eller om det var banens skyld eller om det var varmen, det m_ st_ hen i det 
 uvisse...</p>
 <p>I _vrigt var det Casper Elgaard der vandt foran Jan Magnussen og Mike Legarth. </p>
-<p>&nbsp;</p>
+<p></p>
 <h2>Volvo S40 Turbo</h2>
 <p>Anders Byriel og hans Volvo S40 var t_ndt og klar til l_bet p_ Ring 
 Djursland. I depotet var der bes_g af hovedsponsoren.<p>Det startede fint. I 
@@ -269,7 +269,7 @@ Anden tidsk_rsel var ikke s_ god. Hvad der lige skete er uvist for mig, men det
 kunne v_re et mindre ops_tningsproblem p_ bilen som gjorde, at det kun blev til 
 en 13. plads.<br>
 <br>
-&nbsp;</p>
+</p>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd20040808-19.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd20040808-19t.jpg" width="128" height="96"></a></td>
@@ -298,7 +298,7 @@ helt af, og Anders m_tte opgive at fuldf_re heatet.</p>
   </tr>
 </table>
 <p align="left">Klaus Verner vandt foran Jesper Carlsen og Lars Vendelbo.</p>
-<p align="left">&nbsp;</p>
+<p align="left"></p>
 <p align="center">Alt i alt var det - som vanligt - en god weekend for os som 
 kom for at kigge p_.</p>
 <hr>
@@ -330,7 +330,7 @@ kom for at kigge p_.</p>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

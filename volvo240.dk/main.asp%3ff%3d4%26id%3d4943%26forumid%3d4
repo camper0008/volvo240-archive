@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">26-08-2014&nbsp; 18:16</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">26-08-2014 18:16</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Volvo 245, 1992.<br><br>Engang n_r der er lidt ekstra p_ kontoen, s_ skal min bagklap udskiftes. Den nuv_rende er stort set rustfri, bortset fra lidt rust under ruden som jeg ikke kan komme til livs og som desv_rre breder sig langs rudekanten. Jeg har dog ladet mig fort_lle at de nye modeller af bagklappen har en rude som er limet i, og derfor ikke bare lige kan tages ud og s_ttes i igen efterbehov.<br><br>Omvendt er det vel blot at finde et rustfrit eksemplar af den gamle bagklap og f_ den malet. S_ er sp_rgsm_let blot: er der ikke noget med, at det kun er visse 80&#39;er overgange, hvis h_ndtag og l_semekanisme passer lige over p_ en 1992&#39;er? <br><br><br>Mvh,<br>Jonas</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 08-09-2014 23:18)</em></u></strong></font></li><br><font face=Verdana>Goddag Jonas<br><br>Der er ikke rigtigt nogle der har svaret p_ din tr_d, her.<br>S_ pr_ver jeg at give dig en forklaring. Ikke specifikt p_ om en gammel bagklaps l_semekanisme passer, for det ved jeg ikke. Men hvorfor er der ingen der svarer !!<br>Jo, min mening om det er, at den man_vre foretager man overhovedet ikke. Alts_ s_tte en klap p_ en 1992_r af den gamle type.<br><br>Med venlig hilsen<br>Steen<br>Frederikssund</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 09-09-2014 08:50)</em></u></strong></font></li><br><font face=Verdana>Hej Steen,<br><br>Jeg ved ikke hvordan dit svar skal l_ses. N_r du skriver at man_vren "foretager man overhovedet ikke", mener du s_ af tekniske eller _stetiske grunde? <br><br>Hvis det er det f_rste, s_ er det god info, hvis det er det sidstn_vnte, s_ er det for egen regning.<br><br>En ny bagklap i p_n stand er ikke let at finde - og alt andet lige vil jeg hellere have en gammel men p_n bagklap, end en ny med rustpletter.<br><br>Mvh,<br>Jonas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(David Cray, 23-09-2014 20:45)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas<br><br>Hvis den eksisterende bagklap stort set er rustfri, ville helt klart ofte lidt tid p_ den. Bagruden er p_ 90&#39;er _rgangene limet i - ligesom forruden. Den kan/skal derfor sk_res ud med st_rste forsigtighed. Du kan f_lge processen p_: <a href="http://www.240sidan.com" target="_blank">http://www.240sidan.com</a>/ - under "mine biler" v_lges "245 GL 88" og der er et link heri til rustlavningen, herunder bagruden, ca halvvejs nede.<br><br>God forn_jelse.<br>Mvh David Cray</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Poul Rasmussen, 18-10-2014 23:51)</em></u></strong></font></li><br><font face=Verdana></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Poul Rasmussen, 18-10-2014 23:56)</em></u></strong></font></li><br><font face=Verdana>Det "nye" type bagklap er til at lede op p_ dba! Jeg har skiftet fra gammel til ny i en 84&#39;er og her passede l_set_jet lige over, s_ det m_ vel ogs_ g_lde den anden vej. Ny/gammel bagklap. Mvh.  Poul</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 08-09-2014 23:18)</em></u></strong></font></li><br><font face=Verdana>Goddag Jonas<br><br>Der er ikke rigtigt nogle der har svaret p_ din tr_d, her.<br>S_ pr_ver jeg at give dig en forklaring. Ikke specifikt p_ om en gammel bagklaps l_semekanisme passer, for det ved jeg ikke. Men hvorfor er der ingen der svarer !!<br>Jo, min mening om det er, at den man_vre foretager man overhovedet ikke. Alts_ s_tte en klap p_ en 1992_r af den gamle type.<br><br>Med venlig hilsen<br>Steen<br>Frederikssund</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jonas, 09-09-2014 08:50)</em></u></strong></font></li><br><font face=Verdana>Hej Steen,<br><br>Jeg ved ikke hvordan dit svar skal l_ses. N_r du skriver at man_vren "foretager man overhovedet ikke", mener du s_ af tekniske eller _stetiske grunde? <br><br>Hvis det er det f_rste, s_ er det god info, hvis det er det sidstn_vnte, s_ er det for egen regning.<br><br>En ny bagklap i p_n stand er ikke let at finde - og alt andet lige vil jeg hellere have en gammel men p_n bagklap, end en ny med rustpletter.<br><br>Mvh,<br>Jonas</font><br><li><font face=Verdana><strong><u>Re: - <em>(David Cray, 23-09-2014 20:45)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas<br><br>Hvis den eksisterende bagklap stort set er rustfri, ville helt klart ofte lidt tid p_ den. Bagruden er p_ 90&#39;er _rgangene limet i - ligesom forruden. Den kan/skal derfor sk_res ud med st_rste forsigtighed. Du kan f_lge processen p_: <a href="http://www.240sidan.com" target="_blank">http://www.240sidan.com</a>/ - under "mine biler" v_lges "245 GL 88" og der er et link heri til rustlavningen, herunder bagruden, ca halvvejs nede.<br><br>God forn_jelse.<br>Mvh David Cray</font><br><li><font face=Verdana><strong><u>Re: - <em>(Poul Rasmussen, 18-10-2014 23:51)</em></u></strong></font></li><br><font face=Verdana></font><br><li><font face=Verdana><strong><u>Re: - <em>(Poul Rasmussen, 18-10-2014 23:56)</em></u></strong></font></li><br><font face=Verdana>Det "nye" type bagklap er til at lede op p_ dba! Jeg har skiftet fra gammel til ny i en 84&#39;er og her passede l_set_jet lige over, s_ det m_ vel ogs_ g_lde den anden vej. Ny/gammel bagklap. Mvh.  Poul</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

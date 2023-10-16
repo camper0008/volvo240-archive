@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Udskiftning af bl�sermotor</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Udskiftning af bl�sermotor</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,7 +198,7 @@ document.onmousedown=click;
           <th width="750" colspan="2">Nedenst�ende er udelukkende baseret p� egne erfaringer under arbejdet med at skifte bl�sermotoren i varmeapparatet p� min 240 GLT hgv. fra 1985.</th>
         </tr>
         <tr>
-          <td width="750" colspan="2">&nbsp;</td>
+          <td width="750" colspan="2"></td>
         </tr>
         <tr>
           <td width="75" valign="top">V�rkt�j</td>
@@ -218,7 +218,7 @@ document.onmousedown=click;
           </td>
         </tr>
         <tr>
-          <td width="750" colspan="2">&nbsp;</td>
+          <td width="750" colspan="2"></td>
         </tr>
         <tr>
           <td width="750" align="left" colspan="3">
@@ -227,13 +227,13 @@ document.onmousedown=click;
         	</td>
         </tr>
         <tr>
-          <td width="750" colspan="2">&nbsp;</td>
+          <td width="750" colspan="2"></td>
         </tr>
         <tr>
-          <td width="750" colspan="2">&nbsp;</td>
+          <td width="750" colspan="2"></td>
         </tr>
         <tr>
-          <td width="750" colspan="2">&nbsp;</td>
+          <td width="750" colspan="2"></td>
         </tr>
       </table>
       
@@ -344,10 +344,10 @@ document.onmousedown=click;
           <td width="700" align="left">Afmonter ledningerne p� bl�serkontakten. (3 stk.) Noter farvernes position.</td>
         </tr>
         <tr>
-          <td width="750" colspan="2">&nbsp;</td>
+          <td width="750" colspan="2"></td>
         </tr>
         <tr>
-          <td width="750" colspan="2">&nbsp;</td>
+          <td width="750" colspan="2"></td>
         </tr>
         <tr>
           <td width="750" colspan="2">
@@ -372,7 +372,7 @@ document.onmousedown=click;
           <td width="750" colspan="2">Den gamle bl�sermotor er oph�ngt i tre gummioph�ng som nemmest sk�res over med en hobbykniv s� motoren kan fjernes. Der er nye gummioph�ng med den nye motor. (Tjek det lige inden du sk�rer de gamle oph�ng over)</td>
         </tr>
         <tr>
-          <td width="750" colspan="2">&nbsp;</td>
+          <td width="750" colspan="2"></td>
         </tr>
       </table>
       
@@ -434,7 +434,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">18</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">18</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

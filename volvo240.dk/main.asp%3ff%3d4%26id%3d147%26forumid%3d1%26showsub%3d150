@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="Søg" name="B1">
       </form>
     </td>
   </tr>
@@ -198,13 +198,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Motor </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Motor, Gearkasse og Bagt�j. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Motor, Gearkasse og Bagtøj. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=147"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=147"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-01-2003&nbsp; 09:36</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-01-2003 09:36</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Der er f&#248;r p&#229; denne fremragende hjemmeside blevet diskutteret forskellige motorolietyper, men der er ikke rigtig blevet dr&#248;ftet motorolieadditiver. Jeg har kort inden jul talt med S&#248;ren Lindemann, der pr&#230;senterer sine olieadditiver i programmet 'Rabatten' i aften p&#229; DR1. Han kunne berette om additivernes fortrinlige effekt p&#229; gamle motorer, dette specielt i forbindelse med slidtagen &#248;verst i cylinderen, hvor teflon skulle skabe en bedre kontakt mellem stempel og cylinderv&#230;g. Jeg benytter normalt den billigste olie fra FDB og har nu pr&#248;vet et additiv sammen med denne olie. Jeg mener, ligseom det er blevet n&#230;vnt her p&#229; siden ved brug af bedre olier, at kunne registrere en hurtigere tomgang. Er der nogen der har erfaringer med teflonadditiver til motorolier? Eller m&#229;ske argumenter for ikke at bruge det?</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Der er før på denne fremragende hjemmeside blevet diskutteret forskellige motorolietyper, men der er ikke rigtig blevet drøftet motorolieadditiver. Jeg har kort inden jul talt med Søren Lindemann, der præsenterer sine olieadditiver i programmet 'Rabatten' i aften på DR1. Han kunne berette om additivernes fortrinlige effekt på gamle motorer, dette specielt i forbindelse med slidtagen øverst i cylinderen, hvor teflon skulle skabe en bedre kontakt mellem stempel og cylindervæg. Jeg benytter normalt den billigste olie fra FDB og har nu prøvet et additiv sammen med denne olie. Jeg mener, ligseom det er blevet nævnt her på siden ved brug af bedre olier, at kunne registrere en hurtigere tomgang. Er der nogen der har erfaringer med teflonadditiver til motorolier? Eller måske argumenter for ikke at bruge det?</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=147&ForumID=1&Showsub=151'>Re: Olieadditiver</a> <em>(Philip Hytting, 15-01-2003 21:06)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=147&ForumID=1&Showsub=150'>Re: Olieadditiver</a> <em>(Jes, 15-01-2003 18:57)</em></strong></font></li><br><font face=Verdana>Hej<br><br>I s&#229;vel mit daglige arbejde, som i Volvo-hobbyvirksomheden har jeg i tidens l&#248;b s&#248;gt dokumentation p&#229; alle mulige olieprodukter. I de f&#248;rste mange &#229;r afpr&#248;vede jeg alle mulige additiver (&quot;vidundermidler&quot;) for at se om der var nogen effekt. Min erfaring er at pengene er spildt med disse additiver. Olieselskaberne har nogle meget dygtige ingeni&#248;rer og laboratorier. De bruger mange penge p&#229; forskning og udvikling indenfor olier. Derfor er sm&#248;reolier til bilmotorer idag et godt produkt, som bl.a. indeholder de additiver der er n&#248;dvendige for at motorerne slides mindst muligt, har lille indvendig friktion samt gode rensende egenskaber. Olierne tils&#230;ttes de n&#248;dvendige additiver, som g&#248;r at det ikke er n&#248;dvendigt at tils&#230;tte yderligere additiver. De prisforskelle der er p&#229; olier d&#230;kker over hvor god en raffinering olien har gennemg&#229;et, samt tils&#230;tningen af diverse additiver. <br>Derfor: Glem alt om additiver og brug i stedet pengene p&#229; en god olie af anerkendt m&#230;rke. <br>Jeg selv har brugt Elf i mange &#229;r, men er nu skiftet til Valvoline. Til &#230;ldre motorer til alm. k&#248;rsel bruger jeg del-syntetisk 10W/40. Til min egen B 230FT bruger jeg en 5W/30 helsyntetisk olie med tilnavnet &quot;br&#230;ndstofbesparende&quot;. Min forrige 740 Turbo havde rundet 330.000 km og selv med en tynd 5W/30 olie var der ikke m&#229;lbart olieforbrug p&#229; 10.000 km.<br>Ang. det med tomgangen, s&#229; skyldes det at en god olie l&#248;sner evt. koksaflejringer ved stempelringe. Derved l&#248;ser stempelringene bedre deres prim&#230;re opgave, nemlig at t&#230;tne omkring stemplerne. Derved bliver motoren mere effektiv, yder mere, bruger mindre br&#230;ndstof og det synlige resultat er bl.a. h&#248;jere tomgang. <br>Jeg pr&#248;vede det bl.a. p&#229; Finn Kruses forrige 240, som havde 340.000 km p&#229; bagen da han skiftede fra &quot;slaveolie&quot; 15W/40 til delsyntetisk 10W/40. Efter mindre end 100 km k&#248;rsel steg tomgangen fra ca. 900 til 1200-1300 omdrejninger.<br><br>mvh<br><br>Jes</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=147&ForumID=1&Showsub=151'>Re: Olieadditiver</a> <em>(Philip Hytting, 15-01-2003 21:06)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=147&ForumID=1&Showsub=150'>Re: Olieadditiver</a> <em>(Jes, 15-01-2003 18:57)</em></strong></font></li><br><font face=Verdana>Hej<br><br>I såvel mit daglige arbejde, som i Volvo-hobbyvirksomheden har jeg i tidens løb søgt dokumentation på alle mulige olieprodukter. I de første mange år afprøvede jeg alle mulige additiver ("vidundermidler") for at se om der var nogen effekt. Min erfaring er at pengene er spildt med disse additiver. Olieselskaberne har nogle meget dygtige ingeniører og laboratorier. De bruger mange penge på forskning og udvikling indenfor olier. Derfor er smøreolier til bilmotorer idag et godt produkt, som bl.a. indeholder de additiver der er nødvendige for at motorerne slides mindst muligt, har lille indvendig friktion samt gode rensende egenskaber. Olierne tilsættes de nødvendige additiver, som gør at det ikke er nødvendigt at tilsætte yderligere additiver. De prisforskelle der er på olier dækker over hvor god en raffinering olien har gennemgået, samt tilsætningen af diverse additiver. <br>Derfor: Glem alt om additiver og brug i stedet pengene på en god olie af anerkendt mærke. <br>Jeg selv har brugt Elf i mange år, men er nu skiftet til Valvoline. Til ældre motorer til alm. kørsel bruger jeg del-syntetisk 10W/40. Til min egen B 230FT bruger jeg en 5W/30 helsyntetisk olie med tilnavnet "brændstofbesparende". Min forrige 740 Turbo havde rundet 330.000 km og selv med en tynd 5W/30 olie var der ikke målbart olieforbrug på 10.000 km.<br>Ang. det med tomgangen, så skyldes det at en god olie løsner evt. koksaflejringer ved stempelringe. Derved løser stempelringene bedre deres primære opgave, nemlig at tætne omkring stemplerne. Derved bliver motoren mere effektiv, yder mere, bruger mindre brændstof og det synlige resultat er bl.a. højere tomgang. <br>Jeg prøvede det bl.a. på Finn Kruses forrige 240, som havde 340.000 km på bagen da han skiftede fra "slaveolie" 15W/40 til delsyntetisk 10W/40. Efter mindre end 100 km kørsel steg tomgangen fra ca. 900 til 1200-1300 omdrejninger.<br><br>mvh<br><br>Jes</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

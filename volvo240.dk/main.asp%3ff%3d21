@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;240 Serien i tal</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">240 Serien i tal</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -146,32 +146,32 @@ document.onmousedown=click;
       </thead>
       <tbody>
         <tr>
-          <th width="70">&nbsp;242</td>
-          <td width="175">&nbsp;2 d�re sedan</td>
-          <td width="55">&nbsp;1975</td>
-          <td width="55">&nbsp;1984</td>
-          <td width="200">&nbsp;315.856</td>
+          <th width="70">242</td>
+          <td width="175">2 d�re sedan</td>
+          <td width="55">1975</td>
+          <td width="55">1984</td>
+          <td width="200">315.856</td>
         </tr>
         <tr>
-          <th width="70">&nbsp;244</td>
-          <td width="175">&nbsp;4 d�re sedan</td>
-          <td width="55">&nbsp;1975</td>
-          <td width="55">&nbsp;1993</td>
-          <td width="200">&nbsp;1.478.352</td>
+          <th width="70">244</td>
+          <td width="175">4 d�re sedan</td>
+          <td width="55">1975</td>
+          <td width="55">1993</td>
+          <td width="200">1.478.352</td>
         </tr>
         <tr>
-          <th width="70">&nbsp;245</td>
-          <td width="175">&nbsp;5 d�re station car</td>
-          <td width="55">&nbsp;1975</td>
-          <td width="55">&nbsp;1993</td>
-          <td width="200">&nbsp;891.847</td>
+          <th width="70">245</td>
+          <td width="175">5 d�re station car</td>
+          <td width="55">1975</td>
+          <td width="55">1993</td>
+          <td width="200">891.847</td>
         </tr>
         <tr>
-          <th width="70">&nbsp;Total</td>
-          <td width="175">&nbsp;</td>
-          <td width="55">&nbsp;1975</td>
-          <td width="55">&nbsp;1993</td>
-          <td width="200">&nbsp;2.686.055
+          <th width="70">Total</td>
+          <td width="175"></td>
+          <td width="55">1975</td>
+          <td width="55">1993</td>
+          <td width="200">2.686.055
           </td>
         </tr>
       </tbody>
@@ -191,32 +191,32 @@ document.onmousedown=click;
       </thead>
       <tbody>
         <tr>
-          <th width="70">&nbsp;262</th>
-          <td width="175">&nbsp;2 d�re sedan</td>
-          <td width="55">&nbsp;1976</td>
-          <td width="55">&nbsp;1977</td>
-          <td width="193">&nbsp;9.951</td>
+          <th width="70">262</th>
+          <td width="175">2 d�re sedan</td>
+          <td width="55">1976</td>
+          <td width="55">1977</td>
+          <td width="193">9.951</td>
         </tr>
         <tr>
-          <th width="70">&nbsp;264</th>
-          <td width="175">&nbsp;4 d�re sedan</td>
-          <td width="55">&nbsp;1975</td>
-          <td width="55">&nbsp;1982</td>
-          <td width="193">&nbsp;131.690</td>
+          <th width="70">264</th>
+          <td width="175">4 d�re sedan</td>
+          <td width="55">1975</td>
+          <td width="55">1982</td>
+          <td width="193">131.690</td>
         </tr>
         <tr>
-          <th width="70">&nbsp;265</th>
-          <td width="175">&nbsp;5 d�re station car</td>
-          <td width="55">&nbsp;1976</td>
-          <td width="55">&nbsp;1985</td>
-          <td width="193">&nbsp;34.357</td>
+          <th width="70">265</th>
+          <td width="175">5 d�re station car</td>
+          <td width="55">1976</td>
+          <td width="55">1985</td>
+          <td width="193">34.357</td>
         </tr>
         <tr>
-          <th width="70">&nbsp;Total</th>
-          <td width="175">&nbsp;</td>
-          <td width="55">&nbsp;1975</td>
-          <td width="55">&nbsp;1993</td>
-          <td width="193">&nbsp;175.998</td>
+          <th width="70">Total</th>
+          <td width="175"></td>
+          <td width="55">1975</td>
+          <td width="55">1993</td>
+          <td width="193">175.998</td>
         </tr>
       </tbody>
       </table>
@@ -226,338 +226,338 @@ document.onmousedown=click;
       <caption>Volvo 200-serien Produktion pr. �r</caption>
       <thead>
         <tr>
-          <th width="70" rowspan="6" valign="top">&nbsp;�rstal</th>
-          <th width="65" valign="top">&nbsp;Model</th>
-          <th width="150" valign="top">&nbsp;Produktion</th>
-          <th width="313" valign="top">&nbsp;�rs Produktion</th>
+          <th width="70" rowspan="6" valign="top">�rstal</th>
+          <th width="65" valign="top">Model</th>
+          <th width="150" valign="top">Produktion</th>
+          <th width="313" valign="top">�rs Produktion</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <th width="70" rowspan="4" valign="top">&nbsp;1975</th>
-          <th width="65" valign="top">&nbsp;242</th>
-          <td width="150" valign="top" align="right">&nbsp;53.804</td>
-          <td width="313" rowspan="4" valign="bottom">&nbsp;201.163</td>
+          <th width="70" rowspan="4" valign="top">1975</th>
+          <th width="65" valign="top">242</th>
+          <td width="150" valign="top" align="right">53.804</td>
+          <td width="313" rowspan="4" valign="bottom">201.163</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;82.976</td>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">82.976</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;54.709</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">54.709</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;264</th>
-          <td width="150" valign="top" align="right">&nbsp;9.674</td>
+          <th width="65" valign="top">264</th>
+          <td width="150" valign="top" align="right">9.674</td>
         </tr>
         <tr>
-          <th width="70" rowspan="6" valign="top">&nbsp;1976</th>
-          <th width="65" valign="top">&nbsp;242</th>
-          <td width="150" valign="top" align="right">&nbsp;45.144</td>
-          <td width="313" rowspan="6" valign="bottom">&nbsp;233.014</td>
+          <th width="70" rowspan="6" valign="top">1976</th>
+          <th width="65" valign="top">242</th>
+          <td width="150" valign="top" align="right">45.144</td>
+          <td width="313" rowspan="6" valign="bottom">233.014</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;90.736</td>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">90.736</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;60.640</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">60.640</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;262</th>
-          <td width="150" valign="top" align="right">&nbsp;3.099</td>
+          <th width="65" valign="top">262</th>
+          <td width="150" valign="top" align="right">3.099</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;264</th>
-          <td width="150" valign="top" align="right">&nbsp;25.287</td>
+          <th width="65" valign="top">264</th>
+          <td width="150" valign="top" align="right">25.287</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;265</th>
-          <td width="150" valign="top" align="right">&nbsp;8.108</td>
+          <th width="65" valign="top">265</th>
+          <td width="150" valign="top" align="right">8.108</td>
         </tr>
         <tr>
-          <th width="70" rowspan="6" valign="top">&nbsp;1977</th>
-          <th width="65" valign="top">&nbsp;242</th>
-          <td width="150" valign="top" align="right">&nbsp;23.215</td>
-          <td width="313" rowspan="6" valign="bottom">&nbsp;186.835</td>
+          <th width="70" rowspan="6" valign="top">1977</th>
+          <th width="65" valign="top">242</th>
+          <td width="150" valign="top" align="right">23.215</td>
+          <td width="313" rowspan="6" valign="bottom">186.835</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;100.055</td>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">100.055</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;48.485</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">48.485</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;262</th>
-          <td width="150" valign="top" align="right">&nbsp;230</td>
+          <th width="65" valign="top">262</th>
+          <td width="150" valign="top" align="right">230</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;264</th>
-          <td width="150" valign="top" align="right">&nbsp;12.045</td>
+          <th width="65" valign="top">264</th>
+          <td width="150" valign="top" align="right">12.045</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;265</th>
-          <td width="150" valign="top" align="right">&nbsp;2.805</td>
+          <th width="65" valign="top">265</th>
+          <td width="150" valign="top" align="right">2.805</td>
         </tr>
         <tr>
-          <th width="70" rowspan="6" valign="top">&nbsp;1978</th>
-          <th width="65" valign="top">&nbsp;242</th>
-          <td width="150" valign="top" align="right">&nbsp;19.230</td>
-          <td width="313" rowspan="6" valign="bottom">&nbsp;178.480</td>
+          <th width="70" rowspan="6" valign="top">1978</th>
+          <th width="65" valign="top">242</th>
+          <td width="150" valign="top" align="right">19.230</td>
+          <td width="313" rowspan="6" valign="bottom">178.480</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;89.685</td>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">89.685</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;47.490</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">47.490</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;262C</th>
-          <td width="150" valign="top" align="right">&nbsp;1.670</td>
+          <th width="65" valign="top">262C</th>
+          <td width="150" valign="top" align="right">1.670</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;264</th>
-          <td width="150" valign="top" align="right">&nbsp;15.590</td>
+          <th width="65" valign="top">264</th>
+          <td width="150" valign="top" align="right">15.590</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;265</th>
-          <td width="150" valign="top" align="right">&nbsp;4.815</td>
+          <th width="65" valign="top">265</th>
+          <td width="150" valign="top" align="right">4.815</td>
         </tr>
         <tr>
-          <th width="70" rowspan="6" valign="top">&nbsp;1979</th>
-          <th width="65" valign="top">&nbsp;242</th>
-          <td width="150" valign="top" align="right">&nbsp;23.445</td>
-          <td width="313" rowspan="6" valign="bottom">&nbsp;223.840</td>
+          <th width="70" rowspan="6" valign="top">1979</th>
+          <th width="65" valign="top">242</th>
+          <td width="150" valign="top" align="right">23.445</td>
+          <td width="313" rowspan="6" valign="bottom">223.840</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;117.855</td>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">117.855</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;53.430</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">53.430</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;262C</th>
-          <td width="150" valign="top" align="right">&nbsp;2.120</td>
+          <th width="65" valign="top">262C</th>
+          <td width="150" valign="top" align="right">2.120</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;264</th>
-          <td width="150" valign="top" align="right">&nbsp;20.950</td>
+          <th width="65" valign="top">264</th>
+          <td width="150" valign="top" align="right">20.950</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;265</th>
-          <td width="150" valign="top" align="right">&nbsp;6.040</td>
+          <th width="65" valign="top">265</th>
+          <td width="150" valign="top" align="right">6.040</td>
         </tr>
         <tr>
-          <th width="70" rowspan="6" valign="top">&nbsp;1980</td>
-          <th width="65" valign="top">&nbsp;242</th>
-          <td width="150" valign="top" align="right">&nbsp;22.145</td>
-          <td width="313" rowspan="6" valign="bottom">&nbsp;212.358</td>
+          <th width="70" rowspan="6" valign="top">1980</td>
+          <th width="65" valign="top">242</th>
+          <td width="150" valign="top" align="right">22.145</td>
+          <td width="313" rowspan="6" valign="bottom">212.358</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;106.012</td>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">106.012</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;51.742</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">51.742</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;262C</th>
-          <td width="150" valign="top" align="right">&nbsp;1.920</td>
+          <th width="65" valign="top">262C</th>
+          <td width="150" valign="top" align="right">1.920</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;264</th>
-          <td width="150" valign="top" align="right">&nbsp;24.058</td>
+          <th width="65" valign="top">264</th>
+          <td width="150" valign="top" align="right">24.058</td>
         </tr>
         <tr> 
-          <th width="65" valign="top">&nbsp;265</th>
-          <td width="150" valign="top" align="right">&nbsp;6.481</td>
+          <th width="65" valign="top">265</th>
+          <td width="150" valign="top" align="right">6.481</td>
         </tr>
         <tr>
-          <th width="70" rowspan="6" valign="top">&nbsp;1981</td>
-          <th width="65" valign="top">&nbsp;242</th>
-          <td width="150" valign="top" align="right">&nbsp;17.809</td>
-          <td width="313" rowspan="6" valign="bottom">&nbsp;183.375</td>
+          <th width="70" rowspan="6" valign="top">1981</td>
+          <th width="65" valign="top">242</th>
+          <td width="150" valign="top" align="right">17.809</td>
+          <td width="313" rowspan="6" valign="bottom">183.375</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;94.111</td>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">94.111</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;50.532</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">50.532</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;262C</th>
-          <td width="150" valign="top" align="right">&nbsp;912</td>
+          <th width="65" valign="top">262C</th>
+          <td width="150" valign="top" align="right">912</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;264</th>
-          <td width="150" valign="top" align="right">&nbsp;17.696</td>
+          <th width="65" valign="top">264</th>
+          <td width="150" valign="top" align="right">17.696</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;265</th>
-          <td width="150" valign="top" align="right">&nbsp;2.315</td>
+          <th width="65" valign="top">265</th>
+          <td width="150" valign="top" align="right">2.315</td>
         </tr>
         <tr>
-          <th width="70" rowspan="5" valign="top">&nbsp;1982</td>
-          <th width="65" valign="top">&nbsp;242</th>
-          <td width="150" valign="top" align="right">&nbsp;17.049</td>
-          <td width="313" rowspan="5" valign="bottom">&nbsp;218.247</td>
+          <th width="70" rowspan="5" valign="top">1982</td>
+          <th width="65" valign="top">242</th>
+          <td width="150" valign="top" align="right">17.049</td>
+          <td width="313" rowspan="5" valign="bottom">218.247</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;126.696</td>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">126.696</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;66.194</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">66.194</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;264</th>
-          <td width="150" valign="top" align="right">&nbsp;6.390</td>
+          <th width="65" valign="top">264</th>
+          <td width="150" valign="top" align="right">6.390</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;265</th>
-          <td width="150" valign="top" align="right">&nbsp;1.918</td>
+          <th width="65" valign="top">265</th>
+          <td width="150" valign="top" align="right">1.918</td>
         </tr>
         <tr>
-          <th width="70" rowspan="4" valign="top">&nbsp;1983</th>
-          <th width="65" valign="top">&nbsp;242</th>
-          <td width="150" valign="top" align="right">&nbsp;12893</td>
-          <td width="313" rowspan="4" valign="bottom">&nbsp;210.845</td>
+          <th width="70" rowspan="4" valign="top">1983</th>
+          <th width="65" valign="top">242</th>
+          <td width="150" valign="top" align="right">12893</td>
+          <td width="313" rowspan="4" valign="bottom">210.845</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;125639</td>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">125639</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;71295</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">71295</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;265</th>
-          <td width="150" valign="top" align="right">&nbsp;1018</td>
+          <th width="65" valign="top">265</th>
+          <td width="150" valign="top" align="right">1018</td>
         </tr>
         <tr>
-          <th width="70" rowspan="4" valign="top">&nbsp;1984</th>
-          <th width="65" valign="top">&nbsp;242</th>
-          <td width="150" valign="top" align="right">&nbsp;7887</td>
-          <td width="313" rowspan="4" valign="bottom">&nbsp;227.577</td>
+          <th width="70" rowspan="4" valign="top">1984</th>
+          <th width="65" valign="top">242</th>
+          <td width="150" valign="top" align="right">7887</td>
+          <td width="313" rowspan="4" valign="bottom">227.577</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;133104</td>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">133104</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;85729</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">85729</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;265</th>
-          <td width="150" valign="top" align="right">&nbsp;857</td>
+          <th width="65" valign="top">265</th>
+          <td width="150" valign="top" align="right">857</td>
         </tr>
         <tr>
-          <th width="70" rowspan="3" valign="top">&nbsp;1985</th>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;73235</td>
-          <td width="313" rowspan="3" valign="bottom">&nbsp;142.127</td>
+          <th width="70" rowspan="3" valign="top">1985</th>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">73235</td>
+          <td width="313" rowspan="3" valign="bottom">142.127</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;68188</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">68188</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;265</th>
-          <td width="150" valign="top" align="right">&nbsp;704</td>
+          <th width="65" valign="top">265</th>
+          <td width="150" valign="top" align="right">704</td>
         </tr>
         <tr>
-          <th width="70" rowspan="2" valign="top">&nbsp;1986</th>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;69511</td>
-          <td width="313" rowspan="2" valign="bottom">&nbsp;127.742</td>
+          <th width="70" rowspan="2" valign="top">1986</th>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">69511</td>
+          <td width="313" rowspan="2" valign="bottom">127.742</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;58231</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">58231</td>
         </tr>
         <tr>
-          <th width="70" rowspan="2" valign="top">&nbsp;1987</th>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;63045</td>
-          <td width="313" rowspan="2" valign="bottom">&nbsp;110.905</td>
+          <th width="70" rowspan="2" valign="top">1987</th>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">63045</td>
+          <td width="313" rowspan="2" valign="bottom">110.905</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;47860</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">47860</td>
         </tr>
         <tr>
-          <th width="70" rowspan="2" valign="top">&nbsp;1988</th>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;55318</td>
-          <td width="313" rowspan="2" valign="bottom">&nbsp;97.365</td>
+          <th width="70" rowspan="2" valign="top">1988</th>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">55318</td>
+          <td width="313" rowspan="2" valign="bottom">97.365</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;42047</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">42047</td>
         </tr>
         <tr>
-          <th width="70" rowspan="2" valign="top">&nbsp;1989</th>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;52509</td>
-          <td width="313" rowspan="2" valign="bottom">&nbsp;89.489</td>
+          <th width="70" rowspan="2" valign="top">1989</th>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">52509</td>
+          <td width="313" rowspan="2" valign="bottom">89.489</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;36980</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">36980</td>
         </tr>
         <tr>
-          <th width="70" rowspan="2" valign="top">&nbsp;1990</th>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;42846</td>
-          <td width="313" rowspan="2" valign="bottom">&nbsp;79.815</td>
+          <th width="70" rowspan="2" valign="top">1990</th>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">42846</td>
+          <td width="313" rowspan="2" valign="bottom">79.815</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;36969</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">36969</td>
         </tr>
         <tr>
-          <th width="70" rowspan="2" valign="top">&nbsp;1991</th>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;27464</td>
-          <td width="313" rowspan="2" valign="bottom">&nbsp;54.510</td>
+          <th width="70" rowspan="2" valign="top">1991</th>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">27464</td>
+          <td width="313" rowspan="2" valign="bottom">54.510</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;27046</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">27046</td>
         </tr>
         <tr>
-          <th width="70" rowspan="2" valign="top">&nbsp;1992</th>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;20790</td>
-          <td width="313" rowspan="2" valign="bottom">&nbsp;49.217</td>
+          <th width="70" rowspan="2" valign="top">1992</th>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">20790</td>
+          <td width="313" rowspan="2" valign="bottom">49.217</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;28427</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">28427</td>
         </tr>
         <tr>
-          <th width="70" rowspan="2" valign="top">&nbsp;1993</th>
-          <th width="65" valign="top">&nbsp;244</th>
-          <td width="150" valign="top" align="right">&nbsp;11812</td>
-          <td width="313" rowspan="2" valign="bottom">&nbsp;35.149</td>
+          <th width="70" rowspan="2" valign="top">1993</th>
+          <th width="65" valign="top">244</th>
+          <td width="150" valign="top" align="right">11812</td>
+          <td width="313" rowspan="2" valign="bottom">35.149</td>
         </tr>
         <tr>
-          <th width="65" valign="top">&nbsp;245</th>
-          <td width="150" valign="top" align="right">&nbsp;23337</td>
+          <th width="65" valign="top">245</th>
+          <td width="150" valign="top" align="right">23337</td>
         </tr>
       </tbody>
       </table>
@@ -589,7 +589,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

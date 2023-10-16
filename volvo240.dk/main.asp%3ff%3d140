@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;240 Body kit</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">240 Body kit</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -137,7 +137,7 @@ document.onmousedown=click;
   </tr>
   <tr>
     <td>
-      &nbsp;</td>
+      </td>
   </tr>
 </table>
   </center>
@@ -160,7 +160,7 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber05" align="center">
   <tr>
     <th width="550" align="left">Body-kit til Volvo 240/245</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-body1.jpg&palt=Volvo Sport','','height=355,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-body1t.jpg" width="128" height="65"></A></td>
   </tr>
   <tr>
@@ -172,18 +172,18 @@ document.onmousedown=click;
       S_ttet best_r af frontspoiler, sidesk_rter og bagsk_rt.</span><p>S_ttet 
       leveres komplet med monteringsdele og udf_rlig monteringsvejledning. Man 
       kan alts_ selv montere delene, hvis man foretr_kker det.</td>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/245-body1.jpg&palt=Volvo Sport','','height=416,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/245-body1t.jpg" width="128" height="77"></A></td>
   </tr>
   <tr>
     <td width="550">240 4-d 81-</td>
     <td width="100">1343 597</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">245 81-</td>
     <td width="100">1343 598</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -195,7 +195,7 @@ document.onmousedown=click;
     _ Tilpas og pr_vemonter delene f_r lakering.<br>
     _ Laker med speciallak ved lav ovntemperatur.<br>
     Materialet er PU-RIM.</span></th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/245-body2.jpg&palt=Volvo Sport','','height=416,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/245-body2t.jpg" width="128" height="77"></A></td>
   </tr>
   </table>
@@ -205,16 +205,16 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber07" align="center">
   <tr>
     <th width="550" align="left">Vindtunneitestede front- og h_kspoilere</th>
-    <td width="100">&nbsp;</td>
-    <td width="150" align="center">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150" align="center"></td>
   </tr>
   <tr>
     <td width="550"><span style="font-weight: 400">Volvo's front- og h_kspoilere 
     er testede i vindtunnel for at opn_ den bedste aerodynamik, hvilket giver 
     bedre k_reegenskaber igennem _get stabilitet samt mindre benzinforbrug. 
     Specielt ved h_je hastigheder. Og bilen f_r et nyt smart udseende.</span></td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   </table>
 <br>
@@ -223,7 +223,7 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber08" align="center">
   <tr>
     <th width="550" align="left">FRONTSPOILER 200 75-80</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-bodya.jpg&palt=Volvo Sport','','height=391,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-bodyat.jpg" width="128" height="72"></A></td>
   </tr>
   <tr>
@@ -232,18 +232,18 @@ document.onmousedown=click;
     blive for lille. Dette kan undg_s ved at montere en luftstyring. 
     Monteringss_t der indeholder n_dvendige bolte, m_trikker og skiver 
     bestilles separat.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">Frontspoiler</td>
     <td width="100">1304 101</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">Monteringss_t</td>
     <td width="100">274 074</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -252,19 +252,19 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber09" align="center">
   <tr>
     <th width="550" align="left">LUFTSTYRING, 200 SPOILER</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-bodyb.jpg&palt=Volvo Sport','','height=157,width=340,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-bodybt.jpg" width="128" height="51"></A></td>
   </tr>
   <tr>
     <td width="550">Skal monteres for at sikre tilstr_kkelig k_ling til 
     bremserne.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">200 75-80</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -273,20 +273,20 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber10" align="center">
   <tr>
     <th width="550" align="left">H_KSPOILER 200 79-85</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-bodyc.jpg&palt=Volvo Sport','','height=623,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-bodyct.jpg" width="128" height="119"></A></td>
   </tr>
   <tr>
     <td width="550">St_bt i elastisk polyuretanskum med perfekt pasform - ingen 
-    revner og sk_vheder. Giver det rigtige &quot;slip&quot; fra forstyrrende og bremsende 
+    revner og sk_vheder. Giver det rigtige "slip" fra forstyrrende og bremsende 
     lufthvirvler bag bilen.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">200 2/4-d 79-85</td>
     <td width="100">1155 999</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -295,19 +295,19 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber11" align="center">
   <tr>
     <th width="550" align="left">3-DELT H_KSPOILER 200 86-</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-bodyd.jpg&palt=Volvo Sport','','height=625,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-bodydt.jpg" width="128" height="119"></A></td>
   </tr>
   <tr>
     <td width="550">
       Helt ny spoiler, som harmonerer med Volvo original Body-kit</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">240 4-d 86-</td>
     <td width="100">1394 730</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 
@@ -333,7 +333,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

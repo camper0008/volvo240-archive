@@ -1,6 +1,6 @@
 
 
-<p align="center"><b>For at logge ind skal du have Cookies slået til.</b>
+<p align="center"><b>For at logge ind skal du have Cookies slÃ¥et til.</b>
 
 <p align="center"><i>Indtast Login-oplysninger:</i></p>
   <form method="POST" action="/security/login_script.asp">

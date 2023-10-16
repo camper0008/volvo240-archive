@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Foto Galleri</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Foto Galleri</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -191,7 +191,7 @@ document.onmousedown=click;
     <td align="center">
 
 
-<table border=0 cellpadding=5 cellspacing=1 width=760 align=center><tr><td align="left"><font size="4">Finn Kruse</font></td></tr><tr><td>&nbsp;</td></tr><tr>
+<table border=0 cellpadding=5 cellspacing=1 width=760 align=center><tr><td align="left"><font size="4">Finn Kruse</font></td></tr><tr><td></td></tr><tr>
 
 
 		<td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/fotos/images/0000025.jpg&palt=','','height=630,width=431,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/fotos/images/0000025t.jpg" width="65,76" height="96"></a></td>
@@ -226,9 +226,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

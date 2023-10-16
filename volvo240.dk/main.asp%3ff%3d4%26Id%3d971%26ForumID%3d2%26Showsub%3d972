@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=971"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=971"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>elektrisk b&#248;vl ned min nye Volvo</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>elektrisk bøvl ned min nye Volvo</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-10-2003&nbsp; 00:37</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-10-2003 00:37</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Jeg har lige k_bt en fin 240 GLT st.car fra 1988<br>Den k_rer fint, men der lidt ballade med det elektriske.<br>Den er monteret med en alarm, der startede med ikke at virke, men pludselig kom til live. F_r virkede fj. betjeningen bare p_ C l_sen.<br>Af og til lyser lampen for manglende p_re og h_jre baglygte lyser ikke. Efter en k_retur eller to virker det igen. Selelampen i f_rersiden er ogs_ pludselig kommet sig efter en dvale. <br>Og s_ giver bilen st_d som en i h..... Det er nok at s_tte sig ind og s_tte t_nding til og g_ ud igen. S_ f_r man et rap over nallerne.<br>Er der nisser p_ spil??<br>Min kone er irriteret over at blive bl_ndet af fjernlys-indikator-lampen, som er hvid og lyser n_sten kraftigere end forlygterne. Kan man d_mpe den p_ en m_de. Vi skal jo ikke l_se avis mens vi k_rer.<br><br>Jeg m_ se og f_ meldt vognen til her p_ siden. <br><br>Anders</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=971&ForumID=2&Showsub=974'>Re: elektrisk b&#248;vl ned min nye Volvo</a> <em>(Anders Vedberg, 29-10-2003 20:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=971&ForumID=2&Showsub=973'>Re: elektrisk b&#248;vl ned min nye Volvo</a> <em>(Steen Frandsen, 29-10-2003 20:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=971&ForumID=2&Showsub=972'>Re: elektrisk b&#248;vl ned min nye Volvo</a> <em>(Sebastian Neumann, 29-10-2003 19:06)</em></strong></font></li><br><font face=Verdana>Hej.<br><br>Det er tit at der er lidt med det elektriske p_ 240 modellerne ( synes jeg ). Mht alarmen, der pludselig kom til live, virkede den bare pludselig ? Hvis den gjorde, s_ pr_v at lokalisere alarm / c-l_s modulet, er det et integreret modul, med str_m ind b_de til c-l_s og alarm, s_ pr_v at kigge lidt p_ str_mmen til alarmen evt i sikringsboksen, er det forskellige moduler, s_ pr_v at se p_ stel p_ alarmen, det kunne jo v_re en l_s forbindelse i stellen, ellers s_ p_ plus siden, se efter om sikringerne er irret i holderne, kig p_ klemmerne se om der er noget der er mist_nkeligt, ellers s_ g_ logisk til v_rks, start fra en ende af f_lg alle ledninger, kig efter l_se forbindelser irrede stik osv. 240 modellerne kan jo godt v_re plagede af at der kommer fugt / vand ind hvor det ikke burde v_re. <br><br>Mht h_jre baglygte, lyser den bare aldrig ? Nu formoder jeg at du har kigget om p_ren er sprunget, hvis den ikke er, kan det v_re forbindelsen i den skinne der ligger, der sidder nogle stik bagp_ lygten, pr_v at rense dem af, se om de sidder l_se. Det at lampefejlslampen engang i mellem lyser kunne jo tyde p_ en d_rlig forbindelse et eller andet sted, der skal ikke meget til f_r den reagerer den er temmelig f_lsom. Et forkert monteret stik til trailer kan faktisk g_re det ( egne erfaringer ). <br><br>Det med fjernlysindikatoren forst_r jeg ikke, p_ min er den bl_ og ikke specielt skarp, er den helt hvid kan det jo godt v_re at den film der ligger i instrumentbordet er v_k, pr_v at kigge, men jeg er personligt aldrig blevet bl_ndet af den... det synes jeg lyder lidt mystisk. <br><br>Mvh.<br>Sebastian</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=971&ForumID=2&Showsub=974'>Re: elektrisk bøvl ned min nye Volvo</a> <em>(Anders Vedberg, 29-10-2003 20:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=971&ForumID=2&Showsub=973'>Re: elektrisk bøvl ned min nye Volvo</a> <em>(Steen Frandsen, 29-10-2003 20:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=971&ForumID=2&Showsub=972'>Re: elektrisk bøvl ned min nye Volvo</a> <em>(Sebastian Neumann, 29-10-2003 19:06)</em></strong></font></li><br><font face=Verdana>Hej.<br><br>Det er tit at der er lidt med det elektriske p_ 240 modellerne ( synes jeg ). Mht alarmen, der pludselig kom til live, virkede den bare pludselig ? Hvis den gjorde, s_ pr_v at lokalisere alarm / c-l_s modulet, er det et integreret modul, med str_m ind b_de til c-l_s og alarm, s_ pr_v at kigge lidt p_ str_mmen til alarmen evt i sikringsboksen, er det forskellige moduler, s_ pr_v at se p_ stel p_ alarmen, det kunne jo v_re en l_s forbindelse i stellen, ellers s_ p_ plus siden, se efter om sikringerne er irret i holderne, kig p_ klemmerne se om der er noget der er mist_nkeligt, ellers s_ g_ logisk til v_rks, start fra en ende af f_lg alle ledninger, kig efter l_se forbindelser irrede stik osv. 240 modellerne kan jo godt v_re plagede af at der kommer fugt / vand ind hvor det ikke burde v_re. <br><br>Mht h_jre baglygte, lyser den bare aldrig ? Nu formoder jeg at du har kigget om p_ren er sprunget, hvis den ikke er, kan det v_re forbindelsen i den skinne der ligger, der sidder nogle stik bagp_ lygten, pr_v at rense dem af, se om de sidder l_se. Det at lampefejlslampen engang i mellem lyser kunne jo tyde p_ en d_rlig forbindelse et eller andet sted, der skal ikke meget til f_r den reagerer den er temmelig f_lsom. Et forkert monteret stik til trailer kan faktisk g_re det ( egne erfaringer ). <br><br>Det med fjernlysindikatoren forst_r jeg ikke, p_ min er den bl_ og ikke specielt skarp, er den helt hvid kan det jo godt v_re at den film der ligger i instrumentbordet er v_k, pr_v at kigge, men jeg er personligt aldrig blevet bl_ndet af den... det synes jeg lyder lidt mystisk. <br><br>Mvh.<br>Sebastian</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">53</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">53</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -215,7 +215,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Johan Jargil &#197;rman</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Johan Jargil Årman</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-08-2003&nbsp; 11:36</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-08-2003 11:36</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har f_et et problem med min 245DL fra 86. Hvis jeg bremser lidt og derefter tr_der pedalen helt i bund, eller hvis jeg punper pedalen, bliver den h_rd og synker ganske langsomt. Bremsekraften er da meget d_rlig, og jeg skal tr_de 4-5 gange h_rdere, end normalt. Det virker som, n_r motoren er slukket. Det m_ v_re bremseforst_rkeren der er noget galt med. Hvordan tjekker jeg det?<br><br>Venlig hilsen Johan _rman</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(sebastian neumann, 11-08-2003 14:39)</em></u></strong></font></li><br><font face=Verdana>Hej.<br><br>Det beh_ves ikke v_re bremseforst_rkeren der er kaput, det kan lige s_ godt v_re hovedcylinderen. Hvis t_tningsringene inden i den ikke holder helt t_t, bev_ger bremsev_sken sig frem og tilbage mellem kamrene, og holder ikke trykket, dette kan give sig udtryk i at bremsepedalen synker ganske langsomt hvis du holder et normalt tryk. Det er ganske normalt p_ toyotaer - selv ret nye hiacer, og p_ volvoer sker det ogs_. Du kan s_ enten v_lge at skifte hovedcylinderen eller k_be et renoveringskit til den med ringe fjedre osv. <br><br>Bremseforst_rkeren kan du tjekke ved at stoppe bilen, pumpe tryk og s_ starte den igen, pedalen synker lidt, og bliver h_rd, og fort_ller dig dermed at vacuum funktionen virker. evt, check slanger og stopventil osv, at det er t_t. Er det ikke det s_ er det enkleste at skifte bremseforst_rkeren. <br><br>Men, jeg vil g_tte p_ at det er din hovedcylinder der er ved at v_re tr_t i det - alternativt en mindre ut_thed i bremsesystemet. <br><br>Mvh.<br>Sebastian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(sebastian neumann, 11-08-2003 14:41)</em></u></strong></font></li><br><font face=Verdana>Hej igen.<br><br>Glemte lige noget. Hvis bremsev_skens kogepunkt er meget lavt, og du har bremset h_rdt op og l_nge, er der en risiko for at bremsev_sken har kogt. Koger den, kommer der luft i bremsesystemet, og dermed d_rlig bremsevirkning.<br><br>Bare en tanke.<br><br>Mvh.<br>Sebastian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ren&#233; &#216;stergaard, 19-02-2004 22:22)</em></u></strong></font></li><br><font face=Verdana>Hvis din pedal ikke er "sumpet" og bl_d, m_ den hydrauliske del af dit bremsesystem siges at v_re i orden. Jeg har netop idag opdaget p_ min egen at vakuumslangen til bremseforst_rkeren som g_r fra indsugningsmanifolden til bremseforst_rkeren var g_et i udu nede ved studsen p_ manifolden. Opdagede det ved at der skulle jogges meget h_rdt p_ bremsepedalen, f_r der skete noget.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Johan Jargil &#197;rman, 19-02-2004 23:02)</em></u></strong></font></li><br><font face=Verdana>Tak for svar. Problemet er l_st. <br>Det var hovedcylinderen der havde opgivet _vred. Den er skiftet, og nu bremser den perfekt. Jeg elsker min Volvo...<br><br>Johan _rman</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(sebastian neumann, 11-08-2003 14:39)</em></u></strong></font></li><br><font face=Verdana>Hej.<br><br>Det beh_ves ikke v_re bremseforst_rkeren der er kaput, det kan lige s_ godt v_re hovedcylinderen. Hvis t_tningsringene inden i den ikke holder helt t_t, bev_ger bremsev_sken sig frem og tilbage mellem kamrene, og holder ikke trykket, dette kan give sig udtryk i at bremsepedalen synker ganske langsomt hvis du holder et normalt tryk. Det er ganske normalt p_ toyotaer - selv ret nye hiacer, og p_ volvoer sker det ogs_. Du kan s_ enten v_lge at skifte hovedcylinderen eller k_be et renoveringskit til den med ringe fjedre osv. <br><br>Bremseforst_rkeren kan du tjekke ved at stoppe bilen, pumpe tryk og s_ starte den igen, pedalen synker lidt, og bliver h_rd, og fort_ller dig dermed at vacuum funktionen virker. evt, check slanger og stopventil osv, at det er t_t. Er det ikke det s_ er det enkleste at skifte bremseforst_rkeren. <br><br>Men, jeg vil g_tte p_ at det er din hovedcylinder der er ved at v_re tr_t i det - alternativt en mindre ut_thed i bremsesystemet. <br><br>Mvh.<br>Sebastian</font><br><li><font face=Verdana><strong><u>Re: - <em>(sebastian neumann, 11-08-2003 14:41)</em></u></strong></font></li><br><font face=Verdana>Hej igen.<br><br>Glemte lige noget. Hvis bremsev_skens kogepunkt er meget lavt, og du har bremset h_rdt op og l_nge, er der en risiko for at bremsev_sken har kogt. Koger den, kommer der luft i bremsesystemet, og dermed d_rlig bremsevirkning.<br><br>Bare en tanke.<br><br>Mvh.<br>Sebastian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Ren&#233; Østergaard, 19-02-2004 22:22)</em></u></strong></font></li><br><font face=Verdana>Hvis din pedal ikke er "sumpet" og bl_d, m_ den hydrauliske del af dit bremsesystem siges at v_re i orden. Jeg har netop idag opdaget p_ min egen at vakuumslangen til bremseforst_rkeren som g_r fra indsugningsmanifolden til bremseforst_rkeren var g_et i udu nede ved studsen p_ manifolden. Opdagede det ved at der skulle jogges meget h_rdt p_ bremsepedalen, f_r der skete noget.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Johan Jargil Årman, 19-02-2004 23:02)</em></u></strong></font></li><br><font face=Verdana>Tak for svar. Problemet er l_st. <br>Det var hovedcylinderen der havde opgivet _vred. Den er skiftet, og nu bremser den perfekt. Jeg elsker min Volvo...<br><br>Johan _rman</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">17</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">17</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

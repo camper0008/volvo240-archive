@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=3065"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=3065"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Uacceptabelt h&#248;jt benzinforbrug</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Uacceptabelt højt benzinforbrug</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-03-2005&nbsp; 22:05</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-03-2005 22:05</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa<br><br>Jeg har lige k�bt en 240 stationcar for en uge siden, og jeg har et sp�rgsm�l: Kan det virkeligt passe at den ikke render mere end 7 km/l i snit p� en tank???<br><br>Min sune fornuft siger mig at den ihvertfald skulle kunne rende oppe omkring de 10 km/l<br><br>Skal siges at jeg ikke k�rer super p�nt, men heller ikke r�ddent - En marchhastighed p� 90-100 km/t p� landevej, og 130-140 p� motorvej....<br><br>Nogle gode r�d, om at f� benzin-�konomien forbedret lidt?<br><br>/HC</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3065&ForumID=2&Showsub=3070'>Re: Uacceptabelt h&#248;jt benzinforbrug</a> <em>(HC, 22-03-2005 23:39)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3065&ForumID=2&Showsub=3068'>Re: Uacceptabelt h&#248;jt benzinforbrug</a> <em>(Jes, 21-03-2005 12:17)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Nu skriver du ikke hvilken motor du k�rer med, men en veljusteret 240 k�rer ved blandet k�rsel ca. 10 km/l og helt op til 13 km/l p� langtur.<br>K�rer selv med B 230E motor, ca halvt sm�ture, ca halvt motorvej med 130-140. Den holder mellem 11 og 11,5 i snit.<br><br>S� p� n�r de rigtig kolde vinterdage med udelukkende sm�ture og byk�rsel er under 10 km/l uacceptabelt.<br><br>Frisk luftfilter, nye t�ndr�r samt justering af karburator og t�nding vel sikkert hj�lpe.<br><br>mvh<br><br>Jes</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3065&ForumID=2&Showsub=3067'>Re: Uacceptabelt h&#248;jt benzinforbrug</a> <em>(Jesper Juhl, 21-03-2005 11:22)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3065&ForumID=2&Showsub=3070'>Re: Uacceptabelt højt benzinforbrug</a> <em>(HC, 22-03-2005 23:39)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3065&ForumID=2&Showsub=3068'>Re: Uacceptabelt højt benzinforbrug</a> <em>(Jes, 21-03-2005 12:17)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Nu skriver du ikke hvilken motor du k�rer med, men en veljusteret 240 k�rer ved blandet k�rsel ca. 10 km/l og helt op til 13 km/l p� langtur.<br>K�rer selv med B 230E motor, ca halvt sm�ture, ca halvt motorvej med 130-140. Den holder mellem 11 og 11,5 i snit.<br><br>S� p� n�r de rigtig kolde vinterdage med udelukkende sm�ture og byk�rsel er under 10 km/l uacceptabelt.<br><br>Frisk luftfilter, nye t�ndr�r samt justering af karburator og t�nding vel sikkert hj�lpe.<br><br>mvh<br><br>Jes</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3065&ForumID=2&Showsub=3067'>Re: Uacceptabelt højt benzinforbrug</a> <em>(Jesper Juhl, 21-03-2005 11:22)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">35</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">35</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

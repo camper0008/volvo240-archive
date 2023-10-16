@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-02-2008&nbsp; 22:32</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-02-2008 22:32</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br>Er der nogen der ved hvor jeg kan s�ge p� et billed tegning af<br>et styret�j det skal helst v�re komplet</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Johan Jargil &#197;rman, 05-02-2008 20:29)</em></u></strong></font></li><br><font face=Verdana>Hej.<br><br>Der er en i Haynes-bogen. Ellers findes den jo i VADIS, Volvos computersystem med alle reservedelsnumre og alt i eksplosionstegninger.<br><br>Du kan sikkert f� din lokale Volvoforhandler til at printe et ark ud.<br><br>Venlig hilsen <br>Johan �rman</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 05-02-2008 20:55)</em></u></strong></font></li><br><font face=Verdana>Hej Claus<br><br>Det letteste du kan g�re, er at downloade Volvos originale gr�nne serviceh�fte vedr. styret�jet. Der kan du se alle detaljerne.<br><br>Det direkte link er her:<br><a href="http://www.k-jet.org/files/greenbooks/TP30125-2_rear_wheel_suspension.pdf" target="_blank">http://www.k-jet.org/files/greenbooks/TP30125-2_rear_wheel_suspension.pdf</a><br><br>Ellers kan du finde alle de andre gr�nne serviceh�fter her:<br><a href="http://www.k-jet.org/docs_green.html" target="_blank">http://www.k-jet.org/docs_green.html</a><br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 05-02-2008 20:56)</em></u></strong></font></li><br><font face=Verdana>Det skulle s� lige have v�ret den her der er det direkte link:<br><br><a href="http://www.k-jet.org/files/greenbooks/TP30000-1_front_wheel_suspension.pdf" target="_blank">http://www.k-jet.org/files/greenbooks/TP30000-1_front_wheel_suspension.pdf</a><br><br><br>Det er lidt irriterende, at man ikke kan teste sit indl�g inden man oploader. S� vil mange fejl kunne undg�es.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(claus christensen, 05-02-2008 21:58)</em></u></strong></font></li><br><font face=Verdana>Hej johan<br> vadis har jeg selv men skulle bruge et komplet styret�js billede og det har vadis ikke.<br>Hej Christian<br>k-jet har jo det hele s� det kunne jeg bruge tak for hj�lpen<br>Mvh Claus <br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Johan Jargil Årman, 05-02-2008 20:29)</em></u></strong></font></li><br><font face=Verdana>Hej.<br><br>Der er en i Haynes-bogen. Ellers findes den jo i VADIS, Volvos computersystem med alle reservedelsnumre og alt i eksplosionstegninger.<br><br>Du kan sikkert f� din lokale Volvoforhandler til at printe et ark ud.<br><br>Venlig hilsen <br>Johan �rman</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 05-02-2008 20:55)</em></u></strong></font></li><br><font face=Verdana>Hej Claus<br><br>Det letteste du kan g�re, er at downloade Volvos originale gr�nne serviceh�fte vedr. styret�jet. Der kan du se alle detaljerne.<br><br>Det direkte link er her:<br><a href="http://www.k-jet.org/files/greenbooks/TP30125-2_rear_wheel_suspension.pdf" target="_blank">http://www.k-jet.org/files/greenbooks/TP30125-2_rear_wheel_suspension.pdf</a><br><br>Ellers kan du finde alle de andre gr�nne serviceh�fter her:<br><a href="http://www.k-jet.org/docs_green.html" target="_blank">http://www.k-jet.org/docs_green.html</a><br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 05-02-2008 20:56)</em></u></strong></font></li><br><font face=Verdana>Det skulle s� lige have v�ret den her der er det direkte link:<br><br><a href="http://www.k-jet.org/files/greenbooks/TP30000-1_front_wheel_suspension.pdf" target="_blank">http://www.k-jet.org/files/greenbooks/TP30000-1_front_wheel_suspension.pdf</a><br><br><br>Det er lidt irriterende, at man ikke kan teste sit indl�g inden man oploader. S� vil mange fejl kunne undg�es.</font><br><li><font face=Verdana><strong><u>Re: - <em>(claus christensen, 05-02-2008 21:58)</em></u></strong></font></li><br><font face=Verdana>Hej johan<br> vadis har jeg selv men skulle bruge et komplet styret�js billede og det har vadis ikke.<br>Hej Christian<br>k-jet har jo det hele s� det kunne jeg bruge tak for hj�lpen<br>Mvh Claus <br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -265,9 +265,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

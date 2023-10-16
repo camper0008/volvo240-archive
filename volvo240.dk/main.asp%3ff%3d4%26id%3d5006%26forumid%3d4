@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-12-2015&nbsp; 17:33</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-12-2015 17:33</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">K_re alle,<br>Er der en der kan hj_lpe mig med en l_sning. Kan man skifte en af de skruer der stikker ud og som man bruger til at skrue ventild_ksel fast. Kom til at indstille min momentn_gle forkert og kn_k sagde det :(<br>Der er stadig ca. 1 cm tilbage der stikker ud.<br><br>Mvh<br><br>Christophe</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christophe Philippe, 06-12-2015 17:39)</em></u></strong></font></li><br><font face=Verdana>Glemte at sige at det er en kat B230 der sidder i min 245 fra 1993 :o)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 06-12-2015 22:01)</em></u></strong></font></li><br><font face=Verdana>Goddag<br><br>Du har sikkert pr_vet med er r_rtang eller en tang af den type man bruger ved karosseri og plade svejse arbejde. Alternativt bor den ud et par tiendedele mindre end stumpens diameter, og sk_r nyt gevind. Pas p_ med sp_nerne.<br><br>Og, s_ sp_nd de m_trikker med sund fornuft og gem momentv_rkt_jet til du tager hele topstykket af.<br><br>Mvh<br>Steen Damsgaard<br>Frederikssund</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 09-12-2015 17:54)</em></u></strong></font></li><br><font face=Verdana>Hej Christoph, hvis du har mulighed ville jeg skrue en m_trik p_ bolten og svejse den til bolten foroven, s_ burde du kunne skrue den af. Det med  bore den ud fungerer ogs_ men.... der er fare for at du f_ problemer med gewindesk_ring, self_lig afh_ngig af din erfaring!??<br>Held og lykke.<br>M.v.h.<br>Antonio</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 12-12-2015 15:50)</em></u></strong></font></li><br><font face=Verdana>Det kan hurtigt blive op af bakke at bore en metalstump ud af en alutop :-/<br>Er du sikker p_ at d_kslet vil svede uden den ene bolt?</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christophe Philippe, 06-12-2015 17:39)</em></u></strong></font></li><br><font face=Verdana>Glemte at sige at det er en kat B230 der sidder i min 245 fra 1993 :o)</font><br><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 06-12-2015 22:01)</em></u></strong></font></li><br><font face=Verdana>Goddag<br><br>Du har sikkert pr_vet med er r_rtang eller en tang af den type man bruger ved karosseri og plade svejse arbejde. Alternativt bor den ud et par tiendedele mindre end stumpens diameter, og sk_r nyt gevind. Pas p_ med sp_nerne.<br><br>Og, s_ sp_nd de m_trikker med sund fornuft og gem momentv_rkt_jet til du tager hele topstykket af.<br><br>Mvh<br>Steen Damsgaard<br>Frederikssund</font><br><li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 09-12-2015 17:54)</em></u></strong></font></li><br><font face=Verdana>Hej Christoph, hvis du har mulighed ville jeg skrue en m_trik p_ bolten og svejse den til bolten foroven, s_ burde du kunne skrue den af. Det med  bore den ud fungerer ogs_ men.... der er fare for at du f_ problemer med gewindesk_ring, self_lig afh_ngig af din erfaring!??<br>Held og lykke.<br>M.v.h.<br>Antonio</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 12-12-2015 15:50)</em></u></strong></font></li><br><font face=Verdana>Det kan hurtigt blive op af bakke at bore en metalstump ud af en alutop :-/<br>Er du sikker p_ at d_kslet vil svede uden den ene bolt?</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

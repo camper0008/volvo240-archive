@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=480"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=480"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Lidt startbesv&#230;r med en B230E.....</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Lidt startbesvÃ¦r med en B230E.....</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">02-06-2003&nbsp; 14:11</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">02-06-2003 14:11</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br>Vi har et lille, nærmest "ikke ekststerende" problem, som dog aligevel irretere os (mig) lidt.<br><br>Hvis bilen har stået og er blevet kold så skal den køre 6-7 omgange (vil jeg tro) på starteren inden den starter.<br>Når den er varm springer den derimod igang nærmest omgående.<br><br>Vores gamle bil startede altid omgående, men det var nu heller ikke en Volvo... :-)<br><br>Kan der være et problem, der gør dette, eller gør vi bare forkert når vi skal starte bilen.... ;-)<br><br>Vores gamle bil skulle man træde gassen helt i bund og slippe igen, så startede den perfekt.<br><br>Men med Volvo´en har jeg prøvet:<br>Træde gassen i bund og slippe.<br>Holde gassen halvt nede.<br>Holde foden helt fra gassen.<br>Have lang tids tænding på inden start. (ca. 15 sek.)<br><br>Men det virker ikke som om at det ændre noget lige meget hvad man gør.<br><br>Kort og godt:<br>Er det normalt ?? :-)<br><br>(Bilen er jo ikke ny, den har kørt 350.000 km.<br><br>Mvh.<br>Peter</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br>Vi har et lille, nÃ¦rmest "ikke ekststerende" problem, som dog aligevel irretere os (mig) lidt.<br><br>Hvis bilen har stÃ¥et og er blevet kold sÃ¥ skal den kÃ¸re 6-7 omgange (vil jeg tro) pÃ¥ starteren inden den starter.<br>NÃ¥r den er varm springer den derimod igang nÃ¦rmest omgÃ¥ende.<br><br>Vores gamle bil startede altid omgÃ¥ende, men det var nu heller ikke en Volvo... :-)<br><br>Kan der vÃ¦re et problem, der gÃ¸r dette, eller gÃ¸r vi bare forkert nÃ¥r vi skal starte bilen.... ;-)<br><br>Vores gamle bil skulle man trÃ¦de gassen helt i bund og slippe igen, sÃ¥ startede den perfekt.<br><br>Men med Volvo´en har jeg prÃ¸vet:<br>TrÃ¦de gassen i bund og slippe.<br>Holde gassen halvt nede.<br>Holde foden helt fra gassen.<br>Have lang tids tÃ¦nding pÃ¥ inden start. (ca. 15 sek.)<br><br>Men det virker ikke som om at det Ã¦ndre noget lige meget hvad man gÃ¸r.<br><br>Kort og godt:<br>Er det normalt ?? :-)<br><br>(Bilen er jo ikke ny, den har kÃ¸rt 350.000 km.<br><br>Mvh.<br>Peter</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=480&ForumID=1&Showsub=635'>Re: Lidt startbesv&#230;r med en B230E.....</a> <em>(Boris Persson, 15-07-2003 10:54)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=480&ForumID=1&Showsub=635'>Re: Lidt startbesvÃ¦r med en B230E.....</a> <em>(Boris Persson, 15-07-2003 10:54)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">50</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">50</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

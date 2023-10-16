@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=2091"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=2091"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Alarmlamper &quot;gl&#248;der&quot; i 245 fra 1989....</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Alarmlamper "glÃ¸der" i 245 fra 1989....</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">16-08-2004&nbsp; 08:19</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">16-08-2004 08:19</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br>Vores Volvo 245 fra 89 laver lidt el-knuder.<br><br>Symptom:<br>Alarmlamperne (pærefejl, ladelampe, håndbremse og bremsefejl), er begyndt at gløde svagt.<br><br>Der er intet at bemærke på bilen i øvrigt, den køre fint, og mangler ikke strøm til hværken lygter, tænding el.lign.<br><br>Trækker man håndbremsen, så lyser denne kraftigt, og de andre lyser også en lille smule kraftigere.......<br><br>Sætter man nøglen i og kun drejer over til lige inden bilen starter, så lyste ale lamper førhen (svjh), men nu lyser kun olielampen, og evt. håndbremselampen (hvis denne er trukket), de andre lyser kun meget svagt. <br><br><br>Der må vel mangle stel i instrumentbrættet, men hvordan finder man precis den fejl ??<br>Og kvordan kan det mon gå til at fejlen kommer lige på en gang ??<br>Dårlige forbindelser plejer da at være noget som udvikler sig over tid ??<br><br>Man kunne sikkert sagtens fikse det ved at lægge en ny stel-forbindelse, men hvis man repererede de orginale der hvor fejlen er, så ville det nok være at fortrække. :-)<br><br>Mvh.<br>Peter</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br>Vores Volvo 245 fra 89 laver lidt el-knuder.<br><br>Symptom:<br>Alarmlamperne (pÃ¦refejl, ladelampe, hÃ¥ndbremse og bremsefejl), er begyndt at glÃ¸de svagt.<br><br>Der er intet at bemÃ¦rke pÃ¥ bilen i Ã¸vrigt, den kÃ¸re fint, og mangler ikke strÃ¸m til hvÃ¦rken lygter, tÃ¦nding el.lign.<br><br>TrÃ¦kker man hÃ¥ndbremsen, sÃ¥ lyser denne kraftigt, og de andre lyser ogsÃ¥ en lille smule kraftigere.......<br><br>SÃ¦tter man nÃ¸glen i og kun drejer over til lige inden bilen starter, sÃ¥ lyste ale lamper fÃ¸rhen (svjh), men nu lyser kun olielampen, og evt. hÃ¥ndbremselampen (hvis denne er trukket), de andre lyser kun meget svagt. <br><br><br>Der mÃ¥ vel mangle stel i instrumentbrÃ¦ttet, men hvordan finder man precis den fejl ??<br>Og kvordan kan det mon gÃ¥ til at fejlen kommer lige pÃ¥ en gang ??<br>DÃ¥rlige forbindelser plejer da at vÃ¦re noget som udvikler sig over tid ??<br><br>Man kunne sikkert sagtens fikse det ved at lÃ¦gge en ny stel-forbindelse, men hvis man repererede de orginale der hvor fejlen er, sÃ¥ ville det nok vÃ¦re at fortrÃ¦kke. :-)<br><br>Mvh.<br>Peter</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2091&ForumID=2&Showsub=2603'>Re: Alarmlamper &quot;gl&#248;der&quot; i 245 fra 1989....</a> <em>(Johnny Ramm, 31-12-2004 01:42)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2091&ForumID=2&Showsub=2123'>Re: Alarmlamper &quot;gl&#248;der&quot; i 245 fra 1989....</a> <em>(Peter, 23-08-2004 07:48)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2091&ForumID=2&Showsub=2100'>Re: Alarmlamper &quot;gl&#248;der&quot; i 245 fra 1989....</a> <em>(Emil J, 17-08-2004 17:51)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2091&ForumID=2&Showsub=2099'>Re: Alarmlamper &quot;gl&#248;der&quot; i 245 fra 1989....</a> <em>(Peter, 17-08-2004 17:37)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2091&ForumID=2&Showsub=2094'>Re: Alarmlamper &quot;gl&#248;der&quot; i 245 fra 1989....</a> <em>(Jesper, 16-08-2004 21:00)</em></strong></font></li><br><font face=Verdana>Jeg har oplevet samme symptomer, og det viste sig at være ledningerne ved generatoren, der var gnavet lidt igennem under motoren, så isoleringen var halvvejs væk - og det gav en smule kortslutning. Nogle gange meget, nogle gange mindre.<br><br>Når alle lamperne begyndte at lyse, holdt bilen samtidig op med at lade, kunne jeg se på voltmeteret.<br><br>Lye ledninger ved generatoren løste problemet.<br><br>Men måske er det bare en sikring, der er dårlig. Prøv at tjekke sikring nummer 8 (tror jeg nok), der vist hører til instrumentbordet.<br><br>Ved en anden lejlghed, hvor jeg skiftede denne sikring og rensede kontakterne, den sidder i, begyndte min benzinmåler at virke igen, efter den i en periode havde målt helt hen i skoven. Om det så var på grund af en dårlig sikring, skal jeg ikke kunne sige, men den virker nu igen fint og måler meget nøjagtigt.<br><br>Forleden virkede bremselyset pludselig ikke, og det var også en sikring, der var blevet træt - og i det hele taget sidder sikringerne vist et sted, der med tiden kan blive lidt fugtigt og anløbent. I hvert fald efter 15-20-25 år!<br><br>mvh<br><br>Jesper Johansen<br><br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2091&ForumID=2&Showsub=2603'>Re: Alarmlamper "glÃ¸der" i 245 fra 1989....</a> <em>(Johnny Ramm, 31-12-2004 01:42)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2091&ForumID=2&Showsub=2123'>Re: Alarmlamper "glÃ¸der" i 245 fra 1989....</a> <em>(Peter, 23-08-2004 07:48)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2091&ForumID=2&Showsub=2100'>Re: Alarmlamper "glÃ¸der" i 245 fra 1989....</a> <em>(Emil J, 17-08-2004 17:51)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2091&ForumID=2&Showsub=2099'>Re: Alarmlamper "glÃ¸der" i 245 fra 1989....</a> <em>(Peter, 17-08-2004 17:37)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2091&ForumID=2&Showsub=2094'>Re: Alarmlamper "glÃ¸der" i 245 fra 1989....</a> <em>(Jesper, 16-08-2004 21:00)</em></strong></font></li><br><font face=Verdana>Jeg har oplevet samme symptomer, og det viste sig at vÃ¦re ledningerne ved generatoren, der var gnavet lidt igennem under motoren, sÃ¥ isoleringen var halvvejs vÃ¦k - og det gav en smule kortslutning. Nogle gange meget, nogle gange mindre.<br><br>NÃ¥r alle lamperne begyndte at lyse, holdt bilen samtidig op med at lade, kunne jeg se pÃ¥ voltmeteret.<br><br>Lye ledninger ved generatoren lÃ¸ste problemet.<br><br>Men mÃ¥ske er det bare en sikring, der er dÃ¥rlig. PrÃ¸v at tjekke sikring nummer 8 (tror jeg nok), der vist hÃ¸rer til instrumentbordet.<br><br>Ved en anden lejlghed, hvor jeg skiftede denne sikring og rensede kontakterne, den sidder i, begyndte min benzinmÃ¥ler at virke igen, efter den i en periode havde mÃ¥lt helt hen i skoven. Om det sÃ¥ var pÃ¥ grund af en dÃ¥rlig sikring, skal jeg ikke kunne sige, men den virker nu igen fint og mÃ¥ler meget nÃ¸jagtigt.<br><br>Forleden virkede bremselyset pludselig ikke, og det var ogsÃ¥ en sikring, der var blevet trÃ¦t - og i det hele taget sidder sikringerne vist et sted, der med tiden kan blive lidt fugtigt og anlÃ¸bent. I hvert fald efter 15-20-25 Ã¥r!<br><br>mvh<br><br>Jesper Johansen<br><br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">103</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">103</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

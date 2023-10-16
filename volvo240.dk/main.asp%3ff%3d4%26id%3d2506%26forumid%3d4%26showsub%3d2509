@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=2506"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=2506"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Digitalur + div sp&#248;rgsm&#229;l</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Digitalur + div spørgsmål</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-12-2004&nbsp; 09:54</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-12-2004 09:54</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa<br><br>I min 244 turbo fra 81 har jeg digitalur og ville lige h_re hvordan man stiller klokken p_ den og hvad de mange knapper er til?<br><br>Et andet sp_rgsm_l lyder: den ryger meget ud af udst_dningen, kan det v_re rigtigt?? T_nding, co2 og benzinforbrug er iorden (hvis man kan kalde benzinforbrug p_  en turbo i orden :))?<br>Farven er i _vrigt musegr_ til en anelse bl_.<br><br>En sidste ting:  Den g_r pokkers uj_vn ved kold, hvis man speeder den en anelse op ved kold motor (1200-1500 omdr.) begynder den at g_ j_vn, men efter der er tilbagelagt _n kilometer og man skal standse, g_r den 500-600 omdr. i v_rste fald i st_, s_dan varer det indtil 8 km. Hvad er det der er galt og hvad kan jeg g_re for at f_ det bragt i orden. Det er meget pinligt at s_dan en fin, normalt velk_rende, bil ikke kan t_ sig bedre. <br><br>P_ forh_nd tak<br>Morten Lundager</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2506&ForumID=4&Showsub=2533'>Re: Digitalur + div sp&#248;rgsm&#229;l</a> <em>(Kent, 15-12-2004 10:16)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2506&ForumID=4&Showsub=2527'>Re: Digitalur + div sp&#248;rgsm&#229;l</a> <em>(Morten Lundager, 15-12-2004 07:42)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2506&ForumID=4&Showsub=2509'>Re: Digitalur + div sp&#248;rgsm&#229;l</a> <em>(Erling, 11-12-2004 22:45)</em></strong></font></li><br><font face=Verdana>Klokken:<br>Se om dette kan passe for din modell:<br><br>"Digitalklocka, sifferindikator <br><br>Sifferindikatorn t_nds n_r t_ndningen sl_s till och visar tiden. <br>Vid fr_nslagen t_ndning slocknar tidsangivelsen efter ca 20 sekunder <br>OBS! Blinkar uret 8888 har ett str_mavbrott intr_ffat och alla f_rprogrammerade funktioner har raderats. <br>Uret skall d_ programeras p_ nytt.. <br><br>Inst_llning av digitalklockan <br><br>F_r att st_lla klockan g_r man p_ f_ljande s_tt: <br>Tryck knappen( Den under) under uret fram_t(mot dig) och st_ll samtidigt in aktuell tid med hj_lp av tidsinst_llning fram_t(3)(h_ger pil) resp. tidsinst_llning bak_t(4) (v_nster pil)"<br><br>Om eksosen ikke er direkte hvit, er det nok forbrent olje. Oljen kan komme til forbrenningskamrene ad to veier: Ovenfra gjennom utette ventilstyringer, eller nedenfra gjennom utette stempelringer. Kompresjonstest (eller leak-down test) og en kikk p_ tennpluggene vil gi ytterligere indikasjoner om du har slike problemer.<br><br>Om du mistenker utett toppakning (hvitaktig eksos), kan en HC-m_ling ved ekspansjonstanken (med gjennomvarm motor) v_re en bra test.<br><br>Lykke til!<br>Erling.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2506&ForumID=4&Showsub=2533'>Re: Digitalur + div spørgsmål</a> <em>(Kent, 15-12-2004 10:16)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2506&ForumID=4&Showsub=2527'>Re: Digitalur + div spørgsmål</a> <em>(Morten Lundager, 15-12-2004 07:42)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2506&ForumID=4&Showsub=2509'>Re: Digitalur + div spørgsmål</a> <em>(Erling, 11-12-2004 22:45)</em></strong></font></li><br><font face=Verdana>Klokken:<br>Se om dette kan passe for din modell:<br><br>"Digitalklocka, sifferindikator <br><br>Sifferindikatorn t_nds n_r t_ndningen sl_s till och visar tiden. <br>Vid fr_nslagen t_ndning slocknar tidsangivelsen efter ca 20 sekunder <br>OBS! Blinkar uret 8888 har ett str_mavbrott intr_ffat och alla f_rprogrammerade funktioner har raderats. <br>Uret skall d_ programeras p_ nytt.. <br><br>Inst_llning av digitalklockan <br><br>F_r att st_lla klockan g_r man p_ f_ljande s_tt: <br>Tryck knappen( Den under) under uret fram_t(mot dig) och st_ll samtidigt in aktuell tid med hj_lp av tidsinst_llning fram_t(3)(h_ger pil) resp. tidsinst_llning bak_t(4) (v_nster pil)"<br><br>Om eksosen ikke er direkte hvit, er det nok forbrent olje. Oljen kan komme til forbrenningskamrene ad to veier: Ovenfra gjennom utette ventilstyringer, eller nedenfra gjennom utette stempelringer. Kompresjonstest (eller leak-down test) og en kikk p_ tennpluggene vil gi ytterligere indikasjoner om du har slike problemer.<br><br>Om du mistenker utett toppakning (hvitaktig eksos), kan en HC-m_ling ved ekspansjonstanken (med gjennomvarm motor) v_re en bra test.<br><br>Lykke til!<br>Erling.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

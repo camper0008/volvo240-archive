@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=2772"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=2772"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>st&#229;lf&#230;lge eller aluf&#230;lge</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>stÃ¥lfÃ¦lge eller alufÃ¦lge</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">28-01-2005&nbsp; 09:39</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">28-01-2005 09:39</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Ligesindede<br><br>Jeg kom til at stille følgende spørgsmål på dk.fritid.bil:<br><br>------<br>Dette er sikkert et dumt spørgsmål, men...<br><br>som jeg har forstået det giver dæk med lavere profil bedre<br>køreegenskaber. Ofte vælger folk at montere alufælge med lavere<br>profil, men skal det være alufælge ??? vil stålfælge med samme<br>diameter (og dermed samme profil) ikke give samme køreegenskaber<br>??????<br><br>Hvad får man egentlig ud af at vælge alufælge ???<br><br>malnitz<br>-----<br><br>Og så startede jeg en stor diskussion se: <br><br>http://groups.google.dk/groups?hl=da&lr=&frame=right&th=cb158fd237879f0c&seekm=41f98d40%240%2448324%2414726298%40news.sunsite.dk#link1<br><br><br>Hvad sige I (der også har volvo 240). Personligt har jeg ikke brug for at min bil skal køre som en Formel 1 racer. Jeg vil bare have lidt bedre køreegenskaber, og overvejer kraftigere krængningsstabilisatorer og lavere profil.<br><br>Malnitz</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Ligesindede<br><br>Jeg kom til at stille fÃ¸lgende spÃ¸rgsmÃ¥l pÃ¥ dk.fritid.bil:<br><br>------<br>Dette er sikkert et dumt spÃ¸rgsmÃ¥l, men...<br><br>som jeg har forstÃ¥et det giver dÃ¦k med lavere profil bedre<br>kÃ¸reegenskaber. Ofte vÃ¦lger folk at montere alufÃ¦lge med lavere<br>profil, men skal det vÃ¦re alufÃ¦lge ??? vil stÃ¥lfÃ¦lge med samme<br>diameter (og dermed samme profil) ikke give samme kÃ¸reegenskaber<br>??????<br><br>Hvad fÃ¥r man egentlig ud af at vÃ¦lge alufÃ¦lge ???<br><br>malnitz<br>-----<br><br>Og sÃ¥ startede jeg en stor diskussion se: <br><br>http://groups.google.dk/groups?hl=da&lr=&frame=right&th=cb158fd237879f0c&seekm=41f98d40%240%2448324%2414726298%40news.sunsite.dk#link1<br><br><br>Hvad sige I (der ogsÃ¥ har volvo 240). Personligt har jeg ikke brug for at min bil skal kÃ¸re som en Formel 1 racer. Jeg vil bare have lidt bedre kÃ¸reegenskaber, og overvejer kraftigere krÃ¦ngningsstabilisatorer og lavere profil.<br><br>Malnitz</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2772&ForumID=2&Showsub=2775'>Re: st&#229;lf&#230;lge eller aluf&#230;lge</a> <em>(Christian Fisker, 28-01-2005 11:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2772&ForumID=2&Showsub=2773'>Re: st&#229;lf&#230;lge eller aluf&#230;lge</a> <em>(Kent, 28-01-2005 10:44)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2772&ForumID=2&Showsub=2775'>Re: stÃ¥lfÃ¦lge eller alufÃ¦lge</a> <em>(Christian Fisker, 28-01-2005 11:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2772&ForumID=2&Showsub=2773'>Re: stÃ¥lfÃ¦lge eller alufÃ¦lge</a> <em>(Kent, 28-01-2005 10:44)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">161</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">161</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

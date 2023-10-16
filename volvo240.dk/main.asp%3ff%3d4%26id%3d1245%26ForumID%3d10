@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">16-11-2005&nbsp; 20:08</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">16-11-2005 20:08</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hvad g�r jeg p� min 240 med B23A, min EGR ventil var helt f�rdig og har randset EGR r�rene, men da jeg skulle havde en ny EGR ventil ved volvo var den udg�et og den der skulle erstatte den var udg�et.<br><br>Men jeg har v�ret ude og se p� ophug om jeg kun finde en brugt men nej, der var s� en som var magen til p�n�r hvor den lille slange skal s�ttes p� er hullet s� lille som en n�l p� min er den ca. 2-3 mm hul.<br>Kan jeg s� ikke save spisen af den med det lille hul for s� er de ens og hvad med den lille skrue der sider p� enden er ikke ens skal jeg tage den fra den gamle og s�tte over eller hvad.<br><br>Er der nogen der kan hj�lpe med problemet.      MVH. Rene</font></td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">47</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">47</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

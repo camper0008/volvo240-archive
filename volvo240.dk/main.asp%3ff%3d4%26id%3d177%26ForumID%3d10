@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-06-2003&nbsp; 12:50</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-06-2003 12:50</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej. Jeg har en volvo 244 fra 1980 og kunne meget godt t�nke mig og bygge den "nye" model instrumentbord over i min volvo; s� ville jeg h�rer om der er nogen som evt. har erfaring p� dette omr�de eller ved hvor meget der skal laves om m.m. med hensyn til ledninger. <br><br>Mvh. Karsten..</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jes, 09-06-2003 14:27)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Det er en fin ide med at udskifte til det nye instrumentbord.<br>Jeg har ombygget en del af �rgangene 1976-80 til det nye instrumentbord.<br>Det er ret nemt at g� til, men tager selvf�lgelig et par timer.<br>Det er vigtigt at f� alle beslag med fra "donorbilen", inkl. vinkelbeslagene p� A-stolpen. Ligeledes skal du ogs� have t�ndingsl�sen med over, da den er l�ngere p� modellerne efter �81.<br>Hvad ang�r det elektriske s� er stikkene i instrumenthuset de samme, men desv�rre er r�kkef�lgen anderledes. S� der skal 2 ledningsdiagrammer til, et til �80-modellen og et for "donorbilen".<br>Sidder dine h�nder rimelig skruet p� er der arbejde til ca. 4-5 timer.<br><br>mvh<br><br>Jes</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jan, 09-06-2003 17:44)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Lyder meget interessant, har nemlig ogs� selv overvejet, at g�re det sammen i min volvo 240 fra 1979. Men hvor for man fat i s�dan diagrammer , over ledningsnet m.m. Hvilke b�ger.??<br><br>Mvh. Jan</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jes, 09-06-2003 19:43)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Jeg ligger inde med originale Volvo ledningsdiagrammer til alle �rgange. De er mere overskuelige end dem der findes i Haynes manualerne. Jeg kan hj�lpe med fotokopi af disse, samt instruktion i arbejdsgangen.<br>Lidt reklame: Jeg s�lger ogs� instrumentborde og instrumenter m.m., ser under "salg".<br><br>mvh<br><br>Jes</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren, 10-06-2003 19:29)</em></u></strong></font></li><br><font face=Verdana>Hej Jes. <br>Jeg kunne meget godt t�nke mig dit mobil nr eller evt. e-mail. Da jeg ogs� har samme tanke som andre, min volvo er fra 1980.<br><br>mvh. S�ren</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jes, 09-06-2003 14:27)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Det er en fin ide med at udskifte til det nye instrumentbord.<br>Jeg har ombygget en del af �rgangene 1976-80 til det nye instrumentbord.<br>Det er ret nemt at g� til, men tager selvf�lgelig et par timer.<br>Det er vigtigt at f� alle beslag med fra "donorbilen", inkl. vinkelbeslagene p� A-stolpen. Ligeledes skal du ogs� have t�ndingsl�sen med over, da den er l�ngere p� modellerne efter �81.<br>Hvad ang�r det elektriske s� er stikkene i instrumenthuset de samme, men desv�rre er r�kkef�lgen anderledes. S� der skal 2 ledningsdiagrammer til, et til �80-modellen og et for "donorbilen".<br>Sidder dine h�nder rimelig skruet p� er der arbejde til ca. 4-5 timer.<br><br>mvh<br><br>Jes</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jan, 09-06-2003 17:44)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Lyder meget interessant, har nemlig ogs� selv overvejet, at g�re det sammen i min volvo 240 fra 1979. Men hvor for man fat i s�dan diagrammer , over ledningsnet m.m. Hvilke b�ger.??<br><br>Mvh. Jan</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jes, 09-06-2003 19:43)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Jeg ligger inde med originale Volvo ledningsdiagrammer til alle �rgange. De er mere overskuelige end dem der findes i Haynes manualerne. Jeg kan hj�lpe med fotokopi af disse, samt instruktion i arbejdsgangen.<br>Lidt reklame: Jeg s�lger ogs� instrumentborde og instrumenter m.m., ser under "salg".<br><br>mvh<br><br>Jes</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren, 10-06-2003 19:29)</em></u></strong></font></li><br><font face=Verdana>Hej Jes. <br>Jeg kunne meget godt t�nke mig dit mobil nr eller evt. e-mail. Da jeg ogs� har samme tanke som andre, min volvo er fra 1980.<br><br>mvh. S�ren</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">21</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">21</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=4057"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=4057"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,11 +213,11 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Tomgang ved &quot;gennem-varm&quot;  motor.</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Tomgang ved "gennem-varm"  motor.</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">J&#248;rn M.</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Jørn M.</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">31-08-2005&nbsp; 00:44</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">31-08-2005 00:44</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg er den ellers lykkelige ejer af en Volvo 240 _rgang 91 med en B230 FX motor. Her p_ det sidste har jeg haft problemer med tomgangen, n_r at motoren bliver startet, indtil ca. 10 min. efter at den har v_ret "gennem-varm". Der er ingen problemer, n_r motoren er kold. I sommerferien, ved k_rsel med campingvogn (meget gennem-varm motor) havde jeg ogs_ problemer med, at tomgangshastigheden faldt til ca. 500 omdr/min. Jeg har f_et skiftet luftmassem_leren og benzintrykregulatoren. Min egen "personlige teori" er at temperarur-f_leren er delvis defekt. Er der nogen her i dette forum, der har erfaring i den retning??<br>Som afslutning vil jeg benytte lejligheden til, at sige tak for et godt debat forum.<br><br>Mvh<br>J_rn M</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4057&ForumID=1&Showsub=4078'>Re: Tomgang ved &quot;gennem-varm&quot;  motor.</a> <em>(peter malntiz, 03-09-2005 08:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4057&ForumID=1&Showsub=4077'>Re: Tomgang ved &quot;gennem-varm&quot;  motor.</a> <em>(J&#248;rn M, 03-09-2005 00:21)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4057&ForumID=1&Showsub=4072'>Re: Tomgang ved &quot;gennem-varm&quot;  motor.</a> <em>(peter malnitz, 02-09-2005 09:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4057&ForumID=1&Showsub=4065'>Re: Tomgang ved &quot;gennem-varm&quot;  motor.</a> <em>(J&#248;rn M., 31-08-2005 19:04)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4057&ForumID=1&Showsub=4064'>Re: Tomgang ved &quot;gennem-varm&quot;  motor.</a> <em>(michael jensen, 31-08-2005 18:29)</em></strong></font></li><br><font face=Verdana>Jeg har haft en def. lambdasonde p_ en B230F hvilket resulterede i<br>d_lig motorgang med KOLD motor,n_r motoren n_ede driftstemp. k_rte den ok.<br>Du kan pr_ve at frakoble den, men pr_v at udl_se fejlkode(r)f_rst.<br>MVH<br>Michael</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4057&ForumID=1&Showsub=4062'>Re: Tomgang ved &quot;gennem-varm&quot;  motor.</a> <em>(peter malnitz, 31-08-2005 14:30)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4057&ForumID=1&Showsub=4078'>Re: Tomgang ved "gennem-varm"  motor.</a> <em>(peter malntiz, 03-09-2005 08:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4057&ForumID=1&Showsub=4077'>Re: Tomgang ved "gennem-varm"  motor.</a> <em>(Jørn M, 03-09-2005 00:21)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4057&ForumID=1&Showsub=4072'>Re: Tomgang ved "gennem-varm"  motor.</a> <em>(peter malnitz, 02-09-2005 09:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4057&ForumID=1&Showsub=4065'>Re: Tomgang ved "gennem-varm"  motor.</a> <em>(Jørn M., 31-08-2005 19:04)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4057&ForumID=1&Showsub=4064'>Re: Tomgang ved "gennem-varm"  motor.</a> <em>(michael jensen, 31-08-2005 18:29)</em></strong></font></li><br><font face=Verdana>Jeg har haft en def. lambdasonde p_ en B230F hvilket resulterede i<br>d_lig motorgang med KOLD motor,n_r motoren n_ede driftstemp. k_rte den ok.<br>Du kan pr_ve at frakoble den, men pr_v at udl_se fejlkode(r)f_rst.<br>MVH<br>Michael</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4057&ForumID=1&Showsub=4062'>Re: Tomgang ved "gennem-varm"  motor.</a> <em>(peter malnitz, 31-08-2005 14:30)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">59</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">59</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

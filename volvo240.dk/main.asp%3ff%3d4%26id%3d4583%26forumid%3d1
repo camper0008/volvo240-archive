@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=4583"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=4583"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-12-2005&nbsp; 14:52</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-12-2005 14:52</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej!<br>Jeg er en glad 240 ejer, der fik konstateret ved syn igår at min motor spilder en smule olie. Og det var nok til at jeg fluks hev hjelmen op, og mærkede bag på blokken, den der prop der sidder ved knast akselen sidder "skævt" og jeg kan mærke der er løbet lidt olie ud.<br>Hvorfor sidder den skævt ligepludselig ? De plejer da at sidde helt lige mener jeg. Jeg er ikke typen der VOLD tæver min motor, men den har da fået lidt kick down, men aldrig over 5000 Rpm. <br>Det synsmanden heller ikke var tilfreds med at den "svinede" lidt rigeligt ang forurening. Kan ikke huske hvad Co2 var på, men han sagde den lå lidt højt. Nok til at jeg fik en anmærkning, men den blev da betinget godkendt! Så jeg var da "glad"<br><br>Hvad skal tjekkes med den prop, det irretere mig grænseløst! Og kan jeg købe en ny og sætte i? Hvordan får jeg den skæve prop ud? Hehe!<br><br>MVH<br><br>Emil J<br>Volvo 244 - B230A - AW71 & ca 340.000 km på uret! :)</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej!<br>Jeg er en glad 240 ejer, der fik konstateret ved syn igÃ¥r at min motor spilder en smule olie. Og det var nok til at jeg fluks hev hjelmen op, og mÃ¦rkede bag pÃ¥ blokken, den der prop der sidder ved knast akselen sidder "skÃ¦vt" og jeg kan mÃ¦rke der er lÃ¸bet lidt olie ud.<br>Hvorfor sidder den skÃ¦vt ligepludselig ? De plejer da at sidde helt lige mener jeg. Jeg er ikke typen der VOLD tÃ¦ver min motor, men den har da fÃ¥et lidt kick down, men aldrig over 5000 Rpm. <br>Det synsmanden heller ikke var tilfreds med at den "svinede" lidt rigeligt ang forurening. Kan ikke huske hvad Co2 var pÃ¥, men han sagde den lÃ¥ lidt hÃ¸jt. Nok til at jeg fik en anmÃ¦rkning, men den blev da betinget godkendt! SÃ¥ jeg var da "glad"<br><br>Hvad skal tjekkes med den prop, det irretere mig grÃ¦nselÃ¸st! Og kan jeg kÃ¸be en ny og sÃ¦tte i? Hvordan fÃ¥r jeg den skÃ¦ve prop ud? Hehe!<br><br>MVH<br><br>Emil J<br>Volvo 244 - B230A - AW71 & ca 340.000 km pÃ¥ uret! :)</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4583&ForumID=1&Showsub=4596'>Re: Prop bag knastaksel</a> <em>(Emil J, 04-12-2005 14:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4583&ForumID=1&Showsub=4593'>Re: Prop bag knastaksel</a> <em>(Torben Steenfeldt, 04-12-2005 00:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4583&ForumID=1&Showsub=4592'>Re: Prop bag knastaksel</a> <em>(Johan &#197;Rman, 03-12-2005 22:33)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4583&ForumID=1&Showsub=4591'>Re: Prop bag knastaksel</a> <em>(Emil J, 03-12-2005 22:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4583&ForumID=1&Showsub=4587'>Re: Prop bag knastaksel</a> <em>(Niels Peder Nielsen, 03-12-2005 18:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4583&ForumID=1&Showsub=4584'>Re: Prop bag knastaksel</a> <em>(Johan &#197;rman, 03-12-2005 15:23)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4583&ForumID=1&Showsub=4596'>Re: Prop bag knastaksel</a> <em>(Emil J, 04-12-2005 14:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4583&ForumID=1&Showsub=4593'>Re: Prop bag knastaksel</a> <em>(Torben Steenfeldt, 04-12-2005 00:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4583&ForumID=1&Showsub=4592'>Re: Prop bag knastaksel</a> <em>(Johan Ã…Rman, 03-12-2005 22:33)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4583&ForumID=1&Showsub=4591'>Re: Prop bag knastaksel</a> <em>(Emil J, 03-12-2005 22:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4583&ForumID=1&Showsub=4587'>Re: Prop bag knastaksel</a> <em>(Niels Peder Nielsen, 03-12-2005 18:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4583&ForumID=1&Showsub=4584'>Re: Prop bag knastaksel</a> <em>(Johan Ã…rman, 03-12-2005 15:23)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">125</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">125</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

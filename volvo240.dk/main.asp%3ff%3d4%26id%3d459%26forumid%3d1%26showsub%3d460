@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,13 +198,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Motor </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Motor, Gearkasse og Bagtøj. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Motor, Gearkasse og BagtÃ¸j. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=459"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=459"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">23-05-2003&nbsp; 23:30</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">23-05-2003 23:30</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">jeg ville lige høre om der er en der ved om et 16 ventileret topstykke fra en 940 ell anden volvo passer på en 245 fra 84</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">jeg ville lige hÃ¸re om der er en der ved om et 16 ventileret topstykke fra en 940 ell anden volvo passer pÃ¥ en 245 fra 84</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=459&ForumID=1&Showsub=460'>Re: kan et 16 ventileret topstk.passe til en 240</a> <em>(Sebastian Neumann, 24-05-2003 14:34)</em></strong></font></li><br><font face=Verdana>Hej.<br><br>Et 16 ventilet topstykke fra en 740 glt og 940 serien passer ikke direkte over på en gammel f.eks B23 motor. Topstykket passer med køle og oliekanaler samt bolthuller, men der er MANGE ting du skal tage højde for. Udstødningen skal modificeres, stemplerne skal modificeres for ikke at hamre op i ventilerne, tandremmen skal modificeres, du skal finde en måde at lave en remstrammer på, da tandremmen på en B234F motor strammes på blokken, mens den på en ældre motor med 8 ventils top strammes på topstykket, endelig skal du være opmærksom på at indsugningskanalerne og udstødningskanalerne på en 16 vemtiler ikke er runde, men ovale i det, derved kommer vi til et andet problem, manifoldene. Du skal lave dem om alt efter om du vil have indsprøjtning eller karburator. Skal du have indsprøjtning er det nemmeste at modificere den originale B234F manifold, men med karburator bliver det en smule sværere. Skal du have turbo på, gør det ikke det hele nemmere da du skal have en specialmanifold til B234F motoren, der - udover den italienske B204F gt model ikke blev leveret med turbo. Mit råd til dig er at skifte hele motoren til en B234F hvis dit mål "bare" er at have en motor i med 16 ventiler, vil du tune seriøst, "kan" det være en god ide med 16 ventilers top, men kommer du ikke over ca. 300 - 350 hk i motoren, er der ingen ide i at skifte. <br><br>Mange hilsner<br>Sebastian Neumann</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=459&ForumID=1&Showsub=460'>Re: kan et 16 ventileret topstk.passe til en 240</a> <em>(Sebastian Neumann, 24-05-2003 14:34)</em></strong></font></li><br><font face=Verdana>Hej.<br><br>Et 16 ventilet topstykke fra en 740 glt og 940 serien passer ikke direkte over pÃ¥ en gammel f.eks B23 motor. Topstykket passer med kÃ¸le og oliekanaler samt bolthuller, men der er MANGE ting du skal tage hÃ¸jde for. UdstÃ¸dningen skal modificeres, stemplerne skal modificeres for ikke at hamre op i ventilerne, tandremmen skal modificeres, du skal finde en mÃ¥de at lave en remstrammer pÃ¥, da tandremmen pÃ¥ en B234F motor strammes pÃ¥ blokken, mens den pÃ¥ en Ã¦ldre motor med 8 ventils top strammes pÃ¥ topstykket, endelig skal du vÃ¦re opmÃ¦rksom pÃ¥ at indsugningskanalerne og udstÃ¸dningskanalerne pÃ¥ en 16 vemtiler ikke er runde, men ovale i det, derved kommer vi til et andet problem, manifoldene. Du skal lave dem om alt efter om du vil have indsprÃ¸jtning eller karburator. Skal du have indsprÃ¸jtning er det nemmeste at modificere den originale B234F manifold, men med karburator bliver det en smule svÃ¦rere. Skal du have turbo pÃ¥, gÃ¸r det ikke det hele nemmere da du skal have en specialmanifold til B234F motoren, der - udover den italienske B204F gt model ikke blev leveret med turbo. Mit rÃ¥d til dig er at skifte hele motoren til en B234F hvis dit mÃ¥l "bare" er at have en motor i med 16 ventiler, vil du tune seriÃ¸st, "kan" det vÃ¦re en god ide med 16 ventilers top, men kommer du ikke over ca. 300 - 350 hk i motoren, er der ingen ide i at skifte. <br><br>Mange hilsner<br>Sebastian Neumann</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">20</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">20</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=1200"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1200"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-01-2004&nbsp; 23:20</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-01-2004 23:20</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej med Jer!<br><br>Jeg har en 245 fra -87 med den ber�mte Solex CISAC kaburator, som her forleden dag p� vej ned igennem Sverige fra Norge pludselig viser antydninger til at "hugge" og tabe motorkraft ved + 110 km/t. Efter yderligere et stykke tid begynder den ogs� at g�re det ved lavere hastigheder og (svagt) ved meget kraftig acceleration fra 0 km/t - med Hallands�sen forude begynder jeg at se frem til en dejlig aften ved en svensk motorvej ... ;-) Jeg fors�ger dog at kompensere med chokeren og dette hj�lper mig over �sen, hvorfor jeg spekulerer p� om den m�ske f�r for meget luft? Temperaturen er dog ogs� omkrig 0 p� vej ned igennem Sverige og derfor kan det m�ske ogs� v�re tilisning af kaburatoren? Jeg stopper p� en tank og p�fylder en ordentlig omgang kaburatorv�ske, samt fylder op med 98 blyfri - dette har dog tilsyneladende ingen effekt, omend den efter at have st�et stille i 5 - 10 minutter k�rer helt fint de f�rste 5 - 10 km, hvorefter hele historien gentager sig. Det skal siges at jeg her i eftertid ikke har oplevet nogle problemer overhovedet, men s� har den ogs� kun v�ret ude at rulle sm� turer her inde i byen. <br><br>Nogle bud p�, hvad som kan v�re galt?<br><br>mvh<br><br>/arvid</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1420'>Re: B230K - med K for kaburator ;-)</a> <em>(Arvid Bro Thuestad, 24-02-2004 21:02)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1419'>Re: B230K - med K for kaburator ;-)</a> <em>(Emil J, 24-02-2004 14:33)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1417'>Re: B230K - med K for kaburator ;-)</a> <em>(Arvid Bro Thuestad, 24-02-2004 13:56)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1409'>Re: B230K - med K for kaburator ;-)</a> <em>(Emil J, 23-02-2004 09:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1406'>Re: B230K - med K for kaburator ;-)</a> <em>(Arvid Bro Thuestad, 22-02-2004 23:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1225'>Re: B230K - med K for kaburator ;-)</a> <em>(Lasse, 20-01-2004 04:39)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1223'>Re: B230K - med K for kaburator ;-)</a> <em>(Arvid, 19-01-2004 21:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1205'>Re: B230K - med K for kaburator ;-)</a> <em>(Erling, 16-01-2004 20:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1204'>Re: B230K - med K for kaburator ;-)</a> <em>(Michael Jensen, 16-01-2004 14:42)</em></strong></font></li><br><font face=Verdana>Pr�v at unders�ge sv�mmer og efterse eller udskifte n�leventil.<br>Jeg har h�rt om en der havde tilsvarende problem p� en 240 med en<br>B19k motor som ogs� k�rer med Cisac karburatoren.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1420'>Re: B230K - med K for kaburator ;-)</a> <em>(Arvid Bro Thuestad, 24-02-2004 21:02)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1419'>Re: B230K - med K for kaburator ;-)</a> <em>(Emil J, 24-02-2004 14:33)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1417'>Re: B230K - med K for kaburator ;-)</a> <em>(Arvid Bro Thuestad, 24-02-2004 13:56)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1409'>Re: B230K - med K for kaburator ;-)</a> <em>(Emil J, 23-02-2004 09:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1406'>Re: B230K - med K for kaburator ;-)</a> <em>(Arvid Bro Thuestad, 22-02-2004 23:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1225'>Re: B230K - med K for kaburator ;-)</a> <em>(Lasse, 20-01-2004 04:39)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1223'>Re: B230K - med K for kaburator ;-)</a> <em>(Arvid, 19-01-2004 21:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1205'>Re: B230K - med K for kaburator ;-)</a> <em>(Erling, 16-01-2004 20:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1200&ForumID=1&Showsub=1204'>Re: B230K - med K for kaburator ;-)</a> <em>(Michael Jensen, 16-01-2004 14:42)</em></strong></font></li><br><font face=Verdana>Pr�v at unders�ge sv�mmer og efterse eller udskifte n�leventil.<br>Jeg har h�rt om en der havde tilsvarende problem p� en 240 med en<br>B19k motor som ogs� k�rer med Cisac karburatoren.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">47</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">47</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -216,7 +216,7 @@ document.onmousedown=click;
 
 <table border="0" width="800" cellspacing="0" cellpadding="0" bgcolor="#c0c0c0" align="center">
   <tr>
-    <td align="center"><font size='1' color='#000000'>[Forrige]</a>&nbsp;-&nbsp<b><font color='#000000'>1</font></b>&nbsp;&nbsp;-&nbsp<font size='1' color='#000000'>[N�ste]</a></td>
+    <td align="center"><font size='1' color='#000000'>[Forrige]</a>-&nbsp<b><font color='#000000'>1</font></b>-&nbsp<font size='1' color='#000000'>[N�ste]</a></td>
   </tr>
 </table>
 
@@ -233,7 +233,7 @@ document.onmousedown=click;
         </tr>
       </thead>
       <tbody>
-        <tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2778&forumid=13'>Ledningsdiagram</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>0</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>29-03-2008</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2769&forumid=13'>Billeder</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>1</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>24-03-2008</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2657&forumid=13'>slette?</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>7</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>22-01-2008</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2625&forumid=13'>Original 2&quot; udst&#248;dning</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>3</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>06-01-2008</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2600&forumid=13'>vedr. forum</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>24</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>30-12-2007</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2597&forumid=13'>online brugere</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>4</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>28-12-2007</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2522&forumid=13'>tastfejl</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>2</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>12-11-2007</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2520&forumid=13'>Seneste forumindl&#230;g</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>13</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>10-11-2007</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2422&forumid=13'>Forum s&#248;gning</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>1</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>15-09-2007</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2414&forumid=13'>tastfejl</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>2</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>10-09-2007</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=1729&forumid=13'>Nyt forum</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>11</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>23-06-2006</font></td></tr>
+        <tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2778&forumid=13'>Ledningsdiagram</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>0</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>29-03-2008</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2769&forumid=13'>Billeder</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>1</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>24-03-2008</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2657&forumid=13'>slette?</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>7</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>22-01-2008</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2625&forumid=13'>Original 2" udstødning</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>3</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>06-01-2008</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2600&forumid=13'>vedr. forum</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>24</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>30-12-2007</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2597&forumid=13'>online brugere</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>4</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>28-12-2007</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2522&forumid=13'>tastfejl</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>2</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>12-11-2007</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2520&forumid=13'>Seneste forumindlæg</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>13</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>10-11-2007</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2422&forumid=13'>Forum søgning</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>1</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>15-09-2007</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=2414&forumid=13'>tastfejl</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>2</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>10-09-2007</font></td></tr><tr><td><img border='0' src='http://www.volvo240.dk/forum/images/new.gif'></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=1729&forumid=13'>Nyt forum</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>11</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>23-06-2006</font></td></tr>
       </tbody>
       </table>
     </td>
@@ -242,7 +242,7 @@ document.onmousedown=click;
 </table>
 <table border="0" width="800" cellspacing="0" cellpadding="0" bgcolor="#c0c0c0" align="center">
   <tr>
-    <td align="center"><font size='1' color='#000000'>[Forrige]</a>&nbsp;-&nbsp<b><font color='#000000'>1</font></b>&nbsp;&nbsp;-&nbsp<font size='1' color='#000000'>[N�ste]</a></td>
+    <td align="center"><font size='1' color='#000000'>[Forrige]</a>-&nbsp<b><font color='#000000'>1</font></b>-&nbsp<font size='1' color='#000000'>[N�ste]</a></td>
   </tr>
 </table>
 
@@ -270,7 +270,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">9</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">9</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

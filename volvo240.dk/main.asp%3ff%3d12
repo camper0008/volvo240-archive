@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Volvo 240 Info</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Volvo 240 Info</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -150,12 +150,12 @@ document.onmousedown=click;
       og radioen n_ede kun delvist at blive monteret, men ellers var det ok.<br>
       Radiomonteringen overlod jeg til <b>Jes Hebsgaard</b> som har fuld styr p_ dette 
       som p_ resten af Volvo 240'en.<p>Senere kom der yderligere garanti reperationer til. <b>Pedersen 
-      &amp; Nielsen</b> viste, gennem <b>Henrik Mellg_rd</b>, stor fleksibilitet, ved at lade deres afdeling i Hj_rring udf_re opgaverne uden t_ven og diskution. Og dette blev gjort til min fulde tilfredshed.<br>
+      & Nielsen</b> viste, gennem <b>Henrik Mellg_rd</b>, stor fleksibilitet, ved at lade deres afdeling i Hj_rring udf_re opgaverne uden t_ven og diskution. Og dette blev gjort til min fulde tilfredshed.<br>
       Ingen tvivl om at <b>Niels Erik Christensen</b> fra Hj_rring afd. er fra 
-      den tid hvor &quot;Volvo lavede Volvo'er&quot;. Han ved hvad han har med at g_re, 
+      den tid hvor "Volvo lavede Volvo'er". Han ved hvad han har med at g_re, 
       n_r han ser en Volvo 240.<br>
       <br>
-      Alt i alt en god handel og en rigtig god efterf_lgende service fra <b>Pedersen &amp; Nielsen</b>. 
+      Alt i alt en god handel og en rigtig god efterf_lgende service fra <b>Pedersen & Nielsen</b>. 
       Jeg kan kun varmt anbefale dette firma.</td>
   </tr>
 </table>
@@ -185,7 +185,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">23-01-2015&nbsp; 20:54</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">23-01-2015 20:54</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej volvo gutter<br><br>Jeg har lige k_bt 2x dubble weber 45 men hvilket topstykke er det beste at s_tte dem p_.<br>Jeg har en volvo 240 gl 86&#39; med en b230k med 115 hk. <br><br>Sammen med de to kaburator har jeg en 272 graders knast liggende fra tidligere. jeg t_nkte p_ at bruge en 530 top og bore den op s_ den hele passer sammen, er der nogle der har fors_gt sig med denne operation vil jeg meget gerne snakke med dem og, ogs_ se hvor dem de har f_et det til at fungere.<br><br>venlig volvo hilsen Martin</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 24-01-2015 06:23)</em></u></strong></font></li><br><font face=Verdana>Er du 100 p_ at det er en K motor? Er i tvivl om den ikke f_rst kunne f_es fra 87.<br>N_ skidt, v_r obs p_ at K-motoren vist nok har ret store sk_le i stemplerne, dvs hvis du s_tter et andet topstykke p_ med store kamre s_ s_nker du kompressionen og det har du ikke lyst til med en stor knast.<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 24-01-2015 13:23)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Hvis det er en K motor kan du ikke bare s_tte et andet topstykke p_, da det er en Heron motortype. Det vil sige at topstykket er helt flat og forbr_ndingskammeret er i stemplerne. <br><br>Du kan installere en V knast i K motoren, (koster omkring 1500 kr hos KG trimning) som giver lidt over de 130 HK som standard. Og med en korrekt manifold, justering af weberne, samt en standard udst_dning fra en Volvo 240 Turbo, burde du nok f_ omkring de 140 eller 150. Samt noget af et optr_k. :-) <br><br>MVH<br><br>Emil</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Martin Drejstel, 25-01-2015 18:02)</em></u></strong></font></li><br><font face=Verdana>Hej <br><br>har lige tjekket op p_ det og der er ikke en K-motor, men en A-motor.<br><br>knasten er en H-knast.<br><br>VH Martin</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 26-01-2015 12:05)</em></u></strong></font></li><br><font face=Verdana>tjek hvilket topstykke der sidder p_ nu. hvis det er et 405 er der ingen grund til at skifte. S_ vidt jeg ved er 405 ca lige s_ godt som et 531 dvs en lille smule bedre end 530. <br><br>H-knasten er en ret stor knast, men det skal nok virke n_r du har et godt h_jt kompressinsforhold. Motoren skal tage nogle omdrejninger f_r der sker noget.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 24-01-2015 06:23)</em></u></strong></font></li><br><font face=Verdana>Er du 100 p_ at det er en K motor? Er i tvivl om den ikke f_rst kunne f_es fra 87.<br>N_ skidt, v_r obs p_ at K-motoren vist nok har ret store sk_le i stemplerne, dvs hvis du s_tter et andet topstykke p_ med store kamre s_ s_nker du kompressionen og det har du ikke lyst til med en stor knast.<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 24-01-2015 13:23)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Hvis det er en K motor kan du ikke bare s_tte et andet topstykke p_, da det er en Heron motortype. Det vil sige at topstykket er helt flat og forbr_ndingskammeret er i stemplerne. <br><br>Du kan installere en V knast i K motoren, (koster omkring 1500 kr hos KG trimning) som giver lidt over de 130 HK som standard. Og med en korrekt manifold, justering af weberne, samt en standard udst_dning fra en Volvo 240 Turbo, burde du nok f_ omkring de 140 eller 150. Samt noget af et optr_k. :-) <br><br>MVH<br><br>Emil</font><br><li><font face=Verdana><strong><u>Re: - <em>(Martin Drejstel, 25-01-2015 18:02)</em></u></strong></font></li><br><font face=Verdana>Hej <br><br>har lige tjekket op p_ det og der er ikke en K-motor, men en A-motor.<br><br>knasten er en H-knast.<br><br>VH Martin</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 26-01-2015 12:05)</em></u></strong></font></li><br><font face=Verdana>tjek hvilket topstykke der sidder p_ nu. hvis det er et 405 er der ingen grund til at skifte. S_ vidt jeg ved er 405 ca lige s_ godt som et 531 dvs en lille smule bedre end 530. <br><br>H-knasten er en ret stor knast, men det skal nok virke n_r du har et godt h_jt kompressinsforhold. Motoren skal tage nogle omdrejninger f_r der sker noget.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

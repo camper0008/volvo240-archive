@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-04-2014&nbsp; 16:56</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-04-2014 16:56</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br>Volvo 245, B230FD, 1992.<br><br>Min bil kommer med nogle underlige hyl ind i mellem. Lyden kommer enten fra omkring varmeapparatet eller fra min h_jre Snowcap (har kun en). Den optr_der kun ind i mellem, og n_r den g_r, s_ er det i et interval omkring 110-140 km/t. Det er lidt som om lyden er bestemt af vindretningen, for man kan ikke genskabe den blot ved at k_re derud af. <br><br>Mit sp_rgsm_l er egentligt blot, om andre kender dette f_nomen? Jeg t_nkte p_ om det mon kan v_re et blad i varmeapparatet der herved fungerer som en form for fl_jte? Man f_r mildest talt et chok n_r den pludselig hyler helt vildt i en overhaling. <br><br>Mvh,<br>Jonas</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 06-04-2014 21:32)</em></u></strong></font></li><br><font face=Verdana>Goddag Jonas<br>Jo s_ absolut, det er veldokumenteret her p_ sitet. Det skylles gummilisten rundt om forruden.<br>Hvis du vil v_re sikker s_ pr_v at s_tte noget malertape p_ der d_kker ruden og gummilisten.<br>P_ min var det for oven. Dette f_nomen g_lder kun for den nye type rudemontering. 1990 - 93<br>En permanent l_sning ? Det ved jeg endnu ikke. <br>M_ske rude lim under listen, hvis man kan liste noget ind.<br>Er der nogle der har erfaring med udbedring af trompetlyden ???<br>Mvh<br>Steen<br>Frederikssund</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(thomas skaaning, 06-04-2014 21:33)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas . <br>Det er gummi listen p_ din forrude der hyler , den type rude/liste der er p_ de sidste 240er  skal limes til taget i toppen af ruden . Der findes service bulletin fra Volvo om hvordan det skal g_res og det burde de fleste v_rksteder kunne se .<br>Man kan jo pr_ve med maler tape over listen og op taget , men det er nok ikke noget man skal k_re med i mange dage , kan v_re sv_r at f_ af igen hvis det sider forl_nge . <br><br>Mvh. Thomas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(thomas skaaning, 06-04-2014 21:35)</em></u></strong></font></li><br><font face=Verdana>Steen har ret . <br>Problemet kan l_ses med rudelim <br>Mvh. Thomas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 06-04-2014 21:44)</em></u></strong></font></li><br><font face=Verdana>Kom til at t_nke p_ om man kan se den bulletin nogle steder.<br>Jeg har limet rude i min gamle GLT_r for nylig, og det var noget sejt m_j det rudelim.<br>Ved du om der er et specielt produkt Volvo anbefaler ??<br>Steen<br>Frederikssund<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 07-04-2014 08:11)</em></u></strong></font></li><br><font face=Verdana>Hej igen,<br><br>Tak for svarene. Det kunne v_re interessant hvis servicebulletinen kunne findes. <br><br>Jeg vil ogs_ gerne vide, hvilke produkter man skal benytte til at lime ruden fast. <br><br>Som min forrude og bagrude sidder nu, s_ kan man jo godt med fingrene vrikke noget af gummilisten, men det er vel som det skal v_re? Det er den del der ligger "uden for rammen". <br><br>Mvh,<br>Jonas</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 06-04-2014 21:32)</em></u></strong></font></li><br><font face=Verdana>Goddag Jonas<br>Jo s_ absolut, det er veldokumenteret her p_ sitet. Det skylles gummilisten rundt om forruden.<br>Hvis du vil v_re sikker s_ pr_v at s_tte noget malertape p_ der d_kker ruden og gummilisten.<br>P_ min var det for oven. Dette f_nomen g_lder kun for den nye type rudemontering. 1990 - 93<br>En permanent l_sning ? Det ved jeg endnu ikke. <br>M_ske rude lim under listen, hvis man kan liste noget ind.<br>Er der nogle der har erfaring med udbedring af trompetlyden ???<br>Mvh<br>Steen<br>Frederikssund</font><br><li><font face=Verdana><strong><u>Re: - <em>(thomas skaaning, 06-04-2014 21:33)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas . <br>Det er gummi listen p_ din forrude der hyler , den type rude/liste der er p_ de sidste 240er  skal limes til taget i toppen af ruden . Der findes service bulletin fra Volvo om hvordan det skal g_res og det burde de fleste v_rksteder kunne se .<br>Man kan jo pr_ve med maler tape over listen og op taget , men det er nok ikke noget man skal k_re med i mange dage , kan v_re sv_r at f_ af igen hvis det sider forl_nge . <br><br>Mvh. Thomas</font><br><li><font face=Verdana><strong><u>Re: - <em>(thomas skaaning, 06-04-2014 21:35)</em></u></strong></font></li><br><font face=Verdana>Steen har ret . <br>Problemet kan l_ses med rudelim <br>Mvh. Thomas</font><br><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 06-04-2014 21:44)</em></u></strong></font></li><br><font face=Verdana>Kom til at t_nke p_ om man kan se den bulletin nogle steder.<br>Jeg har limet rude i min gamle GLT_r for nylig, og det var noget sejt m_j det rudelim.<br>Ved du om der er et specielt produkt Volvo anbefaler ??<br>Steen<br>Frederikssund<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Jonas, 07-04-2014 08:11)</em></u></strong></font></li><br><font face=Verdana>Hej igen,<br><br>Tak for svarene. Det kunne v_re interessant hvis servicebulletinen kunne findes. <br><br>Jeg vil ogs_ gerne vide, hvilke produkter man skal benytte til at lime ruden fast. <br><br>Som min forrude og bagrude sidder nu, s_ kan man jo godt med fingrene vrikke noget af gummilisten, men det er vel som det skal v_re? Det er den del der ligger "uden for rammen". <br><br>Mvh,<br>Jonas</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=3682"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=3682"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>hvorfor h&#230;nger rumpen p&#229; 200/700/900</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>hvorfor hænger rumpen på 200/700/900</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-06-2005&nbsp; 13:26</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-06-2005 13:26</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br>Jeg har l_nge undret mig over at bagenden p_ 200/700/900 serien h_nger s_ det ser ud til at den stejler, ogs_ selvom bilerne ikke er fyldt med gods.<br><br>Er der nogen der har et bud p_ hvad grunden er ?<br><br>Er de bare udstyret med svage fjedre bagest fra fabrikken.<br><br>Peter</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3682&ForumID=4&Showsub=3688'>Re: hvorfor h&#230;nger rumpen p&#229; 200/700/900</a> <em>(Ren&#233; &#216;stergaard, 20-06-2005 12:45)</em></strong></font></li><br><font face=Verdana>Nogle gange, skyldes det som sagt kollapsede/slidte fjedre, men i mange tilf_lde, snyder _jet en. Det, som de fleste kigger p_, er astanden fra sk_rmkanten ned til hjulet. Problemet er bare, at hvis bilen st_r HELT plant, er afstanden fra sk_rmkanten ned til jorden mindre bagved, i forhold til foran. For at kunne vurdere om en 240 h_nger med r_ven eller ej, skal du kigge nede p_ panelet, da dette i f_lge min erfaring er det bedste at "pejle" efter.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3682&ForumID=4&Showsub=3688'>Re: hvorfor hænger rumpen på 200/700/900</a> <em>(Ren&#233; Østergaard, 20-06-2005 12:45)</em></strong></font></li><br><font face=Verdana>Nogle gange, skyldes det som sagt kollapsede/slidte fjedre, men i mange tilf_lde, snyder _jet en. Det, som de fleste kigger p_, er astanden fra sk_rmkanten ned til hjulet. Problemet er bare, at hvis bilen st_r HELT plant, er afstanden fra sk_rmkanten ned til jorden mindre bagved, i forhold til foran. For at kunne vurdere om en 240 h_nger med r_ven eller ej, skal du kigge nede p_ panelet, da dette i f_lge min erfaring er det bedste at "pejle" efter.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">59</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">59</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

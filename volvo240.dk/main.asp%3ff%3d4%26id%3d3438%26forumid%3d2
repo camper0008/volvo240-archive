@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=3438"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=3438"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,11 +212,11 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>245GLE - D&#248;d under k&#248;rsel</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>245GLE - DÃ¸d under kÃ¸rsel</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Jesper Ho&#229;s</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Jesper HoÃ¥s</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-05-2005&nbsp; 17:55</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-05-2005 17:55</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">En lille historie fra det virkelige liv med en gammel (undskyld: Ældre) bil:<br>Undervejs vej på job dør bilen (245GLE - B230E - 1989) uden varsel. Overhovedet ingen reaktion under hjelmen - men jeg kan nå at lande bilen i en buslomme. Heldigt, ik'?<br>Jeg kontrollerer sikringer (spec. til benzinpumpen, som jeg tidligere har haft lidt bøvl med) og ledningerne til tændspole samt hvad man sådan ellers kan rykke i i vejkanten når man ikke har nogen særlig god ide om, hvad der er galt. Og bilen kan selvfølgelig stadig ikke starte.<br>...Den blev kørt hjem af Dansk Autohjælp. Og redderen fortalte, at der ikke var gnist på tændrørene.<br><br>Så søger jeg i dette forum efter lignende historier, og finder én, hvor benzinpumperelæet er synderen. Jeg mener at forstå, at relæet også styrer primærstrømmen til tændspolen. Så Dansk Autohjælps melding om ingen gnist kunne jo nemt være rigtig. Og da jeg heller ikke kunne høre benzinpumpen under startforsøg...<br>Tager hatten af benzinpumperelæet (det originale fra 1989) for at se, om der er tegn på en brændt spole el. lign. Det var der ikke. Men når jeg satte relæet på plads (uden hætten) og satte tænding på, og trykkede polerne på relæet sammen, kørte benzinpumpen (prøvede ikke også at starte - dumt?).<br><br>Jeg får fat på et nyt benzinpumperelæ (kr. 615,- ved kasse 1 hos Volvo, de lå nærmest!) og sætter det forventningsfuldt i.<br>NUL reaktion.<br><br>Jeg har så senere fundet ud af, at sammenhængen mellem tændspole og relæ kan være omvendt, så det måske er primærstrømmen til tændspolen, der trækker relæet...?<br>Prøvede derfor med en ny tændspole - også uden nogen virkning.<br><br>Og nu har jeg altså ikke råd til at skyde med spredhagl mere... Hjææælp!</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">En lille historie fra det virkelige liv med en gammel (undskyld: Ã†ldre) bil:<br>Undervejs vej pÃ¥ job dÃ¸r bilen (245GLE - B230E - 1989) uden varsel. Overhovedet ingen reaktion under hjelmen - men jeg kan nÃ¥ at lande bilen i en buslomme. Heldigt, ik'?<br>Jeg kontrollerer sikringer (spec. til benzinpumpen, som jeg tidligere har haft lidt bÃ¸vl med) og ledningerne til tÃ¦ndspole samt hvad man sÃ¥dan ellers kan rykke i i vejkanten nÃ¥r man ikke har nogen sÃ¦rlig god ide om, hvad der er galt. Og bilen kan selvfÃ¸lgelig stadig ikke starte.<br>...Den blev kÃ¸rt hjem af Dansk AutohjÃ¦lp. Og redderen fortalte, at der ikke var gnist pÃ¥ tÃ¦ndrÃ¸rene.<br><br>SÃ¥ sÃ¸ger jeg i dette forum efter lignende historier, og finder én, hvor benzinpumperelÃ¦et er synderen. Jeg mener at forstÃ¥, at relÃ¦et ogsÃ¥ styrer primÃ¦rstrÃ¸mmen til tÃ¦ndspolen. SÃ¥ Dansk AutohjÃ¦lps melding om ingen gnist kunne jo nemt vÃ¦re rigtig. Og da jeg heller ikke kunne hÃ¸re benzinpumpen under startforsÃ¸g...<br>Tager hatten af benzinpumperelÃ¦et (det originale fra 1989) for at se, om der er tegn pÃ¥ en brÃ¦ndt spole el. lign. Det var der ikke. Men nÃ¥r jeg satte relÃ¦et pÃ¥ plads (uden hÃ¦tten) og satte tÃ¦nding pÃ¥, og trykkede polerne pÃ¥ relÃ¦et sammen, kÃ¸rte benzinpumpen (prÃ¸vede ikke ogsÃ¥ at starte - dumt?).<br><br>Jeg fÃ¥r fat pÃ¥ et nyt benzinpumperelÃ¦ (kr. 615,- ved kasse 1 hos Volvo, de lÃ¥ nÃ¦rmest!) og sÃ¦tter det forventningsfuldt i.<br>NUL reaktion.<br><br>Jeg har sÃ¥ senere fundet ud af, at sammenhÃ¦ngen mellem tÃ¦ndspole og relÃ¦ kan vÃ¦re omvendt, sÃ¥ det mÃ¥ske er primÃ¦rstrÃ¸mmen til tÃ¦ndspolen, der trÃ¦kker relÃ¦et...?<br>PrÃ¸vede derfor med en ny tÃ¦ndspole - ogsÃ¥ uden nogen virkning.<br><br>Og nu har jeg altsÃ¥ ikke rÃ¥d til at skyde med spredhagl mere... HjÃ¦Ã¦Ã¦lp!</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3438&ForumID=2&Showsub=3473'>Re: 245GLE - D&#248;d under k&#248;rsel</a> <em>(Jesper Ho&#229;s, 18-05-2005 12:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3438&ForumID=2&Showsub=3444'>Re: 245GLE - D&#248;d under k&#248;rsel</a> <em>(Morten Vig, 15-05-2005 06:19)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3438&ForumID=2&Showsub=3443'>Re: 245GLE - D&#248;d under k&#248;rsel</a> <em>(Ren&#233; &#216;stergaard, 15-05-2005 01:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3438&ForumID=2&Showsub=3442'>Re: 245GLE - D&#248;d under k&#248;rsel</a> <em>(Jesper Ho&#229;s, 14-05-2005 23:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3438&ForumID=2&Showsub=3441'>Re: 245GLE - D&#248;d under k&#248;rsel</a> <em>(Jes, 14-05-2005 21:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3438&ForumID=2&Showsub=3439'>Re: 245GLE - D&#248;d under k&#248;rsel</a> <em>(Morten Vig, 14-05-2005 19:31)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3438&ForumID=2&Showsub=3473'>Re: 245GLE - DÃ¸d under kÃ¸rsel</a> <em>(Jesper HoÃ¥s, 18-05-2005 12:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3438&ForumID=2&Showsub=3444'>Re: 245GLE - DÃ¸d under kÃ¸rsel</a> <em>(Morten Vig, 15-05-2005 06:19)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3438&ForumID=2&Showsub=3443'>Re: 245GLE - DÃ¸d under kÃ¸rsel</a> <em>(Ren&#233; Ã˜stergaard, 15-05-2005 01:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3438&ForumID=2&Showsub=3442'>Re: 245GLE - DÃ¸d under kÃ¸rsel</a> <em>(Jesper HoÃ¥s, 14-05-2005 23:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3438&ForumID=2&Showsub=3441'>Re: 245GLE - DÃ¸d under kÃ¸rsel</a> <em>(Jes, 14-05-2005 21:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3438&ForumID=2&Showsub=3439'>Re: 245GLE - DÃ¸d under kÃ¸rsel</a> <em>(Morten Vig, 14-05-2005 19:31)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">163</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">163</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

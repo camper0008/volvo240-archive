@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-02-2008&nbsp; 14:46</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-02-2008 14:46</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Min Servopumpe sidder sk�v i forhold til de andre hjul hvor remmene kommer p�.I tidernes morgen havde jeg afmonteret beslagene,men kan de monteres forkert s� at det er derfor at den er sk�v i forhold til de andre remhjul.Hvis der er en der har et billede hvor man kan se hvordan det skal se ud kunne det v�re fint.<br>mvh Kent</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Bj&#248;rn Kooper, 04-02-2008 16:48)</em></u></strong></font></li><br><font face=Verdana>Hej, jeg har haft det samme en gang, og kunne ikke se hvorfor den ikke flugtede med de andre remhjul. Det endte med, at jeg satte en kraftig sp�ndeskive mellem motorblok og beslagene til servoen, og det hjalp, s� den sad lige.<br>Bj�rn.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 04-02-2008 17:29)</em></u></strong></font></li><br><font face=Verdana>Hej Kent<br><br>Du skal lige kontrollere, om beslagene er helt intakte. De kan nemlig godt kn�kke og og det kan f� servopumpen til at h�nge sk�vt. Det har jeg pr�vet p� B230A og B23E. Det kan ogs� ses ved, at servopumpen begynder at vibrere meget mere, end den plejer at g�re. Og det er rystelserne der f� beslagene til at kn�kke.<br><br>Mvh Christian<br><br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 04-02-2008 18:18)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Pumpen sidder jo i b�sninger, og disse kan blive slidt. Gode chancer for de bare skal skiftes. Det g�r mine egne, og pumpen sidder netop sk�vt i forhold til krumtaps hjulet. I mit tilf�lde er det b�sningerne.<br>Du kan se det rimeligt tydeligt hvis selve pumpe holderen sidder lige p� blokken og pumpen sidder sk�v i forhold til er det 99&#37; sikkert b�sningerne. Det er mine erfaringer.<br><br>vh KJ</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Bjørn Kooper, 04-02-2008 16:48)</em></u></strong></font></li><br><font face=Verdana>Hej, jeg har haft det samme en gang, og kunne ikke se hvorfor den ikke flugtede med de andre remhjul. Det endte med, at jeg satte en kraftig sp�ndeskive mellem motorblok og beslagene til servoen, og det hjalp, s� den sad lige.<br>Bj�rn.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 04-02-2008 17:29)</em></u></strong></font></li><br><font face=Verdana>Hej Kent<br><br>Du skal lige kontrollere, om beslagene er helt intakte. De kan nemlig godt kn�kke og og det kan f� servopumpen til at h�nge sk�vt. Det har jeg pr�vet p� B230A og B23E. Det kan ogs� ses ved, at servopumpen begynder at vibrere meget mere, end den plejer at g�re. Og det er rystelserne der f� beslagene til at kn�kke.<br><br>Mvh Christian<br><br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 04-02-2008 18:18)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Pumpen sidder jo i b�sninger, og disse kan blive slidt. Gode chancer for de bare skal skiftes. Det g�r mine egne, og pumpen sidder netop sk�vt i forhold til krumtaps hjulet. I mit tilf�lde er det b�sningerne.<br>Du kan se det rimeligt tydeligt hvis selve pumpe holderen sidder lige p� blokken og pumpen sidder sk�v i forhold til er det 99&#37; sikkert b�sningerne. Det er mine erfaringer.<br><br>vh KJ</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -265,9 +265,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

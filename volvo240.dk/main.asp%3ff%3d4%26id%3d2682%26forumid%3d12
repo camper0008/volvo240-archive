@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-02-2008&nbsp; 18:15</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-02-2008 18:15</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej med jer, endelig fandt jeg et forum med volvo, men findes der andre forums ?<br><br>mit sp�rgsm�l er, jeg regner med at hente en 850 t5 i tyskland, i l�bet af �ret, er der noget specielt jeg skal holde �je med, jeg vil jo gerne have s� meget udstyr med som muligt... hvad er forskellen p�  en alm T5 og en R model andet end andre kofangere, og selvf. de ekstra 25HK ??<br><br>H�ber i vil tage godt imod mine mange sikker lidt dumme sp�rgsm�l her i starten!</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Claus Trappaud Bondesen, 03-02-2008 21:11)</em></u></strong></font></li><br><font face=Verdana>Hej  Morten.  Velkommen<br>Jeg kender 2 forum mere: Det ene er frit for alle, det hedder  <a href="http://www.volvosnak.dk" target="_blank">www.volvosnak.dk</a>. Det andet er et medlems forum, for medlemmer af Kolding Volvo Klub (er landsd�kkende) for alle Volvo<br>modeller. <a href="http://www.koldingvolvoklub.dk" target="_blank">www.koldingvolvoklub.dk</a>   Jeg kender ikke umiddelbart flere, men ved ikke.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 03-02-2008 21:49)</em></u></strong></font></li><br><font face=Verdana>Pas p� bilens kilometertal.. Alts� fusk med t�lleren, om der er sat et andet speedometer i. En R har differentialesp�r, anden kabine og s� er der andre sm�ting som andre sikkert kan forklare.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 03-02-2008 22:09)</em></u></strong></font></li><br><font face=Verdana>Hej Morten<br><br>Lige en lille kommentar til Dennis&#39&#59; indl�g:<br><br>Det er forholdsvist let at kontrollere, om bilen har k�rt det antal kilometer, der st�r p� "klokken". Der skal bare s�ttes en original Volvo tester i multistikket og s� henter man de data ud, som motorens ECU har lagret. Og der lagres blandt andet, hvor mange kilometer motoren har k�rt.<br>Hvis ikke s�lger er villig til, at man f�r foretaget denne lille test hos Volvo, eller hos en anden Volvoekspert som har denne tester, s� skal man holde sig LANGT fra at k�be bilen.<br><br>Det er ogs� fra disse data at servicelampen f�r sine oplysninger. Servicelampen styres af: Antal k�rte kilometer, motorens samlede km-tal og kalenderen. P� nogle modeller styres servicelampen kun af antal k�rte kilometer. S� i alle Volvo 850 modeller kan data, vedr. antal kilometer bilen har k�rt, hentes frem.<br><br>Mvh Christian<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 03-02-2008 22:24)</em></u></strong></font></li><br><font face=Verdana>Pr�cis, s� hvis bilen har k�rt med en lysende service lampe de sidste 50.000km kan man ogs� se det. Vi havde en gang en kunde der havde k�bt en tysker, p� klokken stod der 234.000 og da testeren kom p� fik piben en anden lyd. Bilen havde g�et over 400.000. Puha..</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Morten, 06-02-2008 17:28)</em></u></strong></font></li><br><font face=Verdana>OK, det lyder da smart, ved i s� ogs� hvad afgiften ca ligger p�, ved at hente en hjem fra tyskland.?  <br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 06-02-2008 17:41)</em></u></strong></font></li><br><font face=Verdana>Hej Morten<br><br>Ja det kan du selv pr�ve dig lidt frem med p� SKAT&#39&#59;s hjemmeside.<br><br><a href="http://www.skat.dk/SKAT.aspx?oId=1661335" target="_blank">http://www.skat.dk/SKAT.aspx?oId=1661335</a><br><br>Tag det nederste link, Beregn afgiften for den brugte bil, og pr�v dig frem. Der st�r ogs� alle reglerne vedr. import af brugte biler, og om hvordan proceduren forl�ber.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Morten, 06-02-2008 19:59)</em></u></strong></font></li><br><font face=Verdana>Hmm.. at d�mme efter dem jeg har fundet indtil videre derinde, s� er reg. agiften da ret heftigt, s� er det da ligef�r det bedre kan betale sig at finde en der allerede er i DK</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Claus Trappaud Bondesen, 03-02-2008 21:11)</em></u></strong></font></li><br><font face=Verdana>Hej  Morten.  Velkommen<br>Jeg kender 2 forum mere: Det ene er frit for alle, det hedder  <a href="http://www.volvosnak.dk" target="_blank">www.volvosnak.dk</a>. Det andet er et medlems forum, for medlemmer af Kolding Volvo Klub (er landsd�kkende) for alle Volvo<br>modeller. <a href="http://www.koldingvolvoklub.dk" target="_blank">www.koldingvolvoklub.dk</a>   Jeg kender ikke umiddelbart flere, men ved ikke.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 03-02-2008 21:49)</em></u></strong></font></li><br><font face=Verdana>Pas p� bilens kilometertal.. Alts� fusk med t�lleren, om der er sat et andet speedometer i. En R har differentialesp�r, anden kabine og s� er der andre sm�ting som andre sikkert kan forklare.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 03-02-2008 22:09)</em></u></strong></font></li><br><font face=Verdana>Hej Morten<br><br>Lige en lille kommentar til Dennis&#39&#59; indl�g:<br><br>Det er forholdsvist let at kontrollere, om bilen har k�rt det antal kilometer, der st�r p� "klokken". Der skal bare s�ttes en original Volvo tester i multistikket og s� henter man de data ud, som motorens ECU har lagret. Og der lagres blandt andet, hvor mange kilometer motoren har k�rt.<br>Hvis ikke s�lger er villig til, at man f�r foretaget denne lille test hos Volvo, eller hos en anden Volvoekspert som har denne tester, s� skal man holde sig LANGT fra at k�be bilen.<br><br>Det er ogs� fra disse data at servicelampen f�r sine oplysninger. Servicelampen styres af: Antal k�rte kilometer, motorens samlede km-tal og kalenderen. P� nogle modeller styres servicelampen kun af antal k�rte kilometer. S� i alle Volvo 850 modeller kan data, vedr. antal kilometer bilen har k�rt, hentes frem.<br><br>Mvh Christian<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 03-02-2008 22:24)</em></u></strong></font></li><br><font face=Verdana>Pr�cis, s� hvis bilen har k�rt med en lysende service lampe de sidste 50.000km kan man ogs� se det. Vi havde en gang en kunde der havde k�bt en tysker, p� klokken stod der 234.000 og da testeren kom p� fik piben en anden lyd. Bilen havde g�et over 400.000. Puha..</font><br><li><font face=Verdana><strong><u>Re: - <em>(Morten, 06-02-2008 17:28)</em></u></strong></font></li><br><font face=Verdana>OK, det lyder da smart, ved i s� ogs� hvad afgiften ca ligger p�, ved at hente en hjem fra tyskland.?  <br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 06-02-2008 17:41)</em></u></strong></font></li><br><font face=Verdana>Hej Morten<br><br>Ja det kan du selv pr�ve dig lidt frem med p� SKAT&#39&#59;s hjemmeside.<br><br><a href="http://www.skat.dk/SKAT.aspx?oId=1661335" target="_blank">http://www.skat.dk/SKAT.aspx?oId=1661335</a><br><br>Tag det nederste link, Beregn afgiften for den brugte bil, og pr�v dig frem. Der st�r ogs� alle reglerne vedr. import af brugte biler, og om hvordan proceduren forl�ber.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Morten, 06-02-2008 19:59)</em></u></strong></font></li><br><font face=Verdana>Hmm.. at d�mme efter dem jeg har fundet indtil videre derinde, s� er reg. agiften da ret heftigt, s� er det da ligef�r det bedre kan betale sig at finde en der allerede er i DK</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -265,9 +265,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

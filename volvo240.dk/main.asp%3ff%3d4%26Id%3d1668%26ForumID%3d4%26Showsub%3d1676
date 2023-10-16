@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=1668"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1668"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Over/undertryk i tank, sorte t&#230;ndr&#248;r</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Over/undertryk i tank, sorte tændrør</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-04-2004&nbsp; 08:54</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-04-2004 08:54</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej volvofolk, <br><br>Jeg har lagt m�rke til at n�r jeg skal h�lde benzin p�, er der et kraftigt over eller undertryk i tanken. Burde der ikke v�re et udluftninghul ? Eller har det ingen betydning med hensyns til benzin tilf�rslen .<br><br>T�ndr�rene er kulsorte og gevindet n�rmest driver af sort olie, hvordan fikser jeg det p� en 245 b23a fra 85 ? Jeg er lidt af en bilspasser (min f�rste bil) , s� tips med billeder er et STORT plus :-)<br><br>Mvh<br><br>Eik Madsen</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1668&ForumID=4&Showsub=1676'>Re: Over/undertryk i tank, sorte t&#230;ndr&#248;r</a> <em>(Eik Madsen, 18-04-2004 23:10)</em></strong></font></li><br><font face=Verdana>Tak for svarene,<br><br>Jeg k�rer for det meste ture p� 10-12 km, motoren har g�et 312000. Jeg har lige skiftet til nogen NGK t�ndr�r som var blevet anbefalet et andet sted p� siden, og det har gjort at jeg ikke beh�ves k�re med choker s�rligt l�nge. Jeg har ikke observeret nogen bl� r�g, men synes der er en hel del hvid r�g, is�r n�r motoren er kold.<br><br>Jeg vil se om jeg kan finde en udluftnings ventil, hvis der er en er der ihvertfald stoppet, for det lyder som en godt rystet cola hver gang jeg l�sner d�kslet for at fylde benzin p�. <br><br>Jeg har tidligere skrevet ind fordi tript�lleren kun n�r til 300km f�r benzin n�len g�r i det r�de felt, og s� skal kan jeg fylde ca 45 liter p� tanken. S� det ville v�re synd at sige at den g�r langt p� literen. Jeg har normalt ikke den ber�mte "fodkrampe", men engang imellem skal man da sparke til speederen :-)<br><br>Jeg har overtaget bilen i februar, og ved ikke hvorn�r der sidst er blevet skiftet luftfilter, men det m� jeg hellere f� bestilt, det koster jo ingenting.<br><br>Mvh<br><br>Eik Madsen</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1668&ForumID=4&Showsub=1670'>Re: Over/undertryk i tank, sorte t&#230;ndr&#248;r</a> <em>(Erling, 18-04-2004 13:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1668&ForumID=4&Showsub=1669'>Re: Over/undertryk i tank, sorte t&#230;ndr&#248;r</a> <em>(Emil J, 18-04-2004 13:12)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1668&ForumID=4&Showsub=1676'>Re: Over/undertryk i tank, sorte tændrør</a> <em>(Eik Madsen, 18-04-2004 23:10)</em></strong></font></li><br><font face=Verdana>Tak for svarene,<br><br>Jeg k�rer for det meste ture p� 10-12 km, motoren har g�et 312000. Jeg har lige skiftet til nogen NGK t�ndr�r som var blevet anbefalet et andet sted p� siden, og det har gjort at jeg ikke beh�ves k�re med choker s�rligt l�nge. Jeg har ikke observeret nogen bl� r�g, men synes der er en hel del hvid r�g, is�r n�r motoren er kold.<br><br>Jeg vil se om jeg kan finde en udluftnings ventil, hvis der er en er der ihvertfald stoppet, for det lyder som en godt rystet cola hver gang jeg l�sner d�kslet for at fylde benzin p�. <br><br>Jeg har tidligere skrevet ind fordi tript�lleren kun n�r til 300km f�r benzin n�len g�r i det r�de felt, og s� skal kan jeg fylde ca 45 liter p� tanken. S� det ville v�re synd at sige at den g�r langt p� literen. Jeg har normalt ikke den ber�mte "fodkrampe", men engang imellem skal man da sparke til speederen :-)<br><br>Jeg har overtaget bilen i februar, og ved ikke hvorn�r der sidst er blevet skiftet luftfilter, men det m� jeg hellere f� bestilt, det koster jo ingenting.<br><br>Mvh<br><br>Eik Madsen</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1668&ForumID=4&Showsub=1670'>Re: Over/undertryk i tank, sorte tændrør</a> <em>(Erling, 18-04-2004 13:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1668&ForumID=4&Showsub=1669'>Re: Over/undertryk i tank, sorte tændrør</a> <em>(Emil J, 18-04-2004 13:12)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

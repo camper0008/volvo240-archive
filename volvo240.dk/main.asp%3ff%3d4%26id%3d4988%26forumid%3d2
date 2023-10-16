@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-04-2015&nbsp; 19:07</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-04-2015 19:07</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.. Ejer Volvo940 _rg 90, motor b230f<br><br>Jeg kom k_rende p_ motorvejen, og pludselig satte motor ud i 3 hurtige splitsekunder, hakkede, - da den fortsatte virkede f_lgende IKKE: forlys, baglys, blinklys, bl_ser, instrumentlys, cigarett_nder(hvor min gps sidder) vinduesvisker, og da jeg kom hjem og slukkede bil, virkede starter heller IKKE <br>F_lgende VIRKEDE: fuelpump, handskerumlys, d_rmarkeringslys, havariblink, Fjernlys(ved at holde armen tilbage konstant) stoplys, ur, <br>Kan oplyse at en halv time inden dette skete fik bilen meget vand pga kraftig regn <br><br>ps jeg synes generatoren "larmede" mere end normalt, men ikke helt sikker.. <br>jeg tjekkede sikringer, men kunne ikke se noget.. Den har jo "taget" str_mmen fra lidt af hver gruppe <br>Er der en slags hovedsikring???<br><br>Er her nogen der ved hvad der kan v_re galt???<br><br>Tak...</font></td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

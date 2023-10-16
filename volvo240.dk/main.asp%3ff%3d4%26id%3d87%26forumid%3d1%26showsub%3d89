@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=87"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=87"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Hvilken motor/&#229;rgang</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Hvilken motor/årgang</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">30-11-2002&nbsp; 01:03</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">30-11-2002 01:03</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej jeg er en f_rstegangsk_ber p_ 18 _r, der er bidt af Volvo 240, dog har jeg ikke den store mekanikker snilde, hvorfor jeg gerne ville vide<br>1: hvilken _rgang er mest holdbar, muligvis et lidt t_beligt sp_rgsm_l,jeg vil give ca. 30.000 for en 240, s_ det kan ikke v_re en af de sidste modeller<br>2: Hvorn_r har en 240 k_rt s_ langt at det ikke kan anbefales at k_be den?<br>3: Er de slemme til at ruste?_<br>H_ber der er en eller flere der gider ulejlighede sig med at svar_<br>Med volvo hilsen<br>          Morten<br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=87&ForumID=1&Showsub=93'>Re: Hvilken motor/&#229;rgang</a> <em>(Morten, 30-11-2002 22:22)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=87&ForumID=1&Showsub=89'>Re: Hvilken motor/&#229;rgang</a> <em>(Finn Kruse, 30-11-2002 13:37)</em></strong></font></li><br><font face=Verdana>Hej Morten<br><br>Hvis du ikke har mekanisk snilde, er en Volvo 240 netop noget for dig, for det er sj_ldent den g_r i stykker :-)<br><br>ad 1) Til den pris kan du f_ en 88-89 som er i god stand. Men det skal du naturligvis sikre dig. F_ den checket af en uvildig Volvo kyndig f_r du k_ber bilen.<br>ad 2) De fleste Volvo motorer kan k_re rigtig langt i sin levetid. F_rst ved 300.000 er de rigtigt k_rt til :) Det kr_ver naturligvis, at du vedligeholder den rigtigt og bruger en god motorolie.<br>ad 3) S_rg for at f_ en som er i god stand ved k_bet. Send den s_ til undervognsbehandling hvert andet _r. Skulle der dukke noget rust frem, s_ f_ det lavet i tide. P_ den m_de har du en tro f_lgesvend i mange _r.<br><br>Mvh<br>Finn Kruse</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=87&ForumID=1&Showsub=93'>Re: Hvilken motor/årgang</a> <em>(Morten, 30-11-2002 22:22)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=87&ForumID=1&Showsub=89'>Re: Hvilken motor/årgang</a> <em>(Finn Kruse, 30-11-2002 13:37)</em></strong></font></li><br><font face=Verdana>Hej Morten<br><br>Hvis du ikke har mekanisk snilde, er en Volvo 240 netop noget for dig, for det er sj_ldent den g_r i stykker :-)<br><br>ad 1) Til den pris kan du f_ en 88-89 som er i god stand. Men det skal du naturligvis sikre dig. F_ den checket af en uvildig Volvo kyndig f_r du k_ber bilen.<br>ad 2) De fleste Volvo motorer kan k_re rigtig langt i sin levetid. F_rst ved 300.000 er de rigtigt k_rt til :) Det kr_ver naturligvis, at du vedligeholder den rigtigt og bruger en god motorolie.<br>ad 3) S_rg for at f_ en som er i god stand ved k_bet. Send den s_ til undervognsbehandling hvert andet _r. Skulle der dukke noget rust frem, s_ f_ det lavet i tide. P_ den m_de har du en tro f_lgesvend i mange _r.<br><br>Mvh<br>Finn Kruse</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">38</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">38</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

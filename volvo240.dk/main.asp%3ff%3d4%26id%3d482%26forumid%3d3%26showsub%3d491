@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="Søg" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=3"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=3&amp;MessageId=482"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=3&MessageId=482"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-06-2003&nbsp; 06:57</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-06-2003 06:57</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Jeg har en 240 GL fra '85, som har lidt sm&#229; rustpletter. Et af stederne er i bunden af vinduet, alts&#229; ved de sm&#229; &quot;hak&quot; ind under ruden. Jeg har kigget lidt p&#229; det og det virker som et ret elendigt at sted at komme til at slibe osv. Har I forslag til hvad jeg kan g&#248;re og evt. nogen som selv har haft lign. problem?<br><br>Mvh Sputte, &#197;rhus.</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Jeg har en 240 GL fra '85, som har lidt små rustpletter. Et af stederne er i bunden af vinduet, altså ved de små "hak" ind under ruden. Jeg har kigget lidt på det og det virker som et ret elendigt at sted at komme til at slibe osv. Har I forslag til hvad jeg kan gøre og evt. nogen som selv har haft lign. problem?<br><br>Mvh Sputte, Århus.</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=482&ForumID=3&Showsub=491'>Re: Rust under/ved bagrude</a> <em>(Jes, 05-06-2003 17:55)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Ja, kom forbi en dag, s&#229; f&#229;r vi en snak om det.<br>Rustproblemet under bagruden er for&#248;vrigt mest udbredt p&#229; &#229;rsmodellerne &#180;85-87.<br><br>mvh<br><br>Jes</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=482&ForumID=3&Showsub=490'>Re: Rust under/ved bagrude</a> <em>(Sputte, 05-06-2003 17:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=482&ForumID=3&Showsub=489'>Re: Rust under/ved bagrude</a> <em>(Jes, 04-06-2003 17:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=482&ForumID=3&Showsub=488'>Re: Rust under/ved bagrude</a> <em>(H.Martin Lotzfeldt, 04-06-2003 10:24)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=482&ForumID=3&Showsub=491'>Re: Rust under/ved bagrude</a> <em>(Jes, 05-06-2003 17:55)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Ja, kom forbi en dag, så får vi en snak om det.<br>Rustproblemet under bagruden er forøvrigt mest udbredt på årsmodellerne &#180;85-87.<br><br>mvh<br><br>Jes</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=482&ForumID=3&Showsub=490'>Re: Rust under/ved bagrude</a> <em>(Sputte, 05-06-2003 17:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=482&ForumID=3&Showsub=489'>Re: Rust under/ved bagrude</a> <em>(Jes, 04-06-2003 17:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=482&ForumID=3&Showsub=488'>Re: Rust under/ved bagrude</a> <em>(H.Martin Lotzfeldt, 04-06-2003 10:24)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">2</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">2</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

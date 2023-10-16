@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Jyllands Ringen 6. juni 2004</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Jyllands Ringen 6. juni 2004</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -143,7 +143,7 @@ en v_sentlig betydning i DTC.</p>
 finalen, s_ forventningerne var store inden juni l_bet.</p>
 <p>L_rdag var en forholdsvis rolig dag i Volvo teamet. Volvo lader bilen k_rer 
 et par omgange, tager bilen i pit, skifter d_k og sender Pontus ud med beskeden: 
-&quot;Kom i Super Pole&quot;. Og det gjorde han.</p>
+"Kom i Super Pole". Og det gjorde han.</p>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040606-01.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040606-01t.jpg" width="128" height="96"></a></td>
@@ -173,7 +173,7 @@ super pole.</p>
     <td width="25%" align="center"> 20-Jesper Sylvest<br>
 	Endte nr. 10</td>
     <td width="25%" align="center"> 17-Michel Nykj_r<br>
-	Endte nr.&nbsp; 5</td>
+	Endte nr. 5</td>
     <td width="25%" align="center"> 9-Michael Carlsen<br>
 	Endte nr. 4</td>
   </tr>
@@ -215,7 +215,7 @@ super pole.</p>
     <td width="25%" align="center"> 14-Martin Jensen<br>
 	Endte nr. 7</td>
     <td width="25%" align="center"> 7-Jens Edman<br>
-	Endte nr. 1, men havde &quot;snydt&quot; med bilens h_jde og fik derfor frataget sin 
+	Endte nr. 1, men havde "snydt" med bilens h_jde og fik derfor frataget sin 
 	placering.</td>
   </tr>
 </table>
@@ -264,7 +264,7 @@ nu ikke blev Pontus, har jeg det fint med at det er Jason som vandt. Han er en
 meget reel k_rer som sj_ldent skaber problemer for andre. </p>
 <p align="center">En noget tr_ls slutning p_ DTC l_bet. Bedst som man tror 
 det g_r s_ godt, kan alting ske.</p>
-<h2>&nbsp;</h2>
+<h2></h2>
 <h2>Volvo S40 Turbo</h2>
 <p>I den store Yokohama klasse, l_gger man straks m_rke til den pragtfulde Volvo S40 Turbo. 
 Og Anders Byriel var ogs_ t_ndt p_ et godt race. Men hans tanker var nok ogs_ en 
@@ -291,7 +291,7 @@ Dvs. at Volvo'en starter som nummer 7 i heat 1 og som nummer 6 i heat 2.<br>
 I f_rste heat var 5-Lars Hein ikke til at komme i n_rheden af. Anders kommer 
 forbi 2-Lars Vendelbo. 28-Kent Iversen gennemf_rer ikke og 3-David Falch kommer 
 ikke til start, s_ Anders ender p_ en 4. plads og f_r derfor 20 point.<br>
-&nbsp;</p>
+</p>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040606-21.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040606-21t.jpg" width="128" height="96"></a></td>
@@ -315,7 +315,7 @@ af 18 er k_rt.<br>
 Det ville varme i regnskabet, med et par 1. pladser i de kommende l_b. En s_dan 
 giver 30 point.<br>
 <br>
-&nbsp;</p>
+</p>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040606-23.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040606-23t.jpg" width="128" height="96"></a></td>
@@ -354,7 +354,7 @@ giver 30 point.<br>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

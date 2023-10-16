@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=1862"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=1862"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">28-05-2004&nbsp; 09:12</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">28-05-2004 09:12</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Jeg har problemer med min viskermotor i min 240. Nogle gange vil viskeren ikke starte, når jeg sætter viskerkontakten ned på 1. niveau. Den går først i gang når jeg sætter den ned på 2. niveau (hurtigvisk). Fører jeg kontakten tilbage til 1. niveau stopper viskeren omgående f.eks. midt på ruden. På interval vil den gerne viske, men nogle gange visker den 2 gange inden den holder pause. <br>Og for at det ikke skal være løgn, virker den sommetider også på 1. niveau (den kører meget langsomt og er lige ved at går i stå), men så vil den ikke stoppe igen, før end jeg pille sikringen ud.<br><br>Jeg har skiftet relæet, men jeg har mistanke om, at det kan ske at være kontakten og ikke viskermotoren. Hvordan tjekker jeg det?<br>Viskermotoren larmer ikke og kører som sagt fint på 2. niveau. Den kører også de 3 gange som den skal, når jeg bruger sprinkleren og stopper igen.<br><br>Lidt langt indlæg og kun få spørgsmål, men på forhånd tak!<br><br>mvh Christian</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Jeg har problemer med min viskermotor i min 240. Nogle gange vil viskeren ikke starte, nÃ¥r jeg sÃ¦tter viskerkontakten ned pÃ¥ 1. niveau. Den gÃ¥r fÃ¸rst i gang nÃ¥r jeg sÃ¦tter den ned pÃ¥ 2. niveau (hurtigvisk). FÃ¸rer jeg kontakten tilbage til 1. niveau stopper viskeren omgÃ¥ende f.eks. midt pÃ¥ ruden. PÃ¥ interval vil den gerne viske, men nogle gange visker den 2 gange inden den holder pause. <br>Og for at det ikke skal vÃ¦re lÃ¸gn, virker den sommetider ogsÃ¥ pÃ¥ 1. niveau (den kÃ¸rer meget langsomt og er lige ved at gÃ¥r i stÃ¥), men sÃ¥ vil den ikke stoppe igen, fÃ¸r end jeg pille sikringen ud.<br><br>Jeg har skiftet relÃ¦et, men jeg har mistanke om, at det kan ske at vÃ¦re kontakten og ikke viskermotoren. Hvordan tjekker jeg det?<br>Viskermotoren larmer ikke og kÃ¸rer som sagt fint pÃ¥ 2. niveau. Den kÃ¸rer ogsÃ¥ de 3 gange som den skal, nÃ¥r jeg bruger sprinkleren og stopper igen.<br><br>Lidt langt indlÃ¦g og kun fÃ¥ spÃ¸rgsmÃ¥l, men pÃ¥ forhÃ¥nd tak!<br><br>mvh Christian</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1862&ForumID=2&Showsub=1865'>Re: Viskermotor</a> <em>(Christian Fisker, 28-05-2004 15:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1862&ForumID=2&Showsub=1863'>Re: Viskermotor</a> <em>(Johan &#197;rman, 28-05-2004 15:04)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1862&ForumID=2&Showsub=1865'>Re: Viskermotor</a> <em>(Christian Fisker, 28-05-2004 15:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1862&ForumID=2&Showsub=1863'>Re: Viskermotor</a> <em>(Johan Ã…rman, 28-05-2004 15:04)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">114</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">114</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

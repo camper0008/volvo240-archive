@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -209,7 +209,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-01-2012&nbsp; 18:01</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-01-2012 18:01</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">heysa et enkelt sp_rgsm_l passer et et rat fra en 240 serie over i en grand luxe 142 fra 72 <br><br>mvh kasper</font></td>
@@ -220,7 +220,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 09-01-2012 18:12)</em></u></strong></font></li><br><font face=Verdana>Hej Kasper<br>Du skruer rattet at en 240, og skruer det s_ p_ en 140, og s_ ser du om det passer.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kasper eghave hansen, 09-01-2012 18:25)</em></u></strong></font></li><br><font face=Verdana>ja tak det havde jeg t_nkt p_ men nu har jeg bare ikke nogen 142 grand luxe og pr_ve med   <br>:-) det er fordi der er en der vil k_be et rat af mig</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 10-01-2012 09:06)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Det er en mulighed hvis det er en _rg 73 el 74, men ikke en _rg 72<br>mvh<br>S_ren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 10-01-2012 16:23)</em></u></strong></font></li><br><font face=Verdana>nix, de passer ikke sammen, jeg ved det, fordi jeg selv har pr_vet og k_re til syn med et rat fra en 240, der er lidt slup i selve ratstammen og man kan ikke sp_nde det h_rdt nok.<br>mvh</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kasper eghave hansen, 11-01-2012 15:25)</em></u></strong></font></li><br><font face=Verdana>mange tak for svarene :-)</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 09-01-2012 18:12)</em></u></strong></font></li><br><font face=Verdana>Hej Kasper<br>Du skruer rattet at en 240, og skruer det s_ p_ en 140, og s_ ser du om det passer.<br>MVH Jens Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kasper eghave hansen, 09-01-2012 18:25)</em></u></strong></font></li><br><font face=Verdana>ja tak det havde jeg t_nkt p_ men nu har jeg bare ikke nogen 142 grand luxe og pr_ve med   <br>:-) det er fordi der er en der vil k_be et rat af mig</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren Frydendahl Krab, 10-01-2012 09:06)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Det er en mulighed hvis det er en _rg 73 el 74, men ikke en _rg 72<br>mvh<br>S_ren</font><br><li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 10-01-2012 16:23)</em></u></strong></font></li><br><font face=Verdana>nix, de passer ikke sammen, jeg ved det, fordi jeg selv har pr_vet og k_re til syn med et rat fra en 240, der er lidt slup i selve ratstammen og man kan ikke sp_nde det h_rdt nok.<br>mvh</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kasper eghave hansen, 11-01-2012 15:25)</em></u></strong></font></li><br><font face=Verdana>mange tak for svarene :-)</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -229,7 +229,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">23</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">23</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

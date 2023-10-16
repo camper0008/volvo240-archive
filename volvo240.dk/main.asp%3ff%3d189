@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Motorskift</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Motorskift</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -146,19 +146,19 @@ document.onmousedown=click;
 					<td vAlign="top" width="155"><b>Motorskift</b></td>
 					<td>Motoren kan udskiftes, men udskiftningsmotoren m� h�jst have 20 pct. st�rre effekt (DIN-HK) end k�ret�jets originale motor. Hvis effektfor�gelsen overstiger 20 pct., skal der betales ny afgift af k�ret�jets aktuelle v�rdi. Beregningsgrundlaget for udregning af effektfor�gelsen er begge motorers effekt som nye. Det er fabrikkens angivelser om motoreffekt, der bruges.
 					<p>Hvis man udskifter en benzinmotor med en dieselmotor, g�lder 20 pct.-reglen ogs�.</p>
-					<p>En motor best�r af mange enkeltkomponenter, men vigtige er is�r topstykket, motorblokken og krumtappen. Udskiftning af en eller flere af disse komponenter (fx til indspr�jtningstopstykke), eventuelt kombineret med udskiftning af andre dele, betyder at der skal betales afgift af k�ret�jet, hvis effektfor�gelsen overstiger 20 pct. Motorombygningen sidestilles i disse tilf�lde med en egentlig motorudskiftning. &nbsp;</p>
-					<p>Hvis der samtidig med motorudskiftning/motortuning ogs� foretages udskiftning af st�dd�mpere, bremser, gearkasse, differentiale eller andre �ndringer, kan det betyde, at k�ret�jet mister sin afgiftsm�ssige identitet, og der skal betales afgift, ogs� selv om effektfor�gelsen ikke overstiger 20 pct. Det g�lder, hvis der er tale om helt eller delvist modelskifte, jf. nedenst�ende afsnit.&nbsp;</p>
-					<p>Ved motorudskiftning/-tuning eller anden ombygning er det altid klogt at sp�rge Statens Bilinspektion om eventuelle kr�vede tekniske �ndringer.&nbsp;</p>
-					<p>Effektfor�gelse kan opn�s enten ved motorudskiftning eller ved motortuning, evt. ved en kombination af begge.&nbsp;</p>
-					<p>&nbsp;</td>
+					<p>En motor best�r af mange enkeltkomponenter, men vigtige er is�r topstykket, motorblokken og krumtappen. Udskiftning af en eller flere af disse komponenter (fx til indspr�jtningstopstykke), eventuelt kombineret med udskiftning af andre dele, betyder at der skal betales afgift af k�ret�jet, hvis effektfor�gelsen overstiger 20 pct. Motorombygningen sidestilles i disse tilf�lde med en egentlig motorudskiftning. </p>
+					<p>Hvis der samtidig med motorudskiftning/motortuning ogs� foretages udskiftning af st�dd�mpere, bremser, gearkasse, differentiale eller andre �ndringer, kan det betyde, at k�ret�jet mister sin afgiftsm�ssige identitet, og der skal betales afgift, ogs� selv om effektfor�gelsen ikke overstiger 20 pct. Det g�lder, hvis der er tale om helt eller delvist modelskifte, jf. nedenst�ende afsnit.</p>
+					<p>Ved motorudskiftning/-tuning eller anden ombygning er det altid klogt at sp�rge Statens Bilinspektion om eventuelle kr�vede tekniske �ndringer.</p>
+					<p>Effektfor�gelse kan opn�s enten ved motorudskiftning eller ved motortuning, evt. ved en kombination af begge.</p>
+					<p></td>
 				</tr>
 				<tr>
 					<td vAlign="top" width="155"><b>Dom fra �stre Landsret</b></td>
-					<td>If�lge en dom fra �stre Landsret i december 2000 kan motorskift til bilens originale motor ske uden afgiftsm�ssige konsekvenser. Den konkrete sag drejede sig om en hyrevogn, der blev afgiftsberigtiget og taget i brug som hyrevogn med den originale benzinmotor, men som efter at have k�rt 1.750 km. som hyrevogn fik udskiftet motoren til en dieselmotor. Bilen blev frik�rt med dieselmotor efter at have k�rt som hyrevogn i mere end 3 �r og mere end 210.000 km. I forbindelse med udstedelsen af en toldattest om afgiftsfritagelsen ved frik�rslen blev der p�f�rt en klausul om, at der skal betales registreringsafgift, hvis bilen senere il�gges en benzinmotor (evt. den originale), hvor effekten overstiger 20 pct. m�lt i forhold til den dieselmotor, som bilen var forsynet med ved frik�rslen. Der er ved dommen lagt v�gt p�, at bilen ved en senere genil�gning af den originale benzinmotor vil v�re identisk med den bil, der blev afgiftsberigtiget i sin tid. Der kan derfor ikke opkr�ves yderligere registreringsafgift ved en s�dan motorombytning.<p>&nbsp;</p></td>
+					<td>If�lge en dom fra �stre Landsret i december 2000 kan motorskift til bilens originale motor ske uden afgiftsm�ssige konsekvenser. Den konkrete sag drejede sig om en hyrevogn, der blev afgiftsberigtiget og taget i brug som hyrevogn med den originale benzinmotor, men som efter at have k�rt 1.750 km. som hyrevogn fik udskiftet motoren til en dieselmotor. Bilen blev frik�rt med dieselmotor efter at have k�rt som hyrevogn i mere end 3 �r og mere end 210.000 km. I forbindelse med udstedelsen af en toldattest om afgiftsfritagelsen ved frik�rslen blev der p�f�rt en klausul om, at der skal betales registreringsafgift, hvis bilen senere il�gges en benzinmotor (evt. den originale), hvor effekten overstiger 20 pct. m�lt i forhold til den dieselmotor, som bilen var forsynet med ved frik�rslen. Der er ved dommen lagt v�gt p�, at bilen ved en senere genil�gning af den originale benzinmotor vil v�re identisk med den bil, der blev afgiftsberigtiget i sin tid. Der kan derfor ikke opkr�ves yderligere registreringsafgift ved en s�dan motorombytning.<p></p></td>
 				</tr>
 				<tr>
 					<td vAlign="top" width="155"><b>Motortuning</b></td>
-					<td>Motortuning er tilladt s� l�nge det sker p� den originale motor eller en senere ilagt tilsvarende motor. Der er her ingen procentgr�nse for effektfor�gelsen.&nbsp;Generelt for alle typer motortuning g�lder, at n�r tuningen f�r karakter af en motorombygning, eksempelvis n�r der foretages v�sentlig indgreb, fx ved udskiftning af topstykke, motorblok eller krumtap, vil dette blive sidestillet med et egentlig motorskifte. Dette betyder, at 20 pct.-gr�nsen g�lder.<p>&nbsp;</p></td>
+					<td>Motortuning er tilladt s� l�nge det sker p� den originale motor eller en senere ilagt tilsvarende motor. Der er her ingen procentgr�nse for effektfor�gelsen.Generelt for alle typer motortuning g�lder, at n�r tuningen f�r karakter af en motorombygning, eksempelvis n�r der foretages v�sentlig indgreb, fx ved udskiftning af topstykke, motorblok eller krumtap, vil dette blive sidestillet med et egentlig motorskifte. Dette betyder, at 20 pct.-gr�nsen g�lder.<p></p></td>
 				</tr>
 				<tr>
 					<td vAlign="top" width="155"><b>Eksempel</b></td>
@@ -206,7 +206,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

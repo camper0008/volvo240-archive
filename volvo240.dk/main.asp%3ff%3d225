@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;10 gode r�d til Volvo 200 Serien</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">10 gode r�d til Volvo 200 Serien</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -159,7 +159,7 @@ torpedopladen er limet p�, og er de rene vandsamlere (ogs� saltvand) og give
 gennemt�ring af rust p� mange Volvo'er.<hr></td>
 	</tr>
 	<tr>
-		<td valign="top" width="25">&nbsp;</td>
+		<td valign="top" width="25"></td>
 		<td valign="top">Mit r�d er at fjerne dem p� 
 torpedopladen helt, og l�gge en tynd oliefilm p� som beskyttelse.</td>
 	</tr>
@@ -180,7 +180,7 @@ ligeledes ridser de lygteglassene n�r fint sandst�v ligger oven p�
 viskerbladene, og v�sken ikke n�r frem i tide.<hr></td>
 	</tr>
 	<tr>
-		<td valign="top" width="25">&nbsp;</td>
+		<td valign="top" width="25"></td>
 		<td valign="top">Mit r�d er at a afmontere jeg dem helt. Ogs� viskermotoren, s� der 
 ikke er en stang der stikker ud. De tomme stik til bagved h�jre 
 forlygte skal tapes til og der anskaffes 2 gummipropper som passer i hullerne over kofangerlisten. 
@@ -201,7 +201,7 @@ som jeg kalder �Ruskumsnusk�</i>.<hr>
 		</td>
 	</tr>
 	<tr>
-		<td valign="top" width="25">&nbsp;</td>
+		<td valign="top" width="25"></td>
 		<td valign="top">
 
 Mit r�d er at fjerne dette tj�repap og s�rg for at der kommer lidt 
@@ -220,7 +220,7 @@ kommet noget
 den er af jern.<hr></td>
 	</tr>
 	<tr>
-		<td valign="top" width="25">&nbsp;</td>
+		<td valign="top" width="25"></td>
 		<td valign="top">Mit r�d er her at man afmonterer hele benzintanken og renser den 
 grundigt af, og Tectyl behandler benzintanken mens den er afmonteret. Dette 
 g�res bedst med en stor b�tte Tectyl og en alm. billig malerpensel. N�r 
@@ -235,10 +235,10 @@ tanken har t�rret i et d�gns tid, monteres tanken igen.</td>
 		et tank-armatur, som ogs� er et af de svage punkter. R�rene har det med 
 		at ruste over i b�jningen lige efter der, hvor benzinslangerne er sat p� 
 		armaturet (de er ogs� af jern). Der er 3 typer armaturer: et til 
-		A-motor, et til K-motor og et til E&amp;F-motorer.<hr></td>
+		A-motor, et til K-motor og et til E&F-motorer.<hr></td>
 	</tr>
 	<tr>
-		<td valign="top" width="25">&nbsp;</td>
+		<td valign="top" width="25"></td>
 		<td valign="top">Mit r�d er at f� oversiden af armaturet renset 
 rigtigt grundigt af, og f� givet det noget rustbeskyttelse inden det s�ttes i 
 tanken igen.</td>
@@ -253,7 +253,7 @@ der sidder der fra <br>
 		fabrikken).<hr></td>
 	</tr>
 	<tr>
-		<td valign="top" width="25">&nbsp;</td>
+		<td valign="top" width="25"></td>
 		<td valign="top">Mit r�d er her af afmontere dem helt og erstatte dem af kobberr�r 
 eller de nye moderne PVC r�r som er beregnet til benzin.</td>
 	</tr>
@@ -266,7 +266,7 @@ eller de nye moderne PVC r�r som er beregnet til benzin.</td>
 		megen overv�gning.<hr></td>
 	</tr>
 	<tr>
-		<td valign="top" width="25">&nbsp;</td>
+		<td valign="top" width="25"></td>
 		<td valign="top">Mit r�d er at der
 hulrumsbehandles s� ofte man kan.<br>
 		Det g�res ved at man fjerner fodlisterne i d�rene, b�je gulvt�ppet til side og afmontere de runde 
@@ -286,7 +286,7 @@ hulrumsbeskyttelse.</td>
 		luftindtaget bag motorhjelmen.<hr></td>
 	</tr>
 	<tr>
-		<td valign="top" width="25">&nbsp;</td>
+		<td valign="top" width="25"></td>
 		<td valign="top">Mit r�d er at man skifter eller for skiftet en defekt 
 		varmebl�ser-motor. Og evt. f�r monteret Snow Caps over luftindtaget</td>
 	</tr>
@@ -301,7 +301,7 @@ hvirvles rundt og kommer ind i alle revner og spr�kker. Derfor kommer der rust
 		som vi vel alle har set.<hr></td>
 	</tr>
 	<tr>
-		<td valign="top" width="25">&nbsp;</td>
+		<td valign="top" width="25"></td>
 		<td valign="top">Mit r�d er at alt rust bliver fjernet/lavet. N�r alt 
 er repareret og t�rt, pensles der flere lag Tectyl p� indersiden og oppe i baghjulskassen. 
 Derefter monteres der plast-indersk�rme.</td>
@@ -323,7 +323,7 @@ Derefter monteres der plast-indersk�rme.</td>
 		ikke efter hensigten</p><hr></td>
 	</tr>
 	<tr>
-		<td valign="top" width="25">&nbsp;</td>
+		<td valign="top" width="25"></td>
 		<td valign="top">Mit r�d er at AC, motor-forvarmer, benzinfyr og 
 		niveau-regulering afmontereres og kasseres. I stedet for 
 		niveau-regulering monteres nogle gode gasst�dd�mpere.</td>
@@ -360,7 +360,7 @@ Med Volvo hilsen Jens Peter Jensen
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

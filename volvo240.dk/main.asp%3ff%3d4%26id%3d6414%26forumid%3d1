@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=6414"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=6414"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">16-06-2006&nbsp; 22:02</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">16-06-2006 22:02</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa<br><br>Er der nogen der ved om man uden vidre og uden de større modifikationer, kan sætte en K knast fra en B23E (83) i en B230A.<br><br>K knasten er jo rimelig meget skarpere end den A knast der sider i min B230A nu, så det må jo, hvis det kan lade sig gøre, give ligt mere liv i kludende.<br><br>Med venlig hilsen <br>Allan J. Kokspang</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa<br><br>Er der nogen der ved om man uden vidre og uden de stÃ¸rre modifikationer, kan sÃ¦tte en K knast fra en B23E (83) i en B230A.<br><br>K knasten er jo rimelig meget skarpere end den A knast der sider i min B230A nu, sÃ¥ det mÃ¥ jo, hvis det kan lade sig gÃ¸re, give ligt mere liv i kludende.<br><br>Med venlig hilsen <br>Allan J. Kokspang</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6414&ForumID=1&Showsub=6418'>Re: K knast i en B230A</a> <em>(Michael C. Jensen, 17-06-2006 18:36)</em></strong></font></li><br><font face=Verdana>Hej Allan<br>Se nu at få den knast i ! så du kan fortælle os andre hvad den giver.<br>Du vil måske få en lidt ujævn tomgang i forhold til A knasten idet K`eren har større overlap men så skulle den gerne trække godt fra højere omdr.<br><br></font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6414&ForumID=1&Showsub=6419'>Re: K knast i en B230A</a> <em>(Dennis C, 17-06-2006 21:34)</em></strong></font></li><br><font face=Verdana>Over 3500omdr skulle der ske ting og sager hvis det var på en E eller F motor. Men tror det giver en del på en A motor også.</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6414&ForumID=1&Showsub=6420'>Re: K knast i en B230A</a> <em>(morten vig, 18-06-2006 08:03)</em></strong></font></li><br><font face=Verdana>For at få det fulde udbytte af knasten, så bør man skifte indsugnings system til et par doppelte karburatorer.<br>Jeg er bange for at det lidt effekt man vinder i toppen, det ikke opvejer de man mister i bunden.<br><br>MVH<br><br>Morten</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6414&ForumID=1&Showsub=6421'>Re: K knast i en B230A</a> <em>(Emil J, 18-06-2006 11:31)</em></strong></font></li><br><font face=Verdana>Hvis motoren har gået nogle kilometer, kan det betale sig at skifte de små gummi dæmpere der sidder ved ventilerne, nu da man har hele herligheden skilt ad. Så undgår man også det tikkeri man ellers høre fra en B230A motor, der har rendt nogle kilometer. <br>http://www.brickboard.com/FAQ/700-900/EngineMechanical.htm#ValveStemTipRubberSeals<br><br>De koster vidst 10 kr pr stk hos volvo.<br><br>MVH<br><br>Emil J</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6414&ForumID=1&Showsub=6433'>Re: K knast i en B230A</a> <em>(Allan J. Kokspang, 19-06-2006 22:38)</em></strong></font></li><br><font face=Verdana>Fik kværnet gevindet i det ene bolt hul på topstykket, efter at have skiftet toppakningen (kunne kun holde til 80 Nm !!!!!)<br><br>Så nu skifter jeg motoren ud, med den B23E årg 83, som jeg har i min anden 245.<br><br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6414&ForumID=1&Showsub=6418'>Re: K knast i en B230A</a> <em>(Michael C. Jensen, 17-06-2006 18:36)</em></strong></font></li><br><font face=Verdana>Hej Allan<br>Se nu at fÃ¥ den knast i ! sÃ¥ du kan fortÃ¦lle os andre hvad den giver.<br>Du vil mÃ¥ske fÃ¥ en lidt ujÃ¦vn tomgang i forhold til A knasten idet K`eren har stÃ¸rre overlap men sÃ¥ skulle den gerne trÃ¦kke godt fra hÃ¸jere omdr.<br><br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6414&ForumID=1&Showsub=6419'>Re: K knast i en B230A</a> <em>(Dennis C, 17-06-2006 21:34)</em></strong></font></li><br><font face=Verdana>Over 3500omdr skulle der ske ting og sager hvis det var pÃ¥ en E eller F motor. Men tror det giver en del pÃ¥ en A motor ogsÃ¥.</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6414&ForumID=1&Showsub=6420'>Re: K knast i en B230A</a> <em>(morten vig, 18-06-2006 08:03)</em></strong></font></li><br><font face=Verdana>For at fÃ¥ det fulde udbytte af knasten, sÃ¥ bÃ¸r man skifte indsugnings system til et par doppelte karburatorer.<br>Jeg er bange for at det lidt effekt man vinder i toppen, det ikke opvejer de man mister i bunden.<br><br>MVH<br><br>Morten</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6414&ForumID=1&Showsub=6421'>Re: K knast i en B230A</a> <em>(Emil J, 18-06-2006 11:31)</em></strong></font></li><br><font face=Verdana>Hvis motoren har gÃ¥et nogle kilometer, kan det betale sig at skifte de smÃ¥ gummi dÃ¦mpere der sidder ved ventilerne, nu da man har hele herligheden skilt ad. SÃ¥ undgÃ¥r man ogsÃ¥ det tikkeri man ellers hÃ¸re fra en B230A motor, der har rendt nogle kilometer. <br>http://www.brickboard.com/FAQ/700-900/EngineMechanical.htm#ValveStemTipRubberSeals<br><br>De koster vidst 10 kr pr stk hos volvo.<br><br>MVH<br><br>Emil J</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6414&ForumID=1&Showsub=6433'>Re: K knast i en B230A</a> <em>(Allan J. Kokspang, 19-06-2006 22:38)</em></strong></font></li><br><font face=Verdana>Fik kvÃ¦rnet gevindet i det ene bolt hul pÃ¥ topstykket, efter at have skiftet toppakningen (kunne kun holde til 80 Nm !!!!!)<br><br>SÃ¥ nu skifter jeg motoren ud, med den B23E Ã¥rg 83, som jeg har i min anden 245.<br><br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">7</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">7</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

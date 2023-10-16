@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Jyllands Ringen 31 aug. 2003</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Jyllands Ringen 31 aug. 2003</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -183,7 +183,7 @@ og kunne gl_de mig over at Volvo'en stod klar til race.</p>
     1600-2000 fra start til slut.</td>
   </tr>
 </table>
-&nbsp;<p>&nbsp;</p>
+<p></p>
 <h3>DTC-L_bet<br>
 </h3>
 
@@ -216,10 +216,10 @@ dagen) startede tidstagningen.</p>
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20030831008.jpg&palt=Volvo S40 DTC - Kabine','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20030831008t.jpg" width="128" height="96"></a></td>
     <td> I tidtagningen skal k_rslen blot resultere til en plads blandt de 10 
-    bedste. Blandt disse k_res om placeringen i Super Pole.<p>tv: Pontus sikre sig en placering som nummer 10.&nbsp; Og skal nu k_re 
+    bedste. Blandt disse k_res om placeringen i Super Pole.<p>tv: Pontus sikre sig en placering som nummer 10. Og skal nu k_re 
     som den f_rste i Super Pole.</p>
     <p>th: Pontus presser Volvo'en og dens d_k til 
-    det yderste p_ den regnv_de bane i Super Pole til en flot 2. plads.<p>&nbsp;</td>
+    det yderste p_ den regnv_de bane i Super Pole til en flot 2. plads.<p></td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20030831009.jpg&palt=Volvo S40 DTC - Forhjul','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20030831009t.jpg" width="128" height="96"></a></td>
   </tr>
 </table>
@@ -229,7 +229,7 @@ dagen) startede tidstagningen.</p>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20030831010.jpg&palt=Volvo S40 DTC - Pontus M_rth','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20030831010t.jpg" width="128" height="96"></a></td>
     <td> Tv: Teknisk kram som skal t_mmes...<p>Th: S_dan ser optimale bremser 
     ud. 
-    <p>&nbsp;</td>
+    <p></td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20030831011.jpg&palt=Volvo','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20030831011t.jpg" width="128" height="96"></a></td>
   </tr>
 </table>
@@ -254,7 +254,7 @@ dagen) startede tidstagningen.</p>
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20030831016.jpg&palt=Volvo S40 DTC - Pontus M_rth','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20030831016t.jpg" width="128" height="96"></a></td>
     <td> Til gridshowet var de seks smukke Mobil 1-piger linet op p_ begge sider 
-    af Volvo'en.&nbsp; </td>
+    af Volvo'en. </td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20030831017.jpg&palt=Volvo','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20030831017t.jpg" width="128" height="96"></a></td>
   </tr>
 </table>
@@ -304,7 +304,7 @@ oplevelser.</b></p>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

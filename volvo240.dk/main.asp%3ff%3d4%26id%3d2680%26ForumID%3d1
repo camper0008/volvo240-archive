@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -215,7 +215,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Nanna J&#248;rgensen</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Nanna Jørgensen</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-02-2008&nbsp; 10:26</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-02-2008 10:26</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Vores 240 gl fra 1987 d�de sent i g�r aftes. Uden advarsel kom den med et pop og ville ikke mere. Det viser sig nu, at der ikke var mere olie tilbage. Vi havde fyldt p� for ca. 10 m�neder siden og var s� dumme at g� ud fra at olielampen ville advare os om lavvande i tanken.<br><br>Nu er mit sp�rgsm�l s�, om det betyder en helt nu motor?<br><br>Ulykkelige Nanna</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 03-02-2008 10:43)</em></u></strong></font></li><br><font face=Verdana>Hej Nanna<br><br>Det lyder for mig en smule usandsynligt at en Volvo motor bare "s�tter" sig uden advarsel f�rst. Hvis den har manglet sm�ring i et stykke tid plejer den lyde mer og mer metallisk i motorgangen. For mig lyder det mere som en tandrem der er sprunget. N�r tandremmen springer, stopper volvoen bare & den kan evt skyde i potten. Og afh�ngig af motortype kan man bare s�tte en ny rem p� & volvoen k�re igen. Din motortype st�r p� tandrems d�kslet i motorrummet. Fra den �rgang kunne det v�re en B230K.<br>Hvis motoren HAR sat sig, pga manglede sm�ring, s� findes der s� mange ombytter motore derude, til n�sten ingen penge. Du skal s� bare finde en mekaniker der gider l�gge den i for dig. <br><br>MVH<br><br>Emil J <br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Nanna J&#248;rgensen, 03-02-2008 11:32)</em></u></strong></font></li><br><font face=Verdana>Hej Emil.<br>Det er ikke tandremmen, der er sprunget.<br>Ham der k�rte i den da den gik d�d, synes ikke den l�d m�rkeligt, men da vi havde f�et den bugseret hjem var der ingen olie p� og den er slet ikke til at starte - lyder underlig.<br><br>Hvad vil du tro en motor koster n�r du siger "til n�sten ingen penge"? Der er en B230K i nu.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 03-02-2008 14:24)</em></u></strong></font></li><br><font face=Verdana>Hej Nanna<br>Det lyder som om at du har k�rt med en defekt olietryks-kontakt, og s� har olielampen ikke givet advarsel om for lavt olietryk.<br>Jeg vil n�sten tro at motoren er f�rdig.<br>Nu ved jeg ikke hvor i landet du bor, men skulle du bo i midtjylland, s� kan jeg sikkert hj�lpe dig med en anden motor isat.<br>MVH Jens Peter <br>40517458</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Nanna J&#248;rgensen, 05-02-2008 20:15)</em></u></strong></font></li><br><font face=Verdana>Emil du havde ret med tandremmen!</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 05-02-2008 20:33)</em></u></strong></font></li><br><font face=Verdana>Hej Nanna<br><br>Jamen det t�nkte jeg nok. Fik du bare skiftet remmen eller k�bte du en ombytter motor ?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Elo Christensen, 06-02-2008 19:47)</em></u></strong></font></li><br><font face=Verdana>Hej Nanna<br>Det kan da godt v�re Emil havde ret i det med tandremmen,men jeg mener at,Jens-peter har det bedste bud.Nu siger du at der ikke var noget motorolie p� motoren da den stoppede med at snurre og at det jo var 10 m�neder siden sidst der olie p� motoren.det er min store overbevisning at knasten eller krumtappen har sat sig og der efter har kn�kket tandremmen,netop fordi olietrykskontakten eller forbindelsen til din olielampe er i stykker.<br>Bare mit bud p� denne uheldige hennelse.<br>mvh Elo</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 06-02-2008 20:21)</em></u></strong></font></li><br><font face=Verdana>Hej Alle<br><br>Nanna er p� nuv�rende tidspunkt forh�bentlig n�et hjem med Volvoen.(hun var her efter den kl. 16:30)<br>En B230K motor med en kn�kket tandrem, er en lidt st�rre operation.(topstykket "kaputski")<br><br>Jeg tror at Nanna er glag igen nu.<br><br>MVH Jens Peter<br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 03-02-2008 10:43)</em></u></strong></font></li><br><font face=Verdana>Hej Nanna<br><br>Det lyder for mig en smule usandsynligt at en Volvo motor bare "s�tter" sig uden advarsel f�rst. Hvis den har manglet sm�ring i et stykke tid plejer den lyde mer og mer metallisk i motorgangen. For mig lyder det mere som en tandrem der er sprunget. N�r tandremmen springer, stopper volvoen bare & den kan evt skyde i potten. Og afh�ngig af motortype kan man bare s�tte en ny rem p� & volvoen k�re igen. Din motortype st�r p� tandrems d�kslet i motorrummet. Fra den �rgang kunne det v�re en B230K.<br>Hvis motoren HAR sat sig, pga manglede sm�ring, s� findes der s� mange ombytter motore derude, til n�sten ingen penge. Du skal s� bare finde en mekaniker der gider l�gge den i for dig. <br><br>MVH<br><br>Emil J <br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Nanna Jørgensen, 03-02-2008 11:32)</em></u></strong></font></li><br><font face=Verdana>Hej Emil.<br>Det er ikke tandremmen, der er sprunget.<br>Ham der k�rte i den da den gik d�d, synes ikke den l�d m�rkeligt, men da vi havde f�et den bugseret hjem var der ingen olie p� og den er slet ikke til at starte - lyder underlig.<br><br>Hvad vil du tro en motor koster n�r du siger "til n�sten ingen penge"? Der er en B230K i nu.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 03-02-2008 14:24)</em></u></strong></font></li><br><font face=Verdana>Hej Nanna<br>Det lyder som om at du har k�rt med en defekt olietryks-kontakt, og s� har olielampen ikke givet advarsel om for lavt olietryk.<br>Jeg vil n�sten tro at motoren er f�rdig.<br>Nu ved jeg ikke hvor i landet du bor, men skulle du bo i midtjylland, s� kan jeg sikkert hj�lpe dig med en anden motor isat.<br>MVH Jens Peter <br>40517458</font><br><li><font face=Verdana><strong><u>Re: - <em>(Nanna Jørgensen, 05-02-2008 20:15)</em></u></strong></font></li><br><font face=Verdana>Emil du havde ret med tandremmen!</font><br><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 05-02-2008 20:33)</em></u></strong></font></li><br><font face=Verdana>Hej Nanna<br><br>Jamen det t�nkte jeg nok. Fik du bare skiftet remmen eller k�bte du en ombytter motor ?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Elo Christensen, 06-02-2008 19:47)</em></u></strong></font></li><br><font face=Verdana>Hej Nanna<br>Det kan da godt v�re Emil havde ret i det med tandremmen,men jeg mener at,Jens-peter har det bedste bud.Nu siger du at der ikke var noget motorolie p� motoren da den stoppede med at snurre og at det jo var 10 m�neder siden sidst der olie p� motoren.det er min store overbevisning at knasten eller krumtappen har sat sig og der efter har kn�kket tandremmen,netop fordi olietrykskontakten eller forbindelsen til din olielampe er i stykker.<br>Bare mit bud p� denne uheldige hennelse.<br>mvh Elo</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 06-02-2008 20:21)</em></u></strong></font></li><br><font face=Verdana>Hej Alle<br><br>Nanna er p� nuv�rende tidspunkt forh�bentlig n�et hjem med Volvoen.(hun var her efter den kl. 16:30)<br>En B230K motor med en kn�kket tandrem, er en lidt st�rre operation.(topstykket "kaputski")<br><br>Jeg tror at Nanna er glag igen nu.<br><br>MVH Jens Peter<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -265,9 +265,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

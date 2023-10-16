@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=480"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=480"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Lidt startbesv&#230;r med en B230E.....</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Lidt startbesvær med en B230E.....</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">02-06-2003&nbsp; 14:11</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">02-06-2003 14:11</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br>Vi har et lille, n_rmest "ikke ekststerende" problem, som dog aligevel irretere os (mig) lidt.<br><br>Hvis bilen har st_et og er blevet kold s_ skal den k_re 6-7 omgange (vil jeg tro) p_ starteren inden den starter.<br>N_r den er varm springer den derimod igang n_rmest omg_ende.<br><br>Vores gamle bil startede altid omg_ende, men det var nu heller ikke en Volvo... :-)<br><br>Kan der v_re et problem, der g_r dette, eller g_r vi bare forkert n_r vi skal starte bilen.... ;-)<br><br>Vores gamle bil skulle man tr_de gassen helt i bund og slippe igen, s_ startede den perfekt.<br><br>Men med Volvo_en har jeg pr_vet:<br>Tr_de gassen i bund og slippe.<br>Holde gassen halvt nede.<br>Holde foden helt fra gassen.<br>Have lang tids t_nding p_ inden start. (ca. 15 sek.)<br><br>Men det virker ikke som om at det _ndre noget lige meget hvad man g_r.<br><br>Kort og godt:<br>Er det normalt ?? :-)<br><br>(Bilen er jo ikke ny, den har k_rt 350.000 km.<br><br>Mvh.<br>Peter</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=480&ForumID=1&Showsub=635'>Re: Lidt startbesv&#230;r med en B230E.....</a> <em>(Boris Persson, 15-07-2003 10:54)</em></strong></font></li><br><font face=Verdana>Du er jo den heldige ejer af en indspr_jtningsmotor, som ikke arbejder efter samme principper som en kabureret motor g_r. Det vil nok v_re for omfattende at forklare alle detaljer, blot sige til dig at istedet for en kaburator er der monteret indspr_jtningsdyser som tilf_re den forn_dne benzin. For at det kan ske, sidder der forskellige pumper til at presse benzinen frem til dyserne, hvis man kan sige det s_dan. Der skal oparbejdes et vidst tryk f_r de virker og det er sandsynligvis her et sted at problemerne er.  Et godt r_d: Din vogn har 350 000 km p_ bagen og vi snakker om ret dyre reperationer, n_r vi snakker indspr_jtning,og er br_ndstof_konomien i orden, de her ca. 10 - 11,5 km pr. liter, s_ vent de 6-7 omg. til den starter og tr_d aldrig p_ speederen, n_r du starter, hverken n_r den er kold eller varm, elektroniken s_rger selv for det der skal s_rges for..</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=480&ForumID=1&Showsub=635'>Re: Lidt startbesvær med en B230E.....</a> <em>(Boris Persson, 15-07-2003 10:54)</em></strong></font></li><br><font face=Verdana>Du er jo den heldige ejer af en indspr_jtningsmotor, som ikke arbejder efter samme principper som en kabureret motor g_r. Det vil nok v_re for omfattende at forklare alle detaljer, blot sige til dig at istedet for en kaburator er der monteret indspr_jtningsdyser som tilf_re den forn_dne benzin. For at det kan ske, sidder der forskellige pumper til at presse benzinen frem til dyserne, hvis man kan sige det s_dan. Der skal oparbejdes et vidst tryk f_r de virker og det er sandsynligvis her et sted at problemerne er.  Et godt r_d: Din vogn har 350 000 km p_ bagen og vi snakker om ret dyre reperationer, n_r vi snakker indspr_jtning,og er br_ndstof_konomien i orden, de her ca. 10 - 11,5 km pr. liter, s_ vent de 6-7 omg. til den starter og tr_d aldrig p_ speederen, n_r du starter, hverken n_r den er kold eller varm, elektroniken s_rger selv for det der skal s_rges for..</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">52</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">52</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

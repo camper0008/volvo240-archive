@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Volvo Original</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Volvo Original</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -134,10 +134,10 @@ document.onmousedown=click;
   <tr>
     <td>
       <h2>Volvo reservedele</h2>
-      <p>&nbsp;</p>
+      <p></p>
       <p>P_ disse sider vises Volvo Original produkter, som generelt efter min
       mening, er det eneste der b_r sidde i en Volvo.</p>
-      <p>Men ikke kun nye dele vises her. Volvo har ogs_ &quot;Brugte&quot;
+      <p>Men ikke kun nye dele vises her. Volvo har ogs_ "Brugte"
       dele p_ programmet, som bliver blevet renoveret hos Volvo.<br>
       Efter renoveringen er delene 100% funktionsdygtige og 100% driftsikre. De
       svarer faktisk til nye dele. Men prisen er n_vnev_rdig mindre.<br>
@@ -172,7 +172,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

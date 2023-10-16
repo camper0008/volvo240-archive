@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -209,7 +209,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-06-2012&nbsp; 22:57</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-06-2012 22:57</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Min brors 850&#39;er har problemer med at starte i varmt vejr, dvs, 37-38 grader (han bor i Sydeuropa for _jeblikket). Jeg har oplevet det engang med en bil i USA, det er noget med at benzinen danner bobler i br_ndstofsystemet... Normalt skulle der v_re et eller andet system som l_ser dette problem, kan dog ikke huske hvad det er. Er der nogen der har et bud p_ hvad der kan v_re galt?</font></td>
@@ -220,7 +220,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 22-06-2012 16:02)</em></u></strong></font></li><br><font face=Verdana>din brors 850??  er det Morris mascot_en? eller Fiat 850? :-) N_.. men mener nu.. hvilken motor er der i dyret???</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 23-06-2012 08:28)</em></u></strong></font></li><br><font face=Verdana>Hej<br>M_ske det er Kold-Varmstarts ventilen, der er defekt/l_s forbindelse, og tror det er koldt, og drukner den.<br><br>Hej Torben<br>Hvis du ikke skulle have opdaget det endnu, s_ er du inde p_ volvo 240 dk, og under Volvo 800 serien &#59;-) <br><br>mvh<br>S_ren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Martin Nielsen, 06-08-2013 16:30)</em></u></strong></font></li><br><font face=Verdana>hej er der nogen der ved hvor benzinpumpe rele sidder p_ en volvo 850 sedan glt. 92, da den har det med at sl_ fra s_ den ikke f_r benzin vi har unders_gt om pumpen k_re det g_r den ikke  men  n_r der er g_et ca. en time kan den state igen uden problemer  eller er det varm starts ventil hvor sidder den etv.   mv.h. martin</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 06-08-2013 18:50)</em></u></strong></font></li><br><font face=Verdana>Oppe i sikringsboksen i motorrummet<br><br>Mvh</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Martin Nielsen, 07-08-2013 00:12)</em></u></strong></font></li><br><font face=Verdana>hej peter tak for det er det en af de sm_ firkanted  <br>for der st_r ikke noget p_ dem   <br><br>m.v.h. martin</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 07-08-2013 12:53)</em></u></strong></font></li><br><font face=Verdana><a href="http://www.volvoclub.org.uk/tech/service/850/ElectricalComponentLocator.pdf" target="_blank">http://www.volvoclub.org.uk/tech/service/850/ElectricalComponentLocator.pdf</a></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Martin Nielsen, 07-08-2013 16:31)</em></u></strong></font></li><br><font face=Verdana>mange tak for hj_lpen det var super  s_ er der ikke s_ meget at ta fejl af mange tak <br><br>m.v.h. martin</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 22-06-2012 16:02)</em></u></strong></font></li><br><font face=Verdana>din brors 850??  er det Morris mascot_en? eller Fiat 850? :-) N_.. men mener nu.. hvilken motor er der i dyret???</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren Frydendahl Krab, 23-06-2012 08:28)</em></u></strong></font></li><br><font face=Verdana>Hej<br>M_ske det er Kold-Varmstarts ventilen, der er defekt/l_s forbindelse, og tror det er koldt, og drukner den.<br><br>Hej Torben<br>Hvis du ikke skulle have opdaget det endnu, s_ er du inde p_ volvo 240 dk, og under Volvo 800 serien &#59;-) <br><br>mvh<br>S_ren</font><br><li><font face=Verdana><strong><u>Re: - <em>(Martin Nielsen, 06-08-2013 16:30)</em></u></strong></font></li><br><font face=Verdana>hej er der nogen der ved hvor benzinpumpe rele sidder p_ en volvo 850 sedan glt. 92, da den har det med at sl_ fra s_ den ikke f_r benzin vi har unders_gt om pumpen k_re det g_r den ikke  men  n_r der er g_et ca. en time kan den state igen uden problemer  eller er det varm starts ventil hvor sidder den etv.   mv.h. martin</font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 06-08-2013 18:50)</em></u></strong></font></li><br><font face=Verdana>Oppe i sikringsboksen i motorrummet<br><br>Mvh</font><br><li><font face=Verdana><strong><u>Re: - <em>(Martin Nielsen, 07-08-2013 00:12)</em></u></strong></font></li><br><font face=Verdana>hej peter tak for det er det en af de sm_ firkanted  <br>for der st_r ikke noget p_ dem   <br><br>m.v.h. martin</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 07-08-2013 12:53)</em></u></strong></font></li><br><font face=Verdana><a href="http://www.volvoclub.org.uk/tech/service/850/ElectricalComponentLocator.pdf" target="_blank">http://www.volvoclub.org.uk/tech/service/850/ElectricalComponentLocator.pdf</a></font><br><li><font face=Verdana><strong><u>Re: - <em>(Martin Nielsen, 07-08-2013 16:31)</em></u></strong></font></li><br><font face=Verdana>mange tak for hj_lpen det var super  s_ er der ikke s_ meget at ta fejl af mange tak <br><br>m.v.h. martin</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -229,7 +229,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">24</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">24</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

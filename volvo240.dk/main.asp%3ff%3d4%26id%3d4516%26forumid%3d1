@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -201,7 +201,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Poul Breindahl J&#248;rgensen</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Poul Breindahl Jørgensen</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -209,7 +209,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-01-2012&nbsp; 15:36</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-01-2012 15:36</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej venner<br>hj___lp!<br><br>Jeg har et problem med min B20 motor m. enkelt Stromberg. Det m_ s_ v_re en B20A.<br>Jeg g_r st_rkt ud fra, at den har siddet i bilen fra starten af og derved er originalt til bilen, samt har k_rt de km, som er angivet i t_lleren: ca. 130.000 km<br><br>En sk_nne dag, begyndte den at "tikke" i motoren fra Fredericia til Vejle. Inden turen var slut, var det blevet v_rre og v_rre. Jeg justerede ventilerne, som p_ 3.cyl - 6 ventil, var helt ude for tolerancen.<br>S_ k_rte den igen fint, men efter 20min k_rsel, begyndte det igen, samme historie.<br>Jeg justerer igen og igen, men det hj_lper lige meget.<br>Nu er det s_ blevet v_rre, da jeg ikke l_ngere kan justere mig ud af det "tikkeri".<br>Jeg har s_gt p_ internettet, for at finde l_sninger p_ dette og det eneste der falder mig i _jnene er, at en gut p_ internettet har skrevet, at der var fejl p_ en hvis _rgang B20A motorer, hvor de p_ fabrikken havde problemer med h_rdningen af knastakslen, hvilket ville resultere i, at knasten til udst_dningsventilen p_ 3.cyl ville slide sig selv ihjel, oftest inden 200.000km. Det vil alts_ sige, at jeg enten skal have ny motor eller have skiftet den knastaksel. Eller kan det v_re noget helt andet?<br><br>Hvad mener du?<br>P_ forh_nd tak<br>M.V.H. Poul</font></td>
@@ -220,7 +220,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 14-01-2012 17:33)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Hvis den kun har k_rt de kilometer, s_ b_re bilen ikke pr_g af slid af nogen art.<br>Pedalerne,s_derne,rat,ja alt som slides.....det er jo kun ca. 3600km /_r.<br><br>Alternativ er at den har rundet 1 mill eller ((har f_et skiftet t_lleren.<br>Oftest har de s_ en lille revne i plastic-glasset, hvor man nulstiller tript_lleren.))<br><br>Har den k_rt meget, kunne det v_re den har k_rt p_ gas, og topstykket er f_rdig.<br><br>Er det topstykket fra den gang, er den ikke lavet til blyfri, og ventilerne _der sig langsom op i topstykket.<br><br>Der kan ogs_ v_re sat nye ventils_der i (evt. pga af gas, som er g_et l_se, og klapre.<br><br>N_r du justere, l_sner m_trikken sig efterf_lgende-??<br><br>Men jeg synes det lyder m_rkelig at du kan justere det v_k, og s_ kommer det efter 20 min igen.<br>Hvor meget er der da tabt af justeringen.-??<br><br>Pr_v at s_tte et r_r p_ og _ret i den anden ende og lytte forskellige steder p_ motoren, s_ kan du m_ske h_re hvorfra det kommer.<br><br>mvh<br>S_ren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 14-01-2012 18:07)</em></u></strong></font></li><br><font face=Verdana>Hej Poul<br>Kontakt Salling Volvo Klub, (pr. telefon)<br>De har et medlem der hedder Finn, som er ekstrem ekspert i B20 motorer, han laver dem i fritiden, og kan fikse alle problemer med disse motorer.<br>MVH Jens Peter</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Søren Frydendahl Krab, 14-01-2012 17:33)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Hvis den kun har k_rt de kilometer, s_ b_re bilen ikke pr_g af slid af nogen art.<br>Pedalerne,s_derne,rat,ja alt som slides.....det er jo kun ca. 3600km /_r.<br><br>Alternativ er at den har rundet 1 mill eller ((har f_et skiftet t_lleren.<br>Oftest har de s_ en lille revne i plastic-glasset, hvor man nulstiller tript_lleren.))<br><br>Har den k_rt meget, kunne det v_re den har k_rt p_ gas, og topstykket er f_rdig.<br><br>Er det topstykket fra den gang, er den ikke lavet til blyfri, og ventilerne _der sig langsom op i topstykket.<br><br>Der kan ogs_ v_re sat nye ventils_der i (evt. pga af gas, som er g_et l_se, og klapre.<br><br>N_r du justere, l_sner m_trikken sig efterf_lgende-??<br><br>Men jeg synes det lyder m_rkelig at du kan justere det v_k, og s_ kommer det efter 20 min igen.<br>Hvor meget er der da tabt af justeringen.-??<br><br>Pr_v at s_tte et r_r p_ og _ret i den anden ende og lytte forskellige steder p_ motoren, s_ kan du m_ske h_re hvorfra det kommer.<br><br>mvh<br>S_ren</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 14-01-2012 18:07)</em></u></strong></font></li><br><font face=Verdana>Hej Poul<br>Kontakt Salling Volvo Klub, (pr. telefon)<br>De har et medlem der hedder Finn, som er ekstrem ekspert i B20 motorer, han laver dem i fritiden, og kan fikse alle problemer med disse motorer.<br>MVH Jens Peter</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -229,7 +229,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">24</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">24</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

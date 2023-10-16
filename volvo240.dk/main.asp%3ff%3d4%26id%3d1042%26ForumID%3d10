@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-06-2005&nbsp; 18:03</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-06-2005 18:03</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Jeg har en VOlvo 245 GLE 1983, oprindeligt f�dt med 3-trins automatgearkasse men forrige ejer har skiftet til en 4-trins. <br><br>Nu er tiden efterh�nden kommet til at jeg vil skifte gearkasseolie, men s� skal jeg vide hvilken type der er brugt. Men det ser ud til at det er meget afh�ngig af ikke blot hvilken gearkasse, men ogs� hvilken �rgang. Og det kan tilsynel�adende have katastrofale f�lger hvis man skifter til en forkert type.<br><br>Hvordan finder jeg ud af hvilken type olie der er i s� jeg kan bruge den samme olie?<br><br>Jacob</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 21-06-2005 20:04)</em></u></strong></font></li><br><font face=Verdana>G� ind i menuen, under Volvo 240 info, og scroll ned i bunden, der kan du se det</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob lorensen, 23-06-2005 09:40)</em></u></strong></font></li><br><font face=Verdana>Jeg kan ikke se det i tabellen, for det er en eftermonteret gearkasse. Den oprindelige 3-trins automatiske, fra '83, ville if�lge tabellen skulle bruge ATF olie. Men den nyere 4-trins som er monteret senere og som jeg ikke kender �rgangen p� --- hvad skal den bruge? Hvordan finder jeg ud af det?<br><br>P� forh�nd tak,<br>Jacob.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Johan &#197;rman, 23-06-2005 11:12)</em></u></strong></font></li><br><font face=Verdana>Hej.<br><br>Din 4-trins kasse er efter al sandsynlighed en AW 70 eller 71, der ligesom den gamle BW55 skal have ATF-olie. se i tabellen. <br><br>Johan �rman, 760GLE med AW 71</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob Lorensen, 26-06-2005 23:33)</em></u></strong></font></li><br><font face=Verdana>Tak for hj�lpen.<br><br>�hm - men jeg kan nu stadig ikke se hvor i tabellen jeg kan se at den skal have ATF olie. Tabellen siger:<br><br>-84: ATF olie<br>85-: Dexron II D eller Dexron III<br><br>s� det m� jo afh�nge af hvilken �rgang gearkassen er fra... hmmm</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 21-06-2005 20:04)</em></u></strong></font></li><br><font face=Verdana>G� ind i menuen, under Volvo 240 info, og scroll ned i bunden, der kan du se det</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob lorensen, 23-06-2005 09:40)</em></u></strong></font></li><br><font face=Verdana>Jeg kan ikke se det i tabellen, for det er en eftermonteret gearkasse. Den oprindelige 3-trins automatiske, fra '83, ville if�lge tabellen skulle bruge ATF olie. Men den nyere 4-trins som er monteret senere og som jeg ikke kender �rgangen p� --- hvad skal den bruge? Hvordan finder jeg ud af det?<br><br>P� forh�nd tak,<br>Jacob.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Johan Årman, 23-06-2005 11:12)</em></u></strong></font></li><br><font face=Verdana>Hej.<br><br>Din 4-trins kasse er efter al sandsynlighed en AW 70 eller 71, der ligesom den gamle BW55 skal have ATF-olie. se i tabellen. <br><br>Johan �rman, 760GLE med AW 71</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob Lorensen, 26-06-2005 23:33)</em></u></strong></font></li><br><font face=Verdana>Tak for hj�lpen.<br><br>�hm - men jeg kan nu stadig ikke se hvor i tabellen jeg kan se at den skal have ATF olie. Tabellen siger:<br><br>-84: ATF olie<br>85-: Dexron II D eller Dexron III<br><br>s� det m� jo afh�nge af hvilken �rgang gearkassen er fra... hmmm</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">44</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">44</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

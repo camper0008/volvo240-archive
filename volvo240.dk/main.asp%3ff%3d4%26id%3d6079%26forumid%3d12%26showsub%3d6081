@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=12"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=12&amp;MessageId=6079"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=12&MessageId=6079"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">13-05-2006&nbsp; 18:45</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">13-05-2006 18:45</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Vi har en volvo 850, 2,0 1996, med turbo/intercooler (g_et 220.000km).<br>Desv_rre viser det sig at der ligger olie i r_rerne p_ turboen. Vores olieforbrug er ret stort og turboen "hvisler" ved acc. og motoren kan ind imellem g_ lidt uj_vnt. Ellers virker turboen tilsyneladende og bilen k_rer ellers rigtigt godt.<br>Sp_rgsm_let er da, om vi skal regne med at turboen er "g_et" og helt skal udskiftes eller om det er muligt at reparere/renovere p_ turboen?<br>Er der risiko for yderligere skade, n_r vi k_rer, hvis vi bare s_rger for at den har nok olie p_?<br>Med venlig hilsen<br>Katja</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6079&ForumID=12&Showsub=6081'>Re: Defekt turbo i  volvo 850-skift/rep.?</a> <em>(nec, 13-05-2006 19:15)</em></strong></font></li><br><font face=Verdana>start med at f_ renset krumptapventilationsfilert det er ret vigtigt. et kun delvis stoppet filter kan give olieforbrug gennem turbo.</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6079&ForumID=12&Showsub=6083'>Re: Defekt turbo i  volvo 850-skift/rep.?</a> <em>(Ruben, 13-05-2006 19:49)</em></strong></font></li><br><font face=Verdana>Renovering eller udskiftning koster n_sten det samme. En ny turbolader uoriginalt kan skaffes for en 4-5000.- dkkr hvor en renovering koster ca 3-3500.- dkkr.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6079&ForumID=12&Showsub=6081'>Re: Defekt turbo i  volvo 850-skift/rep.?</a> <em>(nec, 13-05-2006 19:15)</em></strong></font></li><br><font face=Verdana>start med at f_ renset krumptapventilationsfilert det er ret vigtigt. et kun delvis stoppet filter kan give olieforbrug gennem turbo.</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=6079&ForumID=12&Showsub=6083'>Re: Defekt turbo i  volvo 850-skift/rep.?</a> <em>(Ruben, 13-05-2006 19:49)</em></strong></font></li><br><font face=Verdana>Renovering eller udskiftning koster n_sten det samme. En ny turbolader uoriginalt kan skaffes for en 4-5000.- dkkr hvor en renovering koster ca 3-3500.- dkkr.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">21</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">21</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

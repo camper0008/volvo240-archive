@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Volvo tr�f Harrevig 2008</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Volvo tr�f Harrevig 2008</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,7 +197,7 @@ Arrang�ren var <a target="_blank" href="http://www.sallingvolvoklub.dk">Sallin
 <p>Desv�rre havde jeg ikke mullighed for at deltage i �r, men Jens Peter Jensen fra Hostebro var med p� tr�ffet og tog en del billeder.<br>
 Her et udsnit af billederne som vises med Jens Peter's tilladelse.</p>
 
-<p>&nbsp;</p>
+<p></p>
 
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
@@ -207,10 +207,10 @@ Her et udsnit af billederne som vises med Jens Peter's tilladelse.</p>
     <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/harrevig0804.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/harrevig0804t.jpg" width="128" height="85"></a></td>
   </tr>                                                                                                                                                                                                                                                                             
   <tr>                                                                                                                                                                                                                                                                              
-    <td width="25%" align="center"> &nbsp;</td>                                                                                                                                                                                                                                     
-    <td width="25%" align="center"> &nbsp;</td>                                                                                                                                                                                                                                     
-    <td width="25%" align="center"> &nbsp;</td>                                                                                                                                                                                                                                     
-    <td width="25%" align="center"> &nbsp;</td>                                                                                                                                                                                                                                     
+    <td width="25%" align="center"> </td>                                                                                                                                                                                                                                     
+    <td width="25%" align="center"> </td>                                                                                                                                                                                                                                     
+    <td width="25%" align="center"> </td>                                                                                                                                                                                                                                     
+    <td width="25%" align="center"> </td>                                                                                                                                                                                                                                     
   </tr>                                                                                                                                                                                                                                                                             
 </table>                                                                                                                                                                                                                                                                            
                                                                                                                                                                                                                                                                                     
@@ -222,10 +222,10 @@ Her et udsnit af billederne som vises med Jens Peter's tilladelse.</p>
     <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/harrevig0808.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/harrevig0808t.jpg" width="128" height="85"></a></td>
   </tr>                                                                                                                                                                                                                                                                             
   <tr>                                                                                                                                                                                                                                                                              
-    <td width="25%" align="center"> &nbsp;</td>                                                                                                                                                                                                                                     
-    <td width="25%" align="center"> &nbsp;</td>                                                                                                                                                                                                                                     
-    <td width="25%" align="center"> &nbsp;</td>                                                                                                                                                                                                                                     
-    <td width="25%" align="center"> &nbsp;</td>                                                                                                                                                                                                                                     
+    <td width="25%" align="center"> </td>                                                                                                                                                                                                                                     
+    <td width="25%" align="center"> </td>                                                                                                                                                                                                                                     
+    <td width="25%" align="center"> </td>                                                                                                                                                                                                                                     
+    <td width="25%" align="center"> </td>                                                                                                                                                                                                                                     
   </tr>                                                                                                                                                                                                                                                                             
 </table>                                                                                                                                                                                                                                                                            
                                                                                                                                                                                                                                                                                     
@@ -237,10 +237,10 @@ Her et udsnit af billederne som vises med Jens Peter's tilladelse.</p>
     <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/harrevig0812.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/harrevig0812t.jpg" width="128" height="85"></a></td>
   </tr>                                                                                                                                                                                                                                                                             
   <tr>                                                                                                                                                                                                                                                                              
-    <td width="25%" align="center"> &nbsp;</td>                                                                                                                                                                                                                                     
-    <td width="25%" align="center"> &nbsp;</td>                                                                                                                                                                                                                                     
-    <td width="25%" align="center"> &nbsp;</td>                                                                                                                                                                                                                                     
-    <td width="25%" align="center"> &nbsp;</td>                                                                                                                                                                                                                                     
+    <td width="25%" align="center"> </td>                                                                                                                                                                                                                                     
+    <td width="25%" align="center"> </td>                                                                                                                                                                                                                                     
+    <td width="25%" align="center"> </td>                                                                                                                                                                                                                                     
+    <td width="25%" align="center"> </td>                                                                                                                                                                                                                                     
   </tr>                                                                                                                                                                                                                                                                             
 </table>                                                                                                                                                                                                                                                                            
 <table border="0" cellpadding="5" cellspacing="1" width="745">                                                                                                                                                                                                                      
@@ -251,10 +251,10 @@ Her et udsnit af billederne som vises med Jens Peter's tilladelse.</p>
     <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/harrevig0816.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/harrevig0816t.jpg" width="128" height="85"></a></td>
   </tr>
   <tr>
-    <td width="25%" align="center"> &nbsp;</td>
-    <td width="25%" align="center"> &nbsp;</td>
-    <td width="25%" align="center"> &nbsp;</td>
-    <td width="25%" align="center"> &nbsp;</td>
+    <td width="25%" align="center"> </td>
+    <td width="25%" align="center"> </td>
+    <td width="25%" align="center"> </td>
+    <td width="25%" align="center"> </td>
   </tr>
 </table>
 
@@ -287,7 +287,7 @@ Her et udsnit af billederne som vises med Jens Peter's tilladelse.</p>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">23</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">23</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

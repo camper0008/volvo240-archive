@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-04-2006&nbsp; 13:21</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-04-2006 13:21</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">hej,<br>jeg har virgof�lge med 195/65/15 (meget slidte)d�k. er nu blevet tilbudt at k�be fire nye d�k str.190/65/15 - passer disse til virgo-f�lgen?<br>mvh<br>kristian</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(k.bager, 01-04-2006 13:26)</em></u></strong></font></li><br><font face=Verdana>Du kan se alle oplysninger om Volvo Aluf�lge under Volvo original.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kristian, 01-04-2006 13:38)</em></u></strong></font></li><br><font face=Verdana>hej igen,<br>de d�k der nu sidder p�, har naturligvis str.195/60/15, og sp�rgsm�let er s� om d�k str.190/60/15 passer til virgo-f�lgen?<br>jeg kan ikke se et klart svar under volvo-original...<br>mvh<br>kristian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ren&#233; &#216;stergaard, 01-04-2006 13:44)</em></u></strong></font></li><br><font face=Verdana>Originalt k�rer de s� vidt jeg husker 185/65-15 hvis det er en 244, og 185/70-15 hvis det er en stc. Men min 240 k�rer p� 195/65-15, dels fordi det er en "standard-st�rrelse", s� de er lette at f� fat i (Mange biler k�rer med den st�rrelse), og fordi jeg syntes det ser p�nere ud med den st�rrelse.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ruben, 01-04-2006 14:20)</em></u></strong></font></li><br><font face=Verdana>Ja de vil uden problemer passe p� dine f�lge.<br><br>En hurtig lille forklaring p� d�k. 195/65R15 betyder at d�kket er 195mm bredt i slidbanen, 65%af d�kkets slidbanebredde tykt (i dette tilf�lde 126,75mm tykt (profil)) og til Radius 15" f�lge.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(k.bager, 01-04-2006 13:26)</em></u></strong></font></li><br><font face=Verdana>Du kan se alle oplysninger om Volvo Aluf�lge under Volvo original.</font><br><li><font face=Verdana><strong><u>Re: - <em>(kristian, 01-04-2006 13:38)</em></u></strong></font></li><br><font face=Verdana>hej igen,<br>de d�k der nu sidder p�, har naturligvis str.195/60/15, og sp�rgsm�let er s� om d�k str.190/60/15 passer til virgo-f�lgen?<br>jeg kan ikke se et klart svar under volvo-original...<br>mvh<br>kristian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Ren&#233; Østergaard, 01-04-2006 13:44)</em></u></strong></font></li><br><font face=Verdana>Originalt k�rer de s� vidt jeg husker 185/65-15 hvis det er en 244, og 185/70-15 hvis det er en stc. Men min 240 k�rer p� 195/65-15, dels fordi det er en "standard-st�rrelse", s� de er lette at f� fat i (Mange biler k�rer med den st�rrelse), og fordi jeg syntes det ser p�nere ud med den st�rrelse.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Ruben, 01-04-2006 14:20)</em></u></strong></font></li><br><font face=Verdana>Ja de vil uden problemer passe p� dine f�lge.<br><br>En hurtig lille forklaring p� d�k. 195/65R15 betyder at d�kket er 195mm bredt i slidbanen, 65%af d�kkets slidbanebredde tykt (i dette tilf�lde 126,75mm tykt (profil)) og til Radius 15" f�lge.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">54</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">54</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

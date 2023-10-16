@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Galleri</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Galleri</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -144,7 +144,7 @@ document.onmousedown=click;
 
 
 
-<tr><td width='45'>&nbsp;</td><td width='705'><a href='/main.asp?f=112#001'>RaceNet Motorsport</a></td></tr><tr><td width='45'>&nbsp;</td><td width='705'><a href='/main.asp?f=112#002'>Mats R sport</a></td></tr><tr><td width='45'>&nbsp;</td><td width='705'><a href='/main.asp?f=112#003'>Team Sladdman</a></td></tr><tr><td width='45'>&nbsp;</td><td width='705'><a href='/main.asp?f=112#004'>B_rstad Motorsport</a></td></tr><tr><td width='45'>&nbsp;</td><td width='705'><a href='/main.asp?f=112#005'>erikwiklund</a></td></tr><tr><td width='45'>&nbsp;</td><td width='705'><a href='/main.asp?f=112#006'>Hugosson Rally</a></td></tr><tr><td width='45'>&nbsp;</td><td width='705'><a href='/main.asp?f=112#007'>Slowmotion Rally Team</a></td></tr><tr><td width='45'>&nbsp;</td><td width='705'><a href='/main.asp?f=112#008'>Gunnarsson Rally</a></td></tr><tr><td width='45'>&nbsp;</td><td width='705'><a href='/main.asp?f=112#009'>Fluppes Rallyteam</a></td></tr><tr><td width='45'>&nbsp;</td><td width='705'><a href='/main.asp?f=112#010'>Martin Racing</a></td></tr><tr><td width='45'>&nbsp;</td><td width='705'><a href='/main.asp?f=112#011'>Brages Rallyteam</a></td></tr><tr><td width='45'>&nbsp;</td><td width='705'><a href='/main.asp?f=112#012'>The Blue Team Rally</a></td></tr><tr><td width='45'>&nbsp;</td><td width='705'><a href='/main.asp?f=112#013'>Milo`s racingteam</a></td></tr>
+<tr><td width='45'></td><td width='705'><a href='/main.asp?f=112#001'>RaceNet Motorsport</a></td></tr><tr><td width='45'></td><td width='705'><a href='/main.asp?f=112#002'>Mats R sport</a></td></tr><tr><td width='45'></td><td width='705'><a href='/main.asp?f=112#003'>Team Sladdman</a></td></tr><tr><td width='45'></td><td width='705'><a href='/main.asp?f=112#004'>B_rstad Motorsport</a></td></tr><tr><td width='45'></td><td width='705'><a href='/main.asp?f=112#005'>erikwiklund</a></td></tr><tr><td width='45'></td><td width='705'><a href='/main.asp?f=112#006'>Hugosson Rally</a></td></tr><tr><td width='45'></td><td width='705'><a href='/main.asp?f=112#007'>Slowmotion Rally Team</a></td></tr><tr><td width='45'></td><td width='705'><a href='/main.asp?f=112#008'>Gunnarsson Rally</a></td></tr><tr><td width='45'></td><td width='705'><a href='/main.asp?f=112#009'>Fluppes Rallyteam</a></td></tr><tr><td width='45'></td><td width='705'><a href='/main.asp?f=112#010'>Martin Racing</a></td></tr><tr><td width='45'></td><td width='705'><a href='/main.asp?f=112#011'>Brages Rallyteam</a></td></tr><tr><td width='45'></td><td width='705'><a href='/main.asp?f=112#012'>The Blue Team Rally</a></td></tr><tr><td width='45'></td><td width='705'><a href='/main.asp?f=112#013'>Milo`s racingteam</a></td></tr>
 
       </table>
     </td>
@@ -173,7 +173,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

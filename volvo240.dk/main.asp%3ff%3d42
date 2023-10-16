@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;B230 K</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">B230 K</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -143,60 +143,60 @@ document.onmousedown=click;
         <tr>
           <th align="left">_rgang</th>
           <th width="160">1987-89</th>
-          <th width="160">&nbsp;</th>
-          <th width="160">&nbsp;</th>
-          <th width="160">&nbsp;</th>
+          <th width="160"></th>
+          <th width="160"></th>
+          <th width="160"></th>
         </tr>
       </thead>
       <tbody id="motorspec">
         <tr>
           <th align="left">Slagvolumen</th>
           <td width="160">2316</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
+          <td width="160"></td>
+          <td width="160"></td>
+          <td width="160"></td>
         </tr>
         <tr>
           <th align="left">Benzin System</th>
           <td width="160">Solex CISAC</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
+          <td width="160"></td>
+          <td width="160"></td>
+          <td width="160"></td>
         </tr>
         <tr>
           <th align="left">Effekt</th>
           <td width="160">116 hk ved 5100 r/m</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
+          <td width="160"></td>
+          <td width="160"></td>
+          <td width="160"></td>
         </tr>
         <tr>
           <th align="left">Drejningsmoment</th>
           <td width="160">192 Nm ved 3000 r/m</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
+          <td width="160"></td>
+          <td width="160"></td>
+          <td width="160"></td>
         </tr>
         <tr>
           <th align="left">Tomgang RPN</th>
           <td width="160">900 r/m</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
+          <td width="160"></td>
+          <td width="160"></td>
+          <td width="160"></td>
         </tr>
         <tr>
           <th align="left">T_ndingsindstilling</th>
           <td width="160">12_ f._.d</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
+          <td width="160"></td>
+          <td width="160"></td>
+          <td width="160"></td>
         </tr>
         <tr>
           <th align="left">Kompressionsforhold</th>
           <td width="160">10,3:1</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
-          <td width="160">&nbsp;</td>
+          <td width="160"></td>
+          <td width="160"></td>
+          <td width="160"></td>
         </tr>
       </tbody>
       </table>
@@ -234,7 +234,7 @@ document.onmousedown=click;
           <td width="333" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt" height="15">85</td>
         </tr>
         <tr>
-          <th width="46" align="left" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt" height="15">&nbsp;</th>
+          <th width="46" align="left" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt" height="15"></th>
           <th width="257" colspan="2" align="left" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt" height="15">ved</th>
           <th width="114" align="left" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt" height="15">omdr./min</th>
           <td width="333" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt" height="15">5100</td>
@@ -254,7 +254,7 @@ document.onmousedown=click;
           <td width="333" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt" height="15">88.84/424-e4-86004/5</td>
         </tr>
         <tr>
-          <th width="46" align="left" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt" height="15">&nbsp;</th>
+          <th width="46" align="left" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt" height="15"></th>
           <th width="257" colspan="2" align="left" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt" height="15">ved</th>
           <th width="114" align="left" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt" height="15">omdr./min</th>
           <td width="333" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt" height="15">3825 (St_jm_lemetode IV)</td>
@@ -281,7 +281,7 @@ document.onmousedown=click;
           <td width="333" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt">90 84/372-e4-86003</td>
         </tr>
         <tr>
-          <th width="46" align="left" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt">&nbsp;</th>
+          <th width="46" align="left" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt"></th>
           <th width="257" colspan="2" align="left" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt">ved</th>
           <th width="114" align="left" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt">omdr./min</th>
           <td width="333" bgcolor="#FFFFFF" style="color: #000000; font-size: 10 pt">3825 (St_jm_lemetode IV)</td>
@@ -314,7 +314,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

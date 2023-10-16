@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=2168"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=2168"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-09-2004&nbsp; 18:53</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-09-2004 18:53</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Jeg har en Volvo 244, fra 1980, jeg skal igang med et lille projekt; jeg vil nemlig pille mit gamle instrumentbord og montere det "nye" type ( + varme apperat og visker arme..), men i forbindelse med den ombytning, vil jeg også skifte hele mit ledningsnet,  ( bilen jeg vil ta det hele fra er en 89´er) men er der nogen som ved om jeg evt. kan rende i nogle voldsomme problemer og er der nogen som har prøvet og give nogle gode råd og vejledning??? Jeg er der bliver noget med stikkene til motoren. På min den gamle volvo har jeg også bygget elektronisk tændning over på, så det er der også..<br><br>Mvh. Finn - Håber meget og hører nogle ideer m.m.   VOLVO FOR LIFE</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Jeg har en Volvo 244, fra 1980, jeg skal igang med et lille projekt; jeg vil nemlig pille mit gamle instrumentbord og montere det "nye" type ( + varme apperat og visker arme..), men i forbindelse med den ombytning, vil jeg ogsÃ¥ skifte hele mit ledningsnet,  ( bilen jeg vil ta det hele fra er en 89´er) men er der nogen som ved om jeg evt. kan rende i nogle voldsomme problemer og er der nogen som har prÃ¸vet og give nogle gode rÃ¥d og vejledning??? Jeg er der bliver noget med stikkene til motoren. PÃ¥ min den gamle volvo har jeg ogsÃ¥ bygget elektronisk tÃ¦ndning over pÃ¥, sÃ¥ det er der ogsÃ¥..<br><br>Mvh. Finn - HÃ¥ber meget og hÃ¸rer nogle ideer m.m.   VOLVO FOR LIFE</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2168&ForumID=2&Showsub=2175'>Re: Org. Ledningsnet</a> <em>(Kent, 07-09-2004 23:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2168&ForumID=2&Showsub=2174'>Re: Org. Ledningsnet</a> <em>(Kent, 07-09-2004 10:53)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2168&ForumID=2&Showsub=2173'>Re: Org. Ledningsnet</a> <em>(finn, 06-09-2004 20:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2168&ForumID=2&Showsub=2172'>Re: Org. Ledningsnet</a> <em>(Kent, 04-09-2004 19:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2168&ForumID=2&Showsub=2170'>Re: Org. Ledningsnet</a> <em>(Johan &#197;rman, 02-09-2004 09:50)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2168&ForumID=2&Showsub=2175'>Re: Org. Ledningsnet</a> <em>(Kent, 07-09-2004 23:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2168&ForumID=2&Showsub=2174'>Re: Org. Ledningsnet</a> <em>(Kent, 07-09-2004 10:53)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2168&ForumID=2&Showsub=2173'>Re: Org. Ledningsnet</a> <em>(finn, 06-09-2004 20:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2168&ForumID=2&Showsub=2172'>Re: Org. Ledningsnet</a> <em>(Kent, 04-09-2004 19:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2168&ForumID=2&Showsub=2170'>Re: Org. Ledningsnet</a> <em>(Johan Ã…rman, 02-09-2004 09:50)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">135</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">135</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

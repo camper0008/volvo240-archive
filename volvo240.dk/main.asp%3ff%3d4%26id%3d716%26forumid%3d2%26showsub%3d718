@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=716"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=716"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-08-2003&nbsp; 10:46</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-08-2003 10:46</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har 4 ledninger der er knækket i beslaget til bagklappen i venstre side, grundet ælde. på en volvo 240 fra 92. Ledningerne forsyner el-bagrude og nummerpladebelysning.<br>Er der nogen der ved hvor de kommer fra, er det fra venstre baglygte, fra loftlampen, eller hvor forsynes de fra, det vil være til stor hjælp, for så er jeg fri for at spiltte det halve af bilen ad.<br><br>Venligst<br>Steen Frandsen<br></font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har 4 ledninger der er knÃ¦kket i beslaget til bagklappen i venstre side, grundet Ã¦lde. pÃ¥ en volvo 240 fra 92. Ledningerne forsyner el-bagrude og nummerpladebelysning.<br>Er der nogen der ved hvor de kommer fra, er det fra venstre baglygte, fra loftlampen, eller hvor forsynes de fra, det vil vÃ¦re til stor hjÃ¦lp, for sÃ¥ er jeg fri for at spiltte det halve af bilen ad.<br><br>Venligst<br>Steen Frandsen<br></font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=716&ForumID=2&Showsub=726'>Re: Nye ledninger til bagklappen</a> <em>(Jes, 10-08-2003 20:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=716&ForumID=2&Showsub=718'>Re: Nye ledninger til bagklappen</a> <em>(sebastian neumann, 09-08-2003 11:56)</em></strong></font></li><br><font face=Verdana>Hej.<br><br>Nu kan jeg kun bidrage med hvordan det så ud på min 79 og 85'er men på dem så var det venstre stolpe hvor ledningerne løb ( også til loftbelysning ) Du skal have indertaget af ( det af vinyl ). Du tager lige så stille og vipper det ned ude i enden efter at have taget listen af, derefter tager du den første "bøjle" på indertaget - bare føl dig frem og vipper af, tryk den op og drej lidt, så kommer den. Derefter skulle der - det gjorde der på min oppe i toppen ved venstre stolpe sidde et eller flere stik, dem tager du af ( og mærker ). derefter ( det skulle jeg i hvertfald ) tager du det venstre beslag af bagklappen, for at kunne komme ordentligt til, kablerne løber jo derinde ( evt afmonter bagklappen helt ) og river kablerne ud - afhængigt af hvor de er knækkede. <br><br>Det kan godt være at min forklaring er uoverskuelig - men jeg tror det giver mening når man står og kigger på det... Ellers så prøv at få fat på Jes her fra forummet, han er klog på alt det der med mange års erfaring. <br><br>Mvh.<br>Sebastian</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=716&ForumID=2&Showsub=726'>Re: Nye ledninger til bagklappen</a> <em>(Jes, 10-08-2003 20:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=716&ForumID=2&Showsub=718'>Re: Nye ledninger til bagklappen</a> <em>(sebastian neumann, 09-08-2003 11:56)</em></strong></font></li><br><font face=Verdana>Hej.<br><br>Nu kan jeg kun bidrage med hvordan det sÃ¥ ud pÃ¥ min 79 og 85'er men pÃ¥ dem sÃ¥ var det venstre stolpe hvor ledningerne lÃ¸b ( ogsÃ¥ til loftbelysning ) Du skal have indertaget af ( det af vinyl ). Du tager lige sÃ¥ stille og vipper det ned ude i enden efter at have taget listen af, derefter tager du den fÃ¸rste "bÃ¸jle" pÃ¥ indertaget - bare fÃ¸l dig frem og vipper af, tryk den op og drej lidt, sÃ¥ kommer den. Derefter skulle der - det gjorde der pÃ¥ min oppe i toppen ved venstre stolpe sidde et eller flere stik, dem tager du af ( og mÃ¦rker ). derefter ( det skulle jeg i hvertfald ) tager du det venstre beslag af bagklappen, for at kunne komme ordentligt til, kablerne lÃ¸ber jo derinde ( evt afmonter bagklappen helt ) og river kablerne ud - afhÃ¦ngigt af hvor de er knÃ¦kkede. <br><br>Det kan godt vÃ¦re at min forklaring er uoverskuelig - men jeg tror det giver mening nÃ¥r man stÃ¥r og kigger pÃ¥ det... Ellers sÃ¥ prÃ¸v at fÃ¥ fat pÃ¥ Jes her fra forummet, han er klog pÃ¥ alt det der med mange Ã¥rs erfaring. <br><br>Mvh.<br>Sebastian</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">56</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">56</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Jyllands Ringen 12. juni 2005</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Jyllands Ringen 12. juni 2005</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -196,7 +196,7 @@ Th: Jyllandsringen under vand! </p>
     <td width="25%" align="center"> 6 Jens Enemark<br>                                                                                                                                                                                                                                                               
 	Endte nr. 11</td>                                                                                                                                                                                                                                                                                                  
     <td width="25%" align="center"> 5 Jason Watt<br>                                                                                                                                                                                                                                                                 
-	Endte nr.&nbsp; 8</td>                                                                                                                                                                                                                                                                                             
+	Endte nr. 8</td>                                                                                                                                                                                                                                                                                             
     <td width="25%" align="center"> 4 Jens Edman<br>                                                                                                                                                                                                                                                                 
 	Endte nr. 2</td>                                                                                                                                                                                                                                                                                                   
   </tr>                                                                                                                                                                                                                                                                                                              
@@ -259,16 +259,16 @@ efter at komme �verst p� podiet, og derved kan �del�gge chancen for Casp
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-dtc05w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-dtc05t.jpg" width="128" height="85"></a></td>
     <td>                                                                                                                                                                                                                                                                                                
-<p>Tv: Man kunne n�sten h�re Klaus Verner sige; &quot;Jeg vil b�res!&quot;.</p>                                                                                                                                                                                                                         
+<p>Tv: Man kunne n�sten h�re Klaus Verner sige; "Jeg vil b�res!".</p>                                                                                                                                                                                                                         
     </td>                                                                                                                                                                                                                                                                                               
-    <td width="130">&nbsp;</td>                                                                                                                                                                                                                                                                         
+    <td width="130"></td>                                                                                                                                                                                                                                                                         
   </tr>                                                                                                                                                                                                                                                                                                 
 </table>                                                                                                                                                                                                                                                                                                
                                                                                                                                                                                                                                                                                                         
 <h3>Finalen</h3>                                                                                                                                                                                                                                                                                        
 <p>Med Casper i front fra start var der ikke meget sp�nding om 1. pladsen.                                                                                                                                                                                                                              
 Casper kom i m�l n�sten 8 sekunder foran Jens Edman. Der er ikke meget at sige                                                                                                                                                                                                                          
-til det, andet end: &quot;S�dan skal det g�res&quot;.<br>                                                                                                                                                                                                                                               
+til det, andet end: "S�dan skal det g�res".<br>                                                                                                                                                                                                                                               
 Jason m�tte virkelig vise de bagvedk�rende hvor bred Volvo'en er for at holde                                                                                                                                                                                                                           
 sin 5. plads. Og det gjorde han godt. Der var 4� sekund fra Jan Magnussen p� 4.                                                                                                                                                                                                                         
 pladsen til Jason watt p� 5. pladsen. Og bag ved Jason l� der 4 biler inden for                                                                                                                                                                                                                         
@@ -359,7 +359,7 @@ Michael kom i m�l 3 sekunder efter Anders og havnede p� en 14. plads.</p>
 <p>I 2. heat gik det knap s� godt for Anders. D�kkene var slidt op og det var 
 sv�rt at f� ordentlig grip i asfalten. Anders endte s�ledes p� en 13. plads 
 skarpt forfulgt af Michael der endte hvor han startede p� 14. pladsen.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Det var en weekend med masser af god race og nogle gode snakke med k�rerne i 
 depotet.</p>
 
@@ -394,7 +394,7 @@ depotet.</p>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

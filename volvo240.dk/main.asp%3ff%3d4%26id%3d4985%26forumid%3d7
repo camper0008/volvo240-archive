@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">31-03-2015&nbsp; 21:52</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">31-03-2015 21:52</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har f_et det problem at motoren pludselig begyndte at g_ meget uj_vnt i tomgang, den taber langsomt omdrejninger,medens den har sm_ uds_ttere, s_ stiger den hurtigt i omdrejninger, og begynder s_ igen langsomt at tabe omdrejninger, og s_dan bliver den ved, den starter fint, og man kan sagtens k_re med den, men man skal v_re meget p_passelig ved igangs_tning s_ den ikke g_r i st_, n_r man k_rer med over 2000 omdrejninger er der ikke noget at m_rke og den tr_kker og accelererer med normal styrke, og den har ikke forh_jet benzin forbrug. Jeg har kontrolleret for ut_theder i indsugningssystemet, men har ikke fundet noget. Er der nogen der har et bud p_ hvad der kan v_re i vejen. Jeg har f_et det r_d at tjekke tomgangsventilen, men kan ikke finde den, hvor sidder den ? Det er med den motor der har kontinuerlig indspr_jning. P_ forh_nd tak.</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 02-04-2015 07:35)</em></u></strong></font></li><br><font face=Verdana>Det kunne lyde som tomgangsventilen der driller. Tomgangsventilen sidder ovenp_ manifolden over ventild_kslet og der g_r to tommelfinger-tykke slanger p_ den. Jeg havde en 240 med E-motor engang og der drillede den samme ventil ogs_... Jeg skiftede min ( k_bte en brugt hos Jens Peter ) og det hjalp.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Niels Olsen, 06-04-2015 22:38)</em></u></strong></font></li><br><font face=Verdana>Hej Jacob, ud fra din beskrivelse m_ tomgangsventilen v_re den svenskerne kalder tilsatsluftventil, s_ nu ved jeg hvad det er for en. Jeg har ikke n_et at g_re noget ved ventilen, men problemet er afhjulpet, der var en situation i trafikken hvor jeg accelererede voldsomt, med meget h_jere motoromdrejninger end normalt, og s_ forsvandt problemet, har motoren suget noget skidt ud af ventilen, eller er der nogen der har et bud p_ hvad der er sket ? Tak for dit indput Jacob.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 07-04-2015 16:25)</em></u></strong></font></li><br><font face=Verdana>Det lyder sgu da ejendommeligt, men ogs_ dejlig nemt. Det kan sagtens v_re at motoren har bl_st noget fri. M_ske er lambdasonden blevet br_ndt ren. Ingen pr_cise bud :-)<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Hax Hermansen, 16-04-2015 22:19)</em></u></strong></font></li><br><font face=Verdana>Hej Niels.Du skifter gummit_tningerne ved indspr_jtnings dyserne.B_de de sm_ og de store.Der sidder en lille og en stor p_ hver dyse.S_ skulle problemet v_re afhjulpet.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 02-04-2015 07:35)</em></u></strong></font></li><br><font face=Verdana>Det kunne lyde som tomgangsventilen der driller. Tomgangsventilen sidder ovenp_ manifolden over ventild_kslet og der g_r to tommelfinger-tykke slanger p_ den. Jeg havde en 240 med E-motor engang og der drillede den samme ventil ogs_... Jeg skiftede min ( k_bte en brugt hos Jens Peter ) og det hjalp.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Niels Olsen, 06-04-2015 22:38)</em></u></strong></font></li><br><font face=Verdana>Hej Jacob, ud fra din beskrivelse m_ tomgangsventilen v_re den svenskerne kalder tilsatsluftventil, s_ nu ved jeg hvad det er for en. Jeg har ikke n_et at g_re noget ved ventilen, men problemet er afhjulpet, der var en situation i trafikken hvor jeg accelererede voldsomt, med meget h_jere motoromdrejninger end normalt, og s_ forsvandt problemet, har motoren suget noget skidt ud af ventilen, eller er der nogen der har et bud p_ hvad der er sket ? Tak for dit indput Jacob.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 07-04-2015 16:25)</em></u></strong></font></li><br><font face=Verdana>Det lyder sgu da ejendommeligt, men ogs_ dejlig nemt. Det kan sagtens v_re at motoren har bl_st noget fri. M_ske er lambdasonden blevet br_ndt ren. Ingen pr_cise bud :-)<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Hax Hermansen, 16-04-2015 22:19)</em></u></strong></font></li><br><font face=Verdana>Hej Niels.Du skifter gummit_tningerne ved indspr_jtnings dyserne.B_de de sm_ og de store.Der sidder en lille og en stor p_ hver dyse.S_ skulle problemet v_re afhjulpet.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

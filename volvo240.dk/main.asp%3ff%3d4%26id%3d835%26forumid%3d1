@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,13 +198,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Motor </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Motor, Gearkasse og Bagtøj. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Motor, Gearkasse og BagtÃ¸j. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=835"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=835"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Skift af b&#248;sninger i bagt&#248;j</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Skift af bÃ¸sninger i bagtÃ¸j</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-09-2003&nbsp; 00:24</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-09-2003 00:24</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej;<br>jeg har i dag forsøgt at skifte bøsningerne i bærearmene. Efter gentagne gange, at have forsøgt at varme, banke og presse bøsningerne ud, måtte jeg opgive og i stedet bore lidt rundt i gummiet, til at jeg kunne trække det inderste rør ud, hvorefter jeg kunne skære det sidste gummi væk, for derefter med en nedstryger, indefra, at save det yderste rør af bøsningen op, og brække resten ud med en hammer og en skruetrækker. Bærearmene havde jeg taget af bagtøjet for nemmere at kunne arbejde med dem i et skruestik. Efter nogle timers besvær med at få fjernet de gamle bøsninger, skulle jeg til at sætte de nye i. Jeg smurte såvel bøsninger som bærearm ind i fedt, som skulle forhindre at bøsningerne "brændte" fast med tiden. Jeg prøvede først forsigtigt med en hammer at banke bøsningen ned i bærearmen. Dernæst forsøgte jeg lidt voldsommere, for til sidst igen at ty til mit hjemmelavede værktøj, som jeg havde lavet til formålet. Jeg havde skåret en gevindstang med et gevind  M 14, drejet en tyk plade til, som ved hjælp af en møtrik og et modstykke i den anden ende, skulle presse den gamle bøsning ud, såvel som at presse den nye bøsning i. Det med at presse den gamle bøsning ud, duede jo som beskrevet ikke. At presse den nye bøsning, som jo var frisk fedtet ind, ned i bærearmen gik bedre, dog måtte jeg hen ad vejen benytte længere og længere forlængelse af nøglen, for at opbringe nok moment til at spænde møtrikken og derved presse den nye bøsning i. Da bøsningen var 3-4 mm fra at være på plads, begyndte gevindstangen, under det anvendte moment, at vride sig. Gevindstangen måtte derfor bankes ud, og en ny måtte laves. Det lykkedes også endenligt at presse bøsningen på plads. Da den næste bøsning, på bærearm nr. 2 var 3-4 mm fra at være på plads, knækkede gevindstangen. Jeg forsøgte med endnu en, men den knækkede også. Til sidst forsøgte jeg mig med en passende aftrækker, hvormed jeg kunne presse bøsningen det sidste stykke i. Efter at have givet aftrækkeren et efterhånden pænt stort moment, sprang lo.... selvfølgelig. Så måtte jeg opgive. Hvis jeg ikke kan få en almindelig M 14 gevindstang til at holde, eller for den sags skyld en aftrækker, ser jeg mine muligheder som "gør-det-selv"-Volvo-ejer som værende udtømt. Er der andre af jer, som har skiftet bøsninger i bagtøjet som har haft lignende problemer; eller er det mine evner det er galt med? :-) Hvordan skifter et (Volvo)værksted disse bøsninger, og hvor lang tid beregnes til et sådant skift? Er der toleranceforskelle på orig. Volvo-bøsninger og uoriginale dele? Og i så fald; hvilke har I gjort de bedste erfaringer med? Og til sidst: Hvor længe (km) kan man (håbe?/)regne med at nye bøsninger holder? Håber der er nogen af jer som har noget at sige om bøsninger til bagtøjet, evt. tips og tricks ser jeg meget gerne, men ellers har jeg tænkt mig imorgen at opsøge et (Volvo)værskted og lade dem presse de gamle ud, og de nye bøsninger i. mvh Norbert</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej;<br>jeg har i dag forsÃ¸gt at skifte bÃ¸sningerne i bÃ¦rearmene. Efter gentagne gange, at have forsÃ¸gt at varme, banke og presse bÃ¸sningerne ud, mÃ¥tte jeg opgive og i stedet bore lidt rundt i gummiet, til at jeg kunne trÃ¦kke det inderste rÃ¸r ud, hvorefter jeg kunne skÃ¦re det sidste gummi vÃ¦k, for derefter med en nedstryger, indefra, at save det yderste rÃ¸r af bÃ¸sningen op, og brÃ¦kke resten ud med en hammer og en skruetrÃ¦kker. BÃ¦rearmene havde jeg taget af bagtÃ¸jet for nemmere at kunne arbejde med dem i et skruestik. Efter nogle timers besvÃ¦r med at fÃ¥ fjernet de gamle bÃ¸sninger, skulle jeg til at sÃ¦tte de nye i. Jeg smurte sÃ¥vel bÃ¸sninger som bÃ¦rearm ind i fedt, som skulle forhindre at bÃ¸sningerne "brÃ¦ndte" fast med tiden. Jeg prÃ¸vede fÃ¸rst forsigtigt med en hammer at banke bÃ¸sningen ned i bÃ¦rearmen. DernÃ¦st forsÃ¸gte jeg lidt voldsommere, for til sidst igen at ty til mit hjemmelavede vÃ¦rktÃ¸j, som jeg havde lavet til formÃ¥let. Jeg havde skÃ¥ret en gevindstang med et gevind  M 14, drejet en tyk plade til, som ved hjÃ¦lp af en mÃ¸trik og et modstykke i den anden ende, skulle presse den gamle bÃ¸sning ud, sÃ¥vel som at presse den nye bÃ¸sning i. Det med at presse den gamle bÃ¸sning ud, duede jo som beskrevet ikke. At presse den nye bÃ¸sning, som jo var frisk fedtet ind, ned i bÃ¦rearmen gik bedre, dog mÃ¥tte jeg hen ad vejen benytte lÃ¦ngere og lÃ¦ngere forlÃ¦ngelse af nÃ¸glen, for at opbringe nok moment til at spÃ¦nde mÃ¸trikken og derved presse den nye bÃ¸sning i. Da bÃ¸sningen var 3-4 mm fra at vÃ¦re pÃ¥ plads, begyndte gevindstangen, under det anvendte moment, at vride sig. Gevindstangen mÃ¥tte derfor bankes ud, og en ny mÃ¥tte laves. Det lykkedes ogsÃ¥ endenligt at presse bÃ¸sningen pÃ¥ plads. Da den nÃ¦ste bÃ¸sning, pÃ¥ bÃ¦rearm nr. 2 var 3-4 mm fra at vÃ¦re pÃ¥ plads, knÃ¦kkede gevindstangen. Jeg forsÃ¸gte med endnu en, men den knÃ¦kkede ogsÃ¥. Til sidst forsÃ¸gte jeg mig med en passende aftrÃ¦kker, hvormed jeg kunne presse bÃ¸sningen det sidste stykke i. Efter at have givet aftrÃ¦kkeren et efterhÃ¥nden pÃ¦nt stort moment, sprang lo.... selvfÃ¸lgelig. SÃ¥ mÃ¥tte jeg opgive. Hvis jeg ikke kan fÃ¥ en almindelig M 14 gevindstang til at holde, eller for den sags skyld en aftrÃ¦kker, ser jeg mine muligheder som "gÃ¸r-det-selv"-Volvo-ejer som vÃ¦rende udtÃ¸mt. Er der andre af jer, som har skiftet bÃ¸sninger i bagtÃ¸jet som har haft lignende problemer; eller er det mine evner det er galt med? :-) Hvordan skifter et (Volvo)vÃ¦rksted disse bÃ¸sninger, og hvor lang tid beregnes til et sÃ¥dant skift? Er der toleranceforskelle pÃ¥ orig. Volvo-bÃ¸sninger og uoriginale dele? Og i sÃ¥ fald; hvilke har I gjort de bedste erfaringer med? Og til sidst: Hvor lÃ¦nge (km) kan man (hÃ¥be?/)regne med at nye bÃ¸sninger holder? HÃ¥ber der er nogen af jer som har noget at sige om bÃ¸sninger til bagtÃ¸jet, evt. tips og tricks ser jeg meget gerne, men ellers har jeg tÃ¦nkt mig imorgen at opsÃ¸ge et (Volvo)vÃ¦rskted og lade dem presse de gamle ud, og de nye bÃ¸sninger i. mvh Norbert</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=835&ForumID=1&Showsub=908'>Re: Skift af b&#248;sninger i bagt&#248;j</a> <em>(lars, 08-10-2003 22:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=835&ForumID=1&Showsub=836'>Re: Skift af b&#248;sninger i bagt&#248;j</a> <em>(Emil J., 18-09-2003 05:51)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=835&ForumID=1&Showsub=908'>Re: Skift af bÃ¸sninger i bagtÃ¸j</a> <em>(lars, 08-10-2003 22:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=835&ForumID=1&Showsub=836'>Re: Skift af bÃ¸sninger i bagtÃ¸j</a> <em>(Emil J., 18-09-2003 05:51)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">3</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">3</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

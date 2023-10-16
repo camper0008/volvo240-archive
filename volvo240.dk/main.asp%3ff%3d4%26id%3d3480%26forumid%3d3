@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-07-2009&nbsp; 21:24</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-07-2009 21:24</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej i k_re Volvofolk.<br>Er her nogen, som har en god metode til, at f_ en gammel volvos matte lak til at st_ rimelig frisk igen?<br>Nogle siger: slipol, lakrens, dern_st voks.<br>men er det nok?<br>Findes der et specielt middel/eller en god gammel metode som virker bedre?<br>Det er en metallak...<br>svedende sommerhilsner fra mig...</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Bjarke Jensen, 04-07-2009 10:36)</em></u></strong></font></li><br><font face=Verdana>Hej Torben.<br>Hvis det er noget du vil ofre lidt kroner p_, kan jeg anbefale at f_ den ditec behandlet.<br>Jeg fik min ditec behandlet og det kostede 3500 og det var simpelthen bare en ny bil da jeg fik den igen. kabine og f_lge for ogs_ en omgang reng_ring. min gamle 240 (r_d) var n_sten hvid.<br><br>Her kan du se min bil hvordan den ser ud<br><a href="http://www.bilgalleri.dk/html/gal_visbil.asp?ID=165687&ipc=509406" target="_blank">http://www.bilgalleri.dk/html/gal_visbil.asp?ID=165687&ipc=509406</a></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Max B&#252;low Nielsen, 04-07-2009 14:25)</em></u></strong></font></li><br><font face=Verdana>Hej Torben<br><br>Alternativt til en proff behandling, kan man ogs_ give sig selv i kast med at friske lakken op.<br>Jeg har benyttet produkter fra SONAX. Min bil er godt nok bl_ metal - og er ikke s_ medtaget i lakken, men flot blev den.<br>0: Vask bilen meget grundig.<br>1: Afd_k alle gummilister, ellers bliver de farvet af lakrensen...<br>2: Lakrens - enten maskine eller i h_nden. Tag er lille omr_de afgangen. (giver lakken, og is_r r_de biler, glansen tilbage)<br>3: Extreme Polish and Wax - finere lakrens, som fjerner slibespor og polerer<br>4: Afslutende Voks - jeg brugte Hardwax - giver et beskyttende lag som holder en s_son eller 2 !!!<br><br>mvh<br>MAX</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Max B&#252;low Nielsen, 04-07-2009 14:31)</em></u></strong></font></li><br><font face=Verdana>For_vrigt...<br>Skulle du have sm_ lakfejl / ridser - s_ k_b en rettelak hos VOLVO, samt en fin fin pensel i en hobby forretning.<br>Hvis dine ridser er hvide og kan m_rkes med en negl, er der h_jst sandsynlig hul hel ind til primeren. Med den fine pensel, l_gger du en fin streg af rettelakken oven i den rengjorte ridse. Med meget fint smergell_rred (korn 2000+) plane/sliber du den overskydende lak af, hvorefter du bruger lakrens til at polerer ridsen v_k. En s_danne behandling koster mindste 500 Dkr. pr. ridse hos en proff.<br>_v dig evt - p_ et mindre synligt sted f_rst....<br>Max</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Bjarke Jensen, 04-07-2009 10:36)</em></u></strong></font></li><br><font face=Verdana>Hej Torben.<br>Hvis det er noget du vil ofre lidt kroner p_, kan jeg anbefale at f_ den ditec behandlet.<br>Jeg fik min ditec behandlet og det kostede 3500 og det var simpelthen bare en ny bil da jeg fik den igen. kabine og f_lge for ogs_ en omgang reng_ring. min gamle 240 (r_d) var n_sten hvid.<br><br>Her kan du se min bil hvordan den ser ud<br><a href="http://www.bilgalleri.dk/html/gal_visbil.asp?ID=165687&ipc=509406" target="_blank">http://www.bilgalleri.dk/html/gal_visbil.asp?ID=165687&ipc=509406</a></font><br><li><font face=Verdana><strong><u>Re: - <em>(Max B&#252;low Nielsen, 04-07-2009 14:25)</em></u></strong></font></li><br><font face=Verdana>Hej Torben<br><br>Alternativt til en proff behandling, kan man ogs_ give sig selv i kast med at friske lakken op.<br>Jeg har benyttet produkter fra SONAX. Min bil er godt nok bl_ metal - og er ikke s_ medtaget i lakken, men flot blev den.<br>0: Vask bilen meget grundig.<br>1: Afd_k alle gummilister, ellers bliver de farvet af lakrensen...<br>2: Lakrens - enten maskine eller i h_nden. Tag er lille omr_de afgangen. (giver lakken, og is_r r_de biler, glansen tilbage)<br>3: Extreme Polish and Wax - finere lakrens, som fjerner slibespor og polerer<br>4: Afslutende Voks - jeg brugte Hardwax - giver et beskyttende lag som holder en s_son eller 2 !!!<br><br>mvh<br>MAX</font><br><li><font face=Verdana><strong><u>Re: - <em>(Max B&#252;low Nielsen, 04-07-2009 14:31)</em></u></strong></font></li><br><font face=Verdana>For_vrigt...<br>Skulle du have sm_ lakfejl / ridser - s_ k_b en rettelak hos VOLVO, samt en fin fin pensel i en hobby forretning.<br>Hvis dine ridser er hvide og kan m_rkes med en negl, er der h_jst sandsynlig hul hel ind til primeren. Med den fine pensel, l_gger du en fin streg af rettelakken oven i den rengjorte ridse. Med meget fint smergell_rred (korn 2000+) plane/sliber du den overskydende lak af, hvorefter du bruger lakrens til at polerer ridsen v_k. En s_danne behandling koster mindste 500 Dkr. pr. ridse hos en proff.<br>_v dig evt - p_ et mindre synligt sted f_rst....<br>Max</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -267,7 +267,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">12</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">12</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

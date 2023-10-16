@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,7 +202,7 @@ document.onmousedown=click;
 
 <table border="0" width="800" cellspacing="0" cellpadding="0" bgcolor="#c0c0c0" align="center">
   <tr>
-    <td align="center"><font size='1' color='#000000'>[Forrige]</a>&nbsp;-&nbsp<b><font color='#000000'>1</font></b>&nbsp;&nbsp;-&nbsp<font size='1' color='#000000'>[N�ste]</a></td>
+    <td align="center"><font size='1' color='#000000'>[Forrige]</a>-&nbsp<b><font color='#000000'>1</font></b>-&nbsp<font size='1' color='#000000'>[N�ste]</a></td>
   </tr>
 </table>
 
@@ -219,7 +219,7 @@ document.onmousedown=click;
         </tr>
       </thead>
       <tbody>
-        <tr><td></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=4804&forumid=18'>Tr&#230;f 31-08-2013</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>5</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>07-08-2013</font></td></tr><tr><td></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=4067&forumid=18'>Velkommen til Forummet: Volvo 200 Klub Danmark</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>27</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>23-08-2010</font></td></tr>
+        <tr><td></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=4804&forumid=18'>Træf 31-08-2013</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>5</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>07-08-2013</font></td></tr><tr><td></td><td bgcolor=#F0F0F0><font face=Verdana><a href='/main.asp?f=4&id=4067&forumid=18'>Velkommen til Forummet: Volvo 200 Klub Danmark</font></a></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>27</font></td><td bgcolor=#F0F0F0 valign=top><font face=Verdana>23-08-2010</font></td></tr>
       </tbody>
       </table>
     </td>
@@ -228,7 +228,7 @@ document.onmousedown=click;
 </table>
 <table border="0" width="800" cellspacing="0" cellpadding="0" bgcolor="#c0c0c0" align="center">
   <tr>
-    <td align="center"><font size='1' color='#000000'>[Forrige]</a>&nbsp;-&nbsp<b><font color='#000000'>1</font></b>&nbsp;&nbsp;-&nbsp<font size='1' color='#000000'>[N�ste]</a></td>
+    <td align="center"><font size='1' color='#000000'>[Forrige]</a>-&nbsp<b><font color='#000000'>1</font></b>-&nbsp<font size='1' color='#000000'>[N�ste]</a></td>
   </tr>
 </table>
 
@@ -256,7 +256,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">50</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">50</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=748"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=748"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Sidevindsf&#248;lsom</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Sidevindsfølsom</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-08-2003&nbsp; 23:29</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-08-2003 23:29</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br>Jeg har en Volvo 240 GL (4 d_rs) 1990<br>Bilen er meget sidevindsf_lsom, samt ved passage af stor lastbil,<br>fornemmer man bilen viger temmelig meget.<br>Den k_rer p_ Michelin Energy 14" 185/70, og standard fjedre.<br>Hvilke forbedringer vil mon give bedst resultat.<br>Mvh. Jacob<br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=748&ForumID=4&Showsub=752'>Re: Sidevindsf&#248;lsom</a> <em>(Lars Vestman, 18-08-2003 16:24)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=748&ForumID=4&Showsub=751'>Re: Sidevindsf&#248;lsom</a> <em>(Emil J, 17-08-2003 17:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=748&ForumID=4&Showsub=750'>Re: Sidevindsf&#248;lsom</a> <em>(Finn Kruse, 17-08-2003 00:20)</em></strong></font></li><br><font face=Verdana>Hej Jakob<br>240'eren er sidevindsf_lsom fordi den har en ret stor overflade fra siden. Og airodynamisk set er den ikke et vidunder.<br>Min egen havde samme problem, og har det stadig, men i v_sentlig mindre grad, efter den er blevet s_nket 35 mm. med med originalt s_nkningss_t fra Volvo. Fjedrene er h_rdere end de opringelige. Hvis dine fjedre samtidig er ved at v_re lidt "tr_tte", forv_rre det kun sagen.<br>Herudover har jeg gassd_mpere p_, som er lidt h_rdere end olied_mpere. Hvilken slags har du?<br>Endvidere k_rer jeg p_ 15" f_lge. P_ dine d_k er er d_kkassen 130 mm. h_je, mens mine er 123 mm. dvs du har 14 mm. mere d_kh_jde 7 for oven og 7 forneden. D_k er bl_de og giver efter for sidevers bev_gelser.<br>I prioriteret orden vil jeg anbefale dig at:<br>1) Skifte til 15" eller 16" f_lge med tilsvarende d_k.<br>2) skifte til gasd_mpere<br>3) skift dine fjedre med originale s_nkede fjedre<br><br>Uanset hvad du kommer frem til, vil vi gerne h_re om dine resultater og oplevelser her i forum.<br><br>Mvh<br>Finn<br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=748&ForumID=4&Showsub=752'>Re: Sidevindsfølsom</a> <em>(Lars Vestman, 18-08-2003 16:24)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=748&ForumID=4&Showsub=751'>Re: Sidevindsfølsom</a> <em>(Emil J, 17-08-2003 17:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=748&ForumID=4&Showsub=750'>Re: Sidevindsfølsom</a> <em>(Finn Kruse, 17-08-2003 00:20)</em></strong></font></li><br><font face=Verdana>Hej Jakob<br>240'eren er sidevindsf_lsom fordi den har en ret stor overflade fra siden. Og airodynamisk set er den ikke et vidunder.<br>Min egen havde samme problem, og har det stadig, men i v_sentlig mindre grad, efter den er blevet s_nket 35 mm. med med originalt s_nkningss_t fra Volvo. Fjedrene er h_rdere end de opringelige. Hvis dine fjedre samtidig er ved at v_re lidt "tr_tte", forv_rre det kun sagen.<br>Herudover har jeg gassd_mpere p_, som er lidt h_rdere end olied_mpere. Hvilken slags har du?<br>Endvidere k_rer jeg p_ 15" f_lge. P_ dine d_k er er d_kkassen 130 mm. h_je, mens mine er 123 mm. dvs du har 14 mm. mere d_kh_jde 7 for oven og 7 forneden. D_k er bl_de og giver efter for sidevers bev_gelser.<br>I prioriteret orden vil jeg anbefale dig at:<br>1) Skifte til 15" eller 16" f_lge med tilsvarende d_k.<br>2) skifte til gasd_mpere<br>3) skift dine fjedre med originale s_nkede fjedre<br><br>Uanset hvad du kommer frem til, vil vi gerne h_re om dine resultater og oplevelser her i forum.<br><br>Mvh<br>Finn<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">53</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">53</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

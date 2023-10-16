@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Pinsel_bet 2004</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Pinsel_bet 2004</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -136,8 +136,8 @@ document.onmousedown=click;
       <h3>Pinsel_bet D.29-30 Maj 2004 p_ ring Djursland</h3>
       <p>Det var en forn_jelse at komme ud at k_re igen og vejret var perfekt.</p>
       <p>Efter bilen er blevet 160 kg. lettere, har f_et monteret watl_nk og r_rb_rearme, var det naturligvis sp_ndende hvordan k_reegenskaberne ville blive i _r.</p>
-      <p>Det var f_rste gang bilen skulle k_re p_ Ring Djursland, som efter sigende skulle v_rre en sp_ndende bane - specielt nede ved &quot;trapperne&quot;.</p>
-      <p>Og det var lige p_ og h_rdt. Ingen tr_ning - det bruger &quot;rigtige m_nd med ordentlige biler&quot; ikke. Der var 2 tidtagninger l_rdag og 2 heat s_ndag.</p>
+      <p>Det var f_rste gang bilen skulle k_re p_ Ring Djursland, som efter sigende skulle v_rre en sp_ndende bane - specielt nede ved "trapperne".</p>
+      <p>Og det var lige p_ og h_rdt. Ingen tr_ning - det bruger "rigtige m_nd med ordentlige biler" ikke. Der var 2 tidtagninger l_rdag og 2 heat s_ndag.</p>
       <p>Resultatet af f_rste tidtagning giver startplacering til f_rste heat, og resultatet til anden tidtagning giver startplacering til andet heat.</p>
       <p>Det skal lige n_vnes, at i l_bet p_ Ring Djursland, k_rte Club Race 1 - som Volvo'en deltager i - sammen med <i>Club Race 2</i>, <i>Special Saloon Car</i> og <i>Historisk GT</i> klasserne.</p>
       <table border="0" cellpadding="5" cellspacing="1" width="745">
@@ -148,10 +148,10 @@ document.onmousedown=click;
           <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/img_4730.jpg&palt=','','height=430,width=620,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/img_4730t.jpg" width="128" height="85"></a></td>
         </tr>
         <tr>
-          <td width="130" align="center">&nbsp;</td>
-          <td width="130" align="center">&nbsp;</td>
-          <td width="130" align="center">&nbsp;</td>
-          <td width="130" align="center">&nbsp;</td>
+          <td width="130" align="center"></td>
+          <td width="130" align="center"></td>
+          <td width="130" align="center"></td>
+          <td width="130" align="center"></td>
         </tr>
       </table>
       <table border="0" cellpadding="5" cellspacing="1" width="745">
@@ -162,17 +162,17 @@ document.onmousedown=click;
           <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/img_5315.jpg&palt=','','height=430,width=620,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/img_5315t.jpg" width="128" height="85"></a></td>
         </tr>
         <tr>
-          <td width="130" align="center">&nbsp;</td>
-          <td width="130" align="center">&nbsp;</td>
-          <td width="130" align="center">&nbsp;</td>
-          <td width="130" align="center">&nbsp;</td>
+          <td width="130" align="center"></td>
+          <td width="130" align="center"></td>
+          <td width="130" align="center"></td>
+          <td width="130" align="center"></td>
         </tr>
       </table>
       <h6>Billederne er vist med tilladelse fra DMKA</h6>
       <h4>1 tidtagning</h4>
       <p>Tidtagningen gik godt. Volvo'ens bedste tid blev 59,849, og det rakte til en anden plads for vores klasse, kun overg_et af Michael i en Porsche 944 med tiden 58,464.<br>
       <br>
-      Mod slutningen af tidtagningen blev bremserne s_ varme, at de begyndte at koge. Det betyder &quot;Flad pedal&quot; som igen betyder &quot;ingen bremsekraft&quot;, s_ Henrik k_rte i pit.<br>
+      Mod slutningen af tidtagningen blev bremserne s_ varme, at de begyndte at koge. Det betyder "Flad pedal" som igen betyder "ingen bremsekraft", s_ Henrik k_rte i pit.<br>
       <br>
       Grunden til de varme bremser skal formentlig findes i den nye frontspoiler, som lukker af for luften som skal k_le bremserne.</p>
       <h4>2 tidtagning</h4>
@@ -189,11 +189,11 @@ document.onmousedown=click;
       <p>Bedste tid var nu 59,248, 1 sekund langsommer end sidste heat. Det skyldes at ladetrykket efter sidste justering blevet skruet for langt ned, 0.5-0.8, hvilket tydeligt kunne ses p_ tiderne.</p>
       <p>Michael forbedrede sin tid til 57,791, men Henrik fok Volvo'en over 
 		m_lstregen som nr. 2.</p>
-      <p>&nbsp;</p>
+      <p></p>
       <p>Det var alt i alt en dejlig Weekend, hvor n_sten alt gik som det skulle.<br>
       <br>
       Der var en del mennesker forbi for at kigge p_ Volvo'en. Den m_ siges at v_re ret popul_r, specielt n_r den laver en halv meter lang stikflamme ud af udst_dningen. Det v_kker opm_rksomhed.</p>
-      <p>&nbsp;</p>
+      <p></p>
       <p>N_ste l_b bliver Padborg park d. 19-20 Juni.</p>
       <hr>
     </td>
@@ -222,7 +222,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-05-2014&nbsp; 13:26</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-05-2014 13:26</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br>lambda-lampen lyser i min 740, 1989, 230F, 228000 km.<br><br>Jeg har udl_st fejlkoder - den siger 3 - 3 - 2 som if_lge SwedishBricks betyder:<br><br>"Air Mass Meter wire burn-off signal absent or faulty"<br><br>"Wiring break between FI terminal 8 and AMM #4"<br><br>"Various driving problems due to dirty AMM wire"<br><br>Bilen k_rer fint.<br><br>Nu til sp_rgsm_let: Hvordan skal jeg helt konkret forst_ fejlkoden? Kan jeg n_jes med at reng_re &#39;luftmassemeteret&#39; eller skal der nyt p_?<br>Hvor sidder omtalte terminal 8 og hvad er AMM #4?<br><br>vh Henrik</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Henrik S, 20-05-2014 13:28)</em></u></strong></font></li><br><font face=Verdana>Edit: Det hedder selvf_lgelig luftm_ngdem_leren.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 20-05-2014 21:53)</em></u></strong></font></li><br><font face=Verdana>Hej Henrik<br><br>Tag det roligt mht. fejlkoder i de gamle Volvoer.<br>Du skal ikke bare begynde at udskifte komponenter ud fra fejlkoderne, som lagres. Diverse komponenter fejler 9 ud af 10 gange ikke det mindste, selv om der er fejlkoder.<br>Lagring af fejlkoder kan nemlig skyldes flere ting. Og den st_rste synder er mistet forbindelse. Og det kan der v_re flere _rsager til.<br>F.eks. hvis bilen ved igangs_tning er lige ved at g_ ud, s_ mistes forbindelse ret ofte til de elektriske komponenter s_som luftmassem_ler og toppunktsf_ler. En anden synder kan v_re d_rlig forbindelse i stik m.m.<br><br>Slet fejlkoderne og hvis bilen k_rer, som den skal, s_ sl_ koldt vand i blodet. Hvis den eller de samme fejlkoder bliver ved med at dukke frem, s_ b_r du s_tte en efterforskning i gang.<br><br>I Haynes manualen findes fejlkode 3-3-2 slet ikke som decideret fejl. Den kan fremkaldes ved at bruge blinkkoderne til test af gasspj_ldspotentiometeret, som i forbindelse med Jetronic LH 2.4 kun er en kontakt, som registrerer fuld gas.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 21-05-2014 09:51)</em></u></strong></font></li><br><font face=Verdana>"Air Mass Meter wire burn-off signal absent or faulty"<br><br>"Wiring break between FI terminal 8 and AMM #4"<br><br>"Various driving problems due to dirty AMM wire"<br><br>Dette er fejl 3-2-2<br><br>MVH Pede</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Henrik S, 21-05-2014 23:25)</em></u></strong></font></li><br><font face=Verdana>Hej Christian, <br><br>tak for svar. Fejlen er kommet efter at bilen er blevet <a href="http://synet...ved" target="_blank">synet...ved</a> ikke om det betyder noget. <br><br>Men som tidligere skrevet k_rer bilen fint, s_ jeg nulstiller og ser om fejlen vender tilbage.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Henrik S, 20-05-2014 13:28)</em></u></strong></font></li><br><font face=Verdana>Edit: Det hedder selvf_lgelig luftm_ngdem_leren.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 20-05-2014 21:53)</em></u></strong></font></li><br><font face=Verdana>Hej Henrik<br><br>Tag det roligt mht. fejlkoder i de gamle Volvoer.<br>Du skal ikke bare begynde at udskifte komponenter ud fra fejlkoderne, som lagres. Diverse komponenter fejler 9 ud af 10 gange ikke det mindste, selv om der er fejlkoder.<br>Lagring af fejlkoder kan nemlig skyldes flere ting. Og den st_rste synder er mistet forbindelse. Og det kan der v_re flere _rsager til.<br>F.eks. hvis bilen ved igangs_tning er lige ved at g_ ud, s_ mistes forbindelse ret ofte til de elektriske komponenter s_som luftmassem_ler og toppunktsf_ler. En anden synder kan v_re d_rlig forbindelse i stik m.m.<br><br>Slet fejlkoderne og hvis bilen k_rer, som den skal, s_ sl_ koldt vand i blodet. Hvis den eller de samme fejlkoder bliver ved med at dukke frem, s_ b_r du s_tte en efterforskning i gang.<br><br>I Haynes manualen findes fejlkode 3-3-2 slet ikke som decideret fejl. Den kan fremkaldes ved at bruge blinkkoderne til test af gasspj_ldspotentiometeret, som i forbindelse med Jetronic LH 2.4 kun er en kontakt, som registrerer fuld gas.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 21-05-2014 09:51)</em></u></strong></font></li><br><font face=Verdana>"Air Mass Meter wire burn-off signal absent or faulty"<br><br>"Wiring break between FI terminal 8 and AMM #4"<br><br>"Various driving problems due to dirty AMM wire"<br><br>Dette er fejl 3-2-2<br><br>MVH Pede</font><br><li><font face=Verdana><strong><u>Re: - <em>(Henrik S, 21-05-2014 23:25)</em></u></strong></font></li><br><font face=Verdana>Hej Christian, <br><br>tak for svar. Fejlen er kommet efter at bilen er blevet <a href="http://synet...ved" target="_blank">synet...ved</a> ikke om det betyder noget. <br><br>Men som tidligere skrevet k_rer bilen fint, s_ jeg nulstiller og ser om fejlen vender tilbage.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

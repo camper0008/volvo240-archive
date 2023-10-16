@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Emblemer</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Emblemer</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -148,7 +148,7 @@ document.onmousedown=click;
     </tr>
     <tr>
       <th width="77">COUPE</th>
-      <td width="679">Se&nbsp; 262C.</td>
+      <td width="679">Se 262C.</td>
     </tr>
     <tr>
       <th width="77">DIESEL</th>
@@ -156,29 +156,29 @@ document.onmousedown=click;
     </tr>
     <tr>
       <th width="77">DL</th>
-      <td width="679">&quot;De Luxe&quot;: Bil med standard udstyr og standard motor.&nbsp; Stof eller vinyl interi�r, manuel rudehejs, sort frontgitter, st�lf�lge etc. Forskellen mellem DL og GL varierede gennem produktionsperioden.</td>
+      <td width="679">"De Luxe": Bil med standard udstyr og standard motor. Stof eller vinyl interi�r, manuel rudehejs, sort frontgitter, st�lf�lge etc. Forskellen mellem DL og GL varierede gennem produktionsperioden.</td>
     </tr>
     <tr>
       <th width="77">GL</th>
-      <td width="679">&quot;Grand Luxe&quot;:&nbsp; Mere luxui�s interi�r som 
-		tonede ruder, velour eller l�der indtr�k, 14&quot; aluminium f�lge, frontspoiler etc.</td>
+      <td width="679">"Grand Luxe": Mere luxui�s interi�r som 
+		tonede ruder, velour eller l�der indtr�k, 14" aluminium f�lge, frontspoiler etc.</td>
     </tr>
     <tr>
       <th width="77">GLT</th>
-      <td width="679">&quot;Grand Luxe Touring&quot;: Et mere sports trimmet niveau. Nogle GLT-modeller 
-		havde turbo-motor. Af mere speciel udstyr kan n�vnes 14 eller 15&quot; 
+      <td width="679">"Grand Luxe Touring": Et mere sports trimmet niveau. Nogle GLT-modeller 
+		havde turbo-motor. Af mere speciel udstyr kan n�vnes 14 eller 15" 
 		aluminium f�lge, mindre rat, el-rude hejs etc. Sort frontgitter og 
 		sorte lister.</td>
     </tr>
     <tr>
       <th width="77">GT</th>
-      <td width="679">&quot;Grand Touring&quot;: Sports trimmet model. Kun 2 d�rs modeller blev lavet som GT model og fik navnet 242 GT. Af udstyr kan n�vnes: speciel front grill med indbyggede t�gelygter, 14&quot; 
+      <td width="679">"Grand Touring": Sports trimmet model. Kun 2 d�rs modeller blev lavet som GT model og fik navnet 242 GT. Af udstyr kan n�vnes: speciel front grill med indbyggede t�gelygter, 14" 
 		aluminium f�lge, mindre rat, front spoiler etc. Produceret fra 78 til 
 		80.</td>
     </tr>
     <tr>
       <th width="77">GLE</th>
-      <td width="679">&quot;Grand Luxe Executive&quot;: Topudstyret luksus model, med 
+      <td width="679">"Grand Luxe Executive": Topudstyret luksus model, med 
 		bl.a. el-rudehejs, centrall�s, aircon. Typisk med plyds eller l�der 
 		indtr�k.Crom frintgitter og blanke lister.</td>
     </tr>
@@ -188,11 +188,11 @@ document.onmousedown=click;
     </tr>
     <tr>
       <th width="77">SE</th>
-      <td width="679">SE er en &quot;Special Edition&quot; som er lavet i et meget begr�nset antal. De var typisk udstyrret noget mere luksuri�st og med mere udstyr end andre modeller.</td>
+      <td width="679">SE er en "Special Edition" som er lavet i et meget begr�nset antal. De var typisk udstyrret noget mere luksuri�st og med mere udstyr end andre modeller.</td>
     </tr>
     <tr>
       <th width="77">TE</th>
-      <td width="679">&quot;Top Executive&quot;: Anvendes p� en ekstra luxori�s og l�ngere Volvo 264.</td>
+      <td width="679">"Top Executive": Anvendes p� en ekstra luxori�s og l�ngere Volvo 264.</td>
     </tr>
   </tbody>
 </table>
@@ -221,7 +221,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

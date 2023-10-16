@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=3"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=3&amp;MessageId=1217"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=3&MessageId=1217"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>6x9&quot; h&#248;jttalere i hattehylde p&#229; 240?</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>6x9" højttalere i hattehylde på 240?</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-01-2004&nbsp; 16:10</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-01-2004 16:10</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">I hattehylden p� en 240 er der ikke plads til andet end 5" h�jttalere. M� man godt bare tage en karosserisav og s� bare sk�re ud? gennem metallet nedenunder hattehylden?<br><br>Mvh. Dennis</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1217&ForumID=3&Showsub=1231'>Re: 6x9&quot; h&#248;jttalere i hattehylde p&#229; 240?</a> <em>(Dennis Carlsen, 20-01-2004 23:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1217&ForumID=3&Showsub=1220'>Re: 6x9&quot; h&#248;jttalere i hattehylde p&#229; 240?</a> <em>(Michael, 19-01-2004 14:28)</em></strong></font></li><br><font face=Verdana>Yes, det m� man gerne, det er jo ikke fordi at det er s� meget der skal fjernes. ringede til Volvo DK og spurte, iden jeg selv lavede samme operation, og de sagde at det var der ikke noget i vejen for, da det ikke er s� meget der skal fjernes.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1217&ForumID=3&Showsub=1231'>Re: 6x9" højttalere i hattehylde på 240?</a> <em>(Dennis Carlsen, 20-01-2004 23:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1217&ForumID=3&Showsub=1220'>Re: 6x9" højttalere i hattehylde på 240?</a> <em>(Michael, 19-01-2004 14:28)</em></strong></font></li><br><font face=Verdana>Yes, det m� man gerne, det er jo ikke fordi at det er s� meget der skal fjernes. ringede til Volvo DK og spurte, iden jeg selv lavede samme operation, og de sagde at det var der ikke noget i vejen for, da det ikke er s� meget der skal fjernes.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">45</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">45</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

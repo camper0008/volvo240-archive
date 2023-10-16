@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Volvo Galleri</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Volvo Galleri</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -232,12 +232,12 @@ document.onmousedown=click;
 
 			<table border=0 cellpadding=5 cellspacing=1 width=745>
 				<tr>
-					<td width="175" align="right" valign="top"><b>Årgang:</b></td>
+					<td width="175" align="right" valign="top"><b>Ã…rgang:</b></td>
 					<td width="547" align="left">1984</td>
 				</tr>
 				<tr>
 					<td width="175" align="right" valign="top"><b>Original farve:</b></td>
-					<td width="547" align="left">Lys Metalgrøn</td>
+					<td width="547" align="left">Lys MetalgrÃ¸n</td>
 				</tr>
 				<tr>
 					<td width="175" align="right" valign="top"><b>Motor:</b></td>
@@ -248,16 +248,16 @@ document.onmousedown=click;
 					<td width="547" align="left">M47</td>
 				</tr>
 				<tr>
-					<td width="175" align="right" valign="top"><b>Fælge:</b></td>
+					<td width="175" align="right" valign="top"><b>FÃ¦lge:</b></td>
 					<td width="547" align="left">Fondmetal 7 X 15</td>
 				</tr>
 				<tr>
-					<td width="175" align="right" valign="top"><b>Dæk:</b></td>
+					<td width="175" align="right" valign="top"><b>DÃ¦k:</b></td>
 					<td width="547" align="left">Semperit</td>
 				</tr>
 				<tr>
 					<td width="175" align="right" valign="top"><b>Bilstereo:</b></td>
-					<td width="547" align="left">Sony cd. 4 højttalere</td>
+					<td width="547" align="left">Sony cd. 4 hÃ¸jttalere</td>
 				</tr>
 				<tr>
 					<td width="175" align="right" valign="top"><b>Styling:</b></td>
@@ -269,15 +269,15 @@ document.onmousedown=click;
 				</tr>
 				<tr>
 					<td width="175" align="right" valign="top"><b>Udstyr:</b></td>
-					<td width="547" align="left">C-lås, 80 mm. Omdr. Tæller, 52 mm ur i sidepanel, Økonometer.</td>
+					<td width="547" align="left">C-lÃ¥s, 80 mm. Omdr. TÃ¦ller, 52 mm ur i sidepanel, Ã˜konometer.</td>
 				</tr>
 				<tr>
-					<td width="175" align="right" valign="top"><b>Bemærkninger:</b></td>
-					<td width="547" align="left">Som man kan se på billederne var bilen grøn da jeg købte den.<br>
-Jeg har inden for de sidste 3 uger monteret: Nye skærmkanter i bag (begge sider), 4 døre fra en årg. 91 uden rust. 2 nye forskærme uden rust. Motorhjelm og bagklap. Nyere komplet kabine i mørkeblå. C-lås blev monteret i samme omgang. Original naturligvis.<br>
-Efter at alle delene blev monteret blev bilen spartlet op hvor det var nødvendigt, slebet og lakeret i sølvgrå farve 130.<br>
-Jeg har selv lavet alt plade arbejdet og lakeringen men har også fået meget hjælp fra venner. Her vil jeg gerne sende en hilsen til mine venner som er Henrik, Ture, Jannepigen, Bjarne hos merkonomen Esbjerg og ikke mindst min mentor Jens Peter Jensen som har været med på sidelinien undervejs, og hele tiden har kommet med gode råd og vejledning.<br><br>
-Bilen er ikke helt færdig endnu. Jeg har fået fingrene i et originalt skørtesæt som aldrig har været monteret samt sporviddeforøger til bag. Alt dette er hentet hjem og skal blot lakeres og monteres. Billeder følger af dette. Ligeledes er der nogle små lakfejl som jeg vil rette snarrest. Alt i alt er jeg godt tilfreds med min dejlige Volvo.</td>
+					<td width="175" align="right" valign="top"><b>BemÃ¦rkninger:</b></td>
+					<td width="547" align="left">Som man kan se pÃ¥ billederne var bilen grÃ¸n da jeg kÃ¸bte den.<br>
+Jeg har inden for de sidste 3 uger monteret: Nye skÃ¦rmkanter i bag (begge sider), 4 dÃ¸re fra en Ã¥rg. 91 uden rust. 2 nye forskÃ¦rme uden rust. Motorhjelm og bagklap. Nyere komplet kabine i mÃ¸rkeblÃ¥. C-lÃ¥s blev monteret i samme omgang. Original naturligvis.<br>
+Efter at alle delene blev monteret blev bilen spartlet op hvor det var nÃ¸dvendigt, slebet og lakeret i sÃ¸lvgrÃ¥ farve 130.<br>
+Jeg har selv lavet alt plade arbejdet og lakeringen men har ogsÃ¥ fÃ¥et meget hjÃ¦lp fra venner. Her vil jeg gerne sende en hilsen til mine venner som er Henrik, Ture, Jannepigen, Bjarne hos merkonomen Esbjerg og ikke mindst min mentor Jens Peter Jensen som har vÃ¦ret med pÃ¥ sidelinien undervejs, og hele tiden har kommet med gode rÃ¥d og vejledning.<br><br>
+Bilen er ikke helt fÃ¦rdig endnu. Jeg har fÃ¥et fingrene i et originalt skÃ¸rtesÃ¦t som aldrig har vÃ¦ret monteret samt sporviddeforÃ¸ger til bag. Alt dette er hentet hjem og skal blot lakeres og monteres. Billeder fÃ¸lger af dette. Ligeledes er der nogle smÃ¥ lakfejl som jeg vil rette snarrest. Alt i alt er jeg godt tilfreds med min dejlige Volvo.</td>
 				</tr>
 			</table>
 		</td>
@@ -295,7 +295,7 @@ Bilen er ikke helt færdig endnu. Jeg har fået fingrene i et originalt skørtesæt 
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -304,9 +304,9 @@ Bilen er ikke helt færdig endnu. Jeg har fået fingrene i et originalt skørtesæt 
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">42</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">42</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

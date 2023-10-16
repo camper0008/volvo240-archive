@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-10-2014&nbsp; 17:07</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-10-2014 17:07</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">To hurtige sp_rgsm_l:<br><br>1. <br>Min 740, B230F, 1989 hopper og hakker ved k_rsel og st_r og stiger/falder et par hundrede omdrejninger i tomgang.<br><br>Jeg g_r ud fra det er en vacuumslange, der skal skiftes. Er der andre mulige fejlkilder?<br><br>2.<br>Samme volvo har en heftig klonk-klonk-lyd fra h_jre forhjul/oph_ng. Hiver man i hjulet i top og bund s_ klonker den igen. Hiver man i hjulet i siderne er der ingen lyd.<br>Jeg tror det er enten styrekugler der skal skiftes eller hjullejer der skal strammes.<br>Er der andre mulige fejlkilder?<br><br>Grunden til jeg sp_rger som jeg g_r er at min viden er besken p_ omr_det og n_r jeg nu skal til at skille tingene ad, vil jeg gerne v_re forberedt p_ eventuelle andre problemer.<br><br>vh Henrik</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 12-10-2014 11:35)</em></u></strong></font></li><br><font face=Verdana>hej Henrik <br>pr_v at tjekke dit gummi oph_ng som st_dd_mper sidder i kan v_re et t_rnoph_ng se om der er revner i gummi , hvis der er kan det v_re det der er blevet stift, tjek evt.  ogs_ dine kr_ngnings stabilator oph_ng kunne ogs_ v_re et k_dben der er slidt kan give knagelyde og klunke lyde ved de mindste bump p_ vej. <br> v_r opm_rksom p_ hvis du skal skifte t_rnleje oph_ng s_ v_r omhyggelig med at m_rke op ( hvis det er ligesom p_ en 245 ,sidder en bananformet skive over 2 m_trikker m_rk den op som den sidder med en tusch ogs_ ved m_trikker s_ du ikke _ndre p_ vinkel ved hjul , med d_kslidtage som resultat )<br>mvh tom</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 16-10-2014 20:13)</em></u></strong></font></li><br><font face=Verdana>Foroven og neden med hjulet, skal lejet sp_ndes op.<br>Klokken, kan v_re t_rnleje, men kan ogs_ v_re b_rekugle, hvad er endnu v_re.<br>Styrekugle er det ikke, n_r du g_r det fra side til side<br>Hvis du har en tomgangs styring p_, kan den ogs_ g_re det, men check f_rst vacum<br>mvh<br>S_ren</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 12-10-2014 11:35)</em></u></strong></font></li><br><font face=Verdana>hej Henrik <br>pr_v at tjekke dit gummi oph_ng som st_dd_mper sidder i kan v_re et t_rnoph_ng se om der er revner i gummi , hvis der er kan det v_re det der er blevet stift, tjek evt.  ogs_ dine kr_ngnings stabilator oph_ng kunne ogs_ v_re et k_dben der er slidt kan give knagelyde og klunke lyde ved de mindste bump p_ vej. <br> v_r opm_rksom p_ hvis du skal skifte t_rnleje oph_ng s_ v_r omhyggelig med at m_rke op ( hvis det er ligesom p_ en 245 ,sidder en bananformet skive over 2 m_trikker m_rk den op som den sidder med en tusch ogs_ ved m_trikker s_ du ikke _ndre p_ vinkel ved hjul , med d_kslidtage som resultat )<br>mvh tom</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren Frydendahl Krab, 16-10-2014 20:13)</em></u></strong></font></li><br><font face=Verdana>Foroven og neden med hjulet, skal lejet sp_ndes op.<br>Klokken, kan v_re t_rnleje, men kan ogs_ v_re b_rekugle, hvad er endnu v_re.<br>Styrekugle er det ikke, n_r du g_r det fra side til side<br>Hvis du har en tomgangs styring p_, kan den ogs_ g_re det, men check f_rst vacum<br>mvh<br>S_ren</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

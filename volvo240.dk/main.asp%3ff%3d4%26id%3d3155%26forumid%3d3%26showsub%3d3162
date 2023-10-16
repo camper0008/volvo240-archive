@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=3"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=3&amp;MessageId=3155"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=3&MessageId=3155"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>F&#230;lge i sk&#230;rmkant</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>FÃ¦lge i skÃ¦rmkant</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-04-2005&nbsp; 19:53</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-04-2005 19:53</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle..<br><br>Sidste efterår købte jeg lykkeligt et sæt 18" fælge til den store 240, det ser brand-godt ud og den kører godt med dem på, og sad også fint sidste år. I mellemtiden har det været vinter, jeg har haft små hjul på, og fået kraftigere fjedre og andre dæmpere i, MEN... Nu kan mit baghjul sat** ikke være der! Spørgsmålet lyder nu: (synes nemlig ikke mine nye fjedre var lavere, blot til mere vægt (kører 244) hvordan løser jeg mit problem så mine fælge igen kan være der. Skal jeg købe sænkningsfjedre (lyder dumt, den bliver lavere, men trods alt meget hårdere (støder på når der er små bump) eller nye dæmpere? Eller hvad skal jeg? Skal helst bestille noget imorgen, skal til jylland over weekenden, sætter stor pris på hurtigt svar. På forhånd tusind tak - Dennis</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle..<br><br>Sidste efterÃ¥r kÃ¸bte jeg lykkeligt et sÃ¦t 18" fÃ¦lge til den store 240, det ser brand-godt ud og den kÃ¸rer godt med dem pÃ¥, og sad ogsÃ¥ fint sidste Ã¥r. I mellemtiden har det vÃ¦ret vinter, jeg har haft smÃ¥ hjul pÃ¥, og fÃ¥et kraftigere fjedre og andre dÃ¦mpere i, MEN... Nu kan mit baghjul sat** ikke vÃ¦re der! SpÃ¸rgsmÃ¥let lyder nu: (synes nemlig ikke mine nye fjedre var lavere, blot til mere vÃ¦gt (kÃ¸rer 244) hvordan lÃ¸ser jeg mit problem sÃ¥ mine fÃ¦lge igen kan vÃ¦re der. Skal jeg kÃ¸be sÃ¦nkningsfjedre (lyder dumt, den bliver lavere, men trods alt meget hÃ¥rdere (stÃ¸der pÃ¥ nÃ¥r der er smÃ¥ bump) eller nye dÃ¦mpere? Eller hvad skal jeg? Skal helst bestille noget imorgen, skal til jylland over weekenden, sÃ¦tter stor pris pÃ¥ hurtigt svar. PÃ¥ forhÃ¥nd tusind tak - Dennis</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3288'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(morten, 02-05-2005 09:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3285'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(morten, 01-05-2005 21:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3274'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(Simon D. Hansen, 30-04-2005 06:01)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3162'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(Dennis Kristensen, 08-04-2005 19:34)</em></strong></font></li><br><font face=Verdana>Nu har jeg lige modtaget nye fjedre bagtil, originale, men hårdere og nye gas-dæmpere - så håber det kan gøre det. Om ikke andet må det være et skridt i den rigtige retning... Melder tilbage om resultat for interesserede...</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3156'>Re: F&#230;lge i sk&#230;rmkant</a> <em>(morten, 06-04-2005 20:56)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3288'>Re: FÃ¦lge i skÃ¦rmkant</a> <em>(morten, 02-05-2005 09:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3285'>Re: FÃ¦lge i skÃ¦rmkant</a> <em>(morten, 01-05-2005 21:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3274'>Re: FÃ¦lge i skÃ¦rmkant</a> <em>(Simon D. Hansen, 30-04-2005 06:01)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3162'>Re: FÃ¦lge i skÃ¦rmkant</a> <em>(Dennis Kristensen, 08-04-2005 19:34)</em></strong></font></li><br><font face=Verdana>Nu har jeg lige modtaget nye fjedre bagtil, originale, men hÃ¥rdere og nye gas-dÃ¦mpere - sÃ¥ hÃ¥ber det kan gÃ¸re det. Om ikke andet mÃ¥ det vÃ¦re et skridt i den rigtige retning... Melder tilbage om resultat for interesserede...</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3156'>Re: FÃ¦lge i skÃ¦rmkant</a> <em>(morten, 06-04-2005 20:56)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

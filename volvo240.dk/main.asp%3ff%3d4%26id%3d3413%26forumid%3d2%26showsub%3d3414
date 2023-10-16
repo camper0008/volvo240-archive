@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=3413"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=3413"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-05-2005&nbsp; 19:19</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-05-2005 19:19</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br>Jeg har lige skiftet skiver, klodser og bakker bagp_. Nu har jeg k_rt 100 km (heraf kun 20 p_ motorvej v. 110 km/t) og kan se at den venstre skive har _ndret farve (brunlig) p_ den inderste aksiale del (dvs. der hvor bakkerne ligger an mod skiven).<br><br>Jeg har m_rket p_ begge skiver efter at have k_rt hjem fra arbejde i dag (16 km v. 90km/t) og den venstre (den der har skiftet farve) var s_ varm at jeg hurtigt trak h_nden til mig, den h_jre (som ikke har sikftet farve) var varm, dog ikke s_ meget at jeg trak fingeren til mig.<br><br>Jeg formoder at bakkerne i den venstre side ligger an mod skivens indre del. <br><br>- Hvordan skirer man at bakkerne er kommet s_ lange ind at de ikke ligger an mod skivernes indre del<br><br>- M_ skiverne i det hele taget blive varme ?<br><br>- Kan man placere den mekanisme der aktiverer bakkerne forkert (jeg bem_rkede at den havde en pil - skal den pege med eller imod oml_bsretningen)<br><br>- Kan skiverne n_ at v_re blevet sk_ve af 100 km's k_rsel ?<br><br>venlig hilsen, Peter Hansen</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3413&ForumID=2&Showsub=3414'>Re: nye skiver bliver varme</a> <em>(Jens Peter Jensen, 10-05-2005 20:07)</em></strong></font></li><br><font face=Verdana>Hej Peter<br>Det der er sket for dig er helt almindelig.<br>N_r du har som du siger skiftet skiver, klodser og bakker (h_ndbremsen), s_ er der ingen fejl p_ det.<br>Men det der sker n_r du i 1-2 _r har slidt de gamle klodser op, s_ har de 2 stempler i hver kaliber arbejdet sig l_ngere og l_ngere ud, og f_et en "hvilestilling" der er l_ngere ude, og med bare en lille revne i den gummikrave der er rundt om stemplet, s_ kommer der vand ind og danner rust.<br>Det du g_r er at du tager hele kaliberne af, og skiller kaliberen ad, og renser dem (stemplerne ud) sm_rer med bremsev_dske og stemplerne i igen, og s_ tror jeg du er over det problem.<br>Jo, bremseskiverne m_ godt blive lidt varme, men ikke gl_dende.<br>Den pil du har set p_ aktiveringsfidusen til h_ndbremsen betyder ikke at det er den vej bremsen g_r. Men betyder OPAD, pilen skal pege opad ved montering.<br>H_ber du kan bruge mit svar!<br>MVH Jens Peter</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3413&ForumID=2&Showsub=3414'>Re: nye skiver bliver varme</a> <em>(Jens Peter Jensen, 10-05-2005 20:07)</em></strong></font></li><br><font face=Verdana>Hej Peter<br>Det der er sket for dig er helt almindelig.<br>N_r du har som du siger skiftet skiver, klodser og bakker (h_ndbremsen), s_ er der ingen fejl p_ det.<br>Men det der sker n_r du i 1-2 _r har slidt de gamle klodser op, s_ har de 2 stempler i hver kaliber arbejdet sig l_ngere og l_ngere ud, og f_et en "hvilestilling" der er l_ngere ude, og med bare en lille revne i den gummikrave der er rundt om stemplet, s_ kommer der vand ind og danner rust.<br>Det du g_r er at du tager hele kaliberne af, og skiller kaliberen ad, og renser dem (stemplerne ud) sm_rer med bremsev_dske og stemplerne i igen, og s_ tror jeg du er over det problem.<br>Jo, bremseskiverne m_ godt blive lidt varme, men ikke gl_dende.<br>Den pil du har set p_ aktiveringsfidusen til h_ndbremsen betyder ikke at det er den vej bremsen g_r. Men betyder OPAD, pilen skal pege opad ved montering.<br>H_ber du kan bruge mit svar!<br>MVH Jens Peter</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">58</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">58</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

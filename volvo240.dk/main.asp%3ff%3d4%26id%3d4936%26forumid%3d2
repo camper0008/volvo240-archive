@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-08-2014&nbsp; 09:39</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-08-2014 09:39</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br>har en 740 GL fra &#39;89. Den har f_et en &#39;klonk-klonk&#39;-lyd fra h_jre forhjul, der larmer i takt med underlagets beskaffenhed.<br>N_r man smider bilen op p_ donkraften og hiver sidev_rts i hjulet kommer lyden igen. Lodret er der ingen sl_r/lyde.<br><br>Fjeder og d_mper sidder ikke l_st.<br><br>Er det styrekuglerne og i givet fald - skiftes de altid parvist?<br><br>vh Henrik</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Elo Christensen, 04-08-2014 09:45)</em></u></strong></font></li><br><font face=Verdana>Hej.<br><br>Ja,du har ret, det kan v_re styrekuglerne og man skifter dem gerne parvis.<br><br>God arbejdslyst.<br>mvh Elo</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Henrik S, 04-08-2014 13:34)</em></u></strong></font></li><br><font face=Verdana>Tak Elo.<br><br>Skulle lige v_re sikker, da det er en &#39;f_rste gang&#39; for mig.<br><br>vh Henrik</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 04-08-2014 19:38)</em></u></strong></font></li><br><font face=Verdana>Jo, fint alt sammen men der er 2 kugleled i hver side. Se nu efter hvordan de indvendige har det ogs_, n_r tingene er skilt ad alligevel.<br><br>Mvh<br>Steen<br>Frederikssund</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Elo Christensen, 04-08-2014 09:45)</em></u></strong></font></li><br><font face=Verdana>Hej.<br><br>Ja,du har ret, det kan v_re styrekuglerne og man skifter dem gerne parvis.<br><br>God arbejdslyst.<br>mvh Elo</font><br><li><font face=Verdana><strong><u>Re: - <em>(Henrik S, 04-08-2014 13:34)</em></u></strong></font></li><br><font face=Verdana>Tak Elo.<br><br>Skulle lige v_re sikker, da det er en &#39;f_rste gang&#39; for mig.<br><br>vh Henrik</font><br><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 04-08-2014 19:38)</em></u></strong></font></li><br><font face=Verdana>Jo, fint alt sammen men der er 2 kugleled i hver side. Se nu efter hvordan de indvendige har det ogs_, n_r tingene er skilt ad alligevel.<br><br>Mvh<br>Steen<br>Frederikssund</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

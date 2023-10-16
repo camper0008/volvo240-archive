@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -222,7 +222,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-09-2011&nbsp; 23:27</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-09-2011 23:27</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har netop v_ret sydp_, og min 740 _rg. 91 har som altid opf_rt sig eksemplarisk, men med en enkelt undtagelse p_ denne tur:<br><br>Jeg bem_rkede flere gange, at h_jre forhjul/oph_ng begyndte at ryste voldsomt, n_r rattet blev drejet mod venstre ved motorvejshastighed - for eksempel i en lang, lidt skarp venstrekurve.<br><br>En meget kraftig rysten - n_sten som om, st_dd_mperen var holdt op med at virke.<br><br>Men s_ snart, vejen rettede sig lidt ud, og rattet blev drejet tilbage mod neutral position igen, forsvandt vibrationerne med det samme.<br><br>Ved lave hastigheder er der intet at m_rke.<br><br>Hvad kan det v_re galt? M_ske noget farligt?<br><br>Jeg sikrede mig naturligvis, at hjulet sad ordentligt fast.<br><br><br><br></font></td>
@@ -233,7 +233,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 28-09-2011 15:46)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Jeg tror der er ved at v_re sl_r i styrekuglen. Eller m_ske b_rekuglen, hvis den trykket h_rdt<br><br>mvh<br>S_ren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jesper F. Johansen, 29-09-2011 17:20)</em></u></strong></font></li><br><font face=Verdana>Tak - det vil jeg f_ unders_gt. Jeg tror, du er inde p_ noget af det rigtige.<br><br>Bilen str_g eller igennem syn uden anm_rkninger lige inden ferien.<br><br>mvh<br><br>Jesper</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Søren Frydendahl Krab, 28-09-2011 15:46)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Jeg tror der er ved at v_re sl_r i styrekuglen. Eller m_ske b_rekuglen, hvis den trykket h_rdt<br><br>mvh<br>S_ren</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jesper F. Johansen, 29-09-2011 17:20)</em></u></strong></font></li><br><font face=Verdana>Tak - det vil jeg f_ unders_gt. Jeg tror, du er inde p_ noget af det rigtige.<br><br>Bilen str_g eller igennem syn uden anm_rkninger lige inden ferien.<br><br>mvh<br><br>Jesper</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -242,7 +242,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -266,7 +266,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-06-2013&nbsp; 23:26</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-06-2013 23:26</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg skal have skiftet styrestang p_ min Volvo (740 gle _rg. 1987) men jeg kan se 2 forskellige slags hos leverand_ren.Det er i det her tilf_lde Biltema.Hvordan ser jeg jeg forskel,jeg vil gerne have den nye i h_nden , inden jeg afmonterer den gamle?</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 21-06-2013 10:24)</em></u></strong></font></li><br><font face=Verdana>S_ vidt jeg kan se s_ er der _benlys forskel p_ de to... den ene er 310 mm og den anden er 250 mm... ned og m_le :-)<br><br>den ene er til servostyring, men der st_r ogs_ fra _rgang 08 1988... <br><br>Det bedste er nok at m_le l_ngden.<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Stig B, 21-06-2013 19:19)</em></u></strong></font></li><br><font face=Verdana>S_ vidt jeg ved er 740 kun med servo, men der er forskelige styrest_nger, s_ som skrevet st_r, ned og m_l.<br><br>Mvh. Stig.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 22-06-2013 18:33)</em></u></strong></font></li><br><font face=Verdana>Her kommer lige et lidt info, som jeg tidligere har skrevet i et andet tandstangs-indl_g her p_ siden:<br><br>"Der er ikke de store problemer i det med de tandst_nger. Hvis man skal have en anden komplet donor-tandstang p_ sin 700/900, s_ skal man stort set bare l_gge m_rke til om det er med korte eller lange sporest_nger. <br><br>Lange = Alm 700/900 undervogn<br>Korte = 7/ og is_r 960&#39;er modeller, med multilink (styrekugler meget l_ngere)<br><br>Gevind til servoolie tryk og retur er ogs_ monteret de samme steder. S_ alt det med at bytte pumpe osv rundt, skal man ikke spekulere i. <br><br>Forskellen p_ de forskellige fabrikater er: sporestangs-l_ngde, samt fin eller grov gevind, hvor sporestangen er skruet i selve tandstangen. Det er jo irrelevant, hvis man skiftet en komplet tandstang.<br> S_ hvis man feks. kun vil have _n sporestang skiftet, s_ skal man netop finde ud af hvilket fakrikat ens tandstang er"<br><br>Mvh. Dennis</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 21-06-2013 10:24)</em></u></strong></font></li><br><font face=Verdana>S_ vidt jeg kan se s_ er der _benlys forskel p_ de to... den ene er 310 mm og den anden er 250 mm... ned og m_le :-)<br><br>den ene er til servostyring, men der st_r ogs_ fra _rgang 08 1988... <br><br>Det bedste er nok at m_le l_ngden.<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Stig B, 21-06-2013 19:19)</em></u></strong></font></li><br><font face=Verdana>S_ vidt jeg ved er 740 kun med servo, men der er forskelige styrest_nger, s_ som skrevet st_r, ned og m_l.<br><br>Mvh. Stig.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 22-06-2013 18:33)</em></u></strong></font></li><br><font face=Verdana>Her kommer lige et lidt info, som jeg tidligere har skrevet i et andet tandstangs-indl_g her p_ siden:<br><br>"Der er ikke de store problemer i det med de tandst_nger. Hvis man skal have en anden komplet donor-tandstang p_ sin 700/900, s_ skal man stort set bare l_gge m_rke til om det er med korte eller lange sporest_nger. <br><br>Lange = Alm 700/900 undervogn<br>Korte = 7/ og is_r 960&#39;er modeller, med multilink (styrekugler meget l_ngere)<br><br>Gevind til servoolie tryk og retur er ogs_ monteret de samme steder. S_ alt det med at bytte pumpe osv rundt, skal man ikke spekulere i. <br><br>Forskellen p_ de forskellige fabrikater er: sporestangs-l_ngde, samt fin eller grov gevind, hvor sporestangen er skruet i selve tandstangen. Det er jo irrelevant, hvis man skiftet en komplet tandstang.<br> S_ hvis man feks. kun vil have _n sporestang skiftet, s_ skal man netop finde ud af hvilket fakrikat ens tandstang er"<br><br>Mvh. Dennis</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

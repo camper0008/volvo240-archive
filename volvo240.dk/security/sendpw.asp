@@ -14,7 +14,7 @@
 <form method="POST" action="/security/sendpw.asp" align="center">
   <table border="1" width="390">
     <tr>
-      <td colspan="2">&nbsp;</td>
+      <td colspan="2"></td>
     </tr>
     <tr>
       <td width="165">Din E-mail adresse:</td>

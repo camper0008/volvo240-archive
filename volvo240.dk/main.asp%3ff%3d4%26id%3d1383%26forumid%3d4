@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spørge andre Volvo-ejere tilråds om alt vedrørende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spÃ¸rge andre Volvo-ejere tilrÃ¥ds om alt vedrÃ¸rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=1383"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1383"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>240-tr&#230;f *Status*</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>240-trÃ¦f *Status*</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,10 +224,10 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-02-2004&nbsp; 09:34</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-02-2004 09:34</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle!<br><br>Indtil nu ser det sådan ud iflg. spørgeskemaerne på <a href='http://www.vaid.dk'>www.vaid.dk</a>:<br><br>- Det skal foregå på Fyn<br><br>- Det skal være en lørdag<br><br>- Det skal ske i uge 21 (36%) el. uge 26 (27%) - dvs. enten den 22. maj eller d. 26. juni. Dog er der ikke mange stemmer hér endnu, så det kan nemt ændre sig.<br><br>- Det skal foregå i smukke omgivelser<br><br>- Vi tager selv madpakke(r) med ( og engangsgrill? ;o)<br><br>- Vi kommer selv om det regner (that's the spirit!)<br><br>- Vi bestemmer helt selv hvor meget Finn Kruse og Jes Hebsgaard skal have for deres kæmpe indsats. <br>___________<br><br>Ja, det ser jo ikke så tosset ud.<br><br>Jeg har fået <a href='http://www.spare-parts.dk'>www.spare-parts.dk</a> med på at måske lave en lille stand, og også at sponsorere nogle præmier. Men de vil gerne vide lidt mere, specielt datoen.<br><br>Det må vi se at blive enige om, for før vi kender den, er det lidt svært at planlægge ret meget.<br><br>Volvoentusiasterne vil meget gerne nævne arrangementet på hjemmesiden og i bladet - hvis det kan nås inden deadline. Husk at fortæl om det til alle 240-ejere du kender. Jo flere deltagere, jo bedre.<br><br>Meld jer gerne til som hjælpere! Enten med at finde en lokalitet som flere har nævnt, men også andre ting som kommer hen ad vejen.<br>Send derfor en mail til undertegnede: <a href='mailto:vestman@adslhome.dk?subject=Volvo 240 Træf'>vestman@adslhome.dk</a>, så finder vi ud af noget ;o)<br><br>M.v.h. Lars Vestman - <a href='http://www.vaid.dk'>www.vaid.dk</a><br></font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle!<br><br>Indtil nu ser det sÃ¥dan ud iflg. spÃ¸rgeskemaerne pÃ¥ <a href='http://www.vaid.dk'>www.vaid.dk</a>:<br><br>- Det skal foregÃ¥ pÃ¥ Fyn<br><br>- Det skal vÃ¦re en lÃ¸rdag<br><br>- Det skal ske i uge 21 (36%) el. uge 26 (27%) - dvs. enten den 22. maj eller d. 26. juni. Dog er der ikke mange stemmer hér endnu, sÃ¥ det kan nemt Ã¦ndre sig.<br><br>- Det skal foregÃ¥ i smukke omgivelser<br><br>- Vi tager selv madpakke(r) med ( og engangsgrill? ;o)<br><br>- Vi kommer selv om det regner (that's the spirit!)<br><br>- Vi bestemmer helt selv hvor meget Finn Kruse og Jes Hebsgaard skal have for deres kÃ¦mpe indsats. <br>___________<br><br>Ja, det ser jo ikke sÃ¥ tosset ud.<br><br>Jeg har fÃ¥et <a href='http://www.spare-parts.dk'>www.spare-parts.dk</a> med pÃ¥ at mÃ¥ske lave en lille stand, og ogsÃ¥ at sponsorere nogle prÃ¦mier. Men de vil gerne vide lidt mere, specielt datoen.<br><br>Det mÃ¥ vi se at blive enige om, for fÃ¸r vi kender den, er det lidt svÃ¦rt at planlÃ¦gge ret meget.<br><br>Volvoentusiasterne vil meget gerne nÃ¦vne arrangementet pÃ¥ hjemmesiden og i bladet - hvis det kan nÃ¥s inden deadline. Husk at fortÃ¦l om det til alle 240-ejere du kender. Jo flere deltagere, jo bedre.<br><br>Meld jer gerne til som hjÃ¦lpere! Enten med at finde en lokalitet som flere har nÃ¦vnt, men ogsÃ¥ andre ting som kommer hen ad vejen.<br>Send derfor en mail til undertegnede: <a href='mailto:vestman@adslhome.dk?subject=Volvo 240 TrÃ¦f'>vestman@adslhome.dk</a>, sÃ¥ finder vi ud af noget ;o)<br><br>M.v.h. Lars Vestman - <a href='http://www.vaid.dk'>www.vaid.dk</a><br></font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">55</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">55</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

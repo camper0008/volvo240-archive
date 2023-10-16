@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-01-2006&nbsp; 20:26</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-01-2006 20:26</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hvor mange nye org. volvo reservedele kan man k�be til 245.<br>Kan man feks. k�be en hel ny motor, gearkasse, bagt�j, eller et helt nyt karosseri.<br>Har g�et med tanken om at lave en 245 �rg. 2006, med helt nye komponenter overalt, men om man kan k�be alle delende hver for sig, og s� s�tte dem sammen, til en hel k�reklar bil ved jeg ikke, men det kunne da v�re fedt at pr�ve.<br>S� popul�r som volvo 200 serien var og stadig er, kan man da undre sig meget over at man tog den ud af produktion i 1993, m�ske volvo skulle kigge ligt til VW, som jo med sucsse gav "comeback" til boblen.<br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(kent skovsen, 20-01-2006 09:16)</em></u></strong></font></li><br><font face=Verdana>Hej Jeg gir dig helt ret med hensyn til at volvo burde overveje at lave en ny model 240.Den er popul�r.Til det andet.Du ka k�be mange dele hos volvo,der er nogle enkelte ting der er udg�et,men det er ikke s� meget.Men brug originale dele det er nu det bedste.Der er en forskel.Til min renovering bruger jeg helst kun originale dele Da man ved at det er iorden.Held og lykke med projektet og husk at f� nogle billeder herind af bilen.Det ku v�re sjovt at f�lge projektet.<br>p.s. ta den tid det tager om det.mvh Kent</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(kent skovsen, 20-01-2006 09:16)</em></u></strong></font></li><br><font face=Verdana>Hej Jeg gir dig helt ret med hensyn til at volvo burde overveje at lave en ny model 240.Den er popul�r.Til det andet.Du ka k�be mange dele hos volvo,der er nogle enkelte ting der er udg�et,men det er ikke s� meget.Men brug originale dele det er nu det bedste.Der er en forskel.Til min renovering bruger jeg helst kun originale dele Da man ved at det er iorden.Held og lykke med projektet og husk at f� nogle billeder herind af bilen.Det ku v�re sjovt at f�lge projektet.<br>p.s. ta den tid det tager om det.mvh Kent</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -264,9 +264,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

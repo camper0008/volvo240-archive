@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=1884"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1884"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Bags&#230;de 244</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Bagsæde 244</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-06-2004&nbsp; 15:12</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-06-2004 15:12</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle...<br><br>Nu har jeg stort set f�et min 70'er-brune stue lavet om til komplet sort, og det har virkelig pyntet, men mangler stadig et bags�de sedan, eftersom de fors�der jeg fik var fra st.car. S� g�r mit sp�rgsm�l p�, hvor jeg finder et sort/gr�t bags�de til en sedan, har virkelig k�mpet? H�ber der er nogen der kender noget til det.<br><br>I mellemtiden har jeg pr�vet med at farve bags�det ind med navsv�rte for at se om det var noget v�rd, den ramte ok med den koks-gr� mine fors�der har, men helt godt bliver det aldrig... :-(</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1884&ForumID=4&Showsub=1960'>Re: Bags&#230;de 244</a> <em>(Tobias, 28-06-2004 11:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1884&ForumID=4&Showsub=1954'>Re: Bags&#230;de 244</a> <em>(sebastian Neumann, 25-06-2004 23:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1884&ForumID=4&Showsub=1948'>Re: Bags&#230;de 244</a> <em>(Dennis, 23-06-2004 20:27)</em></strong></font></li><br><font face=Verdana>Har desv�rre pr�vet derinde og de har kun bl� s�der :-(<br><br>Det er bare s� �rgeligt jeg ikke kan f� fat i noget gr�t/sort for det er det ENESTE jeg mangler for den sorte kabine.. Nogle gode r�d ang. finde noget i Sweden?</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1884&ForumID=4&Showsub=1896'>Re: Bags&#230;de 244</a> <em>(Sebastian Neumann, 07-06-2004 21:07)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1884&ForumID=4&Showsub=1960'>Re: Bagsæde 244</a> <em>(Tobias, 28-06-2004 11:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1884&ForumID=4&Showsub=1954'>Re: Bagsæde 244</a> <em>(sebastian Neumann, 25-06-2004 23:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1884&ForumID=4&Showsub=1948'>Re: Bagsæde 244</a> <em>(Dennis, 23-06-2004 20:27)</em></strong></font></li><br><font face=Verdana>Har desv�rre pr�vet derinde og de har kun bl� s�der :-(<br><br>Det er bare s� �rgeligt jeg ikke kan f� fat i noget gr�t/sort for det er det ENESTE jeg mangler for den sorte kabine.. Nogle gode r�d ang. finde noget i Sweden?</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1884&ForumID=4&Showsub=1896'>Re: Bagsæde 244</a> <em>(Sebastian Neumann, 07-06-2004 21:07)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">55</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">55</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

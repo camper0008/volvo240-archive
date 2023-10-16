@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Jyllands Ringen den 5. september 2004</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Jyllands Ringen den 5. september 2004</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -145,12 +145,12 @@ document.onmousedown=click;
     <td>
 
 <p>Grand Prix l_bet blev k_rt p_ Jyllands Ringen den 4. og 5. september 2004.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Efter turen p_ Ring Djursland i august, var det med sp_nding jeg kom til Jyllands Ringen. Mine forventninger til b_de Pontus og Anders var rimelig h_je.</p>
 <h2>Volvo S60 DTC</h2>
 <h3>L_rdag:</h3>
-<p>&nbsp;Pontus havde godt med fart p_ under tr_ningen og leverede den 9. bedste 
-tid. Det tegnede godt. Selv om bilen virkede lidt &quot;l_s&quot; kunne vi kun gl_de os 
+<p>Pontus havde godt med fart p_ under tr_ningen og leverede den 9. bedste 
+tid. Det tegnede godt. Selv om bilen virkede lidt "l_s" kunne vi kun gl_de os 
 over at Volvo'en var klar. </p>
 <p>Og i tidtagningen gik det som det skulle: Bring Volvo'en blandt de 12 bedste 
 og dermed i Super Pole. Det blev til 7. bedste tid. For alle os tilskuere som 
@@ -184,7 +184,7 @@ Super Pole.</p>
     <td width="25%" align="center"> 20-Jesper Sylvest<br>
 	Endte nr. 12</td>
     <td width="25%" align="center"> 2-Casper Elgaard<br>
-	Endte nr.&nbsp; 5</td>
+	Endte nr. 5</td>
     <td width="25%" align="center"> 99-Mike Legarth<br>
 	Endte nr. 8</td>
   </tr>
@@ -245,7 +245,7 @@ han blev passeret af to modstandere. Det blev til en 8. plads. </p>
 <p align="left">Men men. Ved teknisk kontrol skulle det vise sig at b_de Casper 
 Elgaards BMW og Michell Nykj_rs Seat st_jede for meget. Det gav dem 30 sekunders 
 straf. Dette gjorde at Volvo'en, ogs_ i finalen, endte p_ en 6. plads.</p>
-<h2>&nbsp;</h2>
+<h2></h2>
 <h2>Volvo S40 Turbo</h2>
 <p>F_rst jeg ankom til banen, gik jeg hen til Anders Byriel og hans Volvo S40 
 Turbo, for allerede i fredagens tidstagning, viste det sig at der var noget galt 
@@ -253,7 +253,7 @@ med omgangstider p_ noget der ligner 2 sek. mere end normalt. Det blev kun til
 en 13. plads med en bedste omgangstid p_ 1:22.407. I 2. tidtagning l_rdag gik 
 det lidt bedre med en bedste omgangstid p_ 1:21.953. Det blev dog kun til en 15. 
 plads.</p>
-<p>&nbsp;<table border="0" cellpadding="5" cellspacing="1" width="745">
+<p><table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040904-15.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040904-15t.jpg" width="128" height="96"></a></td>
     <td> 
@@ -269,7 +269,7 @@ det viste sig at det langt fra ydede sit bedste. Der manglede b_de hk og Nm. Det
 viste sig, at turboen var defekt. Derfor besluttede teamet at tage bilen med 
 hjem l_rdag aften, for at fors_ge at f_ den lavet hjemme p_ v_rkstedet l_rdag 
 aften/nat.<br>
-&nbsp;</p>
+</p>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20040904-17.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20040904-17t.jpg" width="128" height="96"></a></td>
@@ -340,7 +340,7 @@ Vi krydser alle fingre for at Anders og mekanikerne f_r Volvo'en helt klar til n
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

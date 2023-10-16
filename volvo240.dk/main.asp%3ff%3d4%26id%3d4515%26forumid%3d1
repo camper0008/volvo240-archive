@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -209,7 +209,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-01-2012&nbsp; 10:04</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-01-2012 10:04</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Jeg vil skifte min tandrem ud p_ 230 8v til den brede rundhovedet type som 16V og til dette er der lidt sp_rgsm_l:<br>Kan 16v hjulene v_re under 8v d_kslet eller er de for brede?<br>Hvilket remstrammerhjul bruges 16v eller?<br>Hvad laves om ved remhjulet til krumtappen (skal der bare drejes af)?<br>Er der andet der skal tages h_jde for?<br>mvh Palle (der pr_ver at bygge motor)</font></td>
@@ -220,7 +220,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 11-01-2012 11:08)</em></u></strong></font></li><br><font face=Verdana>__h undskyld, men hvorfor?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Palle Hegnet Hamann, 11-01-2012 12:29)</em></u></strong></font></li><br><font face=Verdana>Hej Igen<br><br>_rsagen er at jeg sidste _r blev n_dt til at skifte remmen for hver 6 timer&#39;s motorl_b p_ bane da den var _delagt i siden mod remhjulet (dette er 6stk p_ et _r). <br>Jeg har ikke kunne finde nogle fejl som kan medf_re slidtagen s_ jeg er n_dsaget til at pr_ve noget.<br>Som den k_re nu er den monteret med original bredde men ombygget til rundhovedet og planet til 122 t_nder.<br>Det skal lige siges at den er ombygget til 2,5L og arbejder mellem 5000 og 7500 omdrejninger hele 6 timer,s l_bet og har en knast/top som belaster remmen meget.<br>Er der evt nogle som kender den originale bredde p_ tandremshjulet ved tappen?<br><br>P_ forh_nd tak<br>mvh Palle</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Morten VJ, 11-01-2012 14:34)</em></u></strong></font></li><br><font face=Verdana>De fleste svar p_ dine sp_rgsm_l st_r her.<br>http://shop.klracing.se/sv/artiklar/motor-delar/justerbara-kamdrev/volvo/kamrem-volvo-8v-extra-bred-24mm.html<br><br>MVH<br><br>Morten</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Palle Hegnet Hamann, 23-01-2012 08:03)</em></u></strong></font></li><br><font face=Verdana>Tak for hj_lpen.<br><br>Jeg har m_lt lidt p_ det hele og h_ber p_ at jeg har fundet fejlen hvilket var at hjulet ved tappen slog 1/10 og havde lidt kant der hvor den var mindst i m_l.<br><br>mvh Palle<br><br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 11-01-2012 11:08)</em></u></strong></font></li><br><font face=Verdana>__h undskyld, men hvorfor?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Palle Hegnet Hamann, 11-01-2012 12:29)</em></u></strong></font></li><br><font face=Verdana>Hej Igen<br><br>_rsagen er at jeg sidste _r blev n_dt til at skifte remmen for hver 6 timer&#39;s motorl_b p_ bane da den var _delagt i siden mod remhjulet (dette er 6stk p_ et _r). <br>Jeg har ikke kunne finde nogle fejl som kan medf_re slidtagen s_ jeg er n_dsaget til at pr_ve noget.<br>Som den k_re nu er den monteret med original bredde men ombygget til rundhovedet og planet til 122 t_nder.<br>Det skal lige siges at den er ombygget til 2,5L og arbejder mellem 5000 og 7500 omdrejninger hele 6 timer,s l_bet og har en knast/top som belaster remmen meget.<br>Er der evt nogle som kender den originale bredde p_ tandremshjulet ved tappen?<br><br>P_ forh_nd tak<br>mvh Palle</font><br><li><font face=Verdana><strong><u>Re: - <em>(Morten VJ, 11-01-2012 14:34)</em></u></strong></font></li><br><font face=Verdana>De fleste svar p_ dine sp_rgsm_l st_r her.<br>http://shop.klracing.se/sv/artiklar/motor-delar/justerbara-kamdrev/volvo/kamrem-volvo-8v-extra-bred-24mm.html<br><br>MVH<br><br>Morten</font><br><li><font face=Verdana><strong><u>Re: - <em>(Palle Hegnet Hamann, 23-01-2012 08:03)</em></u></strong></font></li><br><font face=Verdana>Tak for hj_lpen.<br><br>Jeg har m_lt lidt p_ det hele og h_ber p_ at jeg har fundet fejlen hvilket var at hjulet ved tappen slog 1/10 og havde lidt kant der hvor den var mindst i m_l.<br><br>mvh Palle<br><br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -229,7 +229,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">20</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">20</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

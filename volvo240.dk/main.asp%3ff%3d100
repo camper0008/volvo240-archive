@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Sport</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Sport</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -155,18 +155,18 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber03" align="center">
   <tr>
     <th width="550" align="left">[A] SMEDET STEMPEL (96 mm)</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport01.jpg&palt=Volvo Sport','','height=349,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport01t.jpg" width="128" height="64"></A></td>
   </tr>
   <tr>
     <td width="550">Smedet stempel til l_bsbrug p_ B23-motorer. Leveres pr stk. inkl. stempelringe og stempelpind.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">B23-motor. 96 mm.</td>
     <td width="100">552 383</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -175,7 +175,7 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber04" align="center">
   <tr>
     <th width="550" align="left">[B] FORST_RKEDE PLEJLST_NGER</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport01.jpg&palt=Volvo Sport','','height=349,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport01t.jpg" width="128" height="64"></A></td>
   </tr>
   <tr>
@@ -184,13 +184,13 @@ document.onmousedown=click;
       v_gtjusterede samt overfladebearbejdet. Anpasset for op til 8.500 o/min. 
       Leveres i s_t med fire stk.
     </td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">B19/21/23 (4 stk.)</td>
     <td width="100">8360 386</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -199,20 +199,20 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber05" align="center">
   <tr>
     <th width="550" align="left">[C] KNASTAKSEL/GT-6</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport01.jpg&palt=Volvo Sport','','height=349,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport01t.jpg" width="128" height="64"></A></td>
   </tr>
   <tr>
     <td width="550">
       En knastaksel beregnet til rally og rallycross.<br>
       L_fteh_jde 12,5 mm. Duration 312_.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">B19/21/23</td>
     <td width="100">552 497</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -221,14 +221,14 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber06" align="center">
   <tr>
     <th width="550" align="left">[D] VENTILER</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport01.jpg&palt=Volvo Sport','','height=349,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport01t.jpg" width="128" height="64"></A></td>
   </tr>
   <tr>
     <td width="550">
       St_rre ventiler for trimning og l_bsbrug.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">
@@ -258,7 +258,7 @@ document.onmousedown=click;
     <td width="100">
       <table border="0" width="100%" id="AutoNumber063">
         <tr>
-          <td>&nbsp;</td>
+          <td></td>
         </tr>
         <tr>
           <td>552 389</td>
@@ -269,7 +269,7 @@ document.onmousedown=click;
       </table>
       <table border="0" width="100%" id="AutoNumber064">
         <tr>
-          <td>&nbsp;</td>
+          <td></td>
         </tr>
         <tr>
           <td>552 391</td>
@@ -279,7 +279,7 @@ document.onmousedown=click;
         </tr>
       </table>
     </td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -288,18 +288,18 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber07" align="center">
   <tr>
     <th width="550" align="left">EL-VENTILATOR _ 240</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport02.jpg&palt=Volvo Sport','','height=453,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport02t.jpg" width="128" height="85"></A></td>
   </tr>
   <tr>
     <td width="550">En termostatreguleret elektrisk k_leventilator, som kompletterer den oprindelige ventilator.<br>Levereres som komplet s_t.<br>OBS! El-ventilatoren erstatter ikke den oprindelige ventilator.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">240 75-</td>
     <td width="100">8360 390</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -308,18 +308,18 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber08" align="center">
   <tr>
     <th width="550" align="left">OLIEK_LERS_T</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport03.jpg&palt=Volvo Sport','','height=419,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport03t.jpg" width="128" height="78"></A></td>
   </tr>
   <tr>
     <td width="550">For at nedbringe motortemperaturen p_ trimmede motorer, b_r der monteres en olie k_ler.<br>Leveres komplet med monteringsdele.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">13-r_kkers oliek_ler<br>19-r_kkers oliek_ler</td>
     <td width="100">552 909<br>552 919</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -327,19 +327,19 @@ document.onmousedown=click;
 
 <table border="0" width="800" id="AutoNumber09" align="center">
   <tr>
-    <th width="550" align="left">TURBOAGGREGAT _ &quot;Gruppe A&quot;</th>
-    <td width="100">&nbsp;</td>
+    <th width="550" align="left">TURBOAGGREGAT _ "Gruppe A"</th>
+    <td width="100"></td>
     <td width="150" align="center"><a href="/main.asp?f=99">se mere om turbo</a></td>
   </tr>
   <tr>
     <td width="550">Turboaggregat med st_rre kompressordel end standard, hvilket giver st_rre ladetryk.<br>OBS! Kun godkendt til l_bsbrug.<br>Beregnet til B21ET-motorer.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">B21ET-motorer</td>
     <td width="100">8360 404</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -348,18 +348,18 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber10" align="center">
   <tr>
     <th width="550" align="left">INTERCOOLERS_T - 240</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport04.jpg&palt=Volvo Sport','','height=541,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport04t.jpg" width="128" height="102"></A></td>
   </tr>
   <tr>
     <td width="550">Ladeluftk_ler til turbomotorer med indspr_jtning. Ved at k_le den komprimerede indsugningsluft, opn_r man _get effekt og mindre benzinforbrug.<br>OBS! Kun godkendt til l_bsbrug.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">Intercoolers_t</td>
     <td width="100">8360 910</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -367,27 +367,27 @@ document.onmousedown=click;
 
 <table border="0" width="800" id="AutoNumber11" align="center">
   <tr>
-    <th width="550" align="left">GT-UDST_DNINGSSYSTEM/&quot;60 MM&quot;</th>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <th width="550" align="left">GT-UDST_DNINGSSYSTEM/"60 MM"</th>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">
       Et aluminiseret, ekstra stort udst_dningssystem, som giver minimalt 
-      tryktab. &quot;60 mm GT-udst_dningssystemet&quot; er et system som passer til den 
+      tryktab. "60 mm GT-udst_dningssystemet" er et system som passer til den 
       sportslige hverdagsbilist, s_vel som til den der skal k_re l_b. 
       Effektgevinst ca. 10 hk ved 5.400 o/min.<br>
       Godkendt til 240 81- med 
       B23A-motor.<br>
       Leveres i s_kaldt halvs_t, uden forreste r_r. For forreste 
       r_r, se nedenfor.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">240 B23 81-</td>
     <td width="100">8360 445</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -395,14 +395,14 @@ document.onmousedown=click;
 
 <table border="0" width="800" id="AutoNumber12" align="center">
   <tr>
-    <th width="550" align="left">FORRESTE UDST_DNINGSR_R / &quot;60 MM&quot;</th>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <th width="550" align="left">FORRESTE UDST_DNINGSR_R / "60 MM"</th>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">Forreste r_r, 60 mm</td>
     <td width="100">8360 422</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -411,15 +411,15 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber13" align="center">
   <tr>
     <th width="550" align="left">FORST_RKET KOBLING</th>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">
       Type RAC-kobling til trimmede motorer. Beregnet til drejningsmoment op til 255 Nm (26<br>
       kpm). Trykkraft: 7100_7750 N (725-790 kp).</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">
@@ -447,13 +447,13 @@ document.onmousedown=click;
     <td width="100">
     <table border="0" width="100%" id="AutoNumber132">
       <tr>
-        <td width="100%">&nbsp;</td>
+        <td width="100%"></td>
       </tr>
       <tr>
         <td width="100%">552 145</td>
       </tr>
       <tr>
-        <td width="100%">&nbsp;</td>
+        <td width="100%"></td>
       </tr>
       <tr>
         <td width="100%">552 146</td>
@@ -466,7 +466,7 @@ document.onmousedown=click;
       </tr>
     </table>
     </td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -475,8 +475,8 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber14" align="center">
   <tr>
     <th width="550" align="left">BAGT_JSUDVEKSLING</th>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">
@@ -484,8 +484,8 @@ document.onmousedown=click;
       acceleration, skal bagt_jsudvekslingen _ndres i forhold til standard. 
       Dermed skal man ogs_ tage hensyn til,<br>
       hvilken tophastighed bilen vil kunne opn_.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">
@@ -510,7 +510,7 @@ document.onmousedown=click;
     <td width="100">
     <table border="0" width="100%" id="AutoNumber142">
       <tr>
-        <td width="100%">&nbsp;</td>
+        <td width="100%"></td>
       </tr>
       <tr>
         <td width="100%">525 880</td>
@@ -519,14 +519,14 @@ document.onmousedown=click;
         <td width="100%">552 144</td>
       </tr>
       <tr>
-        <td width="100%">&nbsp;</td>
+        <td width="100%"></td>
       </tr>
       <tr>
         <td width="100%">8360 410</td>
       </tr>
     </table>
     </td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -535,7 +535,7 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber15" align="center">
   <tr>
     <th width="550" align="left">[H] CLOSE-RATIO GEAR</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport05.jpg&palt=Volvo Sport','','height=427,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport05t.jpg" width="128" height="79"></A></td>
   </tr>
   <tr>
@@ -544,13 +544,13 @@ document.onmousedown=click;
       g_r at man med en trimmet motor ofte kommer op i for h_je omdrejninger i 
       et gear, og at bilen ikke rigtigt vil tr_kke i det n_ste gear, fordi 
       motoromdrejningerne er for lave. Det kosters sekunder!</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">M45-gearkasse 79-</td>
     <td width="100">8360 684</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -559,20 +559,20 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber16" align="center">
   <tr>
     <th width="550" align="left">[I] GASTRYKSST_DD_MPERE</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport05.jpg&palt=Volvo Sport','','height=427,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport05t.jpg" width="128" height="79"></A></td>
   </tr>
   <tr>
     <td width="550">
       Gastryksst_dd_mpere, to for- og to bag d_mpere med h_rdere s_tning end 
       sport indstilling. Beregnet til rally og rallycross.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">240 75-</td>
     <td width="100">552 094</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -581,14 +581,14 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber18" align="center">
   <tr>
     <th width="550" align="left">[J] CHASSIFJEDRE</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport05.jpg&palt=Volvo Sport','','height=427,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport05t.jpg" width="128" height="79"></A></td>
   </tr>
   <tr>
     <td width="550">
       Line_re chassisfjedre beregnet til rally.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">
@@ -608,7 +608,7 @@ document.onmousedown=click;
     <td width="100">
     <table border="0" width="100%" id="AutoNumber182">
       <tr>
-        <td width="100%">&nbsp;</td>
+        <td width="100%"></td>
       </tr>
       <tr>
         <td width="100%">552 538</td>
@@ -618,7 +618,7 @@ document.onmousedown=click;
       </tr>
     </table>
     </td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -627,7 +627,7 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber19" align="center">
   <tr>
     <th width="550" align="left">[K] FORST_RKET SVINGARM</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport05.jpg&palt=Volvo Sport','','height=427,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport05t.jpg" width="128" height="79"></A></td>
   </tr>
   <tr>
@@ -635,8 +635,8 @@ document.onmousedown=click;
       Ved montering af f.eks. kraftigere st_dd_mpere b_r der ogs_ monteres 
       kraftigere svingarme, n_r man k_rer p_ hullede og uj_vne veje ved f.eks. 
       rallyk_rsel.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">
@@ -655,7 +655,7 @@ document.onmousedown=click;
     <td width="100">
     <table border="0" width="100%" id="AutoNumber192">
       <tr>
-        <td width="100%">&nbsp;</td>
+        <td width="100%"></td>
       </tr>
       <tr>
         <td width="100%">1229 923</td>
@@ -665,7 +665,7 @@ document.onmousedown=click;
       </tr>
     </table>
     </td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -674,7 +674,7 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber12" align="center">
   <tr>
     <th width="550" align="left">[L] LETMETAL F_LGE</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport05.jpg&palt=Volvo Sport','','height=427,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport05t.jpg" width="128" height="79"></A><br><a href="/main.asp?f=82">se mere om f_lge</a></td>
   </tr>
 </table>
@@ -684,7 +684,7 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber20" align="center">
   <tr>
     <th width="550" align="left">ROADHOLDING KIT</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport07.jpg&palt=Volvo Sport','','height=285,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport07t.jpg" width="128" height="51"></A></td>
   </tr>
   <tr>
@@ -695,13 +695,13 @@ document.onmousedown=click;
       sportsindstilling, kr_ngningsstabilisator for og bag samt n_dvendige 
       monteringsdele og monteringsvejledning.<p>Passer ikke til Diesel samt 
       200-modeller, hvor udst_dningsr_ret g_r under bagakslen.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">200 75-</td>
     <td width="100">552 095</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -710,15 +710,15 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber15" align="center">
   <tr>
     <th width="550" align="left">CHASSISS_T</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport10.jpg&palt=Volvo Sport','','height=427,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport10t.jpg" width="128" height="79"></A></td>
   </tr>
   <tr>
     <td width="550">
       Chassiskit giver bilen forbedrede vejegenskaber p.g.a. lavere tyngdepunkt. S_ttet best_r af 4 h_rdere st_dd_mpere og 4 kortere fjedre.
       Kr_ngninsstabilisators_ttet giver bilen forbedret stabilitet og neds_tter kr_ngningstendenserne.
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -727,8 +727,8 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber17" align="center">
   <tr>
     <th width="550" align="left">KR_NGNINGSSTABILISATOR S_T</th>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">
@@ -736,8 +736,8 @@ document.onmousedown=click;
       sammen med gastryksst_dd_mpere. Findes i to udgaver: Sport, eller rally.<br>
       Komplet s_t for og bag med n_dvendige monteringsdele og 
       monteringsvejledning.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">
@@ -746,17 +746,17 @@ document.onmousedown=click;
         <td width="100%">240 75-</td>
       </tr>
       <tr>
-        <td width="100%">&quot;Sport&quot;</td>
+        <td width="100%">"Sport"</td>
       </tr>
       <tr>
-        <td width="100%">&quot;GT&quot; (Rally)</td>
+        <td width="100%">"GT" (Rally)</td>
       </tr>
     </table>
     </td>
     <td width="100">
     <table border="0" width="100%" id="AutoNumber172">
       <tr>
-        <td width="100%">&nbsp;</td>
+        <td width="100%"></td>
       </tr>
       <tr>
         <td width="100%">1128 795</td>
@@ -766,7 +766,7 @@ document.onmousedown=click;
       </tr>
     </table>
     </td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -775,21 +775,21 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber21" align="center">
   <tr>
     <th width="550" align="left">GASTRYKSST_DD_MPERE</th>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">
       Sportsindstilling.<br>
       S_t med to for- og bagst_dd_mpere med h_rdere s_tning end 
       standardd_mperne. Beregnet til landevejsk_rsel.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">240 75-</td>
     <td width="100">552 093</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -798,7 +798,7 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber22" align="center">
   <tr>
     <th width="550" align="left">DIFFERENTIALEBREMSE</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport08.jpg&palt=Volvo Sport','','height=539,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport08t.jpg" width="128" height="100"></A></td>
   </tr>
   <tr>
@@ -817,7 +817,7 @@ document.onmousedown=click;
       ikke monteres p_ biler med:<br>
       - Turbomotorer<br>
       - ETC-system</td>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport11.jpg&palt=Volvo Sport','','height=539,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport11t.jpg" width="128" height="100"></A></td>
   </tr>
   <tr>
@@ -827,7 +827,7 @@ document.onmousedown=click;
     <td width="100">8360 725-9<br>
 	8360 724-2<br>
 	8360 722-6</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 <br>
@@ -836,7 +836,7 @@ document.onmousedown=click;
 <table border="0" width="800" id="AutoNumber23" align="center">
   <tr>
     <th width="550" align="left">SPACERS_T MED HJULBOLTE, BAG</th>
-    <td width="100">&nbsp;</td>
+    <td width="100"></td>
     <td width="150" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/volvooriginal/images/240-sport06.jpg&palt=Volvo Sport','','height=634,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/volvooriginal/images/240-sport06t.jpg" width="128" height="121"></A></td>
   </tr>
   <tr>
@@ -844,13 +844,13 @@ document.onmousedown=click;
       _ger sporvidden bag med 40 mm. Det giver bedre vejgreb. Og s_ giver De 
       bilen et endnu mere sportsligt udseende. Leveres i s_t til begge baghjul 
       inkl. forl_ngede hjulbolte.</td>
-    <td width="100">&nbsp;</td>
-    <td width="150">&nbsp;</td>
+    <td width="100"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td width="550">240 75-</td>
     <td width="100">8360 083</td>
-    <td width="150">&nbsp;</td>
+    <td width="150"></td>
   </tr>
 </table>
 
@@ -876,7 +876,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

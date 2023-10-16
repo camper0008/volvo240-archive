@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=380"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=380"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Forbindelser i stik bag p&#229; instrumentbr&#230;t ??</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Forbindelser i stik bag pÃ¥ instrumentbrÃ¦t ??</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">02-05-2003&nbsp; 18:18</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">02-05-2003 18:18</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Vi har et stort problem med vores km- og trip- tæller i vores volvo245 fra 89.<br>Det er sådan et elektronisk et, og spedometret fungere fint.<br>Jeg har lige fået et andet print, og har udskiftet det, men km- og trip- tælleren køre stadig ikke, til gengæld køre spedometret stadig fint.<br><br>Jeg har kikket og målt noget på det, og fundet frem til at instrumentet sansynligvis ikke får spænding el.lign.<br>Den yderste af de 3 forbindelser der går ned på hovedprintet, her forbindelse til Ben 6 i det store runde stik bag på instrumentet, samt forbindelse til "dobbetl-spaden" bag på det store hovedprint.<br><br>Det er en kraftigere blå ledning der er tilsluttet til ben 6, på det runde stik, men jeg syntes hværken at jeg kan måle + eller - på denne ledning.<br><br>Så efter alt dette er mit spørgsmål nu:<br>Hvad skal man kunne måle på denne ledning ??<br><br>Hele problemet startede som jeg har skrevet tidligere, da jeg på et tidspunkt fik tilsluttet ledningen til omdr-tælleren på "dobbelt-spaden".<br>Der var en printbane på hovedprintet der var brændt over, men den er blevet repereret.<br><br>Vi vil blive meget glade for lidt hjælp med dette problem.<br><br>Mvh.<br>Peter</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Vi har et stort problem med vores km- og trip- tÃ¦ller i vores volvo245 fra 89.<br>Det er sÃ¥dan et elektronisk et, og spedometret fungere fint.<br>Jeg har lige fÃ¥et et andet print, og har udskiftet det, men km- og trip- tÃ¦lleren kÃ¸re stadig ikke, til gengÃ¦ld kÃ¸re spedometret stadig fint.<br><br>Jeg har kikket og mÃ¥lt noget pÃ¥ det, og fundet frem til at instrumentet sansynligvis ikke fÃ¥r spÃ¦nding el.lign.<br>Den yderste af de 3 forbindelser der gÃ¥r ned pÃ¥ hovedprintet, her forbindelse til Ben 6 i det store runde stik bag pÃ¥ instrumentet, samt forbindelse til "dobbetl-spaden" bag pÃ¥ det store hovedprint.<br><br>Det er en kraftigere blÃ¥ ledning der er tilsluttet til ben 6, pÃ¥ det runde stik, men jeg syntes hvÃ¦rken at jeg kan mÃ¥le + eller - pÃ¥ denne ledning.<br><br>SÃ¥ efter alt dette er mit spÃ¸rgsmÃ¥l nu:<br>Hvad skal man kunne mÃ¥le pÃ¥ denne ledning ??<br><br>Hele problemet startede som jeg har skrevet tidligere, da jeg pÃ¥ et tidspunkt fik tilsluttet ledningen til omdr-tÃ¦lleren pÃ¥ "dobbelt-spaden".<br>Der var en printbane pÃ¥ hovedprintet der var brÃ¦ndt over, men den er blevet repereret.<br><br>Vi vil blive meget glade for lidt hjÃ¦lp med dette problem.<br><br>Mvh.<br>Peter</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=380&ForumID=2&Showsub=1311'>Re: Forbindelser i stik bag p&#229; instrumentbr&#230;t ??</a> <em>(Max Tellisen, 09-02-2004 22:39)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=380&ForumID=2&Showsub=1311'>Re: Forbindelser i stik bag pÃ¥ instrumentbrÃ¦t ??</a> <em>(Max Tellisen, 09-02-2004 22:39)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">44</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">44</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

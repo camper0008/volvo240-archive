@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-02-2004&nbsp; 17:08</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-02-2004 17:08</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">jeg har en volvo 240 (b230k) som g_r uroligt i tomgang, s_dan lidt som lidt ekstra kraftig rysten hver andet sek. ikke volodsomt men nok til at man kan m_rke det bare ved at sidde normalt i bilen.<br>har skiftet benzinfilter leget lidt med co2_n, m_lt t_ndr_rsledninger igennem uden det store resultat. H_ber at nogen kan hj_lpe.</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jes, 09-02-2004 09:47)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Urolig tomgang kan skyldes:<br>1. Forkert indstillet karburator = CO. For at f_ den stillet korrekt skal du bruge et apparat, der kan m_le CO. Du kan selv lave en grov grundjustering ved at f_lge metoden som anf_rt i menupunktet "Volvo 240 Info" > "Teknik" > Solex Cisac".<br><br>2. Det kan ogs_ v_re falsk luft. Typisk en af de sorte gummislanger, som g_r p_ en af studserne ved manifold og/eller karburator, der er m_r og revnet, eller indsugningsmanifold-pakningen, som er ut_t. Ved m_ling af udst_dningen giver det sig udslag i meget lav CO, typisk 0,2-,04 %, og h_j HC, typisk 500 - 1000 ppm.<br>Evt. kan det v_re slangen mellem bremseforst_rker og manifold der er revnet og ut_t.<br>Pr_v f_rst at unders_ge alle slangeforbindelser for revner og ut_theder.<br>Hvis det ikke er tilf_ldet, s_ find en mekaniker med en CO- og HC-tester (2-gastester).<br><br>mvh<br><br>Jes</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jes, 09-02-2004 09:47)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Urolig tomgang kan skyldes:<br>1. Forkert indstillet karburator = CO. For at f_ den stillet korrekt skal du bruge et apparat, der kan m_le CO. Du kan selv lave en grov grundjustering ved at f_lge metoden som anf_rt i menupunktet "Volvo 240 Info" > "Teknik" > Solex Cisac".<br><br>2. Det kan ogs_ v_re falsk luft. Typisk en af de sorte gummislanger, som g_r p_ en af studserne ved manifold og/eller karburator, der er m_r og revnet, eller indsugningsmanifold-pakningen, som er ut_t. Ved m_ling af udst_dningen giver det sig udslag i meget lav CO, typisk 0,2-,04 %, og h_j HC, typisk 500 - 1000 ppm.<br>Evt. kan det v_re slangen mellem bremseforst_rker og manifold der er revnet og ut_t.<br>Pr_v f_rst at unders_ge alle slangeforbindelser for revner og ut_theder.<br>Hvis det ikke er tilf_ldet, s_ find en mekaniker med en CO- og HC-tester (2-gastester).<br><br>mvh<br><br>Jes</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">33</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">33</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=2772"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=2772"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>st&#229;lf&#230;lge eller aluf&#230;lge</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>stålfælge eller alufælge</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">28-01-2005&nbsp; 09:39</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">28-01-2005 09:39</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Ligesindede<br><br>Jeg kom til at stille f�lgende sp�rgsm�l p� dk.fritid.bil:<br><br>------<br>Dette er sikkert et dumt sp�rgsm�l, men...<br><br>som jeg har forst�et det giver d�k med lavere profil bedre<br>k�reegenskaber. Ofte v�lger folk at montere aluf�lge med lavere<br>profil, men skal det v�re aluf�lge ??? vil st�lf�lge med samme<br>diameter (og dermed samme profil) ikke give samme k�reegenskaber<br>??????<br><br>Hvad f�r man egentlig ud af at v�lge aluf�lge ???<br><br>malnitz<br>-----<br><br>Og s� startede jeg en stor diskussion se: <br><br>http://groups.google.dk/groups?hl=da&lr=&frame=right&th=cb158fd237879f0c&seekm=41f98d40%240%2448324%2414726298%40news.sunsite.dk#link1<br><br><br>Hvad sige I (der ogs� har volvo 240). Personligt har jeg ikke brug for at min bil skal k�re som en Formel 1 racer. Jeg vil bare have lidt bedre k�reegenskaber, og overvejer kraftigere kr�ngningsstabilisatorer og lavere profil.<br><br>Malnitz</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2772&ForumID=2&Showsub=2775'>Re: st&#229;lf&#230;lge eller aluf&#230;lge</a> <em>(Christian Fisker, 28-01-2005 11:15)</em></strong></font></li><br><font face=Verdana>Hej Malnitz<br>Der er ingen forskel p� k�reegneskaberne, hvis vel at m�rke de to f�lgtyper har de samme dimensioner. Hvis du v�lger st�lf�lge, skal du dog sikre dig, at designet passer til din bil, da nedk�lingen af bremserne p�virkes af hullerne i f�lgen. At aluf�lge ofte har store mellemrum mellem egerne, er dog ikke ensbetydende med at de k�ler bremserne korrekt. Spoilere og andet gejl kan ogs� hindre den rette nedk�ling, hvis ikke de passer til k�ret�jet.<br>Men der er lidt med v�gtforskellen p� de to metaller, hvilket kan p�virke bremsel�ngden, men det er minimalt, og forskellen kan omtrent ikke m�les p� alm. brugsvogne, da der er mange andre ting som vil p�virke resultatet.<br>Professionelle racerk�rer kan muligvis m�rke en forskel, men jeg tror ikke alindelige bilister kan. Hvis de p�st�r de kan det, s� kr�ver det som minimum, at de har k�rt den samme rute med n�jagtig den samme hastighed gennem alle svingene, med n�jagtig den samme m�ngde benzin i tanken og mange andre n�jagtige detaljer, som kun professionelle har mulighed for at m�le, ellers er det ren og sk�r indbildning. Og har de k�rt deres bil til det absolutte yderste p� offentlig vej, b�r de slet ikke have lov til at k�re bil, men det er en helt anden snak.<br>St�lf�lge f�s ikke i s� mange forskellige dimensioner som aluf�lge, derfor k�rer de fleste med aluf�lge. Magnesium er det letteste metal, men ogs� det dyreste. Derfor er der ikke mange almindelige bilister, som har s�danne f�lge p� privatvognen. Tom Kristensen m�ske?!<br><br>mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2772&ForumID=2&Showsub=2773'>Re: st&#229;lf&#230;lge eller aluf&#230;lge</a> <em>(Kent, 28-01-2005 10:44)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2772&ForumID=2&Showsub=2775'>Re: stålfælge eller alufælge</a> <em>(Christian Fisker, 28-01-2005 11:15)</em></strong></font></li><br><font face=Verdana>Hej Malnitz<br>Der er ingen forskel p� k�reegneskaberne, hvis vel at m�rke de to f�lgtyper har de samme dimensioner. Hvis du v�lger st�lf�lge, skal du dog sikre dig, at designet passer til din bil, da nedk�lingen af bremserne p�virkes af hullerne i f�lgen. At aluf�lge ofte har store mellemrum mellem egerne, er dog ikke ensbetydende med at de k�ler bremserne korrekt. Spoilere og andet gejl kan ogs� hindre den rette nedk�ling, hvis ikke de passer til k�ret�jet.<br>Men der er lidt med v�gtforskellen p� de to metaller, hvilket kan p�virke bremsel�ngden, men det er minimalt, og forskellen kan omtrent ikke m�les p� alm. brugsvogne, da der er mange andre ting som vil p�virke resultatet.<br>Professionelle racerk�rer kan muligvis m�rke en forskel, men jeg tror ikke alindelige bilister kan. Hvis de p�st�r de kan det, s� kr�ver det som minimum, at de har k�rt den samme rute med n�jagtig den samme hastighed gennem alle svingene, med n�jagtig den samme m�ngde benzin i tanken og mange andre n�jagtige detaljer, som kun professionelle har mulighed for at m�le, ellers er det ren og sk�r indbildning. Og har de k�rt deres bil til det absolutte yderste p� offentlig vej, b�r de slet ikke have lov til at k�re bil, men det er en helt anden snak.<br>St�lf�lge f�s ikke i s� mange forskellige dimensioner som aluf�lge, derfor k�rer de fleste med aluf�lge. Magnesium er det letteste metal, men ogs� det dyreste. Derfor er der ikke mange almindelige bilister, som har s�danne f�lge p� privatvognen. Tom Kristensen m�ske?!<br><br>mvh Christian</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2772&ForumID=2&Showsub=2773'>Re: stålfælge eller alufælge</a> <em>(Kent, 28-01-2005 10:44)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">52</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">52</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

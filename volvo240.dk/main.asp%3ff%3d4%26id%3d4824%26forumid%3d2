@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-10-2013&nbsp; 19:40</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-10-2013 19:40</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvo Entusiaster. Jeg har en fin Volvo 240 _rg. 88. Den lyser i lampen at den mangler en p_re, men den mangler ingen p_rer, har tjekket alle p_rer, ogs_ i nummerpladelygter. Har for nyligt udskiftet begge k_relys p_rer, men det har ikke hjulpet. Hvad kan jeg g_re for at f_ den slukket? Alts_, udover at pille p_ren til lampen ud :)</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 08-10-2013 20:55)</em></u></strong></font></li><br><font face=Verdana>Hej Morten<br><br>Er dine p_rer parvis ens?<br>Hvis der er sp_ndingsforskel p_ p_rerne parvis, s_ melder den fejl. Der kan sagtens v_re lys i alle p_rer, men sp_ndingsforskel. Det er blandt andet derfor, at det anbefales at man skifter p_rerne parvis.<br>Selv en d_rlig forbindelse, kan give fejl.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 08-10-2013 21:44)</em></u></strong></font></li><br><font face=Verdana>Hej Morten<br>Og det er n_sten ALTID en d_rlig forbindelse der giver lys i p_revagten.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Morten Majgaard Jensen, 09-10-2013 16:55)</em></u></strong></font></li><br><font face=Verdana>Det vil sige, det bedste jeg kan g_re, er egentlig groft sagt at skifte hele lortet, s_ jeg ved at det hele passer? :) Har nemlig skiftet k_relysp_re, forlygtep_rer, og sat 5W i t_gelygter og lavet konstantlys i dem. Men lampen lyste ogs_ inden da.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 09-10-2013 17:12)</em></u></strong></font></li><br><font face=Verdana>Goddag<br><br>Tag nu lige og klap hesten engang.<br>Hvorn_r lyser den p_re ?? eller hvad f_r den til at lyse ??<br><br>Der er f_lgende muligheder: Parkeringslys, k_relys, n_rlys, eller stoplygter. Det er det der kan f_ den fam_se p_re til at lyse. S_ sluk for lortet og se om den g_r ud. (stil lyskontakten i mellem to positioner s_ lyset slukkes). Lyser p_re s_ ??<br>Hvis den g_r s_ skift den runde d_se nede under rattet. Husk det skal v_re en pr_cis magen til den gamle.<br><br>Mvh<br>Steen<br>Frederikssund <br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 09-10-2013 17:14)</em></u></strong></font></li><br><font face=Verdana>S_ kan du finde ud af hvad der f_r den til at t_nde.<br>Du skriver ikke hvorvidt den br_nder hele tiden, vil g_re det lidt lettere at diagnosticere.<br>Mvh<br>Steen</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 09-10-2013 21:45)</em></u></strong></font></li><br><font face=Verdana>Hej Morten<br><br>Konstant lyd i t_gelygterne. Hvordan skal den forst_s?<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 10-10-2013 10:10)</em></u></strong></font></li><br><font face=Verdana>Hej Morten <br>Hvis du har en 88 Volvo 240, og du mener at hj_rnelygterne ude foran er t_gelygter, s_ er du galt p_ den, det er observationslys og parkeringslys, og har en dobbeltp_re 5W/21W. Hvis disse lys blot har en 5W p_re er der lavet fusk p_ Volvoen og derfor lyser p_revagten.<br>(hj_rnelygterne ude foran f_r f_rst i 1990 en 5 watts p_re alene som P lys, da modellerne fra dette _r f_r permanet k_relys som er n_rlyset)<br>Og hvis disse hj_rnelygter er skiftet til 90er modeller, og p_revagten ikke er skiftet, s_ vil den lyse hele tiden.<br>MVH Jens Peter</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 08-10-2013 20:55)</em></u></strong></font></li><br><font face=Verdana>Hej Morten<br><br>Er dine p_rer parvis ens?<br>Hvis der er sp_ndingsforskel p_ p_rerne parvis, s_ melder den fejl. Der kan sagtens v_re lys i alle p_rer, men sp_ndingsforskel. Det er blandt andet derfor, at det anbefales at man skifter p_rerne parvis.<br>Selv en d_rlig forbindelse, kan give fejl.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 08-10-2013 21:44)</em></u></strong></font></li><br><font face=Verdana>Hej Morten<br>Og det er n_sten ALTID en d_rlig forbindelse der giver lys i p_revagten.<br>MVH Jens Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Morten Majgaard Jensen, 09-10-2013 16:55)</em></u></strong></font></li><br><font face=Verdana>Det vil sige, det bedste jeg kan g_re, er egentlig groft sagt at skifte hele lortet, s_ jeg ved at det hele passer? :) Har nemlig skiftet k_relysp_re, forlygtep_rer, og sat 5W i t_gelygter og lavet konstantlys i dem. Men lampen lyste ogs_ inden da.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 09-10-2013 17:12)</em></u></strong></font></li><br><font face=Verdana>Goddag<br><br>Tag nu lige og klap hesten engang.<br>Hvorn_r lyser den p_re ?? eller hvad f_r den til at lyse ??<br><br>Der er f_lgende muligheder: Parkeringslys, k_relys, n_rlys, eller stoplygter. Det er det der kan f_ den fam_se p_re til at lyse. S_ sluk for lortet og se om den g_r ud. (stil lyskontakten i mellem to positioner s_ lyset slukkes). Lyser p_re s_ ??<br>Hvis den g_r s_ skift den runde d_se nede under rattet. Husk det skal v_re en pr_cis magen til den gamle.<br><br>Mvh<br>Steen<br>Frederikssund <br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 09-10-2013 17:14)</em></u></strong></font></li><br><font face=Verdana>S_ kan du finde ud af hvad der f_r den til at t_nde.<br>Du skriver ikke hvorvidt den br_nder hele tiden, vil g_re det lidt lettere at diagnosticere.<br>Mvh<br>Steen</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 09-10-2013 21:45)</em></u></strong></font></li><br><font face=Verdana>Hej Morten<br><br>Konstant lyd i t_gelygterne. Hvordan skal den forst_s?<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 10-10-2013 10:10)</em></u></strong></font></li><br><font face=Verdana>Hej Morten <br>Hvis du har en 88 Volvo 240, og du mener at hj_rnelygterne ude foran er t_gelygter, s_ er du galt p_ den, det er observationslys og parkeringslys, og har en dobbeltp_re 5W/21W. Hvis disse lys blot har en 5W p_re er der lavet fusk p_ Volvoen og derfor lyser p_revagten.<br>(hj_rnelygterne ude foran f_r f_rst i 1990 en 5 watts p_re alene som P lys, da modellerne fra dette _r f_r permanet k_relys som er n_rlyset)<br>Og hvis disse hj_rnelygter er skiftet til 90er modeller, og p_revagten ikke er skiftet, s_ vil den lyse hele tiden.<br>MVH Jens Peter</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

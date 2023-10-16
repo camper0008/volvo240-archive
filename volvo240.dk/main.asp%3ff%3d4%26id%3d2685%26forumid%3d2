@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -215,7 +215,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">S&#248;ren Krab</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Søren Krab</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-02-2008&nbsp; 21:54</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-02-2008 21:54</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br>P� min nyk�bte volvo 245/88 GLT sidder der et ekstra stik p� <br>anh�ngertr�kket. Stikket udvendig ser identisk ud med det andet<br>p� modsatte side af kuglen, men der er kun 3 ben inden i denne.<br>Hvad har det v�ret brugt til.-?</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 04-02-2008 22:10)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Hvis jeg ikke husker helt forkert har motorvarmerens stik 3 ben, men normalt monteres denne under frontk�ben/kofangeren (sad der bl.a. p� min van, varmeren var dog afmonteret), kunne det t�nkes det var denne der evt. var flyttet bagtil?!?<br><br>Normalt er det ekstra stik (h�jre side) et campinvogns stik, jeg mener det normale har 7 poler og campingstikket 9 poler, men ret mig endelig (lang tid siden jeg har rodet med det)<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 04-02-2008 23:15)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Korrekt, normalt anh�ngerstik har 7 poler.<br>Rettelse&#59; CV stikket har 13 poler.<br>Det stik som S�ren sp�rger til er sikkert, som Kim skriver til motorvarmeren, som normalt er placeret i frontspoileren.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Krab, 04-02-2008 23:16)</em></u></strong></font></li><br><font face=Verdana>Hej <br>Der sidder godt nok et s�dan stik under under forkofangeren til motorvarmer, som er monteret,s� hvorfor er det ogs� sat en i bagtil, hvis dette er tilf�ldet.<br>Jeg har dog ikke ledning og sikket til at s�tte i der. Er der 220 volt i et s�dan stik-?<br>Mvh<br>S�ren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Mads Randa, 04-02-2008 23:23)</em></u></strong></font></li><br><font face=Verdana>Hej S�ren<br><br>Grunden til at man normalt har stikket foran er at man normalt parkere forl�ns ind i sin garage/carport. Det kan v�re at den tidligere ejer enten normalt har bakket ind eller haft str�mtilslutningen t�t p� bagenden af bilen n�r den holdt derhjemme.<br><br>/Mads Randa</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 05-02-2008 00:24)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Hvis du har motorvarmer i bilen er det da med at bruge det. Det er utroligt sundt for motoren n�r k�levandet er varmet op f�r start (Men rent �konomisk kan det ikke betale sig)<br>Det er 220 volt ja, i princippet er det bare et varmeelement der varmer vandet.<br>Tror faktisk jeg har et kabel liggende hvis det har interesse. Mener jeg s� det under pladen i mit bagagerum, men kiggede ikke n�rmere efter (er ikke s�rlig god til at rydde op bag i den, der er sq s� meget plads i s�dan en van hehe)<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Claus Trappaud Bondesen, 05-02-2008 19:55)</em></u></strong></font></li><br><font face=Verdana>Hej S�ren<br>Hvis dit extra stik ikke er til motorvarmer (det kan du m�le dig til, eller blot f�lge<br>ledningerne), s� kan det v�re at den tidligere ejer har bygget en speciel funktion p� bilen,<br>s� han kunne lade str�m p� et extra batteri i campingvognen mens han k�rte. Normalt bruges<br>der kun 6 ben i det 7 benede stik. Mange campister har  brugt dert sidste ben i stikket, til<br>str�m til et 12 volts lysanl�g og k�reskab i CV. Det kan ogs� v�re den funktion som dit extra stik kan have. Det er kun et kvalificeret g�t. Hvis du kan finde frem til tidligere <br>ejer (ikke helt umuligt), kunne du jo sp�rge ham.<br>mvh CTB</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 04-02-2008 22:10)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Hvis jeg ikke husker helt forkert har motorvarmerens stik 3 ben, men normalt monteres denne under frontk�ben/kofangeren (sad der bl.a. p� min van, varmeren var dog afmonteret), kunne det t�nkes det var denne der evt. var flyttet bagtil?!?<br><br>Normalt er det ekstra stik (h�jre side) et campinvogns stik, jeg mener det normale har 7 poler og campingstikket 9 poler, men ret mig endelig (lang tid siden jeg har rodet med det)<br><br>vh KJ</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 04-02-2008 23:15)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Korrekt, normalt anh�ngerstik har 7 poler.<br>Rettelse&#59; CV stikket har 13 poler.<br>Det stik som S�ren sp�rger til er sikkert, som Kim skriver til motorvarmeren, som normalt er placeret i frontspoileren.<br>MVH Jens Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren Krab, 04-02-2008 23:16)</em></u></strong></font></li><br><font face=Verdana>Hej <br>Der sidder godt nok et s�dan stik under under forkofangeren til motorvarmer, som er monteret,s� hvorfor er det ogs� sat en i bagtil, hvis dette er tilf�ldet.<br>Jeg har dog ikke ledning og sikket til at s�tte i der. Er der 220 volt i et s�dan stik-?<br>Mvh<br>S�ren</font><br><li><font face=Verdana><strong><u>Re: - <em>(Mads Randa, 04-02-2008 23:23)</em></u></strong></font></li><br><font face=Verdana>Hej S�ren<br><br>Grunden til at man normalt har stikket foran er at man normalt parkere forl�ns ind i sin garage/carport. Det kan v�re at den tidligere ejer enten normalt har bakket ind eller haft str�mtilslutningen t�t p� bagenden af bilen n�r den holdt derhjemme.<br><br>/Mads Randa</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 05-02-2008 00:24)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Hvis du har motorvarmer i bilen er det da med at bruge det. Det er utroligt sundt for motoren n�r k�levandet er varmet op f�r start (Men rent �konomisk kan det ikke betale sig)<br>Det er 220 volt ja, i princippet er det bare et varmeelement der varmer vandet.<br>Tror faktisk jeg har et kabel liggende hvis det har interesse. Mener jeg s� det under pladen i mit bagagerum, men kiggede ikke n�rmere efter (er ikke s�rlig god til at rydde op bag i den, der er sq s� meget plads i s�dan en van hehe)<br><br>vh KJ</font><br><li><font face=Verdana><strong><u>Re: - <em>(Claus Trappaud Bondesen, 05-02-2008 19:55)</em></u></strong></font></li><br><font face=Verdana>Hej S�ren<br>Hvis dit extra stik ikke er til motorvarmer (det kan du m�le dig til, eller blot f�lge<br>ledningerne), s� kan det v�re at den tidligere ejer har bygget en speciel funktion p� bilen,<br>s� han kunne lade str�m p� et extra batteri i campingvognen mens han k�rte. Normalt bruges<br>der kun 6 ben i det 7 benede stik. Mange campister har  brugt dert sidste ben i stikket, til<br>str�m til et 12 volts lysanl�g og k�reskab i CV. Det kan ogs� v�re den funktion som dit extra stik kan have. Det er kun et kvalificeret g�t. Hvis du kan finde frem til tidligere <br>ejer (ikke helt umuligt), kunne du jo sp�rge ham.<br>mvh CTB</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -265,9 +265,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-02-2006&nbsp; 20:38</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-02-2006 20:38</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">hej har nu her pr�vet og se hva min volvo 240 2,3 GLT med 136HK kan og det er virkeligt umuligt at f� den over 180 og fra 140 ca. er der sku ikk meget mere at hente er det normalt ...??</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Emil J, 24-02-2006 22:45)</em></u></strong></font></li><br><font face=Verdana>Tja.. Nu skal du jo huske p� det ikke er en aerodynamisk bil. Desuden er den tung. <br>Jeg kan fort�lle at jeg har haft min op p� 195 km/t p� en vindstille sommerdag.<br>Jeg har B230A motor & automat gearkasse. <br>Men du kunne pr�ve at skifte t�ndr�r til efter original forskrifter & skifte til Valvoline Maxlife motorolie. Og giv motoren nogle t�rre t�sk p� motorvejen. En Volvo motor SKAL have nogle over nakken nogle gange. Hvis de brugt til "morfar" k�rsel & byk�rsel soder de hurtigt til & taber effekt. Du kan evt give den en "kur" der renser motor osv. De s�lger det hos spareparts. Kan ikke huske hvad det hedder. :)<br>Men jeg mener at Volvo skriver at top farten er ca 175 km/t for en 240. At man s� er heldig at de kan lidt mere, skal man bare tage for gode s�. Volvo har prioteret det store drejningsmoment, fremfor topfart. <br><br>VH<br><br>Emil J</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ren&#233; &#216;stergaard, 24-02-2006 23:20)</em></u></strong></font></li><br><font face=Verdana>Det er lidt forskelligt, hvor meget de vil l�be. Har pt. en 244 fra '85 med B230A motor og M47 kasse. Da den var farbar, fik jeg den sgu ikke over 190 p� uret.<br>En anden 245 jeg havde, som var fra '86 med samme drivline har jeg haft oppe p� 205 p� n�len, s� det kommer an p� hvordan den er blevet behandlet forhen. =]</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kent, 24-02-2006 23:59)</em></u></strong></font></li><br><font face=Verdana>Hvor mange omdrejninger tar en ved 180 km.t jeg merner at den sku ku g� de 200.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Dennis C, 25-02-2006 13:10)</em></u></strong></font></li><br><font face=Verdana>Min har v�ret oppe p� 200. Mener den tog ca. 5000 omdr. i 5 gear..</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Johan &#197;rman, 25-02-2006 14:01)</em></u></strong></font></li><br><font face=Verdana>Hej. Jeg har i min 245 fra 1986 med B230A, dengang ca. 300.000km med 3 personer og baggage ti en weekendtur i Jylland haft n�len p� 200. Men 200 p� n�len, er jo ikke 200 i virkeligheden. Min viser ca 10 procent forkert.<br><br>Jeg var faktisk overrasket over, at min gamle traktor kunne k�re s� hurtigt!<br><br>Venligst <br><br>Johan �rman</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ruben, 25-02-2006 22:41)</em></u></strong></font></li><br><font face=Verdana>Min har 160-70hk (B23A med eftermonteret turbo og 0,5 bars tryk samt ic)og den render uden problemer 200. Men s� st�r n�len ogs� lige over 5000 rpm i 5.gear.(M47)<br><br>Hvis din er en GLT (turbo) har den da ikke kun 136hk har den ?</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Emil J, 24-02-2006 22:45)</em></u></strong></font></li><br><font face=Verdana>Tja.. Nu skal du jo huske p� det ikke er en aerodynamisk bil. Desuden er den tung. <br>Jeg kan fort�lle at jeg har haft min op p� 195 km/t p� en vindstille sommerdag.<br>Jeg har B230A motor & automat gearkasse. <br>Men du kunne pr�ve at skifte t�ndr�r til efter original forskrifter & skifte til Valvoline Maxlife motorolie. Og giv motoren nogle t�rre t�sk p� motorvejen. En Volvo motor SKAL have nogle over nakken nogle gange. Hvis de brugt til "morfar" k�rsel & byk�rsel soder de hurtigt til & taber effekt. Du kan evt give den en "kur" der renser motor osv. De s�lger det hos spareparts. Kan ikke huske hvad det hedder. :)<br>Men jeg mener at Volvo skriver at top farten er ca 175 km/t for en 240. At man s� er heldig at de kan lidt mere, skal man bare tage for gode s�. Volvo har prioteret det store drejningsmoment, fremfor topfart. <br><br>VH<br><br>Emil J</font><br><li><font face=Verdana><strong><u>Re: - <em>(Ren&#233; Østergaard, 24-02-2006 23:20)</em></u></strong></font></li><br><font face=Verdana>Det er lidt forskelligt, hvor meget de vil l�be. Har pt. en 244 fra '85 med B230A motor og M47 kasse. Da den var farbar, fik jeg den sgu ikke over 190 p� uret.<br>En anden 245 jeg havde, som var fra '86 med samme drivline har jeg haft oppe p� 205 p� n�len, s� det kommer an p� hvordan den er blevet behandlet forhen. =]</font><br><li><font face=Verdana><strong><u>Re: - <em>(kent, 24-02-2006 23:59)</em></u></strong></font></li><br><font face=Verdana>Hvor mange omdrejninger tar en ved 180 km.t jeg merner at den sku ku g� de 200.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Dennis C, 25-02-2006 13:10)</em></u></strong></font></li><br><font face=Verdana>Min har v�ret oppe p� 200. Mener den tog ca. 5000 omdr. i 5 gear..</font><br><li><font face=Verdana><strong><u>Re: - <em>(Johan Årman, 25-02-2006 14:01)</em></u></strong></font></li><br><font face=Verdana>Hej. Jeg har i min 245 fra 1986 med B230A, dengang ca. 300.000km med 3 personer og baggage ti en weekendtur i Jylland haft n�len p� 200. Men 200 p� n�len, er jo ikke 200 i virkeligheden. Min viser ca 10 procent forkert.<br><br>Jeg var faktisk overrasket over, at min gamle traktor kunne k�re s� hurtigt!<br><br>Venligst <br><br>Johan �rman</font><br><li><font face=Verdana><strong><u>Re: - <em>(Ruben, 25-02-2006 22:41)</em></u></strong></font></li><br><font face=Verdana>Min har 160-70hk (B23A med eftermonteret turbo og 0,5 bars tryk samt ic)og den render uden problemer 200. Men s� st�r n�len ogs� lige over 5000 rpm i 5.gear.(M47)<br><br>Hvis din er en GLT (turbo) har den da ikke kun 136hk har den ?</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">23</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">23</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

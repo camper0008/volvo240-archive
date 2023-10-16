@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Jyllands Ringen 2. maj 2004</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Jyllands Ringen 2. maj 2004</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -224,7 +224,7 @@ en bil i topform.</p>
 <p align="center">En noget tr_ls slutning p_ _bningsl_bet. Bedst som man tror 
 det g_r s_ godt, kan alting ske.<br>
 <i><b>Intet er sikkert f_r det ternede flag viftes for sidste gang.</b></i></p>
-<h2>&nbsp;</h2>
+<h2></h2>
 <h2>Volvo S40 Turbo</h2>
 <p>I Yokohama klassen kunne man finde den pragtfulde Volvo S40 Turbo i topform. 
 Og Anders Byriel var ogs_ t_ndt p_ et godt race. <br>
@@ -237,7 +237,7 @@ rigtig godt _r for 'Anders fra Randers' i _r. </p>
     <td> 
 <p>Anders holder klar i Volvo'en til at k_re p_ banen til l_rdagens tidtagning.</p>
     </td>
-    <td width="130">&nbsp;</td>
+    <td width="130"></td>
   </tr>
 </table>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
@@ -264,7 +264,7 @@ Det s_ lovende ud.</p>
 
 <p align="center">volvo240.dk f_lger fortsat Anders Byriel i sin Volvo S40 Turbo 
 og _nsker ham det bedste fremover.</p>
-<p>&nbsp;</p>
+<p></p>
 
 <hr>
 
@@ -295,7 +295,7 @@ og _nsker ham det bedste fremover.</p>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

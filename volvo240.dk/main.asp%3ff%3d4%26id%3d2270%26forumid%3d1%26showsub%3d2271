@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=2270"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2270"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-10-2004&nbsp; 23:38</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-10-2004 23:38</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Kære alle!<br><br>Min kobling rusker en hel del, når jeg har kørt lange ture på motorvej - altså, når motoren er blevet gennemvarm og har fået lov at bestille noget.<br><br>Det er formentlig lidt motorolie i en eller anden form, der flyver bagud og rammer koblingen, så den bliver fedtet og rusker, når man skal sætte i gang i 1. gear. Det kan indimellem være ganske voldsomt.<br><br>Når motoren er kold, eller jeg kun kører bykørsel eller kortere ture på landevejen, opstår problemet ikke.<br><br>Men til spørgsmålet: <br><br>Er der en eller anden pakning eller dims ved samlingen mellem kobling og motor, der kan blive træt og utæt, så dette problem opstår? Og er det i givet fald en pakning, man kan skifte ud med en ny?<br><br>Koblingen er ellers ikke slidt, og motoren bruger stort set ikke olie i det daglige - måske to deciliter på 5000 kilometer blandet kørsel (fuldsyntetisk 5W40).<br><br>mvh<br><br>Jesper Johansen<br><br><br></font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">KÃ¦re alle!<br><br>Min kobling rusker en hel del, nÃ¥r jeg har kÃ¸rt lange ture pÃ¥ motorvej - altsÃ¥, nÃ¥r motoren er blevet gennemvarm og har fÃ¥et lov at bestille noget.<br><br>Det er formentlig lidt motorolie i en eller anden form, der flyver bagud og rammer koblingen, sÃ¥ den bliver fedtet og rusker, nÃ¥r man skal sÃ¦tte i gang i 1. gear. Det kan indimellem vÃ¦re ganske voldsomt.<br><br>NÃ¥r motoren er kold, eller jeg kun kÃ¸rer bykÃ¸rsel eller kortere ture pÃ¥ landevejen, opstÃ¥r problemet ikke.<br><br>Men til spÃ¸rgsmÃ¥let: <br><br>Er der en eller anden pakning eller dims ved samlingen mellem kobling og motor, der kan blive trÃ¦t og utÃ¦t, sÃ¥ dette problem opstÃ¥r? Og er det i givet fald en pakning, man kan skifte ud med en ny?<br><br>Koblingen er ellers ikke slidt, og motoren bruger stort set ikke olie i det daglige - mÃ¥ske to deciliter pÃ¥ 5000 kilometer blandet kÃ¸rsel (fuldsyntetisk 5W40).<br><br>mvh<br><br>Jesper Johansen<br><br><br></font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2270&ForumID=1&Showsub=2271'>Re: Koblings-knas</a> <em>(Jes, 08-10-2004 10:22)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Ikke et usædvanligt problem du der beskriver. Med tiden bliver den bagerste pakdåse på krumtappen utæt. Første tegn er lidt oliedråber under motoren ved overgangen mellem motorblok og koblingshus.<br>Du skal have udskiftet pakdåsen. Hvis du gør det selv, er det at købe en pakdåse og en pakning til det skjold, som pakdåsen er monteret i (du kan anvende flydende pakning i stedet).<br>Gearkassen skal af, kobling og svinghjul skal af, så er du inde ved pakdåsen).<br>Når du alligevel er i gang, så skift også lejet i enden af krumtappen, hvor højgearsakslen hviler.<br>I dele er skal der købes for ca. 350 kr.<br>Arbejdstid ca. 3-4 timer.<br><br>mvh<br><br>Jes</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2270&ForumID=1&Showsub=2271'>Re: Koblings-knas</a> <em>(Jes, 08-10-2004 10:22)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Ikke et usÃ¦dvanligt problem du der beskriver. Med tiden bliver den bagerste pakdÃ¥se pÃ¥ krumtappen utÃ¦t. FÃ¸rste tegn er lidt oliedrÃ¥ber under motoren ved overgangen mellem motorblok og koblingshus.<br>Du skal have udskiftet pakdÃ¥sen. Hvis du gÃ¸r det selv, er det at kÃ¸be en pakdÃ¥se og en pakning til det skjold, som pakdÃ¥sen er monteret i (du kan anvende flydende pakning i stedet).<br>Gearkassen skal af, kobling og svinghjul skal af, sÃ¥ er du inde ved pakdÃ¥sen).<br>NÃ¥r du alligevel er i gang, sÃ¥ skift ogsÃ¥ lejet i enden af krumtappen, hvor hÃ¸jgearsakslen hviler.<br>I dele er skal der kÃ¸bes for ca. 350 kr.<br>Arbejdstid ca. 3-4 timer.<br><br>mvh<br><br>Jes</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">3</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">3</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

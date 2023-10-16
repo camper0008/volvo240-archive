@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=1886"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1886"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-06-2004&nbsp; 21:06</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-06-2004 21:06</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Jeg har købt mig en Volvo 240 GLT '86, som har gået små 220.000km. Den er uden rust, er blevet undervognsbehandlet en god slat gange - bliver malet hele vejen rundt til op under vinduerne osv. Alt i alt har jeg måske ikke gjort verdens bedste handel (prismæssigt), men det er den bil jeg vil have og det må jeg så ofre lidt på.<br><br>Jeg har tænkt mig at stoppe følgende stumper i den, men ville lige høre jer herinde - inden jeg gør alvor af det. Jeg vil ligeledes gerne høre om I evt. har forslag til ændringer o.lign.<br><br>KG Trimning KG002 Knast 300°<br>KG Trimning Knasthjul<br>KG Trimning Typ1 Extraktgrenrør<br>2½" Simons udstødning m. turbo afgang<br>KN Luftfilter indsats<br><br>Jeg har dog tænkt mig at prøve med et helt åbent filter, men tror det vil larme for meget til mig.<br><br>Jeg glæder mig til at høre hvad I siger til det!<br><br>Mvh<br>Simon D. Hansen<br>Århus</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Jeg har kÃ¸bt mig en Volvo 240 GLT '86, som har gÃ¥et smÃ¥ 220.000km. Den er uden rust, er blevet undervognsbehandlet en god slat gange - bliver malet hele vejen rundt til op under vinduerne osv. Alt i alt har jeg mÃ¥ske ikke gjort verdens bedste handel (prismÃ¦ssigt), men det er den bil jeg vil have og det mÃ¥ jeg sÃ¥ ofre lidt pÃ¥.<br><br>Jeg har tÃ¦nkt mig at stoppe fÃ¸lgende stumper i den, men ville lige hÃ¸re jer herinde - inden jeg gÃ¸r alvor af det. Jeg vil ligeledes gerne hÃ¸re om I evt. har forslag til Ã¦ndringer o.lign.<br><br>KG Trimning KG002 Knast 300°<br>KG Trimning Knasthjul<br>KG Trimning Typ1 ExtraktgrenrÃ¸r<br>2½" Simons udstÃ¸dning m. turbo afgang<br>KN Luftfilter indsats<br><br>Jeg har dog tÃ¦nkt mig at prÃ¸ve med et helt Ã¥bent filter, men tror det vil larme for meget til mig.<br><br>Jeg glÃ¦der mig til at hÃ¸re hvad I siger til det!<br><br>Mvh<br>Simon D. Hansen<br>Ã…rhus</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1903'>Re: Forventet ydelse?</a> <em>(Kent, 09-06-2004 11:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1899'>Re: Forventet ydelse?</a> <em>(michael nordahn, 08-06-2004 17:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1893'>Re: Forventet ydelse?</a> <em>(Michael, 07-06-2004 16:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1890'>Re: Forventet ydelse?</a> <em>(Emil J, 07-06-2004 02:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1889'>Re: Forventet ydelse?</a> <em>(Ren&#233; &#216;stergaard, 06-06-2004 23:21)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1888'>Re: Forventet ydelse?</a> <em>(Simon D. Hansen, 06-06-2004 22:51)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1887'>Re: Forventet ydelse?</a> <em>(Emil J, 06-06-2004 22:17)</em></strong></font></li><br><font face=Verdana>Det lyder da lækkert nok!<br>Har nogle spørgsmål:<br>1. Hvilken motor har du i din bil?<br>2. Kunne du evt ikke tage billeder under hele projektet? <br>Jeg vil gætte på du lander på omkring de 200 HK. Måske mer. :)<br><br>Emil J</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1903'>Re: Forventet ydelse?</a> <em>(Kent, 09-06-2004 11:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1899'>Re: Forventet ydelse?</a> <em>(michael nordahn, 08-06-2004 17:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1893'>Re: Forventet ydelse?</a> <em>(Michael, 07-06-2004 16:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1890'>Re: Forventet ydelse?</a> <em>(Emil J, 07-06-2004 02:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1889'>Re: Forventet ydelse?</a> <em>(Ren&#233; Ã˜stergaard, 06-06-2004 23:21)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1888'>Re: Forventet ydelse?</a> <em>(Simon D. Hansen, 06-06-2004 22:51)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1886&ForumID=1&Showsub=1887'>Re: Forventet ydelse?</a> <em>(Emil J, 06-06-2004 22:17)</em></strong></font></li><br><font face=Verdana>Det lyder da lÃ¦kkert nok!<br>Har nogle spÃ¸rgsmÃ¥l:<br>1. Hvilken motor har du i din bil?<br>2. Kunne du evt ikke tage billeder under hele projektet? <br>Jeg vil gÃ¦tte pÃ¥ du lander pÃ¥ omkring de 200 HK. MÃ¥ske mer. :)<br><br>Emil J</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">34</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">34</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

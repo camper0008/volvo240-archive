@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spørge andre Volvo-ejere tilråds om alt vedrørende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spÃ¸rge andre Volvo-ejere tilrÃ¥ds om alt vedrÃ¸rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=3500"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=3500"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>D&#230;k-Vr&#248;vl p&#229; 240 St.car</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-05-2005&nbsp; 21:27</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-05-2005 21:27</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jo, jeg HAR læst i instruktionsbøgerne, i "teknik-delen" på siden her og i dæk-firmaernes "dæk-info" ..... og er (næsten) lige vidt!!!<br><br>Da en 245 er født med 185/fuldprofil-14 dæk, skal den jo ikke køre på 175/80-14, 185/70-14 eller noget andet afvigende, vel!?! Jeg ser her bort fra turbo-udgaver o.lign, som vist nok er lidt anderledes.<br><br>Min pointe er at 9 ud af 10 dæk-forhandlere sælger og monterer dæk med for LILLE diameter på de fleste 245 modeller (og 5 ud af 10 245-ejere kører med dem!!!). Jeg havner i en diskussion næsten hver eneste gang jeg skal have et par nye dæk ..... jeg plejer at bede om en bestemt størrelse og bliver så spurgt om til hvilken bil det er, - og så har vi balladen. Da jeg ikke vil ændre bilens gearing, vil jeg have en dæk-omkreds meget tæt på et 185-14, og det ikke let at forklare en "fagmand" i et dækcenter.<br><br>Der står højt og tydeligt i bl.a. instruktionsbogen, at man skal sørge for ikke at ændre bilens gearing ved forkert dækvalg, så hvor svært kan det være?!?.....men nej, træerne gror ikke ind i himlen. Nu skal jeg have nyt gummi på et sæt 6Jx15 alu-fælge og det er mindst ligeså vildledende at spørge om i dæk-butikken.<br><br>Jeg har regnet ud hvilken størrelse det skal være, men vil egentlig gerne høre fra brugerne af dette forum hvad I kører på af gummi på JERES 245'er (gerne i samtlige årgange). Jeg har selv både en '83 og en '84 model, som begge blev købt med forkert størrelse dæk monteret.<br><br>Jeg kan ikke være den eneste i DK???<br>Lad mig høre om JERES dæk-valg, -problemer, -erfaringer!<br><br>På forhånd tak,<br>Stig (245-bruger på 8'ende år).</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jo, jeg HAR lÃ¦st i instruktionsbÃ¸gerne, i "teknik-delen" pÃ¥ siden her og i dÃ¦k-firmaernes "dÃ¦k-info" ..... og er (nÃ¦sten) lige vidt!!!<br><br>Da en 245 er fÃ¸dt med 185/fuldprofil-14 dÃ¦k, skal den jo ikke kÃ¸re pÃ¥ 175/80-14, 185/70-14 eller noget andet afvigende, vel!?! Jeg ser her bort fra turbo-udgaver o.lign, som vist nok er lidt anderledes.<br><br>Min pointe er at 9 ud af 10 dÃ¦k-forhandlere sÃ¦lger og monterer dÃ¦k med for LILLE diameter pÃ¥ de fleste 245 modeller (og 5 ud af 10 245-ejere kÃ¸rer med dem!!!). Jeg havner i en diskussion nÃ¦sten hver eneste gang jeg skal have et par nye dÃ¦k ..... jeg plejer at bede om en bestemt stÃ¸rrelse og bliver sÃ¥ spurgt om til hvilken bil det er, - og sÃ¥ har vi balladen. Da jeg ikke vil Ã¦ndre bilens gearing, vil jeg have en dÃ¦k-omkreds meget tÃ¦t pÃ¥ et 185-14, og det ikke let at forklare en "fagmand" i et dÃ¦kcenter.<br><br>Der stÃ¥r hÃ¸jt og tydeligt i bl.a. instruktionsbogen, at man skal sÃ¸rge for ikke at Ã¦ndre bilens gearing ved forkert dÃ¦kvalg, sÃ¥ hvor svÃ¦rt kan det vÃ¦re?!?.....men nej, trÃ¦erne gror ikke ind i himlen. Nu skal jeg have nyt gummi pÃ¥ et sÃ¦t 6Jx15 alu-fÃ¦lge og det er mindst ligesÃ¥ vildledende at spÃ¸rge om i dÃ¦k-butikken.<br><br>Jeg har regnet ud hvilken stÃ¸rrelse det skal vÃ¦re, men vil egentlig gerne hÃ¸re fra brugerne af dette forum hvad I kÃ¸rer pÃ¥ af gummi pÃ¥ JERES 245'er (gerne i samtlige Ã¥rgange). Jeg har selv bÃ¥de en '83 og en '84 model, som begge blev kÃ¸bt med forkert stÃ¸rrelse dÃ¦k monteret.<br><br>Jeg kan ikke vÃ¦re den eneste i DK???<br>Lad mig hÃ¸re om JERES dÃ¦k-valg, -problemer, -erfaringer!<br><br>PÃ¥ forhÃ¥nd tak,<br>Stig (245-bruger pÃ¥ 8'ende Ã¥r).</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3550'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(Stig, 25-05-2005 11:37)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3549'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(Stig, 25-05-2005 11:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3536'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(malnitz, 23-05-2005 21:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3534'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(Niels Peder Nielsen, 23-05-2005 15:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3533'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(Jes, 23-05-2005 13:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3532'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(Malnitz, 23-05-2005 09:09)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3530'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(Niels Peder Nielsen, 22-05-2005 21:19)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3525'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(flemming, 22-05-2005 18:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3521'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(Jesper, 22-05-2005 15:48)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3514'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(Stig, 21-05-2005 20:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3506'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(Jesper Johansen, 21-05-2005 15:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3504'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(Finn Kruse, 21-05-2005 12:13)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3503'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(Stig, 21-05-2005 08:56)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3502'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(Jes, 21-05-2005 08:16)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3501'>Re: D&#230;k-Vr&#248;vl p&#229; 240 St.car</a> <em>(Ren&#233; &#216;stergaard, 21-05-2005 00:27)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3550'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(Stig, 25-05-2005 11:37)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3549'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(Stig, 25-05-2005 11:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3536'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(malnitz, 23-05-2005 21:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3534'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(Niels Peder Nielsen, 23-05-2005 15:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3533'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(Jes, 23-05-2005 13:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3532'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(Malnitz, 23-05-2005 09:09)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3530'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(Niels Peder Nielsen, 22-05-2005 21:19)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3525'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(flemming, 22-05-2005 18:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3521'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(Jesper, 22-05-2005 15:48)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3514'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(Stig, 21-05-2005 20:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3506'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(Jesper Johansen, 21-05-2005 15:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3504'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(Finn Kruse, 21-05-2005 12:13)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3503'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(Stig, 21-05-2005 08:56)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3502'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(Jes, 21-05-2005 08:16)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3500&ForumID=4&Showsub=3501'>Re: DÃ¦k-VrÃ¸vl pÃ¥ 240 St.car</a> <em>(Ren&#233; Ã˜stergaard, 21-05-2005 00:27)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">42</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">42</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

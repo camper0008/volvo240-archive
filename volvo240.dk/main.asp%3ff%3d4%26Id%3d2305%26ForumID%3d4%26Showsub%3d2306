@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=2305"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=2305"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">23-10-2004&nbsp; 13:40</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">23-10-2004 13:40</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hall�j til jer som k�rer i ordentlige biler. Er der nogen som har erfaring med hensyn til overgear. Har en �rg. 1984 Volvo 240 GLT med overdrive som kan v�re temmelig l�nge om at skifte til overgear. Den skal som regel lige blive varm f�rst. Overgear-rel�et ER skiftet.</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2305&ForumID=4&Showsub=2306'>Re: Overgear</a> <em>(Emil J, 23-10-2004 15:22)</em></strong></font></li><br><font face=Verdana>Hejsa! <br>Nu har jeg ikke s� meget forstand p� de manuelle gearkasser, men mon ikke der g�r en ledning fra overgear rel�et til Gearkassen. Det kunne v�re at den ledning var mer eller mindre afbrudt. Stik osv har en tendens til midste forbindelsen. Is�r i s�dan en gammel Volvo. <br>S� det ville jeg da checke. <br>Det kunne ogs� v�re at det elektriske overgear var slidt p� din gearkasse. <br>Forresten. K�bte du et helt ny overgear rel�? Eller? Fordi de skal bare efterloddes, s� virker de igen.<br>Kan huske jeg havde mange problemer med min Automat kasse. Den havde den en tendens til at springe ud af 4 gear. Efterloddede bare overgear rel�et. S� fungerede det igen.<br>Held og lykke med fejlfindingen! :)<br><br>M.V.H<br><br>Emil J.<br><br>244 GL 86, B230A, AW71 & 315.500 p� uret!</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2305&ForumID=4&Showsub=2306'>Re: Overgear</a> <em>(Emil J, 23-10-2004 15:22)</em></strong></font></li><br><font face=Verdana>Hejsa! <br>Nu har jeg ikke s� meget forstand p� de manuelle gearkasser, men mon ikke der g�r en ledning fra overgear rel�et til Gearkassen. Det kunne v�re at den ledning var mer eller mindre afbrudt. Stik osv har en tendens til midste forbindelsen. Is�r i s�dan en gammel Volvo. <br>S� det ville jeg da checke. <br>Det kunne ogs� v�re at det elektriske overgear var slidt p� din gearkasse. <br>Forresten. K�bte du et helt ny overgear rel�? Eller? Fordi de skal bare efterloddes, s� virker de igen.<br>Kan huske jeg havde mange problemer med min Automat kasse. Den havde den en tendens til at springe ud af 4 gear. Efterloddede bare overgear rel�et. S� fungerede det igen.<br>Held og lykke med fejlfindingen! :)<br><br>M.V.H<br><br>Emil J.<br><br>244 GL 86, B230A, AW71 & 315.500 p� uret!</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">39</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">39</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

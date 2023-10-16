@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=5031"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=5031"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-01-2006&nbsp; 21:02</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-01-2006 21:02</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er det bare mig eller er der et eller andet galt med loven om motorskift/tuning.<br>Du m_ godt borre, fr_sse og bygge om p_ din motor s_ man overstiger de 20% p_ effekten, uden at skulle betale afgift af det.<br>Men du m_ ikke s_tte en anden motor i, som er mere _konomisk, og der med mindre forurenende, uden at skulle betale ny afgift af det.<br>Kan det virkelig v_re rigtigt at man ikke kan s_tte en B23E motor ( 136 HK ) i sin bil, uden at skulle betale afgift, bare fordi bilen er f_dt med en D24 motor( ca 100 HK ), der er jo betalt afgift, af den bil som man tager B23E motoren fra.</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=5031&ForumID=4&Showsub=5073'>Re: Lovens Ord.</a> <em>(Kent, 25-01-2006 01:03)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=5031&ForumID=4&Showsub=5065'>Re: Lovens Ord.</a> <em>(Allan J. Kokspang, 24-01-2006 16:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=5031&ForumID=4&Showsub=5064'>Re: Lovens Ord.</a> <em>(Jens Peter Jensen, 24-01-2006 15:46)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=5031&ForumID=4&Showsub=5062'>Re: Lovens Ord.</a> <em>(Allan J. Kokspang, 24-01-2006 13:48)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=5031&ForumID=4&Showsub=5038'>Re: Lovens Ord.</a> <em>(peter malnitz, 22-01-2006 15:37)</em></strong></font></li><br><font face=Verdana>Det er vel ikke altid givet at man har taget den "nye" motor fra en bil der er betalt dansk afgift af. Man kunne vel forestille sig at der er nogen der kunne finde p_ at k_be en brugt bil i udlandet og bruge den som reservedels bil.</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=5031&ForumID=4&Showsub=5033'>Re: Lovens Ord.</a> <em>(kent skovsen, 22-01-2006 09:16)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=5031&ForumID=4&Showsub=5073'>Re: Lovens Ord.</a> <em>(Kent, 25-01-2006 01:03)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=5031&ForumID=4&Showsub=5065'>Re: Lovens Ord.</a> <em>(Allan J. Kokspang, 24-01-2006 16:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=5031&ForumID=4&Showsub=5064'>Re: Lovens Ord.</a> <em>(Jens Peter Jensen, 24-01-2006 15:46)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=5031&ForumID=4&Showsub=5062'>Re: Lovens Ord.</a> <em>(Allan J. Kokspang, 24-01-2006 13:48)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=5031&ForumID=4&Showsub=5038'>Re: Lovens Ord.</a> <em>(peter malnitz, 22-01-2006 15:37)</em></strong></font></li><br><font face=Verdana>Det er vel ikke altid givet at man har taget den "nye" motor fra en bil der er betalt dansk afgift af. Man kunne vel forestille sig at der er nogen der kunne finde p_ at k_be en brugt bil i udlandet og bruge den som reservedels bil.</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=5031&ForumID=4&Showsub=5033'>Re: Lovens Ord.</a> <em>(kent skovsen, 22-01-2006 09:16)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">12</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">12</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

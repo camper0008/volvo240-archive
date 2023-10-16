@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-03-2014&nbsp; 17:45</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-03-2014 17:45</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle<br><br>Jeg ville h_re, om det kan lade sig g_re, at montere indsugningsmanifold`en fra en 940 b230ft p_ en Volvo 240 b230f?<br><br>Forskellen som jeg kan se det er at b230f er monteret med koldstart!s_ her er mit sp_rgsm_l, melder bilen fejl ved afmontering af denne?<br><br>Mvh Lasse Juhl</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 05-03-2014 19:11)</em></u></strong></font></li><br><font face=Verdana>Hvis du samtidig piller batteriet af, s_ viser den ingen fejl.<br>Hvis du har analyseret dig frem til, at din B230F kan undv_re koldstarten, s_ kan den vel ogs_ klare sig uden batteri.<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 05-03-2014 22:07)</em></u></strong></font></li><br><font face=Verdana>Min 940 med en B230fd motor er f_dt uden koldstarts dyse.<br>Jeg k_re med en styreboks fra en B230f med koldstarts dyse uden den melder fejl, og bilen k_re fint.<br>Det svare ikke p_ dit sp_rgsm_l om at fjerne dysen, men hvis du skifter styreboks samtidig il en fra Fd burde det virke.<br>Jeg er s_ ikke klar over hvorfor og hvad du vil have ud af det?<br><br>Mvh</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lasse juhl, 06-03-2014 08:23)</em></u></strong></font></li><br><font face=Verdana>Mange tak for hj_lpen, jeg pr_ver s_ m_ vi se. Det er til et lille projekt jeg har gang i</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 05-03-2014 19:11)</em></u></strong></font></li><br><font face=Verdana>Hvis du samtidig piller batteriet af, s_ viser den ingen fejl.<br>Hvis du har analyseret dig frem til, at din B230F kan undv_re koldstarten, s_ kan den vel ogs_ klare sig uden batteri.<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 05-03-2014 22:07)</em></u></strong></font></li><br><font face=Verdana>Min 940 med en B230fd motor er f_dt uden koldstarts dyse.<br>Jeg k_re med en styreboks fra en B230f med koldstarts dyse uden den melder fejl, og bilen k_re fint.<br>Det svare ikke p_ dit sp_rgsm_l om at fjerne dysen, men hvis du skifter styreboks samtidig il en fra Fd burde det virke.<br>Jeg er s_ ikke klar over hvorfor og hvad du vil have ud af det?<br><br>Mvh</font><br><li><font face=Verdana><strong><u>Re: - <em>(Lasse juhl, 06-03-2014 08:23)</em></u></strong></font></li><br><font face=Verdana>Mange tak for hj_lpen, jeg pr_ver s_ m_ vi se. Det er til et lille projekt jeg har gang i</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

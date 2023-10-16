@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Jyllandsringen 2. oktober 2005</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Jyllandsringen 2. oktober 2005</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -206,7 +206,7 @@ M�rthen.<p>Super polen blev k�rt i denne r�kkef�lge:</p>
     <td width="25%" align="center"> 31 Mikael M�rthen <br>
 	Endte nr. 9</td>
     <td width="25%" align="center"> 77 David Falch <br>
-	Endte nr.&nbsp; 11</td>
+	Endte nr. 11</td>
     <td width="25%" align="center"> 33 John Nielsen <br>
 	Endte nr. 6</td>
   </tr>
@@ -258,7 +258,7 @@ Michael :-)</p>
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20051002-dtc05w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20051002-dtc05t.jpg" width="128" height="85"></a></td>
     <td>
-<p>Tv: &quot;Giv plads&quot; stod der p� forlygterne af Jan Magnussens bil. Han havde
+<p>Tv: "Giv plads" stod der p� forlygterne af Jan Magnussens bil. Han havde
 virkelig ogs� brug for hj�lp hvis han skulle komme frem.<br>
 Th: De to Volvo'er. Jason bag debutanten! </p>
     </td>
@@ -380,7 +380,7 @@ sp�nding. Jeg gl�der mig til n�ste �rs DTC og er selvf�lgelig p� ple
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

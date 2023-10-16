@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Et bes_g hos Volvo</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Et bes_g hos Volvo</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -249,7 +249,7 @@ F_rst ses et udvalg af de f_rste person biler, den f_rste bus og den f_rste last
 
 
 <h2>1. etage</h2>
-Museet er i to etager. Og nu var det tid at komme op p_ 1. etage.&nbsp;<br>
+Museet er i to etager. Og nu var det tid at komme op p_ 1. etage.<br>
 De f_rste rum var inddelt i _rtier.<br>
 <br>
 <h3>20_erne, 30_erne og 40_erne</h3>
@@ -261,7 +261,7 @@ De f_rste rum var inddelt i _rtier.<br>
       tilbage dengang. Flotte opstillinger var det.</td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit05.jpg&palt=Lidt _ldre _rgange','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit05t.jpg" width="128" height="96"></a></td>
   </tr>
-</table>&nbsp;
+</table>
 
 
 <h3>50_erne og 60'erne</h3>
@@ -279,12 +279,12 @@ I det n_ste rum var tiden 50_erne og 60'erne. Her var biler som stadig ses p_ ga
       symboliserer det svenske skift fra venstre til h_jre k_rsel i 1967.</td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit09.jpg&palt=Volvo 145','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit09t.jpg" width="128" height="96"></a></td>
   </tr>
-</table>&nbsp;
+</table>
 
 
 <h3>Motorteknik.</h3>
 
-I dette rum var fire motorer opstillet p_ pr_veb_nke, og lidt historie p_ plancher.&nbsp;<br>
+I dette rum var fire motorer opstillet p_ pr_veb_nke, og lidt historie p_ plancher.<br>
 
 
 <h3>70'erne, 80'erne og 90'erne</h3>
@@ -319,7 +319,7 @@ Det svenske indhold af informationsskiltene ses til h_jre for billedet.<br>
       </table>
     </td>
   </tr>
-</table>&nbsp;
+</table>
 
 <br>
 En bem_rkelsesv_rdig r_d Volvo 240 Turbo fra 1980 st_r lige overfor 262'eren
@@ -382,7 +382,7 @@ Og ved siden af stod den sidste Volvo 240 som forlod fabrikken. Den bl_ Volvo 24
     </td>
   </tr>
 </table><br>
-Jeg ville naturlig vis have troet, at disse tre stod p_ piedestaler - h_vet lidt over alle de _vrige biler.&nbsp;<br>
+Jeg ville naturlig vis have troet, at disse tre stod p_ piedestaler - h_vet lidt over alle de _vrige biler.<br>
 Det gjorde de ikke, og alle bilerne var l_st. _Se men ikke r_re_. Nu var det visuelle indtryk jo ogs_ overv_ldende i sig selv.<br>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
@@ -391,7 +391,7 @@ Det gjorde de ikke, og alle bilerne var l_st. _Se men ikke r_re_. Nu var det vis
       og til h_jre en Volvo 480. Begge var de med til at pryde dette rum.</td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit14.jpg&palt=Volvo 480','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit14t.jpg" width="128" height="96"></a></td>
   </tr>
-</table>&nbsp;
+</table>
 
 
 <h3>Pokaler og Motorsport</h3>
@@ -404,10 +404,10 @@ og ud til bilerne som har v_ret anvendt i forbindelse med motorsport.<br>
     <td> Volvo har gennem tiderne vundet n_sten alt, hvad der har v_ret at
       vinde indenfor motorsport med standardvogne. En overgang vandt Volvo s_
       meget, at mange konkurenter ikke ville stille op hvis Volvo deltog.<br>
-      Th: Volvo 240, 4-cyl, 2.11 turbo, ca 300 hk.&nbsp;</td>
+      Th: Volvo 240, 4-cyl, 2.11 turbo, ca 300 hk.</td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit16.jpg&palt=Den sejeste!','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit16t.jpg" width="128" height="96"></a></td>
   </tr>
-</table>&nbsp;
+</table>
 <h3>Eksperimental biler og Prototyper</h3>
 Der er vist mange af de prototyper som blev lavet i 70'erne og 80'erne. De
 fleste st_r p_ nedgangen ned fra 1. etagen til stue etagen. De st_r t_t, og de er interessante at studere.
@@ -427,7 +427,7 @@ forblev eksperimenter.
     </td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit18.jpg&palt=Volvo 262 Prototype','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit18t.jpg" width="128" height="96"></a></td>
   </tr>
-</table>&nbsp;
+</table>
 <p>Volvo har tre kerneomr_der som ligger dem meget p_ sinde: <b>Kvalitet,
 Sikkerhed og milj_</b>. Bl. a. derfor har de lavet en r_kke eksperimenter i
 form af diverse studie-/eksperimental biler for at teste nogle af de ideer som
@@ -445,7 +445,7 @@ senere kommer bilisterne til gode.</p>
     </td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit20.jpg&palt=VOLVO LCP 2000 fra 1983','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit20t.jpg" width="128" height="96"></a></td>
   </tr>
-</table>&nbsp;
+</table>
 
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
@@ -459,7 +459,7 @@ senere kommer bilisterne til gode.</p>
     </td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit22.jpg&palt=Crash test af en Volvo 760','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit22t.jpg" width="128" height="96"></a></td>
   </tr>
-</table>&nbsp;
+</table>
 
 
 <h3>Lastbiler og busser</h3>
@@ -528,7 +528,7 @@ Det gav lidt god volvo-snak som en god afslutning. Turen kostede 205,- SEK.</p>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

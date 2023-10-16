@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=354"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=354"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Smalle eller brede d&#230;k</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Smalle eller brede dæk</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">25-04-2003&nbsp; 13:06</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">25-04-2003 13:06</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Min 83'er er f_dt med 175R14-d_k. <br><br>Vil bilen vinde noget, evt. f_ bedre k_reegenskaber, med andre f_lge og d_k i st_rrelsen 185/70 R14, i stedet for?<br><br>185/70 er jo ogs_ monteret originalt p_ 240.<br><br>Eller hvad med 185/80R14?</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=354&ForumID=2&Showsub=699'>Re: Smalle eller brede d&#230;k</a> <em>(Morten Lundager, 04-08-2003 19:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=354&ForumID=2&Showsub=365'>Re: Smalle eller brede d&#230;k</a> <em>(volvoandersen, 28-04-2003 22:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=354&ForumID=2&Showsub=364'>Re: Smalle eller brede d&#230;k</a> <em>(Jesper, 28-04-2003 21:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=354&ForumID=2&Showsub=357'>Re: Smalle eller brede d&#230;k</a> <em>(Jes, 25-04-2003 21:03)</em></strong></font></li><br><font face=Verdana>Hej<br><br>N_r der er tale om d_k til 14" f_lge k_rer bilen bedst p_ str. 185/70 x 14, som ogs_ er indenfor den tilladte/typegodkendte str.<br>Hvis du vil have bedre k_reegenskaber/styrerespons uden at s_tte komfort over styr, s_ skal du g_ i 15" f_lge og k_re med 195/60 eller 205/60 x 15 d_k. 16" og 17" f_lge giver gode k_reegenskaber, s_rligt p_ t_r vej, men det koster p_ familiekomforten. <br><br>mvh<br><br>Jes<br></font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=354&ForumID=2&Showsub=356'>Re: Smalle eller brede d&#230;k</a> <em>(Michael, 25-04-2003 18:27)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=354&ForumID=2&Showsub=699'>Re: Smalle eller brede dæk</a> <em>(Morten Lundager, 04-08-2003 19:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=354&ForumID=2&Showsub=365'>Re: Smalle eller brede dæk</a> <em>(volvoandersen, 28-04-2003 22:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=354&ForumID=2&Showsub=364'>Re: Smalle eller brede dæk</a> <em>(Jesper, 28-04-2003 21:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=354&ForumID=2&Showsub=357'>Re: Smalle eller brede dæk</a> <em>(Jes, 25-04-2003 21:03)</em></strong></font></li><br><font face=Verdana>Hej<br><br>N_r der er tale om d_k til 14" f_lge k_rer bilen bedst p_ str. 185/70 x 14, som ogs_ er indenfor den tilladte/typegodkendte str.<br>Hvis du vil have bedre k_reegenskaber/styrerespons uden at s_tte komfort over styr, s_ skal du g_ i 15" f_lge og k_re med 195/60 eller 205/60 x 15 d_k. 16" og 17" f_lge giver gode k_reegenskaber, s_rligt p_ t_r vej, men det koster p_ familiekomforten. <br><br>mvh<br><br>Jes<br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=354&ForumID=2&Showsub=356'>Re: Smalle eller brede dæk</a> <em>(Michael, 25-04-2003 18:27)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">21</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">21</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

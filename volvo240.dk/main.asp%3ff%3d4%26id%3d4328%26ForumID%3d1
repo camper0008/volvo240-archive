@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -222,7 +222,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-03-2011&nbsp; 21:15</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-03-2011 21:15</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej folkens.<br><br>Undskyld jeg opretter endnu en tr_d, men det er for at holde emnerne lidt adskildt, s_ det ikke forvirrer mig og heller ikke jer.<br><br>Min sidste tr_d omhandlede noget motorskift (B21et)<br><br>Men det forholder sig s_dan at der i min volvo ligger en B23e motor (r_d blok), som kun har rundet sm_ 25.000 km med papirer, og som er monteret i sverige for 2 _r siden.<br><br>ville h_re hvilke muligheder der var for at lave lidt ekstra hk/nm p_ den? Har lidt h_rt om nogle turbo kits, men hvor kan de skaffes - og til hvilken pris?<br><br>vil gerne kontaktes pr. tlf. 22 87 54 42 - p_ et hvilket som helst tidspunkt , samt selvf_lgelig herinde :)</font></td>
@@ -233,7 +233,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 18-03-2011 23:20)</em></u></strong></font></li><br><font face=Verdana>hej pr_v ham her, det kan v_re han ikke har solgt dem endnu<br>http://forum.svenska200klubben.se/viewtopic.php?t=36883<br>vh<br>Tommy</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 18-03-2011 23:20)</em></u></strong></font></li><br><font face=Verdana>hej pr_v ham her, det kan v_re han ikke har solgt dem endnu<br>http://forum.svenska200klubben.se/viewtopic.php?t=36883<br>vh<br>Tommy</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -242,7 +242,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -266,7 +266,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">18</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">18</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

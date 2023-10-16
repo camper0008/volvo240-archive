@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=764"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=764"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -217,7 +217,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">S&#248;ren</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Søren</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-08-2003&nbsp; 10:30</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-08-2003 10:30</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br>Jeg har i dette forum f_et at vide, at benzintryksregulatoren kan v_re _rsagen til, at min B230F har problemer med koldstart. Nu er mit sp_rgsm_l s_:<br><br>Hvordan tester jeg om benzintryksregulatoren virker ?<br><br>p_ forh_nd tak, S_ren<br>Volvo 240 stc. aut. '89 B230F<br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=764&ForumID=1&Showsub=765'>Re: hvodan tester man benzintryksregulatoren ?</a> <em>(Lars Vestman, 24-08-2003 12:09)</em></strong></font></li><br><font face=Verdana>Hej S_ren!<br><br>Jeg fandt et par steder jeg h_ber kan hj_lpe dig:<br><br>http://www.brickboard.com/ARCHIVES/2001AUG/20177025.shtml<br>http://www.volvoworld.com/VolvoRepairManual/all_fuel_injection.htm<br><br>(Du kan ikke bruge musen til copy/paste - brug menuen istedet)<br><br>Ellers kan du se om du kan finde flere brugbare links p_ Google ved at s_ge p_ "LH 2.4 pressure regulator" evt. kombineret m. "volvo" o.s.v.<br><br>H_ber ellers at du er glad for din 245. Husk og sig til, hvis du vil af med den en dag! :o)<br><br>God vind,<br>Lars Vestman</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=764&ForumID=1&Showsub=765'>Re: hvodan tester man benzintryksregulatoren ?</a> <em>(Lars Vestman, 24-08-2003 12:09)</em></strong></font></li><br><font face=Verdana>Hej S_ren!<br><br>Jeg fandt et par steder jeg h_ber kan hj_lpe dig:<br><br>http://www.brickboard.com/ARCHIVES/2001AUG/20177025.shtml<br>http://www.volvoworld.com/VolvoRepairManual/all_fuel_injection.htm<br><br>(Du kan ikke bruge musen til copy/paste - brug menuen istedet)<br><br>Ellers kan du se om du kan finde flere brugbare links p_ Google ved at s_ge p_ "LH 2.4 pressure regulator" evt. kombineret m. "volvo" o.s.v.<br><br>H_ber ellers at du er glad for din 245. Husk og sig til, hvis du vil af med den en dag! :o)<br><br>God vind,<br>Lars Vestman</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">54</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">54</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

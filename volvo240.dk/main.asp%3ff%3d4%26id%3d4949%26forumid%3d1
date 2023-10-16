@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">23-09-2014&nbsp; 18:39</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">23-09-2014 18:39</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej allesammen. Har bestilt de to hovedpuder i gummi til motoroph_nget. Er det sv_rt at skifte og er der gode tricks til en der aldrig har pr_vet det<br>Det er en 245 fra 90. B230f<br>H_ber p_ lidt gode r_d. Har ikke rigtigt kunne finde nogle direkte anvisninger</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(David Cray, 23-09-2014 20:27)</em></u></strong></font></li><br><font face=Verdana>Hej Hasse<br><br>Nej, de er ikke s_ sv_re at skifte.<br>Brug en garagedonkraft til at s_tte under motoren p_ den side, du vil skrifte oph_nget - evt med en tr_klods eller lignende imellem. Donkraften skal kun st_tte/holde motoren, og det er selvf_lgelig vigtigt, at den ikke skrider.00000<br>Oph_ngerne sidder i to aluminiumsbeslag p_ hver side, en p_ motorblokken og den anden p_ motorbroen. P_ blokken monteret med tre bolte (M8) og p_ broen med tre l_setrikker. Dem p_ blokken kan du n_ ovenfra, m_trikkerne i motorbroen, nedefra.<br>Tag beslaget ud, og skift puden.<br>Jeg mener, at den store hovedpude - dvs p_ h_jre siden af motoren - er lidt mere tricky, for du skal muligvis have oliefilteret af f_rst for at kunne komme til. <br><br>I _vrigt kan jeg henvise til denne video p_ Youtube:<br><a href="http://www.youtube.com/watch?v=XfZpWH0Qfjw" target="_blank">http://www.youtube.com/watch?v=XfZpWH0Qfjw</a> - eller s_g p_ "Volvo 240 Motor Mounts" - det er ganske vist kun h_jre side, der vises, men princippet er det samme.<br><br>God forn_jelse.<br><br>Mvh David Cray</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Hasse K&#252;rstein, 06-10-2014 12:26)</em></u></strong></font></li><br><font face=Verdana>Hej david.<br>S_ lykkedes det. tak for hj_lpen og hvor ruller den fint nu<br><br>Hasse</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(David Cray, 23-09-2014 20:27)</em></u></strong></font></li><br><font face=Verdana>Hej Hasse<br><br>Nej, de er ikke s_ sv_re at skifte.<br>Brug en garagedonkraft til at s_tte under motoren p_ den side, du vil skrifte oph_nget - evt med en tr_klods eller lignende imellem. Donkraften skal kun st_tte/holde motoren, og det er selvf_lgelig vigtigt, at den ikke skrider.00000<br>Oph_ngerne sidder i to aluminiumsbeslag p_ hver side, en p_ motorblokken og den anden p_ motorbroen. P_ blokken monteret med tre bolte (M8) og p_ broen med tre l_setrikker. Dem p_ blokken kan du n_ ovenfra, m_trikkerne i motorbroen, nedefra.<br>Tag beslaget ud, og skift puden.<br>Jeg mener, at den store hovedpude - dvs p_ h_jre siden af motoren - er lidt mere tricky, for du skal muligvis have oliefilteret af f_rst for at kunne komme til. <br><br>I _vrigt kan jeg henvise til denne video p_ Youtube:<br><a href="http://www.youtube.com/watch?v=XfZpWH0Qfjw" target="_blank">http://www.youtube.com/watch?v=XfZpWH0Qfjw</a> - eller s_g p_ "Volvo 240 Motor Mounts" - det er ganske vist kun h_jre side, der vises, men princippet er det samme.<br><br>God forn_jelse.<br><br>Mvh David Cray</font><br><li><font face=Verdana><strong><u>Re: - <em>(Hasse K&#252;rstein, 06-10-2014 12:26)</em></u></strong></font></li><br><font face=Verdana>Hej david.<br>S_ lykkedes det. tak for hj_lpen og hvor ruller den fint nu<br><br>Hasse</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

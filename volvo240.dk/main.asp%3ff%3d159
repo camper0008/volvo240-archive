@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Ring Djursland D.21-22 August.</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Ring Djursland D.21-22 August.</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -154,7 +154,7 @@ S_ det var bare frem med svejsv_rket, s_ bilen kunne blive klar til s_ndagens l_
 			<tr>
 				<td width="15">1</td>
 				<td>1:02.781</td>
-				<td>&nbsp;</td>
+				<td></td>
 			</tr>
 			<tr>
 				<td width="15">2</td>
@@ -218,7 +218,7 @@ S_ det var bare frem med svejsv_rket, s_ bilen kunne blive klar til s_ndagens l_
 			<tr>
 				<td width="15">1</td>
 				<td>1:04.536</td>
-				<td>&nbsp;</td>
+				<td></td>
 			</tr>
 			<tr>
 				<td width="15">2</td>
@@ -282,7 +282,7 @@ S_ det var bare frem med svejsv_rket, s_ bilen kunne blive klar til s_ndagens l_
 			<tr>
 				<td width="15">1</td>
 				<td>1:05.189</td>
-				<td>&nbsp;</td>
+				<td></td>
 			</tr>
 			<tr>
 				<td width="15">2</td>
@@ -326,8 +326,8 @@ S_ det var bare frem med svejsv_rket, s_ bilen kunne blive klar til s_ndagens l_
 			</tr>
 			<tr>
 				<td width="15">10</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
+				<td></td>
+				<td></td>
 			</tr>
 		</tbody>
 		</table>
@@ -360,7 +360,7 @@ L_g m_rke til tider de 2-3 sidste omgange, der blev k_rt til.</p>
 			<td width="15">
 			1</td>
 			<td>1:00.216</td>
-			<td>&nbsp;</td>
+			<td></td>
 			</tr>
 			<tr>
 			<td width="15">
@@ -434,7 +434,7 @@ L_g m_rke til tider de 2-3 sidste omgange, der blev k_rt til.</p>
 			<td width="15">
 			1</td>
 			<td>1:00.060</td>
-			<td>&nbsp;</td>
+			<td></td>
 			</tr>
 			<tr>
 			<td width="15">
@@ -508,7 +508,7 @@ L_g m_rke til tider de 2-3 sidste omgange, der blev k_rt til.</p>
 			<td width="15">
 			1</td>
 			<td>1:00.362</td>
-			<td>&nbsp;</td>
+			<td></td>
 			</tr>
 			<tr>
 			<td width="15">
@@ -570,7 +570,7 @@ L_g m_rke til tider de 2-3 sidste omgange, der blev k_rt til.</p>
 	</tr>
 </table>
 
-<p>S_ndagens 2. heat blev k_rt p_ v_d bane med slicks. Dette er ikke den bedste kombination, og rakte da ogs_ kun&nbsp;til en tredje plads i Clubrace 1.</p>
+<p>S_ndagens 2. heat blev k_rt p_ v_d bane med slicks. Dette er ikke den bedste kombination, og rakte da ogs_ kuntil en tredje plads i Clubrace 1.</p>
 D.v.s der var pointlighed mellem undertegnede og Morten Smidt som ogs_ havde _n f_rste og _n anden plads.<br>
 Ved pointlighed er det den bedste placering ved dagens sidste l_b der t_ller, s_ det blev desv_rre kun til en anden plads.
 <p>Alt i alt en rigtig god og sp_ndende weekend.</p>
@@ -602,7 +602,7 @@ Ved pointlighed er det den bedste placering ved dagens sidste l_b der t_ller, s_
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

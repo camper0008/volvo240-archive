@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-04-2014&nbsp; 20:28</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-04-2014 20:28</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er ejer af Volvo 240 stc. _rgang 1991, som k_rer dejligt:-)<br><br>N_r jeg blot har k_rt for l_nge I den, kan jeg godt blive tr_t I ryggen/numsen af at sidde i de snart noget gamle s_der.<br><br>Er der nogle som har v_ret ud i at fortage en reperation af disse s_der, s_ de blev bedre at side i?<br><br>Er faldet over denne youtube video, som jeg overvejer at afpr_ve her i p_sken.<br><br><a href="http://www.youtube.com/watch?v=BpA0qb3fWBo" target="_blank">http://www.youtube.com/watch?v=BpA0qb3fWBo</a><br><br>Men hvis der er nogel som har nogle gode fif, s_ vil jeg da meget gerne h_re dem inden jeg g_r igang.<br><br>Mvh. Ulrik</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 11-04-2014 21:14)</em></u></strong></font></li><br><font face=Verdana>Hej Ulrik<br>Hvis du selv vil rep. s_derne, kan du k_be dele ved mig til rep. eller du kan k_be et helt s_de der er i orden, for 400,-kr<br>Find mine annoncer herinde.<br>MVH Jens Peter<br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 11-04-2014 21:14)</em></u></strong></font></li><br><font face=Verdana>Hej Ulrik<br>Hvis du selv vil rep. s_derne, kan du k_be dele ved mig til rep. eller du kan k_be et helt s_de der er i orden, for 400,-kr<br>Find mine annoncer herinde.<br>MVH Jens Peter<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

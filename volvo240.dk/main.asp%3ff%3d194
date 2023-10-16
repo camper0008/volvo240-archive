@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Polsk renovering</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Polsk renovering</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Sï¿½g" name="B1">&nbsp;
+        <input type="submit" value="Sï¿½g" name="B1">
       </form>
     </td>
   </tr>
@@ -192,13 +192,13 @@ document.onmousedown=click;
 
 <table border="0" width="100%" id="table1">
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">
 		<h2>Polsk renovering af min danske Volvo 240</h2>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top" height="31">&nbsp;</td>
+		<td width="32" valign="top" height="31"></td>
 		<td valign="top"><font size="2">(af bilens ejer Henrik Funk)</font></td>
 	</tr>
 	<tr>
@@ -208,7 +208,7 @@ document.onmousedown=click;
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">Bilen er en Volvo 240 fra 1988 med en B230K motor, som jeg kï¿½bte i sommeren 2004 af en 
 mekanikerlï¿½rling. Pï¿½ davï¿½rende tidspunkt havde den gï¿½et 212.000 km og var i ret 
 god stand. Nu har den rundet 224.000 km.<br>
@@ -216,7 +216,7 @@ god stand. Nu har den rundet 224.000 km.<br>
 		marts i ï¿½r. Den 
 		gik gennem synet uden anmï¿½rkninger. Nu var jeg helt sikker pï¿½, at jeg har en 
 ganske sï¿½rlig bil stï¿½ende i indkï¿½rslen.<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
@@ -225,17 +225,17 @@ ganske sï¿½rlig bil stï¿½ende i indkï¿½rslen.<br>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">I sommeren 2005 transporterede den mine drenge og jeg 
 		til Paris, Normandiet, Italien, Tjekkiet og hjem igen. 5000 km uden et 
 		eneste problem, selv om den til tider rundede 180 km/t, nï¿½r den var i 
 		godt humï¿½r.<br>
 		Under denne tur blev kï¿½rligheden til den besejlet og jeg besluttede, at 
-		det skulle vï¿½re &quot;os&quot; i lang tid fremover.<p>Hen pï¿½ efterï¿½ret 
+		det skulle vï¿½re "os" i lang tid fremover.<p>Hen pï¿½ efterï¿½ret 
 		talte jeg med en kammerat, som kendte ï¿½n, der kendte ï¿½n, som havde fï¿½et 
 		ordnet sin bil i Polen. Den idï¿½ gik jeg og lurede pï¿½ Samtidigt blev 
 		nettet brugt til lidt research; hvem, hvad, hvor megetï¿½ï¿½i Polen.<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
@@ -243,7 +243,7 @@ ganske sï¿½rlig bil stï¿½ende i indkï¿½rslen.<br>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">Undervejs i denne research fandt jeg 4 mellemmï¿½nd og beskrev i November det 
 arbejde, som jeg gerne ville have udfï¿½rt. Beskrivelsen blev sendt til dem. Efter 
 et par uger havde jeg fï¿½et besked fra 3 af dem.<p>Den ene insisterede pï¿½ at lade min bil transportere til Polen af ham selv ï¿½ nul. 
@@ -252,7 +252,7 @@ vï¿½rkstedet.</p>
 		<p>Den anden lï¿½d ikke videre engageret. Jeg fï¿½lte nï¿½rmest, at jeg var til besvï¿½r. 
 Fint nok, men giv mig ikke indtryk af, at min bil er til besvï¿½r!</p>
 		<p>Den tredje virkede trovï¿½rdig pï¿½ mail og var ï¿½ben for dialog. Jeg udvidede min 
-&quot;ï¿½nskeliste&quot; og skrev igen og fik relativt hurtigt svar fra mellemmanden. Efter 
+"ï¿½nskeliste" og skrev igen og fik relativt hurtigt svar fra mellemmanden. Efter 
 en tï¿½nkepause skrev jeg igen i slutningen af januar mï¿½ned, at nu kom bilen og 
 jeg den 9. Marts. Denne mail gav ingen respons. Efter et par uger ringede jeg 
 til manden, som hedder Jan og er pï¿½redansk. Jan havde travlt, men ville snarest 
@@ -262,7 +262,7 @@ heller ikke forsynet ham med billeder af bilen, sï¿½ hvad skulle han estimere pï
 baggrund af? Endvidere aftalte vi, at jeg skulle medbringe zloty svarende til 
 vï¿½rkstedets udlï¿½g for materialer.</p>
 		<p>Den fjerde mellemmand hï¿½rte jeg intet fra.<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
@@ -270,12 +270,12 @@ vï¿½rkstedets udlï¿½g for materialer.</p>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">Den 8. marts tog min far og jeg Polferries-fï¿½rgen fra Kï¿½benhavn kl. 20 med 
 ankomst til Swinoujsce kl. 8 den efterfï¿½lgende morgen. Af sted pï¿½ den gamle vej og smukke 
 tur mod Stettin. Mï¿½destedet var SAS hotellet kl. 10. Vi var der i god tid 
 inden.<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
@@ -283,14 +283,14 @@ inden.<br>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">Ved ankomsten ringede vi som aftalt til Monika. Efter en kort 
 		tid 
 ankom hun til hotellet. Sammen drog vi alle 3 i 2 biler til mekanikeren, som havde sit vï¿½rksted 15-20 
 minutters kï¿½rsel fra hotellet. Her introducerede Monika os for 2 mekanikere. Den 
 ene kunne noget engelsk, den anden talte udelukkende polsk, men hans fordel var, 
 at han tydeligvis havde lï¿½rt alt om biler.<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
@@ -298,7 +298,7 @@ at han tydeligvis havde lï¿½rt alt om biler.<br>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">Inde pï¿½ vï¿½rkstedets kontor blev min nu polsk oversatte ï¿½nskeliste diskuteret 
 igennem. Herefter blev listen gennemgï¿½et igen ude ved bilen. Monika tog en del 
 billeder og skrev endnu en liste over det, der skulle ordnes. Intet blev 
@@ -313,7 +313,7 @@ bilen ville vï¿½re klar igen om 4-5 uger. Gisp ï¿½ jeg havde satset pï¿½ 3 uger.
 at vi havde klappet bilen farvel, kï¿½rte Monika os tilbage til SAS hotellet. Jeg 
 havde fortsat alle mine zloty i lommen, vï¿½rkstedet havde ikke bedt om dem 
 alligevel. Hele vï¿½rksteds turen var klaret pï¿½ 2 timer.<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
@@ -321,7 +321,7 @@ alligevel. Hele vï¿½rksteds turen var klaret pï¿½ 2 timer.<br>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">
 <ol>
 	<li>Varme apparat skal ordnes/renses ï¿½ det afgiver kun kold luft.</li>
@@ -347,7 +347,7 @@ slibes i bund inden den igen skal males i original blï¿½ farve.</li>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">Vi havde forud kï¿½bt busbilletter til hjemturen, som afgik kl. 15. Pï¿½ vejen hjem 
 gik der mange tanker gennem mit hoved. Hvad var det egentligt jeg havde rodet 
 mig ud i og vil jeg nogensinde se bilen igen? Pï¿½ den anden side forestillede jeg 
@@ -355,11 +355,11 @@ mig hvor flot den vil vï¿½re, nï¿½r jeg skulle afhente den. Til og med uden
 rust. Efter en problemfri hjemtur ankom vi til Kï¿½benhavn kl. 23.30. Vi havde kun vï¿½ret 
 hjemme fra i smï¿½ 30 timer og det var gï¿½et som smurt og i henhold til det 
 aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
-		<td valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
+		<td valign="top"></td>
 	</tr>
 </table>
 
@@ -375,11 +375,11 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
     <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0105.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0105t.jpg" width="128" height="96"></a></td>
   </tr>
   <tr>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
   </tr>
 </table>
 <table border="0" cellpadding="5" cellspacing="1" width="100%">
@@ -391,11 +391,11 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
     <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0110.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0110t.jpg" width="128" height="96"></a></td>
   </tr>
   <tr>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
   </tr>
 </table>
 <table border="0" cellpadding="5" cellspacing="1" width="100%">
@@ -406,10 +406,10 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
     <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0114.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0114t.jpg" width="128" height="96"></a></td>
   </tr>
   <tr>
-    <td width="25%" align="center">&nbsp;</a></td>
-    <td width="25%" align="center">&nbsp;</a></td>
-    <td width="25%" align="center">&nbsp;</a></td>
-    <td width="25%" align="center">&nbsp;</a></td>
+    <td width="25%" align="center"></a></td>
+    <td width="25%" align="center"></a></td>
+    <td width="25%" align="center"></a></td>
+    <td width="25%" align="center"></a></td>
   </tr>
 </table>
 <hr>
@@ -419,7 +419,7 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
 	<p>Sï¿½ er er billeder fra Polen.<br>
 	De er godt i gang - billederne er stort set selv 
 	forklarende. De har slebet rust langs siderne af karosseriet, skï¿½ret rust 
-	bort fra bagskï¿½rmene, afmonteret kofanger &amp; dï¿½re mm. Ogsï¿½ varmeapparatet 
+	bort fra bagskï¿½rmene, afmonteret kofanger & dï¿½re mm. Ogsï¿½ varmeapparatet 
 	er i bedring.<br>
 	Sï¿½ vidt jeg kan bedï¿½mme, har de ikke fundet nogen 
 	overraskelser.</p>
@@ -433,11 +433,11 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
     <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0205.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0205t.jpg" width="128" height="96"></a></td>
   </tr>
   <tr>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
   </tr>
 </table>
 <table border="0" cellpadding="5" cellspacing="1" width="100%">
@@ -449,11 +449,11 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
     <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0210.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0210t.jpg" width="128" height="96"></a></td>
   </tr>
   <tr>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
   </tr>
 </table>
 <table border="0" cellpadding="5" cellspacing="1" width="100%">
@@ -465,11 +465,11 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
     <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0215.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0215t.jpg" width="128" height="96"></a></td>
   </tr>
   <tr>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
   </tr>
 </table>
 <table border="0" width="100%">
@@ -479,11 +479,11 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">
 		<p>Bilen var klar og skulle afhentes torsdag den 13. April. Vi havde en 
 		aftale med Monika kl. 13.30, igen ved SAS hotellet.<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
@@ -491,12 +491,12 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">
 		<p>Vi ankom til hotellet allerede kl. 13 og jeg ringede til Monika. Hun 
 		kom efter 20 minutter og fortalte at bilen var klar. Den var parkeret i 
 		kï¿½lderen under hotellet.<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
@@ -504,7 +504,7 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">
 		<p>Jeg havde lyst til at hoppe op og ned, da jeg sï¿½ den. Det var jo en 
 		ny bil! Jeg var rundt om den og inde i den tallï¿½se gange. Det var et 
@@ -521,7 +521,7 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
 		set og ordnet.<br>
 		Det indvendige dï¿½rgreb havde set bedre dage og kunne fï¿½r gï¿½ delvist 
 		lï¿½st, det havde de lige set og ordnet.<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
@@ -529,7 +529,7 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">
 		<p>Vi havde et renoveret fï¿½rersï¿½de med, som jeg gerne ville have sat i. 
 		Monika tilbï¿½d, at vi kï¿½rte ud til vï¿½rkstedet for at fï¿½ det ordnet. Som 
@@ -540,7 +540,7 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
 		rust nogen steder. De havde noteret sig, at den rustbehandlingen som 
 		bilen havde fï¿½et i efterï¿½ret trï¿½ngte til en delvis opfriskning ï¿½ og det 
 		havde de sï¿½ ordnet.<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
@@ -548,14 +548,14 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">
-		<p>Efterfï¿½lgende kï¿½rte vi i min &quot;nye&quot; bil tilbage mod Stettins centrum 
+		<p>Efterfï¿½lgende kï¿½rte vi i min "nye" bil tilbage mod Stettins centrum 
 		og Monikas kontor for at ordne afregningen. Ved ankomsten blev vi budt 
 		pï¿½ kaffe og regningen blev skrevet. Prisen lï¿½ indenfor rammerne af den 
 		oprindelige aftale og var prï¿½cist det, som var blevet telefonisk aftalt 
 		4 dage tidligere.<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
@@ -563,15 +563,15 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">
 		<p>Vi var noget usikre med hensyn til at komme den rigtige vej ud af 
 		Stettin og fange landevejen til Pasewalk. Monika tilbï¿½d at kï¿½re med til 
 		byens udkant. Adspurgt om, hvordan hun sï¿½ ville komme tilbage til 
-		kontoret svarede hun; &quot;Du er min kunde og dette er min by.&quot; Som sagt sï¿½ 
+		kontoret svarede hun; "Du er min kunde og dette er min by." Som sagt sï¿½ 
 		gjort. Vi satte hende af i udkanten af byen og takkede for god 
 		behandling.<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
@@ -579,13 +579,13 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">
 		<p>Turen hjem forlï¿½b i god ro og orden med autobahn hastighed. Fï¿½rgen i 
 		Rostock afgik kl. 19 og vi var i Kï¿½benhavn igen kl. 22.30 ï¿½ med varme i 
 		bilen! Ved hjemkosten var der hï¿½ngt flag pï¿½ garagens port! Velkommen 
 		hjem.<br>
-&nbsp;</td>
+</td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
@@ -593,11 +593,11 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
 		</td>
 	</tr>
 	<tr>
-		<td width="32" valign="top">&nbsp;</td>
+		<td width="32" valign="top"></td>
 		<td valign="top">
 		<p>Servicen var professionel: konkret, venlig og trovï¿½rdig. Bilen blev 
 		lavet som aftalt (og lidt til) og til aftalt pris og tid.<br>
-&nbsp;</td>
+</td>
 	</tr>
 </table>
 <table border="0" cellpadding="5" cellspacing="1" width="100%">
@@ -609,11 +609,11 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
     <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0220.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0220t.jpg" width="128" height="96"></a></td>
   </tr>
   <tr>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
   </tr>
 </table>
 <table border="0" cellpadding="5" cellspacing="1" width="100%">
@@ -625,11 +625,11 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
     <td width="20%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/00276_0225.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/00276_0225t.jpg" width="128" height="96"></a></td>
   </tr>
   <tr>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
-    <td width="20%" align="center">&nbsp;</a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
+    <td width="20%" align="center"></a></td>
   </tr>
 </table>
 
@@ -654,9 +654,9 @@ aftalte. Nu tï¿½ller jeg dagene og tjekker mail et par gange om dagen!<br>
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">9</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">9</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

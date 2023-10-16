@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-08-2014&nbsp; 09:05</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-08-2014 09:05</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Volvo 242 B19A 1979 K_rt 204.000 Km<br><br>Jeg k_mper lidt med justering af min zenith-stromberg 175 CD karburator.<br><br>Co_en er for h_j 7,5 &#37; (max tilladt 5,5&#37; til syn) og jeg leder efter nogen der har justeringsv_rkt_j til salg eller l_ns, eller som kan udf_re justering for mig mod betaling. Karburatoren er den type som ikke kan justeres i bunden.<br><br>Mit anden udfordring er tomgangsskruen og magnetventilen p_ manifolden. Motorgangen _ndres ikke ligemeget om jeg skruer tomgangsskruen den ene eller anden vej. Ligeledes er motoren ligeglad med om magnetventilen er lukket eller _ben - den k_rer troligt videre (ventilen er tjekket og den virker fint n_r man s_tter str_m til den)<br><br>Gasspj_ldet/speedertr_kket er ikke som jeg ser det ikke ude af justering. Det lukker helt til n_r speederen er sluppet.<br><br>Motorgangen _ndrer sig fra den ene gang til den anden jeg k_rer i bilen. Forleden dag k_rte den f.eks fint i tomgang med ca. 950 omdr/min. I dag derimod var den ned p_ 500-600 omdr. i tomgang og p_ nippet til at g_ i st_.<br><br>Alt k_rsel over tomgang g_r helt fint og j_vnt. Bilen tr_kker s_ meget som s_dan en b19a nu kan og arbejder fint hele vejen op gennem omdrejningerne.<br><br>Membran i karburatoren er ny,karburatoren er renset indvendig,jeg har skifet vakuumslange til bremseforst_rkeren (var revnet) og tjekket for falsk luft med dieselstart, ingen ut_theder.<br>N_l og s_de er ikke skiftet, men virker umiddelbart til at v_re OK<br><br>Jeg har brug for nogle gode r_d til hvad jeg kan g_re eller oplysninger om hvor jeg kan finde en dygtig person der kan justere s_dan en gammel karburator.<br><br>Mvh. Lasse<br><br></font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 01-08-2014 17:20)</em></u></strong></font></li><br><font face=Verdana>Hvor bor bilen</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 01-08-2014 17:49)</em></u></strong></font></li><br><font face=Verdana>ved du kan k_be justeringsv_rkt_j til billig penge i Bla Biltema.... denl_fter og justerer n_len ved i gasspj_ldet</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lasse Petterson, 01-08-2014 21:12)</em></u></strong></font></li><br><font face=Verdana>Hej Torben.<br>Bilen og jeg bor i Slagelse.<br>Jeg er bange for at Biltema ikke l_ngere har v_rkt_jet.<br>Jeg kan ikke finde det i deres katalog eller p_ hjemmesiden.<br>Mvh. Lasse</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 03-08-2014 20:43)</em></u></strong></font></li><br><font face=Verdana>Det v_rkt_j til at justere co med kan du selv lave for det har jeg gjort. Din n_l kan ogs_ v_re s_ slidt at den ikke kan justeres nok men det er der r_d for.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lasse Petterson, 09-08-2014 15:30)</em></u></strong></font></li><br><font face=Verdana>Kent var s_ venlig at sende mig billeder af hjemmelavet justeringsv_rkt_j. Mange tak Kent :-)<br>Nu er v_rkt_j konstrueret og Co justeret.<br>Dog kan jeg som n_vnt ikke opn_ nogen effekt ved at justere p_ tomgangsskruen p_ manifolden. Motoren k_rer ogs_ forsat videre selvom jeg afbryder str_mmen p_ magnetventilen p_ manifolden.<br>Er der nogen der har bud p_ dette? <br><br><br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Mads Hansen, 14-08-2014 11:42)</em></u></strong></font></li><br><font face=Verdana>er den ikke veteran hvis den er fra 79, s_ m_ler de da ikke CO til syn.<br><br>Det gjorde de ihvertfald ikke p_ min 242 fra 75.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 01-08-2014 17:20)</em></u></strong></font></li><br><font face=Verdana>Hvor bor bilen</font><br><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 01-08-2014 17:49)</em></u></strong></font></li><br><font face=Verdana>ved du kan k_be justeringsv_rkt_j til billig penge i Bla Biltema.... denl_fter og justerer n_len ved i gasspj_ldet</font><br><li><font face=Verdana><strong><u>Re: - <em>(Lasse Petterson, 01-08-2014 21:12)</em></u></strong></font></li><br><font face=Verdana>Hej Torben.<br>Bilen og jeg bor i Slagelse.<br>Jeg er bange for at Biltema ikke l_ngere har v_rkt_jet.<br>Jeg kan ikke finde det i deres katalog eller p_ hjemmesiden.<br>Mvh. Lasse</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 03-08-2014 20:43)</em></u></strong></font></li><br><font face=Verdana>Det v_rkt_j til at justere co med kan du selv lave for det har jeg gjort. Din n_l kan ogs_ v_re s_ slidt at den ikke kan justeres nok men det er der r_d for.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Lasse Petterson, 09-08-2014 15:30)</em></u></strong></font></li><br><font face=Verdana>Kent var s_ venlig at sende mig billeder af hjemmelavet justeringsv_rkt_j. Mange tak Kent :-)<br>Nu er v_rkt_j konstrueret og Co justeret.<br>Dog kan jeg som n_vnt ikke opn_ nogen effekt ved at justere p_ tomgangsskruen p_ manifolden. Motoren k_rer ogs_ forsat videre selvom jeg afbryder str_mmen p_ magnetventilen p_ manifolden.<br>Er der nogen der har bud p_ dette? <br><br><br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Mads Hansen, 14-08-2014 11:42)</em></u></strong></font></li><br><font face=Verdana>er den ikke veteran hvis den er fra 79, s_ m_ler de da ikke CO til syn.<br><br>Det gjorde de ihvertfald ikke p_ min 242 fra 75.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

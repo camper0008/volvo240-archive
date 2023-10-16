@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=3"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=3&amp;MessageId=1395"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=3&MessageId=1395"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Vindst&#248;j</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Vindstøj</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-02-2004&nbsp; 15:15</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-02-2004 15:15</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Heps!<br>Efter jeg har f�et lavet en del rustarbejde, s� har jeg f�et et problem jeg er ved at blive sindsyg over!! <br>N�r man k�re omkring 50-60 KM/T s� kommer der meget vindst�j.. Og det bliver meget v�re n�r man k�re 110 p� motor vejen. <br>Det lyder faktisk som om at man har et vindue der st�r p� klem.. Eller at d�ren ikke er sm�kket ordenligt... <br>Det m� vel n�sten v�re t�tnings listerne rundt omkring mine d�re den er gal med. <br>Og det er i f�rer siden.. Der er ikke noget i de andre sider.<br>Det er som sagt kommet efter jeg har f�et lavet rust arbejde... Skiftet alle paneler... <br>De er s� ikke blevet malet.. Men de har f�et noget rust beskyttelse.. S� overfladen p� dem er meget ru! Kan det v�re derfor? <br>S� m� jeg sku n�sten skifte alle lister s�.. Nogle der ved hvad de koster hos spare-parts?<br>Jeg kan ikke �bne hans katalog da jeg ikke har Word inde p� min PC. <br>Og et Volvo v�rksted gider jeg ikke sp�rge!! Jeg vil ikke ruineres!!<br><br>Hilsen<br><br>Emil J<br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1395&ForumID=3&Showsub=1398'>Re: Vindst&#248;j</a> <em>(Emil J., 22-02-2004 15:33)</em></strong></font></li><br><font face=Verdana>Hehe... <br>Nej har sku ikke en MAC!!!  <br>Den siger et eller andet vr�vl med at kunne ikke indl�se grafik filtre... <br>S�h.. Derfor spurgte jeg. Jeg vidste da ikke ogs� at de var i PDF format?<br>Mail adresse:<br>c.l@teliamail.dk<br><br>V.H<br><br>Emil J</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1395&ForumID=3&Showsub=1397'>Re: Vindst&#248;j</a> <em>(Tobias Bagge, 22-02-2004 14:42)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1395&ForumID=3&Showsub=1398'>Re: Vindstøj</a> <em>(Emil J., 22-02-2004 15:33)</em></strong></font></li><br><font face=Verdana>Hehe... <br>Nej har sku ikke en MAC!!!  <br>Den siger et eller andet vr�vl med at kunne ikke indl�se grafik filtre... <br>S�h.. Derfor spurgte jeg. Jeg vidste da ikke ogs� at de var i PDF format?<br>Mail adresse:<br>c.l@teliamail.dk<br><br>V.H<br><br>Emil J</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1395&ForumID=3&Showsub=1397'>Re: Vindstøj</a> <em>(Tobias Bagge, 22-02-2004 14:42)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">46</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">46</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

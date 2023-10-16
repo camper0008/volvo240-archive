@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-06-2014&nbsp; 00:29</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-06-2014 00:29</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Vil lige h_re hvilken blok er bedst at tune p_. Hvad er st_rkest mht lejer mv. Er igang med et sygt projekt en 360. Til drift. S_ massere at tryk og moment men hvad motor er bedst. Lige fra t5r eller t6r. Eller noget b23. Er der nogle af jer der ved nogle guldkorn</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Mads Hansen, 20-06-2014 11:20)</em></u></strong></font></li><br><font face=Verdana>hvis du skal drifte skal du holde dig fra AT motor. Der er en indspr_jtnings motor noget bedre, og du kan hive meget mere ud af dem. Hvis det skal v_re R_dblock s_ f_ fat i en B230FT. dem hiver du nemt 240-250hk ud af og og med lidt mere arbejde (ikke meget) sm_ 300 hk, inden du skal til at _ndre interne dele i den.  Ellers ville jeg nok smide en hvidblok 5 cylinder i.<br><br>Hvis det hun er til drift, hvorfor s_ ikke t_nke lidt ud af boksen, og smid noget BMW 6 bennet i den med noget turbo p_??</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob Lauridsen, 11-07-2014 23:35)</em></u></strong></font></li><br><font face=Verdana>Eller blive hos volvo :) og smide en b204gt i &#59;) lidt sv_r at finde, men kan lade sig g_re til en ok pris i ok stand.K_bte en til 4000, g_et 131.000, meget p_n b_de inde og ude.  <br>Volvo r_dblok med porsche udviklet topstykke og mitsubihsi turbo for hurtig spool up. det funger ret godt :)<br><br>B204GT:<br>- 200bhp @ 5300 rpm<br>- 290Nm (214 lbft) @ 2950 rpm<br>- acceleration 0-100 km/h (0-62 mph) = 7,9 seconds (740)<br>- top speed 215 km/h (136 mph)</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Mads Hansen, 20-06-2014 11:20)</em></u></strong></font></li><br><font face=Verdana>hvis du skal drifte skal du holde dig fra AT motor. Der er en indspr_jtnings motor noget bedre, og du kan hive meget mere ud af dem. Hvis det skal v_re R_dblock s_ f_ fat i en B230FT. dem hiver du nemt 240-250hk ud af og og med lidt mere arbejde (ikke meget) sm_ 300 hk, inden du skal til at _ndre interne dele i den.  Ellers ville jeg nok smide en hvidblok 5 cylinder i.<br><br>Hvis det hun er til drift, hvorfor s_ ikke t_nke lidt ud af boksen, og smid noget BMW 6 bennet i den med noget turbo p_??</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob Lauridsen, 11-07-2014 23:35)</em></u></strong></font></li><br><font face=Verdana>Eller blive hos volvo :) og smide en b204gt i &#59;) lidt sv_r at finde, men kan lade sig g_re til en ok pris i ok stand.K_bte en til 4000, g_et 131.000, meget p_n b_de inde og ude.  <br>Volvo r_dblok med porsche udviklet topstykke og mitsubihsi turbo for hurtig spool up. det funger ret godt :)<br><br>B204GT:<br>- 200bhp @ 5300 rpm<br>- 290Nm (214 lbft) @ 2950 rpm<br>- acceleration 0-100 km/h (0-62 mph) = 7,9 seconds (740)<br>- top speed 215 km/h (136 mph)</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

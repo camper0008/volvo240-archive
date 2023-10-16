@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=2537"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=2537"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-12-2004&nbsp; 13:05</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-12-2004 13:05</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har k�bt en tidligere importeret 240 st.car fra 1987.<br>Hvordan kan jeg tjekke at den p� registreringsattesten har f�et den rette modelbetegnelse? Der st�r at det er en GL, men hvordan kan jeg v�re sikker p� at det rigtigt?. (der er vist ca.1200kr at spare i v�gtafg. hvis det viser sig at det er en DL)<br>mvh<br>kristian</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2569'>Re: modelbetegnelse</a> <em>(kristian, 23-12-2004 11:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2568'>Re: modelbetegnelse</a> <em>(Michael Jensen, 22-12-2004 15:50)</em></strong></font></li><br><font face=Verdana>Er der nogen der har stor efaring med at hente biler i udlandet.<br>Jeg t�nker her p� undg� de v�rste faldgruber.<br>Jeg vil gerne finde en nyere 4d�rs 240 med automatgear, dem<br>er der ikke s� mange af herhjemme <br></font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2566'>Re: modelbetegnelse</a> <em>(Jes, 22-12-2004 11:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2565'>Re: modelbetegnelse</a> <em>(kristian norup, 22-12-2004 11:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2550'>Re: modelbetegnelse</a> <em>(Kent, 17-12-2004 10:37)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2541'>Re: modelbetegnelse</a> <em>(Jes, 16-12-2004 07:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2538'>Re: modelbetegnelse</a> <em>(Erling, 15-12-2004 15:20)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2569'>Re: modelbetegnelse</a> <em>(kristian, 23-12-2004 11:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2568'>Re: modelbetegnelse</a> <em>(Michael Jensen, 22-12-2004 15:50)</em></strong></font></li><br><font face=Verdana>Er der nogen der har stor efaring med at hente biler i udlandet.<br>Jeg t�nker her p� undg� de v�rste faldgruber.<br>Jeg vil gerne finde en nyere 4d�rs 240 med automatgear, dem<br>er der ikke s� mange af herhjemme <br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2566'>Re: modelbetegnelse</a> <em>(Jes, 22-12-2004 11:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2565'>Re: modelbetegnelse</a> <em>(kristian norup, 22-12-2004 11:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2550'>Re: modelbetegnelse</a> <em>(Kent, 17-12-2004 10:37)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2541'>Re: modelbetegnelse</a> <em>(Jes, 16-12-2004 07:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2538'>Re: modelbetegnelse</a> <em>(Erling, 15-12-2004 15:20)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">51</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">51</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

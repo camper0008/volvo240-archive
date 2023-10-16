@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-10-2014&nbsp; 20:20</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-10-2014 20:20</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">ja s_ er jeg her igen , denne gang vil motor ikke starte n_r den er varm men godt n_r den har k_let ned igen . nogen der har en ide til problem motor t_rner fint men t_nder ikke stoppet benzin filter m_ske ?<br>starter fint n_r den er kold <br>bilen er en Volvo 245 1992</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jonas, 06-10-2014 07:54)</em></u></strong></font></li><br><font face=Verdana>Hej Tom,<br><br>Emnet har v_ret oppe for nyligt. Jeg (og flere andre viste det sig) havde samme problem. L_sningen var en renoveret Bosch startermotor. Kig eventuelt under "b230FD varmstartsproblemer".<br><br>Mvh,<br>Jonas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 06-10-2014 17:17)</em></u></strong></font></li><br><font face=Verdana>Hej jonas motor t_rner som den skal s_ det har ikke noget med starter at g_re den t_rner som den skal men motor springer bare ikke i gang f_r den er k_let af igen :(</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 12-10-2014 11:22)</em></u></strong></font></li><br><font face=Verdana>s_ tror jeg at problem er l_st , den har i hvert fald startet de sidste dage efter jeg s_ et tideligere link p_ siden, der sidder en dims under indsugning med 2 slanger i en gummi holder med et stik i tog slanger af og stik og som tideliger beskrevet rensede jeg den med bremse rens og t_rte den af og smurte den med wd40 nye spray med PTFE og siden har der ikke v_ret problemer ( endnu ) tak for de gode r_d<br><br>s_ jonas ikke noget med starter at g_re :)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 31-12-2014 11:31)</em></u></strong></font></li><br><font face=Verdana>hej folkens ja s_ kom problemet hurtigt igen:( ,fik ogs_ skiftet t_ndspole og t_ndr_r k_rte en tur og s_ var den gal igen , fik den transporteret hjem da den ikke ville starte igen , fandt tilf_ldigt s_ fejlen som bare var en sikring til benzin pumpe , rensede sikrings holder og klemte den lidt og skiftede sikring har nu k_rt up_klageligt siden og startet hvergang .<br><br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jeppe Halkier Hansen, 05-01-2015 18:47)</em></u></strong></font></li><br><font face=Verdana>Hej Tom<br>Har haft lignende problemer med min 245 med B230FD og har i dag opdaget, at det var min svingshjuls/toppunktsf_ler hvor kabelet var kn_kket inden i.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 15-02-2015 10:43)</em></u></strong></font></li><br><font face=Verdana>hej jeppe svinghjulf_ler er skiftet ved anden lejlighed, bil k_rer normalt , kun problem med blinklys  vil ikke blinke kun n_dblink</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jonas, 06-10-2014 07:54)</em></u></strong></font></li><br><font face=Verdana>Hej Tom,<br><br>Emnet har v_ret oppe for nyligt. Jeg (og flere andre viste det sig) havde samme problem. L_sningen var en renoveret Bosch startermotor. Kig eventuelt under "b230FD varmstartsproblemer".<br><br>Mvh,<br>Jonas</font><br><li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 06-10-2014 17:17)</em></u></strong></font></li><br><font face=Verdana>Hej jonas motor t_rner som den skal s_ det har ikke noget med starter at g_re den t_rner som den skal men motor springer bare ikke i gang f_r den er k_let af igen :(</font><br><li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 12-10-2014 11:22)</em></u></strong></font></li><br><font face=Verdana>s_ tror jeg at problem er l_st , den har i hvert fald startet de sidste dage efter jeg s_ et tideligere link p_ siden, der sidder en dims under indsugning med 2 slanger i en gummi holder med et stik i tog slanger af og stik og som tideliger beskrevet rensede jeg den med bremse rens og t_rte den af og smurte den med wd40 nye spray med PTFE og siden har der ikke v_ret problemer ( endnu ) tak for de gode r_d<br><br>s_ jonas ikke noget med starter at g_re :)</font><br><li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 31-12-2014 11:31)</em></u></strong></font></li><br><font face=Verdana>hej folkens ja s_ kom problemet hurtigt igen:( ,fik ogs_ skiftet t_ndspole og t_ndr_r k_rte en tur og s_ var den gal igen , fik den transporteret hjem da den ikke ville starte igen , fandt tilf_ldigt s_ fejlen som bare var en sikring til benzin pumpe , rensede sikrings holder og klemte den lidt og skiftede sikring har nu k_rt up_klageligt siden og startet hvergang .<br><br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Jeppe Halkier Hansen, 05-01-2015 18:47)</em></u></strong></font></li><br><font face=Verdana>Hej Tom<br>Har haft lignende problemer med min 245 med B230FD og har i dag opdaget, at det var min svingshjuls/toppunktsf_ler hvor kabelet var kn_kket inden i.</font><br><li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 15-02-2015 10:43)</em></u></strong></font></li><br><font face=Verdana>hej jeppe svinghjulf_ler er skiftet ved anden lejlighed, bil k_rer normalt , kun problem med blinklys  vil ikke blinke kun n_dblink</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

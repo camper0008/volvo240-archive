@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=1870"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1870"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Benzin &#248;konomi</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Benzin økonomi</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">31-05-2004&nbsp; 23:59</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">31-05-2004 23:59</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Har en 240 fra 87 med 230f motor .Den g�r ca 8 km p� literen ved blandet k�rsel,den har en sund motorgang og bruger ikke olie,men den skal presses noget for at k�re 110 p� motorvej i 5. gear og foretr�kker helst at blive sat i 4. ved bakkerne.Vil gerne have den til at g� l�ngere, og lidt og mindre anstrengt. Jeg vil s�tte el bl�ser p� den i f�rste omgang. Men har en 230at til at st� og spekulerer p� at montere den, da den nok vil tr�kke mindere anstrengt pgra. turboens hj�lp,og mere �k�nomisk.<br>P� forh�nd tak</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=2117'>Re: Benzin &#248;konomi</a> <em>(Carsten Svane, 22-08-2004 12:45)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1937'>Re: Benzin &#248;konomi</a> <em>(Martin, 20-06-2004 19:35)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1894'>Re: Benzin &#248;konomi</a> <em>(carsten svane, 07-06-2004 20:11)</em></strong></font></li><br><font face=Verdana>Jeg har en 87' m 230k motor. 340000 p� klokken.<br>ved alm. k�rsel sj�ldent under 10 km/l.<br>P� motorvej m. 130 i snit lige under 12km/l.<br>Den har stadig et forygende tr�k n�r der accelereres fra 8o til 13o,<br>men forbruget stiger kraftigt (ca8-9 km/l)hvis du k�rer h�rdt p� p� bremser og gas.<br></font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1882'>Re: Benzin &#248;konomi</a> <em>(becker, 04-06-2004 11:11)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1881'>Re: Benzin &#248;konomi</a> <em>(Anders, 03-06-2004 21:29)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1878'>Re: Benzin &#248;konomi</a> <em>(Becker, 03-06-2004 15:24)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1876'>Re: Benzin &#248;konomi</a> <em>(Anders, 02-06-2004 21:19)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1875'>Re: Benzin &#248;konomi</a> <em>(Jes, 02-06-2004 10:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1874'>Re: Benzin &#248;konomi</a> <em>(Emil J, 01-06-2004 22:08)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1873'>Re: Benzin &#248;konomi</a> <em>(Martin Nielsen, 01-06-2004 21:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1871'>Re: Benzin &#248;konomi</a> <em>(Jes, 01-06-2004 19:07)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=2117'>Re: Benzin økonomi</a> <em>(Carsten Svane, 22-08-2004 12:45)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1937'>Re: Benzin økonomi</a> <em>(Martin, 20-06-2004 19:35)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1894'>Re: Benzin økonomi</a> <em>(carsten svane, 07-06-2004 20:11)</em></strong></font></li><br><font face=Verdana>Jeg har en 87' m 230k motor. 340000 p� klokken.<br>ved alm. k�rsel sj�ldent under 10 km/l.<br>P� motorvej m. 130 i snit lige under 12km/l.<br>Den har stadig et forygende tr�k n�r der accelereres fra 8o til 13o,<br>men forbruget stiger kraftigt (ca8-9 km/l)hvis du k�rer h�rdt p� p� bremser og gas.<br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1882'>Re: Benzin økonomi</a> <em>(becker, 04-06-2004 11:11)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1881'>Re: Benzin økonomi</a> <em>(Anders, 03-06-2004 21:29)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1878'>Re: Benzin økonomi</a> <em>(Becker, 03-06-2004 15:24)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1876'>Re: Benzin økonomi</a> <em>(Anders, 02-06-2004 21:19)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1875'>Re: Benzin økonomi</a> <em>(Jes, 02-06-2004 10:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1874'>Re: Benzin økonomi</a> <em>(Emil J, 01-06-2004 22:08)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1873'>Re: Benzin økonomi</a> <em>(Martin Nielsen, 01-06-2004 21:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1871'>Re: Benzin økonomi</a> <em>(Jes, 01-06-2004 19:07)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">53</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">53</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

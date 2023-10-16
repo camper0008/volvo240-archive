@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=3350"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=3350"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-05-2005&nbsp; 21:10</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-05-2005 21:10</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg overvejer at skifte p�rene foran til 80/100w, for derved at f� kraftigere lys. Har I nogen erfaringer med dette? Eventuelle problemer med fatninger eller lignende?<br>Er det korrekt, at 60w er det maksimalt tilladte?<br>P� forh�nd tak.<br>Niels.</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3350&ForumID=2&Showsub=3425'>Re: 80/100w forlygter</a> <em>(Niels Klausen, 11-05-2005 23:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3350&ForumID=2&Showsub=3360'>Re: 80/100w forlygter</a> <em>(Morten Vig, 07-05-2005 12:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3350&ForumID=2&Showsub=3355'>Re: 80/100w forlygter</a> <em>(Jes, 07-05-2005 09:16)</em></strong></font></li><br><font face=Verdana>Hej<br><br>1. Det er ulovligt med kraftigere H4 end 55/60 W. <br><br>2. Hvis du alligevel vil g�re noget ulovligt, skal du vide at<br>   - de kraftigere p�rer afvikler mere varme, som p� sigt vil  <br>     �del�gge dine paraboler.<br>   - du generer alle os andre med dit skarpe n�rlys n�r/hvis vi<br>     m�der dig p� landevejen en m�rk aften<br>   - Hvis ellers dine paraboler er i orden, s� giver Volvo�en <br>     faktisk et godt lys.<br>   - Gvis du mangler fjernlys, s� suppler med et par <br>     fjernprojekt�rer.<br><br>3. P� lygteglasset st�r der ved siden af e-godkendelsesm�rket et tal. Dette tal er "ledetallet". Det fort�ller hvor meget lys det lange lys afgiver (med en lovlig p�re, vel at m�rke) Det maksimale ledetal m� v�re 75 (svarer til 225.000 cd lysstyrke). Volvo 240 forlygter har ledetal 20 pr. stk, ialt 40. S� man kan supplere med 2 fjernlygter med hver ledetal 17,5. Derved f�r man den maks. lysstyrke p� 225.000 cd<br><br>mvh<br><br>Jes</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3350&ForumID=2&Showsub=3425'>Re: 80/100w forlygter</a> <em>(Niels Klausen, 11-05-2005 23:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3350&ForumID=2&Showsub=3360'>Re: 80/100w forlygter</a> <em>(Morten Vig, 07-05-2005 12:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3350&ForumID=2&Showsub=3355'>Re: 80/100w forlygter</a> <em>(Jes, 07-05-2005 09:16)</em></strong></font></li><br><font face=Verdana>Hej<br><br>1. Det er ulovligt med kraftigere H4 end 55/60 W. <br><br>2. Hvis du alligevel vil g�re noget ulovligt, skal du vide at<br>   - de kraftigere p�rer afvikler mere varme, som p� sigt vil  <br>     �del�gge dine paraboler.<br>   - du generer alle os andre med dit skarpe n�rlys n�r/hvis vi<br>     m�der dig p� landevejen en m�rk aften<br>   - Hvis ellers dine paraboler er i orden, s� giver Volvo�en <br>     faktisk et godt lys.<br>   - Gvis du mangler fjernlys, s� suppler med et par <br>     fjernprojekt�rer.<br><br>3. P� lygteglasset st�r der ved siden af e-godkendelsesm�rket et tal. Dette tal er "ledetallet". Det fort�ller hvor meget lys det lange lys afgiver (med en lovlig p�re, vel at m�rke) Det maksimale ledetal m� v�re 75 (svarer til 225.000 cd lysstyrke). Volvo 240 forlygter har ledetal 20 pr. stk, ialt 40. S� man kan supplere med 2 fjernlygter med hver ledetal 17,5. Derved f�r man den maks. lysstyrke p� 225.000 cd<br><br>mvh<br><br>Jes</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">53</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">53</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

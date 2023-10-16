@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Padborg Park</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Padborg Park</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -142,7 +142,7 @@ document.onmousedown=click;
 		<br>
 		<br>
 		Jeg var sp_ndt p_ bilens k_rere egenskaber da jeg havde investeret i nye 
-		f_lge og nye brugte DTC d_k. F_lge 8&quot;x17.<br>
+		f_lge og nye brugte DTC d_k. F_lge 8"x17.<br>
 		Bilen var blevet rullet. 260 hk ved 0.7 bar_s ladetryk og lige under 
 		400nm ved 3600 omdr. uden over boost.<br>
 		<br>
@@ -170,19 +170,19 @@ document.onmousedown=click;
 		afpr_ves p_ Sturup.</p>
       <table border="0" cellpadding="5" cellspacing="1" width="745">
         <tr>
-          <td width="130" align="center">&nbsp;</td>
+          <td width="130" align="center"></td>
           <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/pic_0075.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/pic_0075t.jpg" width="128" height="85"></a></td>
-          <td width="130" align="center">&nbsp;</td>
-          <td width="130" align="center">&nbsp;</td>
+          <td width="130" align="center"></td>
+          <td width="130" align="center"></td>
         </tr>
         <tr>
-          <td width="130" align="center">&nbsp;</td>
-          <td width="130" align="center">&nbsp;</td>
-          <td width="130" align="center">&nbsp;</td>
-          <td width="130" align="center">&nbsp;</td>
+          <td width="130" align="center"></td>
+          <td width="130" align="center"></td>
+          <td width="130" align="center"></td>
+          <td width="130" align="center"></td>
         </tr>
       </table>
-      <p>&nbsp;</p>
+      <p></p>
       <p>N_ste l_b bliver Ring Sturup D. 17-18 Juli.</p>
       <hr>
     </td>
@@ -211,7 +211,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">30-01-2005&nbsp; 14:42</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">30-01-2005 14:42</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">jeg er ved at montere seler i bilen men de vil ikke tr_kkes ud,de l_ser hele tiden.Hva g_r jeg ska jeg skille den ad?Til Erling jeg har fundet hjemmesiden med hensyn til mit C.l_s og elruder.tak for hj_lpen  mvh Kent</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 31-01-2005 13:28)</em></u></strong></font></li><br><font face=Verdana>Hej Kent<br>L_ser de hel tiden mens du holder dem i h_nden eller er det n_r du har monteret dem?<br>Hvis de l_ser mens du holder dem i h_nden er det fordi du ikke holder dem n_jagtig p_ samme m_de, som n_r de er monteret i bilen. Selerne l_ser jo ogs_ n_r bilen kr_nger til siderne ca. 10 grader. <br>Og du m_ under ingen omst_ndigheder skille selerne ad. Jeg pr_vede det en gang med nogle gamle seler fra en skrotbil, og der sidder en tynd meget meget lang og livlig spiralfjeder inden i, som springer ud s_ snart du _bner for d_kslet. Og den kan ikke rulles sammen igen.<br><br>Hvis det er brugte seler, du har fra en ophugger, kan de sagtens v_re g_et i stykker, hvis de har v_ret med i et f_rdselsuheld. Derfor anbefales det at skifte selerne til nye efter et f_rdselsuheld, hvor selerne har v_ret belastet h_rdt. Det st_r ogs_ i mange bilers instruktionsb_ger.<br><br>mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent, 01-02-2005 00:18)</em></u></strong></font></li><br><font face=Verdana>det er imens jeg st_r med dem i h_nden at de l_ser.jeg havde en den l_ste ikke kun n_r man trak h_rdt i den.s_ pr_ver jeg da at montere den anden og se hvad der s_ sker.Hvor mange ledninger skal der op til loftsbelysningen i taget   2??</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 31-01-2005 13:28)</em></u></strong></font></li><br><font face=Verdana>Hej Kent<br>L_ser de hel tiden mens du holder dem i h_nden eller er det n_r du har monteret dem?<br>Hvis de l_ser mens du holder dem i h_nden er det fordi du ikke holder dem n_jagtig p_ samme m_de, som n_r de er monteret i bilen. Selerne l_ser jo ogs_ n_r bilen kr_nger til siderne ca. 10 grader. <br>Og du m_ under ingen omst_ndigheder skille selerne ad. Jeg pr_vede det en gang med nogle gamle seler fra en skrotbil, og der sidder en tynd meget meget lang og livlig spiralfjeder inden i, som springer ud s_ snart du _bner for d_kslet. Og den kan ikke rulles sammen igen.<br><br>Hvis det er brugte seler, du har fra en ophugger, kan de sagtens v_re g_et i stykker, hvis de har v_ret med i et f_rdselsuheld. Derfor anbefales det at skifte selerne til nye efter et f_rdselsuheld, hvor selerne har v_ret belastet h_rdt. Det st_r ogs_ i mange bilers instruktionsb_ger.<br><br>mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kent, 01-02-2005 00:18)</em></u></strong></font></li><br><font face=Verdana>det er imens jeg st_r med dem i h_nden at de l_ser.jeg havde en den l_ste ikke kun n_r man trak h_rdt i den.s_ pr_ver jeg da at montere den anden og se hvad der s_ sker.Hvor mange ledninger skal der op til loftsbelysningen i taget   2??</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">20</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">20</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

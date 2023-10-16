@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=5"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=5&amp;MessageId=1090"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=5&MessageId=1090"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-12-2003&nbsp; 09:04</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-12-2003 09:04</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej webmaster!<br>Det er en utrolig flot site og det er rart, at der er nogen der har tid og lyst til at lave det kæmpe arbejde der ligger i at drive dette forum. Det gør igen, at det bliver lidt lettere at reparere og vedligeholde en ældre bil.<br><br>Mange tak<br><br>Poul Rasmussen</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej webmaster!<br>Det er en utrolig flot site og det er rart, at der er nogen der har tid og lyst til at lave det kÃ¦mpe arbejde der ligger i at drive dette forum. Det gÃ¸r igen, at det bliver lidt lettere at reparere og vedligeholde en Ã¦ldre bil.<br><br>Mange tak<br><br>Poul Rasmussen</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1090&ForumID=5&Showsub=1108'>Re: ros</a> <em>(Henning, 10-12-2003 21:45)</em></strong></font></li><br><font face=Verdana>Jeg i to<br><br>Bifaldet kan høres helt her nede på Als.<br>Hjemmesiden har hjulpet mig utroligt meget og jeg håber ikke i mister pusten med det store arbejd der ligger i sådan en hjemmeside.<br>Jeg tager hatten af for jer.<br><br>Hilsen fra en stor Volvo fan.<br>Henning</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1090&ForumID=5&Showsub=1092'>Re: ros</a> <em>(Johan Jargil &#197;rman, 09-12-2003 12:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1090&ForumID=5&Showsub=1091'>Re: ros</a> <em>(Lars Vestman, 09-12-2003 09:31)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1090&ForumID=5&Showsub=1108'>Re: ros</a> <em>(Henning, 10-12-2003 21:45)</em></strong></font></li><br><font face=Verdana>Jeg i to<br><br>Bifaldet kan hÃ¸res helt her nede pÃ¥ Als.<br>Hjemmesiden har hjulpet mig utroligt meget og jeg hÃ¥ber ikke i mister pusten med det store arbejd der ligger i sÃ¥dan en hjemmeside.<br>Jeg tager hatten af for jer.<br><br>Hilsen fra en stor Volvo fan.<br>Henning</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1090&ForumID=5&Showsub=1092'>Re: ros</a> <em>(Johan Jargil Ã…rman, 09-12-2003 12:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1090&ForumID=5&Showsub=1091'>Re: ros</a> <em>(Lars Vestman, 09-12-2003 09:31)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

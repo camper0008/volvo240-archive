@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,13 +198,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=242"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=242"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Bagt&#248;jsb&#248;sninger</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>BagtÃ¸jsbÃ¸sninger</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-03-2003&nbsp; 11:00</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-03-2003 11:00</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle I hjælpsomme!<br>Min ´84 245 m. 237.000 km. på uret mistænker jeg for at have møre bøsninger bagi.<br>Hvis jeg accelererer kvikt og så pludselig slipper gassen, ændrer bilen en smule retning og jeg skal korrigere på rattet. Den er desuden ikke så retningsstabil ved motorvejskørsel som den burde (jeg har haft flere 245´er).<br>Er der nogle bøsninger bagi som oftere bliver slidte end andre? Der er jo unægteligt nogle stykker at vælge imellem...</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle I hjÃ¦lpsomme!<br>Min ´84 245 m. 237.000 km. pÃ¥ uret mistÃ¦nker jeg for at have mÃ¸re bÃ¸sninger bagi.<br>Hvis jeg accelererer kvikt og sÃ¥ pludselig slipper gassen, Ã¦ndrer bilen en smule retning og jeg skal korrigere pÃ¥ rattet. Den er desuden ikke sÃ¥ retningsstabil ved motorvejskÃ¸rsel som den burde (jeg har haft flere 245´er).<br>Er der nogle bÃ¸sninger bagi som oftere bliver slidte end andre? Der er jo unÃ¦gteligt nogle stykker at vÃ¦lge imellem...</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=242&ForumID=2&Showsub=301'>Re: Bagt&#248;jsb&#248;sninger</a> <em>(Jacob Lorensen, 08-04-2003 22:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=242&ForumID=2&Showsub=245'>Re: Bagt&#248;jsb&#248;sninger</a> <em>(Jes, 13-03-2003 16:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=242&ForumID=2&Showsub=244'>Re: Bagt&#248;jsb&#248;sninger</a> <em>(Lars Vestman, 12-03-2003 22:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=242&ForumID=2&Showsub=243'>Re: Bagt&#248;jsb&#248;sninger</a> <em>(Jes, 12-03-2003 20:57)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Bøsningerne i undervognen på en Volvo 240 skal forholdsvist ofte skiftes. Særligt er bøsningerne i baghjulsophænget udsat for stort slid hvis der ofte køres med læs eller trailer/campingvogn. På hjemmesiden under punktet "Volvo 240 INFO" kan du se de enkelte bøsninger. Stræberarmsbøsninger (pos. 7) er de primære m.h.t. at holde bilen retningsstabil. Med de symptomer du beskriver, er de tjenlig til udskiftning. Hvis du kan komme under bilen kan du ved at vride i stræberarmene se om gummiet er revnet og/eller om de er gået fra i vulkaniseringen. Typisk så glider de ud til en af siderne. Udskiftning er gør det selv arbejde hvis du har lidt værktøj og en god skruestik. Afmonter stræberarmen, bank de gamle bøsninger ud og pres de nye i. Husk at vende dem rigtigt. Rigtigt kan du se ved at kigge på dem der sidder i.<br>De store bøsninger bagerst i bærearmene bliver med tiden sat i stykker. Det er lidt mere kompliceret at skifte dem, idet bagtøjet skal løsnes fra bærearmen for at komme til. Det er normalt et knokkel-arbejde at få de gamle ud. De nye kan godt bankes forsigtigt i. Jeg har selv et speciallavet værktøj til det, købt for formedelst 1800,- kr.<br>De øvrige bøsninger i bagtøjet, d.v.s. de forreste i bærearmene samt til panhardstangen bliver sjældent slidt, men det kan forekomme.<br><br><br>mvh<br><br>Jes</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=242&ForumID=2&Showsub=301'>Re: BagtÃ¸jsbÃ¸sninger</a> <em>(Jacob Lorensen, 08-04-2003 22:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=242&ForumID=2&Showsub=245'>Re: BagtÃ¸jsbÃ¸sninger</a> <em>(Jes, 13-03-2003 16:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=242&ForumID=2&Showsub=244'>Re: BagtÃ¸jsbÃ¸sninger</a> <em>(Lars Vestman, 12-03-2003 22:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=242&ForumID=2&Showsub=243'>Re: BagtÃ¸jsbÃ¸sninger</a> <em>(Jes, 12-03-2003 20:57)</em></strong></font></li><br><font face=Verdana>Hej<br><br>BÃ¸sningerne i undervognen pÃ¥ en Volvo 240 skal forholdsvist ofte skiftes. SÃ¦rligt er bÃ¸sningerne i baghjulsophÃ¦nget udsat for stort slid hvis der ofte kÃ¸res med lÃ¦s eller trailer/campingvogn. PÃ¥ hjemmesiden under punktet "Volvo 240 INFO" kan du se de enkelte bÃ¸sninger. StrÃ¦berarmsbÃ¸sninger (pos. 7) er de primÃ¦re m.h.t. at holde bilen retningsstabil. Med de symptomer du beskriver, er de tjenlig til udskiftning. Hvis du kan komme under bilen kan du ved at vride i strÃ¦berarmene se om gummiet er revnet og/eller om de er gÃ¥et fra i vulkaniseringen. Typisk sÃ¥ glider de ud til en af siderne. Udskiftning er gÃ¸r det selv arbejde hvis du har lidt vÃ¦rktÃ¸j og en god skruestik. Afmonter strÃ¦berarmen, bank de gamle bÃ¸sninger ud og pres de nye i. Husk at vende dem rigtigt. Rigtigt kan du se ved at kigge pÃ¥ dem der sidder i.<br>De store bÃ¸sninger bagerst i bÃ¦rearmene bliver med tiden sat i stykker. Det er lidt mere kompliceret at skifte dem, idet bagtÃ¸jet skal lÃ¸snes fra bÃ¦rearmen for at komme til. Det er normalt et knokkel-arbejde at fÃ¥ de gamle ud. De nye kan godt bankes forsigtigt i. Jeg har selv et speciallavet vÃ¦rktÃ¸j til det, kÃ¸bt for formedelst 1800,- kr.<br>De Ã¸vrige bÃ¸sninger i bagtÃ¸jet, d.v.s. de forreste i bÃ¦rearmene samt til panhardstangen bliver sjÃ¦ldent slidt, men det kan forekomme.<br><br><br>mvh<br><br>Jes</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">6</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">6</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

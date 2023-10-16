@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Sturup 18 Juli 2004</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Sturup 18 Juli 2004</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -177,7 +177,7 @@ document.onmousedown=click;
                 S_ denne weekend gav sammenlagt en 2. plads, hvilket g_r, at jeg i _rets
                 mesterskab i Clubrace 1 ligger p_ en samlet 2. plads.</p>
                 <p>Resultater og billeder, tider kan ses p_ <a href='/links/redirect.asp?goto=16' Alt='Historisk Motor Sport' target='_blank'>Historisk Motor Sport</a>.<br>
-&nbsp;</p>
+</p>
                 <p>Til l_bet p_ Sturup skulle den ny designede bremse ventilator jo
                 afpr_ves og de var en succes. Der var kun lavet en prototype, s_ det var
                 nemt at m_le varme differensen p_ de 2 forreste bremseskiver.<br>
@@ -188,7 +188,7 @@ document.onmousedown=click;
                 Til n_ste l_b p_ Ring Djursland skal jeg lige have lavet 4 ventilatorer,
                 rettet et par buler ud, lavet ny frontspoiler samt rullet bilen p_ ny.<br>
                 <br>
-                &nbsp;</p>
+                </p>
       <table border="0" cellpadding="5" cellspacing="1" width="745">
         <tr>
           <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-17_0001.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-17_0001t.jpg" width="128" height="85"></a></td>
@@ -206,14 +206,14 @@ document.onmousedown=click;
           <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-18_0029.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-18_0029t.jpg" width="128" height="85"></a></td>
           <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-18_0036.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-18_0036t.jpg" width="128" height="85"></a></td>
           <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-18_0039.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-18_0039t.jpg" width="128" height="85"></a></td>
-          <td width="130" align="center">&nbsp;</td>
+          <td width="130" align="center"></td>
         </tr>
       </table>
       <p>N_ste l_b bliver Ring Djursland.</p>
                 <p>
                 <br>
                 MVH Henrik _lsg_rd<br>
-&nbsp;</p>
+</p>
       <hr>
     </td>
   </tr>
@@ -241,7 +241,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

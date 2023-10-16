@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Interi_r og Farver</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Interi_r og Farver</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -342,7 +342,7 @@ document.onmousedown=click;
         </tr>
         <tr>
           <td width="145">Variant</td>
-          <td width="50" align="center">&nbsp;</td>
+          <td width="50" align="center"></td>
           <td width="95">Volvo<br>244/245<br>264 DL</td>
           <td width="95">Volvo<br>244/245 GL</td>
           <td width="95">Volvo<br>245 L<br>Varevogn</td>
@@ -354,7 +354,7 @@ document.onmousedown=click;
         </tr>
         <tr>
           <td width="145">Indtr_k</td>
-          <td width="47" align="center">&nbsp;</td>
+          <td width="47" align="center"></td>
           <td width="95">Tekstil</td>
           <td width="95">Tekstil</td>
           <td width="95">Tekstil</td>
@@ -367,28 +367,28 @@ document.onmousedown=click;
         <tr>
           <td width="145">Lakering</td>
           <td width="47" align="center">Kode</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td width="145">Sort<sup>1)</sup></td>
           <td width="47" align="center">019</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
           <td width="95">Lysegr_</td>
           <td width="95">Beige</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">Hvid</td>
@@ -396,23 +396,23 @@ document.onmousedown=click;
           <td width="95">Bl_</td>
           <td width="95">Bl_</td>
           <td width="95">Sort</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">M_rkebl_<sup>1)</sup></td>
           <td width="47" align="center">096</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
           <td width="95">Lysegr_</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
           <td width="95">Lysegr_</td>
           <td width="95">Beige</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">Gul</td>
@@ -420,11 +420,11 @@ document.onmousedown=click;
           <td width="95">Gyldenbeige</td>
           <td width="95">Gyldenbeige</td>
           <td width="95">Sort</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">R_d</td>
@@ -432,23 +432,23 @@ document.onmousedown=click;
           <td width="95">Gyldenbeige</td>
           <td width="95">Gyldenbeige</td>
           <td width="95">Sort</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">Marinebl_</td>
           <td width="47" align="center">132</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">Sandgr_</td>
@@ -456,11 +456,11 @@ document.onmousedown=click;
           <td width="95">Lysebrun</td>
           <td width="95">Lysebrun</td>
           <td width="95">Sort</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">M_rkebrun</td>
@@ -468,11 +468,11 @@ document.onmousedown=click;
           <td width="95">Gyldenbeige</td>
           <td width="95">Gyldenbeige</td>
           <td width="95">Sort</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">Havbl_</td>
@@ -480,66 +480,66 @@ document.onmousedown=click;
           <td width="95">Bl_</td>
           <td width="95">Bl_</td>
           <td width="95">Sort</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
           <td width="95">Bl_</td>
           <td width="95">Sort</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">Vinr_d</td>
           <td width="47" align="center">141</td>
           <td width="95">Lysegr_</td>
           <td width="95">Lysegr_</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
           <td width="95">Lysegr_</td>
           <td width="95">Lysegr_</td>
           <td width="95">Lysegr_</td>
           <td width="95">Beige</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">M_rkegr_n</td>
           <td width="47" align="center">142</td>
           <td width="95">Gyldenbeige</td>
           <td width="95">Gyldenbeige</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
           <td width="95">Beige</td>
           <td width="95">Beige</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">Signalr_d</td>
           <td width="47" align="center">155</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">Signalgr_n</td>
           <td width="47" align="center">156</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">S_lv metallic</td>
           <td width="47" align="center">130</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
           <td width="95">Bl_</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
           <td width="95">Lysegr_</td>
           <td width="95">Lysegr_</td>
           <td width="95">Bl_</td>
@@ -549,74 +549,74 @@ document.onmousedown=click;
         <tr>
           <td width="145">Lysebl_ metallic</td>
           <td width="47" align="center">134</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
           <td width="95">Bl_</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
           <td width="95">Bl_</td>
           <td width="95">Bl_</td>
           <td width="95">Bl_</td>
           <td width="95">Sort</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">Guld metallic</td>
           <td width="47" align="center">135</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
           <td width="95">Beige</td>
         </tr>
         <tr>
           <td width="145">Gr_n metallic</td>
           <td width="47" align="center">136</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
           <td width="95">Gyldenbeige</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
           <td width="95">Gyldenbeige</td>
           <td width="95">Beige</td>
           <td width="95">Beige</td>
           <td width="95">Beige</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">Nougat metallic</td>
           <td width="47" align="center">144</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
           <td width="95">Lysebrun</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
           <td width="95">Lysebrun</td>
           <td width="95">Lysebrun</td>
           <td width="95">Lysebrun</td>
           <td width="95">Sort</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">Kobberr_d metallic</td>
           <td width="47" align="center">158</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
         </tr>
         <tr>
           <td width="145">Brun metallic</td>
           <td width="47" align="center">157</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
-          <td width="95">&nbsp;</td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
+          <td width="95"></td>
         </tr>
       </tbody>
       </table>
@@ -626,7 +626,7 @@ document.onmousedown=click;
 <table border="0" cellpadding="2" cellspacing="0" width="960" align="center">
   <tr>
     <td width="247"><sup>1)</sup> Kun mod specialordre og merpris</td>
-    <td width="43">&nbsp;</td>
+    <td width="43"></td>
     <td width="670"><sup>2)</sup> Mod merpris</td>
   </tr>
 </table>
@@ -653,7 +653,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

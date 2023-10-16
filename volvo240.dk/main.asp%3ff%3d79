@@ -154,9 +154,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0">
   <thead>
   <tr>
-    <td height="23">&nbsp;</td>
-    <td height="23">&nbsp;</td>
-    <td height="23">&nbsp;</td>
+    <td height="23"></td>
+    <td height="23"></td>
+    <td height="23"></td>
   </tr>
   </thead>
   <thead>  
@@ -164,11 +164,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Registrerede Biler</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Registrerede Biler</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -194,7 +194,7 @@ document.onmousedown=click;
   <tr>
     <td width="25%" align="center">
       <b>Bilernes ejer og/eller nummerplade oplyses ikke.</b><br>
-      Bilerne listes i den rækkefølge de bliver registreret i registeret. De sidst indkomne øverst.
+      Bilerne listes i den rÃ¦kkefÃ¸lge de bliver registreret i registeret. De sidst indkomne Ã¸verst.
     </td>
   </tr>
 </table>
@@ -208,9 +208,9 @@ document.onmousedown=click;
 
       <td width="25%" height="110" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/240reg/images/img00302.jpg&palt=Volvo register','','height=510,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="2" src="/240reg/images/img00302t.jpg" width="128" height="96"></A></td>
 
-      <td width="25%" height="110" align="center">&nbsp;</td>
+      <td width="25%" height="110" align="center"></td>
 
-      <td width="25%" height="110" align="center">&nbsp;</td>
+      <td width="25%" height="110" align="center"></td>
 
     </tr>                                                                                                                                                                                                                      
 
@@ -219,7 +219,7 @@ document.onmousedown=click;
         <td colspan="3">Volvo 244 GL</td>
     </tr>
     <tr>
-        <th align="left">Årgang</th>
+        <th align="left">Ã…rgang</th>
         <td colspan="3">1979</td>
     </tr>
     <tr>
@@ -240,7 +240,7 @@ document.onmousedown=click;
     </tr>
     <tr>
         <th align="left">Andet udstyr</th>
-        <td colspan="3">Eftermont.:Alu-fælge. For tiden 15'' Virgo, Simon's 2,5'' udstødning, elektronisk tænding (Luminition Optronic)</td>
+        <td colspan="3">Eftermont.:Alu-fÃ¦lge. For tiden 15'' Virgo, Simon's 2,5'' udstÃ¸dning, elektronisk tÃ¦nding (Luminition Optronic)</td>
     </tr>
   </table>
 
@@ -253,9 +253,9 @@ document.onmousedown=click;
 
       <td width="25%" height="110" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/240reg/images/img00202.jpg&palt=Volvo register','','height=510,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="2" src="/240reg/images/img00202t.jpg" width="128" height="96"></A></td>
 
-      <td width="25%" height="110" align="center">&nbsp;</td>
+      <td width="25%" height="110" align="center"></td>
 
-      <td width="25%" height="110" align="center">&nbsp;</td>
+      <td width="25%" height="110" align="center"></td>
 
     </tr>                                                                                                                                                                                                                      
 
@@ -264,7 +264,7 @@ document.onmousedown=click;
         <td colspan="3">Volvo 245 GL</td>
     </tr>
     <tr>
-        <th align="left">Årgang</th>
+        <th align="left">Ã…rgang</th>
         <td colspan="3">1984</td>
     </tr>
     <tr>
@@ -281,11 +281,11 @@ document.onmousedown=click;
     </tr>
     <tr>
         <th align="left">Sikkerhedsudstyr</th>
-        <td colspan="3">Tågelygter for samt servo</td>
+        <td colspan="3">TÃ¥gelygter for samt servo</td>
     </tr>
     <tr>
         <th align="left">Andet udstyr</th>
-        <td colspan="3">Midterarmlæn (m. 4 kopholdere), omdrejningstæller, bagagerumsdækken, bagagerumsmåtte, Bertone-rat, "Snow cap", 7x16" Gemini alufælge. Alt er originalt udstyr.</td>
+        <td colspan="3">MidterarmlÃ¦n (m. 4 kopholdere), omdrejningstÃ¦ller, bagagerumsdÃ¦kken, bagagerumsmÃ¥tte, Bertone-rat, "Snow cap", 7x16" Gemini alufÃ¦lge. Alt er originalt udstyr.</td>
     </tr>
   </table>
 
@@ -320,7 +320,7 @@ document.onmousedown=click;
         <td colspan="3">240</td>
     </tr>
     <tr>
-        <th align="left">Årgang</th>
+        <th align="left">Ã…rgang</th>
         <td colspan="3">1989</td>
     </tr>
     <tr>
@@ -341,7 +341,7 @@ document.onmousedown=click;
     </tr>
     <tr>
         <th align="left">Andet udstyr</th>
-        <td colspan="3">Centrallås</td>
+        <td colspan="3">CentrallÃ¥s</td>
     </tr>
   </table>
 
@@ -353,7 +353,7 @@ document.onmousedown=click;
   <tr> 
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="Volvo 240 Startside">Startside</a> 
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','Volvo 240')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','Volvo 240')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -362,9 +362,9 @@ document.onmousedown=click;
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0">
 <thead>
   <tr> 
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;<!-- 1,214,724 Visitors since 3rd September 2001 --></span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"><!-- 1,214,724 Visitors since 3rd September 2001 --></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -201,7 +201,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Kristian Gr&#248;nbech</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Kristian Grønbech</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -209,7 +209,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-08-2013&nbsp; 18:06</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-08-2013 18:06</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Vedr. 940 sedan<br>b230 _rg 1995 KM 450000<br><br>Jeg har konstateret et mindre hul i oversiden af CAT-potten. Kan det reddes og hvordan eller koster det en ny CAT ?<br>Resten af udst_dnings systemet skal fornys, der er meget rust i samlinger.<br>Hvor b_r man handle disse stumper ?<br><br>Tak for gode r_d</font></td>
@@ -220,7 +220,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kenneth Poulsen, 07-08-2013 12:29)</em></u></strong></font></li><br><font face=Verdana>Biltema har en ny kat med forr_r til omkring 1.350,- kr - hvis det skal v_re billigt.  <br>Artikelnummer: 79-820<br><br>Mvh</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kristian Gr&#248;nbech, 09-08-2013 07:47)</em></u></strong></font></li><br><font face=Verdana>OK..fik lukket hullerne med sp_ndeb_nd og metalplade..S_ m_ man se hvorl_nge det holder.<br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kenneth Poulsen, 07-08-2013 12:29)</em></u></strong></font></li><br><font face=Verdana>Biltema har en ny kat med forr_r til omkring 1.350,- kr - hvis det skal v_re billigt.  <br>Artikelnummer: 79-820<br><br>Mvh</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kristian Grønbech, 09-08-2013 07:47)</em></u></strong></font></li><br><font face=Verdana>OK..fik lukket hullerne med sp_ndeb_nd og metalplade..S_ m_ man se hvorl_nge det holder.<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -229,7 +229,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">40</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">40</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

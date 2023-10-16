@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=2102"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2102"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,11 +213,11 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Motor g&#229;r d&#229;rligt ved start</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Motor går dårligt ved start</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Johan &#197;rman</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Johan Årman</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-08-2004&nbsp; 22:24</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-08-2004 22:24</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle Volvon�rder som mig selv!<br><br>Jeg har f�et et problem med min 245 med B230A motor.<br>N�r jeg starter den om morgenen, eller for den sags skyld om eftermiddagen, det er ligegyldigt, men n�r jeg starter den for f�rste gang efter mindst 6-8 timers stilstand, g�r motoren meget d�rligt. Den k�rer ikke p� alle 4 cylindre f�r efter et par kilometers k�rsel, og giver jeg den gas, for at f� den op i omdrejninger, ryger den f�r den k�rer p� 4 cylindre, blot for at k�re p� 3 igen, n�r jeg lader den g� ned i tomgang(med choker) igen. <br><br>Der er nye t�ndr�r p�, t�ndkablerne er ca 70000km gamle og rotor og fordelerl�g er ca 30000 km gamle. <br>Karburatoren er lige stillet, og skulle ikke v�re snavset.<br><br>Problemet opst�r aldrig, hvis bilen f.eks. har st�e hele dagen p� mit job og jeg skal k�re igen. Kun n�r den har st�et natten over. <br><br>Hvad kan problemet v�re?<br><br>Venlig hilsen Johan �rman</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2102&ForumID=1&Showsub=2105'>Re: Motor g&#229;r d&#229;rligt ved start</a> <em>(Emil J., 18-08-2004 13:35)</em></strong></font></li><br><font face=Verdana>Hvad med t�ndspolen? <br>Det kan jo v�re den er blevet svag? Eller der er d�rlig kontakt p� +12 siden p� spolen. <br>Ellers lyder det jo til at v�re et fugt problem. N�r du siger at bilen kun g�r det n�r den ikke har v�ret startet i en l�ngere periode. F.eks natten over.<br>Det kan godt v�re du siger du har skiftet rotor & fordelerhus p� den. Men pr�v alligevel at skille det ad. <br>Kig p� kontakterne. Er de slidte eller br�ndte? Giv dem en omgang med lidt sandpapir, s� de bliver fine og rene. <br>Giv fordeler huset et spr�jt WD40. Og t�r det af igen. S� undg�r du kondens problemer. <br>Der skal bare en dr�be kondens til, s� vil gnisten ikke springe ordenligt. <br>Ikke fordi jeg er den store ekspert. Men jeg havde ogs� lidt problemer med min B230A motor. Den havde bare startbesv�r n�r den var mellemvarm. Is�r i fugtigt vejr. Der skabte den sig rigtigt meget. <br>Meld lige tilbage hvis du finder den "rigtige" �rsag.<br><br>M.v.h<br><br>Emil J<br><br>Volvo 244, B230A, AW71 & 316000 KM p� uret!<br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2102&ForumID=1&Showsub=2105'>Re: Motor går dårligt ved start</a> <em>(Emil J., 18-08-2004 13:35)</em></strong></font></li><br><font face=Verdana>Hvad med t�ndspolen? <br>Det kan jo v�re den er blevet svag? Eller der er d�rlig kontakt p� +12 siden p� spolen. <br>Ellers lyder det jo til at v�re et fugt problem. N�r du siger at bilen kun g�r det n�r den ikke har v�ret startet i en l�ngere periode. F.eks natten over.<br>Det kan godt v�re du siger du har skiftet rotor & fordelerhus p� den. Men pr�v alligevel at skille det ad. <br>Kig p� kontakterne. Er de slidte eller br�ndte? Giv dem en omgang med lidt sandpapir, s� de bliver fine og rene. <br>Giv fordeler huset et spr�jt WD40. Og t�r det af igen. S� undg�r du kondens problemer. <br>Der skal bare en dr�be kondens til, s� vil gnisten ikke springe ordenligt. <br>Ikke fordi jeg er den store ekspert. Men jeg havde ogs� lidt problemer med min B230A motor. Den havde bare startbesv�r n�r den var mellemvarm. Is�r i fugtigt vejr. Der skabte den sig rigtigt meget. <br>Meld lige tilbage hvis du finder den "rigtige" �rsag.<br><br>M.v.h<br><br>Emil J<br><br>Volvo 244, B230A, AW71 & 316000 KM p� uret!<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">51</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">51</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

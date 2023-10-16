@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -222,7 +222,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">28-03-2011&nbsp; 20:44</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">28-03-2011 20:44</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej i kloge volvo-folk &#59;-)<br><br>Kan der sidde 17 tommer f_lge med ET 20 p_ en 245 _92<br><br>Og hvis der kan , hvilke d_k st_rrelse skal der s_ p_ ??<br><br>Hilsen<br><br>Henrik</font></td>
@@ -233,7 +233,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 28-03-2011 21:27)</em></u></strong></font></li><br><font face=Verdana>Hej Henrik<br><br>Ja det kan der sagtens, hvis du monterer d_k med st_rrelsen 215/45-17 og f_lgen ikke er mere end 7" bred.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Henrik Kanstrup Vestmar, 28-03-2011 21:42)</em></u></strong></font></li><br><font face=Verdana>ok tak. Har fundet et s_t i England , som jeg vil pr_ve at f_ fragtet hertil s_.<br><br>tak for hj_lpen<br><br>hilsen<br><br>Henrik</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 28-03-2011 21:27)</em></u></strong></font></li><br><font face=Verdana>Hej Henrik<br><br>Ja det kan der sagtens, hvis du monterer d_k med st_rrelsen 215/45-17 og f_lgen ikke er mere end 7" bred.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Henrik Kanstrup Vestmar, 28-03-2011 21:42)</em></u></strong></font></li><br><font face=Verdana>ok tak. Har fundet et s_t i England , som jeg vil pr_ve at f_ fragtet hertil s_.<br><br>tak for hj_lpen<br><br>hilsen<br><br>Henrik</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -242,7 +242,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -266,7 +266,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">17</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">17</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

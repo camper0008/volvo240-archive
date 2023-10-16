@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-01-2007&nbsp; 21:34</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-01-2007 21:34</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej <br>Jeg skal til at skifte vandpumpe p_ min dejlige volvo. <br>Ville lige h_rer om der er noget jeg skal tage h_jte for n_r jeg skal igang? (det er f_rste gang)<br><br>Hvad skal man k_be, en org.ved volvo eller en et andre sted hvis det hos hvem?<br><br>Kristian, _rhus</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 01-01-2007 22:32)</em></u></strong></font></li><br><font face=Verdana>Hej..<br><br>Du skal ihvertfald s_rge for at presse vandpumpen godt op mod topstykket n_r du monteret den igen, s_ den kan blive t_t ved den lille pakning mellem pumpe og topstykke.<br><br>Dennis</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 01-01-2007 22:41)</em></u></strong></font></li><br><font face=Verdana>Jeg ville k_be en original. For det f_rste er den ikke specielt meget dyrere, for det andet s_ f_lger der parkninger og nye bolte komplet med. (papirsparkning mod blokken, gummiparkning mod topstykke og mod vandr_r p_ bagsiden af pumpen).<br>og som Dennis helt rigtig skriver skal pumpen presses op mod topstykket n_r du sp_nder den.<br>Hvis tandremmen er ved at n_ sit max km. tal s_ er det ogs_ nu du skal skifte den.<br>Hilsen Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 01-01-2007 23:36)</em></u></strong></font></li><br><font face=Verdana>Du skal f_ den original evt ved Ulrik i voldby.men ellers skal du g_re ligesom Peter og Dennis siger.  volvo siger dog at det er en god ide at bruge lidt flydende pakning sammen med den der f_lger med.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kristian, 03-01-2007 21:19)</em></u></strong></font></li><br><font face=Verdana>Jeg skal da ikke have tandrennen af for at skiften den eller hvad??<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 03-01-2007 23:10)</em></u></strong></font></li><br><font face=Verdana>Det beh_ver du ikke, men n_r du nu er der inde, s_ tager det 5 min at skifte remmen.<br>Hilsen Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Mads Randa, 03-01-2007 23:57)</em></u></strong></font></li><br><font face=Verdana>Husk, n_r du tager vandpumpen af s_ l_ber der en masse k_levand ud. S_ gulvet under bliver v_dt.Det er rart at have noget at t_rre op med. <br><br>N_r du har taget den gamle vandpumpe af, s_ er det en god id_ at rense omr_det med sprit eller lign., s_ du er sikker p_ at den nye pakning slutter t_t. Ellers er det bare at g_ igang.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 01-01-2007 22:32)</em></u></strong></font></li><br><font face=Verdana>Hej..<br><br>Du skal ihvertfald s_rge for at presse vandpumpen godt op mod topstykket n_r du monteret den igen, s_ den kan blive t_t ved den lille pakning mellem pumpe og topstykke.<br><br>Dennis</font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 01-01-2007 22:41)</em></u></strong></font></li><br><font face=Verdana>Jeg ville k_be en original. For det f_rste er den ikke specielt meget dyrere, for det andet s_ f_lger der parkninger og nye bolte komplet med. (papirsparkning mod blokken, gummiparkning mod topstykke og mod vandr_r p_ bagsiden af pumpen).<br>og som Dennis helt rigtig skriver skal pumpen presses op mod topstykket n_r du sp_nder den.<br>Hvis tandremmen er ved at n_ sit max km. tal s_ er det ogs_ nu du skal skifte den.<br>Hilsen Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 01-01-2007 23:36)</em></u></strong></font></li><br><font face=Verdana>Du skal f_ den original evt ved Ulrik i voldby.men ellers skal du g_re ligesom Peter og Dennis siger.  volvo siger dog at det er en god ide at bruge lidt flydende pakning sammen med den der f_lger med.</font><br><li><font face=Verdana><strong><u>Re: - <em>(kristian, 03-01-2007 21:19)</em></u></strong></font></li><br><font face=Verdana>Jeg skal da ikke have tandrennen af for at skiften den eller hvad??<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 03-01-2007 23:10)</em></u></strong></font></li><br><font face=Verdana>Det beh_ver du ikke, men n_r du nu er der inde, s_ tager det 5 min at skifte remmen.<br>Hilsen Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Mads Randa, 03-01-2007 23:57)</em></u></strong></font></li><br><font face=Verdana>Husk, n_r du tager vandpumpen af s_ l_ber der en masse k_levand ud. S_ gulvet under bliver v_dt.Det er rart at have noget at t_rre op med. <br><br>N_r du har taget den gamle vandpumpe af, s_ er det en god id_ at rense omr_det med sprit eller lign., s_ du er sikker p_ at den nye pakning slutter t_t. Ellers er det bare at g_ igang.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -264,9 +264,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Oprettese af annonce</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Oprettese af annonce</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -135,7 +135,7 @@ document.onmousedown=click;
     <td>
       <h2>Opret annonce p_ Volvo240.dk</h2>
       <p><br>
-		F_rst skal du oprette dig som bruger. Klik p_ &quot;<b>Log ind</b>&quot; og klik 
+		F_rst skal du oprette dig som bruger. Klik p_ "<b>Log ind</b>" og klik 
 		p_ <i><b>[Ny Bruger]</b></i>.<br>
 		Udfyld formularen hvorefter du vil modtage en e-mail med et link som du 
 		skal klikke p_. Dette bringer dig til en side som bekr_fter din 
@@ -147,7 +147,7 @@ document.onmousedown=click;
 		Derefter _ndrer menuen sig til at v_re m_rk gr_ som tegn p_ at du er 
 		logget ind.<br>
 		<br>
-		I den gr_ menu peger du p_ _<b>Salg</b>_ _&gt; _<b>K_b &amp; Salg</b>_ og 
+		I den gr_ menu peger du p_ _<b>Salg</b>_ _&gt; _<b>K_b & Salg</b>_ og 
 		klikker p_ _<b>Opret Annonce</b>_.<br>
 		Du har nu formularen til at oprette en annonce.</p>
 
@@ -181,7 +181,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

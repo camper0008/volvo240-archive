@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Volvo Modelbiler</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Volvo Modelbiler</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -212,24 +212,24 @@ document.onmousedown=click;
 
 				</tr>
 				<tr>
-<td width='130' align='center'>&nbsp;</td><td width='130' align='center'>&nbsp;</td><td width='130' align='center'>&nbsp;</td><td width='130' align='center'>&nbsp;</td>
+<td width='130' align='center'></td><td width='130' align='center'></td><td width='130' align='center'></td><td width='130' align='center'></td>
 				</tr>
 			</table>
 
 			<table border=0 cellpadding=5 cellspacing=1 width=745>
 				<tr>
-					<td width="175" align="right" valign="top"><b>Produktionsår:</b></td>
+					<td width="175" align="right" valign="top"><b>ProduktionsÃ¥r:</b></td>
 					<td width="547" align="left">
 Ukendt
 					</td>
 				</tr>
 				<tr>
 					<td width="175" align="right" valign="top"><b>Materiale:</b></td>
-					<td width="547" align="left">Messing på træplade</td>
+					<td width="547" align="left">Messing pÃ¥ trÃ¦plade</td>
 				</tr>
 				<tr>
-					<td width="175" align="right" valign="top"><b>Bemærkninger:</b></td>
-					<td width="547" align="left">Modellen er Volvo's første bil, kaldet Jakob.<br><br>Det særlige ved denne model er, at der i bagsædet er indrettet plads til en benzin lighter som også er lavet af messing.<br>Modeludgaven i messing på træplade, men uden ligtheren, har været produceret gennem en årrække. Dog kender jeg ikke den specifikke periode.<br>Om man stadig kan købe denne modelbil, vides ikke med sikkerhed.</td>
+					<td width="175" align="right" valign="top"><b>BemÃ¦rkninger:</b></td>
+					<td width="547" align="left">Modellen er Volvo's fÃ¸rste bil, kaldet Jakob.<br><br>Det sÃ¦rlige ved denne model er, at der i bagsÃ¦det er indrettet plads til en benzin lighter som ogsÃ¥ er lavet af messing.<br>Modeludgaven i messing pÃ¥ trÃ¦plade, men uden ligtheren, har vÃ¦ret produceret gennem en Ã¥rrÃ¦kke. Dog kender jeg ikke den specifikke periode.<br>Om man stadig kan kÃ¸be denne modelbil, vides ikke med sikkerhed.</td>
 				</tr>
 			</table>
 		</td>
@@ -247,7 +247,7 @@ Ukendt
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -256,9 +256,9 @@ Ukendt
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">43</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">43</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

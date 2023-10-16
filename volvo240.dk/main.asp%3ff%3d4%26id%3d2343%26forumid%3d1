@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=2343"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2343"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,10 +224,10 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-11-2004&nbsp; 12:58</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-11-2004 12:58</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har en Volvo B23E som egentlig kører ganske glimrende; den lyder godt, går jævnt og stabil, trækker også jævnt og stabilt, den både stiger og falder velvilligt i omdrejninger... Og alt burde vel egentlig være fantastisk.<br><br>MEN... Den bruger ALT for meget benzin. Den kører kun ca. 4,5 km pr liter, hvilket jo bestemt ikke er for meget, når man forventer at den kører 11 til 12 (?)<br><br>Jeg har kontrolleret tændingen, som står på 10 grader FØD.<br><br>At dømme ud fra mærket på topstykket, er min motor fra 11 måned 1983.<br><br>På vlvworld.com, hvor man kan finde en liste med data over snart sagt alle de Volvo-motorer, vi til daglig går og roder med, står der at alle B23E (undtagen dem fra 84) skal stilles til 5 grader FØD<br><br>Er det korrekt?<br><br>Hvad skal jeg stille tændingen til?<br><br>Og er der nogen, der har andre umiddelbare bud på det enorme benzin-forbrug?<br><br><br>OBS: Den sidder godt nok ikke i en 240, men sidder som erstatning for B28E-motoren i min 760'er. Men da dette drejer sig udelukkende om motoren, regner jeg med at forumet er udemærket valgt.<br><br><br>På forhånd MANGE tak for hjælpen!<br><br>MVH<br>Lars Mortensen</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har en Volvo B23E som egentlig kÃ¸rer ganske glimrende; den lyder godt, gÃ¥r jÃ¦vnt og stabil, trÃ¦kker ogsÃ¥ jÃ¦vnt og stabilt, den bÃ¥de stiger og falder velvilligt i omdrejninger... Og alt burde vel egentlig vÃ¦re fantastisk.<br><br>MEN... Den bruger ALT for meget benzin. Den kÃ¸rer kun ca. 4,5 km pr liter, hvilket jo bestemt ikke er for meget, nÃ¥r man forventer at den kÃ¸rer 11 til 12 (?)<br><br>Jeg har kontrolleret tÃ¦ndingen, som stÃ¥r pÃ¥ 10 grader FÃ˜D.<br><br>At dÃ¸mme ud fra mÃ¦rket pÃ¥ topstykket, er min motor fra 11 mÃ¥ned 1983.<br><br>PÃ¥ vlvworld.com, hvor man kan finde en liste med data over snart sagt alle de Volvo-motorer, vi til daglig gÃ¥r og roder med, stÃ¥r der at alle B23E (undtagen dem fra 84) skal stilles til 5 grader FÃ˜D<br><br>Er det korrekt?<br><br>Hvad skal jeg stille tÃ¦ndingen til?<br><br>Og er der nogen, der har andre umiddelbare bud pÃ¥ det enorme benzin-forbrug?<br><br><br>OBS: Den sidder godt nok ikke i en 240, men sidder som erstatning for B28E-motoren i min 760'er. Men da dette drejer sig udelukkende om motoren, regner jeg med at forumet er udemÃ¦rket valgt.<br><br><br>PÃ¥ forhÃ¥nd MANGE tak for hjÃ¦lpen!<br><br>MVH<br>Lars Mortensen</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">106</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">106</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-10-2003&nbsp; 23:30</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-10-2003 23:30</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Umiddelbart kan jeg ikke finde noget om volvo 240 diesel p� dette site....hvorfor ikke, eller er der noget p� vej.<br>Kunne godt t�nke mig at vide lidt omkring den type motor, f.eks fejl og ulemper ved denne type og selvf�lgelig ogs� fordele eller andre positive ting<br>Mvh</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 30-10-2003 00:17)</em></u></strong></font></li><br><font face=Verdana>Du har fuldst�ndig ret. Der er ikke megen information om Volvo 240 Diesel her p� denne hjemmeside. Interessen for den har v�ret til at overse, og derfor er den blevet prioriteret lidt ned i forhold til de �vrige versioner.<br>Men det bliver der, i den n�rmeste fremtid (uger), lavet om p�. Der er noget p� vej.<br><br>mvh<br>Finn Kruse</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(jacob madsen, 22-11-2005 16:44)</em></u></strong></font></li><br><font face=Verdana>Hej Volvo glade folk, Har selv en volvo "240 TD, har selv lavet lidt mekanik, og s� var det ellers ud over stepperne, gl�der mig til at se flere Folk, som k�re med 6 cylindere<br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 30-10-2003 00:17)</em></u></strong></font></li><br><font face=Verdana>Du har fuldst�ndig ret. Der er ikke megen information om Volvo 240 Diesel her p� denne hjemmeside. Interessen for den har v�ret til at overse, og derfor er den blevet prioriteret lidt ned i forhold til de �vrige versioner.<br>Men det bliver der, i den n�rmeste fremtid (uger), lavet om p�. Der er noget p� vej.<br><br>mvh<br>Finn Kruse</font><br><li><font face=Verdana><strong><u>Re: - <em>(jacob madsen, 22-11-2005 16:44)</em></u></strong></font></li><br><font face=Verdana>Hej Volvo glade folk, Har selv en volvo "240 TD, har selv lavet lidt mekanik, og s� var det ellers ud over stepperne, gl�der mig til at se flere Folk, som k�re med 6 cylindere<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">28</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">28</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

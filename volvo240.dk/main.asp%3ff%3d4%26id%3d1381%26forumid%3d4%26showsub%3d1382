@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spørge andre Volvo-ejere tilråds om alt vedrørende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spÃ¸rge andre Volvo-ejere tilrÃ¥ds om alt vedrÃ¸rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=1381"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1381"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,11 +212,11 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Spangg&#229;rd Hansen i Astrup ved Arden.</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>SpanggÃ¥rd Hansen i Astrup ved Arden.</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Rasmus Sixh&#248;j Christensen</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Rasmus SixhÃ¸j Christensen</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-02-2004&nbsp; 21:24</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-02-2004 21:24</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Al respekt for dette forum!<br>Jeg er selv nybagt Volvo-ejer. Har erhvervet mig en 240 GL fra '90. Den kører rigtig godt.<br>Mit spørgsmål til forum er: <br>Er der nogle her, der har nogle erfaringer med denne Spanggård Hansens værksted/forretning i Astrup oppe ved Arden? Jeg er kommet forbi nogle gange og har lagt mærke til, at han fortrinsvis har Volvoer stående til salg. Det spøjse er så, at der ikke er priser på de udstillede biler. Det kan jo selvfølgelig være en fordel for os jyder, men han er vel også jyde?<br>Hils på hinanden ude i samfundet, ligesom motorcyklister og 2CV'ejere gør. Der er noget kult over at køre 240. Så er der også mere at snakke om, hvis der bliver arrangeret træf...</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Al respekt for dette forum!<br>Jeg er selv nybagt Volvo-ejer. Har erhvervet mig en 240 GL fra '90. Den kÃ¸rer rigtig godt.<br>Mit spÃ¸rgsmÃ¥l til forum er: <br>Er der nogle her, der har nogle erfaringer med denne SpanggÃ¥rd Hansens vÃ¦rksted/forretning i Astrup oppe ved Arden? Jeg er kommet forbi nogle gange og har lagt mÃ¦rke til, at han fortrinsvis har Volvoer stÃ¥ende til salg. Det spÃ¸jse er sÃ¥, at der ikke er priser pÃ¥ de udstillede biler. Det kan jo selvfÃ¸lgelig vÃ¦re en fordel for os jyder, men han er vel ogsÃ¥ jyde?<br>Hils pÃ¥ hinanden ude i samfundet, ligesom motorcyklister og 2CV'ejere gÃ¸r. Der er noget kult over at kÃ¸re 240. SÃ¥ er der ogsÃ¥ mere at snakke om, hvis der bliver arrangeret trÃ¦f...</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1381&ForumID=4&Showsub=1898'>Re: Spangg&#229;rd Hansen i Astrup ved Arden.</a> <em>(C.Greve, 08-06-2004 00:35)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1381&ForumID=4&Showsub=1404'>Re: Spangg&#229;rd Hansen i Astrup ved Arden.</a> <em>(Michael, 22-02-2004 22:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1381&ForumID=4&Showsub=1402'>Re: Spangg&#229;rd Hansen i Astrup ved Arden.</a> <em>(Emil J, 22-02-2004 21:06)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1381&ForumID=4&Showsub=1400'>Re: Spangg&#229;rd Hansen i Astrup ved Arden.</a> <em>(Ren&#233; &#216;stergaard, 22-02-2004 20:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1381&ForumID=4&Showsub=1392'>Re: Spangg&#229;rd Hansen i Astrup ved Arden.</a> <em>(Flemming, 20-02-2004 18:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1381&ForumID=4&Showsub=1382'>Re: Spangg&#229;rd Hansen i Astrup ved Arden.</a> <em>(Emil J, 17-02-2004 22:20)</em></strong></font></li><br><font face=Verdana>Jeg hilser da altid når jeg ser en anden 240 i den modsatte vejbane.<br>Men 25 % af gangene blinker jeg også med forlygterne, da de som regel ikke har tændt for lyset!! :D <br>Held og lykke med din Volvo. Tror du bliver glad for den!! :)<br><br>M.V.H<br><br>Emil J</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1381&ForumID=4&Showsub=1898'>Re: SpanggÃ¥rd Hansen i Astrup ved Arden.</a> <em>(C.Greve, 08-06-2004 00:35)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1381&ForumID=4&Showsub=1404'>Re: SpanggÃ¥rd Hansen i Astrup ved Arden.</a> <em>(Michael, 22-02-2004 22:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1381&ForumID=4&Showsub=1402'>Re: SpanggÃ¥rd Hansen i Astrup ved Arden.</a> <em>(Emil J, 22-02-2004 21:06)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1381&ForumID=4&Showsub=1400'>Re: SpanggÃ¥rd Hansen i Astrup ved Arden.</a> <em>(Ren&#233; Ã˜stergaard, 22-02-2004 20:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1381&ForumID=4&Showsub=1392'>Re: SpanggÃ¥rd Hansen i Astrup ved Arden.</a> <em>(Flemming, 20-02-2004 18:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1381&ForumID=4&Showsub=1382'>Re: SpanggÃ¥rd Hansen i Astrup ved Arden.</a> <em>(Emil J, 17-02-2004 22:20)</em></strong></font></li><br><font face=Verdana>Jeg hilser da altid nÃ¥r jeg ser en anden 240 i den modsatte vejbane.<br>Men 25 % af gangene blinker jeg ogsÃ¥ med forlygterne, da de som regel ikke har tÃ¦ndt for lyset!! :D <br>Held og lykke med din Volvo. Tror du bliver glad for den!! :)<br><br>M.V.H<br><br>Emil J</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

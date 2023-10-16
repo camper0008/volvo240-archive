@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=2506"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=2506"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Digitalur + div sp&#248;rgsm&#229;l</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Digitalur + div spørgsmål</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-12-2004&nbsp; 09:54</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-12-2004 09:54</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa<br><br>I min 244 turbo fra 81 har jeg digitalur og ville lige h�re hvordan man stiller klokken p� den og hvad de mange knapper er til?<br><br>Et andet sp�rgsm�l lyder: den ryger meget ud af udst�dningen, kan det v�re rigtigt?? T�nding, co2 og benzinforbrug er iorden (hvis man kan kalde benzinforbrug p�  en turbo i orden :))?<br>Farven er i �vrigt musegr� til en anelse bl�.<br><br>En sidste ting:  Den g�r pokkers uj�vn ved kold, hvis man speeder den en anelse op ved kold motor (1200-1500 omdr.) begynder den at g� j�vn, men efter der er tilbagelagt �n kilometer og man skal standse, g�r den 500-600 omdr. i v�rste fald i st�, s�dan varer det indtil 8 km. Hvad er det der er galt og hvad kan jeg g�re for at f� det bragt i orden. Det er meget pinligt at s�dan en fin, normalt velk�rende, bil ikke kan t� sig bedre. <br><br>P� forh�nd tak<br>Morten Lundager</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2506&ForumID=4&Showsub=2533'>Re: Digitalur + div sp&#248;rgsm&#229;l</a> <em>(Kent, 15-12-2004 10:16)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2506&ForumID=4&Showsub=2527'>Re: Digitalur + div sp&#248;rgsm&#229;l</a> <em>(Morten Lundager, 15-12-2004 07:42)</em></strong></font></li><br><font face=Verdana>Tak skal du ha Erling.<br>Jeg m� ud og pr�v at lege med klokken.<br><br>T�ndr�rene ser ok ud og k�lerv�sken forsvinder ikke.<br>Meget mystisk, den ryger faktisk s� meget at, hvis man ikke vidste bedre, det ligner der er ild i noget.<br><br>Mvh<br>Morten Lundager</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2506&ForumID=4&Showsub=2509'>Re: Digitalur + div sp&#248;rgsm&#229;l</a> <em>(Erling, 11-12-2004 22:45)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2506&ForumID=4&Showsub=2533'>Re: Digitalur + div spørgsmål</a> <em>(Kent, 15-12-2004 10:16)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2506&ForumID=4&Showsub=2527'>Re: Digitalur + div spørgsmål</a> <em>(Morten Lundager, 15-12-2004 07:42)</em></strong></font></li><br><font face=Verdana>Tak skal du ha Erling.<br>Jeg m� ud og pr�v at lege med klokken.<br><br>T�ndr�rene ser ok ud og k�lerv�sken forsvinder ikke.<br>Meget mystisk, den ryger faktisk s� meget at, hvis man ikke vidste bedre, det ligner der er ild i noget.<br><br>Mvh<br>Morten Lundager</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2506&ForumID=4&Showsub=2509'>Re: Digitalur + div spørgsmål</a> <em>(Erling, 11-12-2004 22:45)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">51</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">51</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

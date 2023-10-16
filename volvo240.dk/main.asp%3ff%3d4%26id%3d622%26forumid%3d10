@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-07-2004&nbsp; 17:38</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-07-2004 17:38</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Har netop k_bt "ny" 240 DL, 1988. Fik ikke instruktionsbog med og savner s_dan _n - hvor kan jeg f_ den? <br>Hvor sidder farvekoden og hvordan ca. (tal og cifre) skal den se ud?<br>P_ forh_nd tak, Hilsen Henrik</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 20-07-2004 09:06)</em></u></strong></font></li><br><font face=Verdana>Hej Henrik<br>Velkommen til og tillykke med din "nye" Trofast. Du m_ v_re ny p_ volvo240.dk, for du har _benbart ikke unders_gt siden inden du sendte dit sp_rgsm_l om farvekoden. <br>Men pr_v at kigge under menuen: Volvo 240 Info, ID Plade, Farve Koder. Der finder du svaret p_ dit sp_rgsm_l. Pladen er placeret p_ h_jre indersk_rm i motorrummet p_ din 240.<br>De billigste instruktionsb_ger finder du p_ stumpemarkeder. Der koster de fra 50-150 kr stk.<br><br>mvh Christian</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 20-07-2004 09:06)</em></u></strong></font></li><br><font face=Verdana>Hej Henrik<br>Velkommen til og tillykke med din "nye" Trofast. Du m_ v_re ny p_ volvo240.dk, for du har _benbart ikke unders_gt siden inden du sendte dit sp_rgsm_l om farvekoden. <br>Men pr_v at kigge under menuen: Volvo 240 Info, ID Plade, Farve Koder. Der finder du svaret p_ dit sp_rgsm_l. Pladen er placeret p_ h_jre indersk_rm i motorrummet p_ din 240.<br>De billigste instruktionsb_ger finder du p_ stumpemarkeder. Der koster de fra 50-150 kr stk.<br><br>mvh Christian</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">36</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">36</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

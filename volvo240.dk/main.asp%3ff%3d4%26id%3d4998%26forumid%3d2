@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-07-2015&nbsp; 23:00</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-07-2015 23:00</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Volvo stc _rgang 1991, hvor h_jre forhjuls leje skal skiftes.<br><br>Jeg vil h_re om der er nogle fif og noget jeg skal v_re opm_rksom p_ n_r jeg i n_ste uge vil skifte det? <br>Har ogs_ k_bt ankerplafe, s_ den kan skiftes samtidig.<br><br>/ Ulrik</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 09-07-2015 15:52)</em></u></strong></font></li><br><font face=Verdana>Goddag<br><br>Jeg ville nok ogs_ k_be en pakd_se, hvis den ikke er med sammen med lejerne og naturligvis noget ordentligt fedt.<br><br>Der er tale om to lejer. Sl_ de to udvendige lejepander ud af narvet med en dorn, og tryk de nye udvendige pander i narvet med et passende v_rkt_j.<br><br>S_rg for at f_ gammelt fedt renset af, se at kanten hvor den nye pakd_se skal k_re er ren for rust osv.  Sp_nd kun s_ meget at der ikke er sl_r i lejerne.<br><br>Mvh<br>Steen <br>Frederikssund</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ulrik Lassen, 11-08-2015 07:25)</em></u></strong></font></li><br><font face=Verdana>Tak for input Steen.<br><br>Lejer blev skiftet som du beskrev og nu er den dybe rumlelyd forsvundet.<br><br>Mvh Ulrik</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 09-07-2015 15:52)</em></u></strong></font></li><br><font face=Verdana>Goddag<br><br>Jeg ville nok ogs_ k_be en pakd_se, hvis den ikke er med sammen med lejerne og naturligvis noget ordentligt fedt.<br><br>Der er tale om to lejer. Sl_ de to udvendige lejepander ud af narvet med en dorn, og tryk de nye udvendige pander i narvet med et passende v_rkt_j.<br><br>S_rg for at f_ gammelt fedt renset af, se at kanten hvor den nye pakd_se skal k_re er ren for rust osv.  Sp_nd kun s_ meget at der ikke er sl_r i lejerne.<br><br>Mvh<br>Steen <br>Frederikssund</font><br><li><font face=Verdana><strong><u>Re: - <em>(Ulrik Lassen, 11-08-2015 07:25)</em></u></strong></font></li><br><font face=Verdana>Tak for input Steen.<br><br>Lejer blev skiftet som du beskrev og nu er den dybe rumlelyd forsvundet.<br><br>Mvh Ulrik</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

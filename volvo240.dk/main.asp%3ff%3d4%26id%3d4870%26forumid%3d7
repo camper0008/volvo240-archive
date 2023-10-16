@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-02-2014&nbsp; 13:04</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-02-2014 13:04</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">har kig p_ en billig 740 med aut. men s_lger siger den k_rer fint i bak, men kravler kun i fremad.<br>er der noget at g_re ved det eller er det find andet.<br>vil gerne en 700 med aut. da det er pr_vet f_r med succes.<br>evt alternative gearkasser der passer p_, det er efter sigende en B230F med enten ZF22 eller AW automatgear(ud fra stelnummer: YV1745885Gxxxxxx)</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 12-02-2014 14:40)</em></u></strong></font></li><br><font face=Verdana>Hvis du mangler en AW aut. gearkasse s_ har jeg en s_dan til 1500,-kr som fungerer, den er fra en Volvo 740.<br>MVH J.P.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 12-02-2014 21:40)</em></u></strong></font></li><br><font face=Verdana>Hvis ellers der er olie  nok p_, s_ lyder meget som om gearkassen er br_ndt af: ubrugelig. <br><br>jeg byder ind med een mere AW71L, alts_ den senere model AW ( den st_rkere ). og tilmed med Lockup converter: bedre br_ndstof_konomi. Den er i _rigt med frisk olie ( v_sentlig udgift sparet ) 2000 kr :-)</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 12-02-2014 14:40)</em></u></strong></font></li><br><font face=Verdana>Hvis du mangler en AW aut. gearkasse s_ har jeg en s_dan til 1500,-kr som fungerer, den er fra en Volvo 740.<br>MVH J.P.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 12-02-2014 21:40)</em></u></strong></font></li><br><font face=Verdana>Hvis ellers der er olie  nok p_, s_ lyder meget som om gearkassen er br_ndt af: ubrugelig. <br><br>jeg byder ind med een mere AW71L, alts_ den senere model AW ( den st_rkere ). og tilmed med Lockup converter: bedre br_ndstof_konomi. Den er i _rigt med frisk olie ( v_sentlig udgift sparet ) 2000 kr :-)</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

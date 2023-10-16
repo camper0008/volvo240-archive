@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-12-2005&nbsp; 19:09</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-12-2005 19:09</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har lige k�bt en af disse "semi"-GLT politimodeller, med 230E motoren. Jeg ved godt at det er sv�rt at stille diagnoser - men jeg pr�ver alligevel----Jeg synes at den starter d�rligt n�r den er kold, den turner fint men springer ligesom ikke rigtig igang - hvad kan v�re galt ?? (jeg �nsker af indlysende �rsager ikke at skifte alt fra en ende af).....Hvad kan der i �vrigt fort�lles om denne 230E motor - styrker svagheder etc. Alt har interesse</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Johan &#197;rman, 12-12-2005 22:37)</em></u></strong></font></li><br><font face=Verdana>Hej. Dit problem er nok fugt. Hvorn�r er din rotor, str�mfordelerd�ksel og t�ndkabler sidst skiftet? Skift alle disse dele, og det bliver straks bedre. Det er ikke s� dyrt, men til gengld bliver det sjovere at starte om morgenen... Jeg kan selvf�lgelig ikke garantere noget, men jeg har lige haft samme problem med min 244 med B21E, og det hjalp helt enormt.<br><br>Venlig hilsen<br>Johan �rman</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Jensen, 13-12-2005 18:16)</em></u></strong></font></li><br><font face=Verdana>Jeg har lige bestilt den komplette "t�ndingspakke". I�vrigt kiggede jeg p� rotoren ig�r - og hold k�ft hvor s� den ud, den var helt tilgroet med ir, s� jeg tror og h�ber ogs� at det er det.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Jensen, 17-12-2005 19:24)</em></u></strong></font></li><br><font face=Verdana>Nu er alt hvad ang�r t�ndingen skiftet, rotor, d�ksel, t�ndr�r & kabler....og hold da k�ft hvor det hjalp. Det er en HELT anden bil at starte - den er bare igang ved f�rste "turn". Hele mollevitten har kostet 350,- hvilket jeg vil anbefale ALLE som er i tvivl om alderen p� det som sidder i forvejen.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kent skovsen, 17-12-2005 20:22)</em></u></strong></font></li><br><font face=Verdana>Lyder da godt.Ja man ku jo evt skifte det hvergang man laver service ,skifter olie p� sin bil.Da det jo normalt er en meget driftsikker bil.mvh Kent</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Johan Årman, 12-12-2005 22:37)</em></u></strong></font></li><br><font face=Verdana>Hej. Dit problem er nok fugt. Hvorn�r er din rotor, str�mfordelerd�ksel og t�ndkabler sidst skiftet? Skift alle disse dele, og det bliver straks bedre. Det er ikke s� dyrt, men til gengld bliver det sjovere at starte om morgenen... Jeg kan selvf�lgelig ikke garantere noget, men jeg har lige haft samme problem med min 244 med B21E, og det hjalp helt enormt.<br><br>Venlig hilsen<br>Johan �rman</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Jensen, 13-12-2005 18:16)</em></u></strong></font></li><br><font face=Verdana>Jeg har lige bestilt den komplette "t�ndingspakke". I�vrigt kiggede jeg p� rotoren ig�r - og hold k�ft hvor s� den ud, den var helt tilgroet med ir, s� jeg tror og h�ber ogs� at det er det.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Jensen, 17-12-2005 19:24)</em></u></strong></font></li><br><font face=Verdana>Nu er alt hvad ang�r t�ndingen skiftet, rotor, d�ksel, t�ndr�r & kabler....og hold da k�ft hvor det hjalp. Det er en HELT anden bil at starte - den er bare igang ved f�rste "turn". Hele mollevitten har kostet 350,- hvilket jeg vil anbefale ALLE som er i tvivl om alderen p� det som sidder i forvejen.</font><br><li><font face=Verdana><strong><u>Re: - <em>(kent skovsen, 17-12-2005 20:22)</em></u></strong></font></li><br><font face=Verdana>Lyder da godt.Ja man ku jo evt skifte det hvergang man laver service ,skifter olie p� sin bil.Da det jo normalt er en meget driftsikker bil.mvh Kent</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">48</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">48</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

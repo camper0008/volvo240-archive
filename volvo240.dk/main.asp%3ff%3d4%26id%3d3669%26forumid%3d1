@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=3669"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=3669"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Motorolie p&#229; Volvo 240</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Motorolie pÃ¥ Volvo 240</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-06-2005&nbsp; 12:17</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-06-2005 12:17</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har en Volvo 240/2.3L/1985 Model som efter min bedste overbevisning behøver olie. Når jeg fylder olie på, hvor og hvordan ser jeg så hvornår der er nok olie på bilen mens jeg fylder på? Jeg kan selvfølgelig se på målepinden hvor høj oliestanden er, og den er for lav netop nu. Men er det under dækslet på den del af motoren hvor Volvo har indgraveret "Volvo" med store bogstaver? Jeg har fået råd om køb af olie. Nu mangler jeg råd til næste skridt. [nu begynder I nok mere end at fornemme hvor LIDT jeg ved om det her... præcis ingenting faktisk.. for det eneste jeg har fyldt på min bil nogensinde er benzin... har haft bilen i 5000 km og der var skiftet olie og filter da, men motoren sluger sgu lidt olie, ja, den er nok lidt gammel...). Og bare rolig. Bilen skal sælges om et øjeblik - så er der én håbløs Volvo ejer mindre og forhåbentlig en kender og kæler mere.<br><br>Håber nogen gider svare.<br><br>Mads</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har en Volvo 240/2.3L/1985 Model som efter min bedste overbevisning behÃ¸ver olie. NÃ¥r jeg fylder olie pÃ¥, hvor og hvordan ser jeg sÃ¥ hvornÃ¥r der er nok olie pÃ¥ bilen mens jeg fylder pÃ¥? Jeg kan selvfÃ¸lgelig se pÃ¥ mÃ¥lepinden hvor hÃ¸j oliestanden er, og den er for lav netop nu. Men er det under dÃ¦kslet pÃ¥ den del af motoren hvor Volvo har indgraveret "Volvo" med store bogstaver? Jeg har fÃ¥et rÃ¥d om kÃ¸b af olie. Nu mangler jeg rÃ¥d til nÃ¦ste skridt. [nu begynder I nok mere end at fornemme hvor LIDT jeg ved om det her... prÃ¦cis ingenting faktisk.. for det eneste jeg har fyldt pÃ¥ min bil nogensinde er benzin... har haft bilen i 5000 km og der var skiftet olie og filter da, men motoren sluger sgu lidt olie, ja, den er nok lidt gammel...). Og bare rolig. Bilen skal sÃ¦lges om et Ã¸jeblik - sÃ¥ er der én hÃ¥blÃ¸s Volvo ejer mindre og forhÃ¥bentlig en kender og kÃ¦ler mere.<br><br>HÃ¥ber nogen gider svare.<br><br>Mads</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3669&ForumID=1&Showsub=3678'>Re: Motorolie p&#229; Volvo 240</a> <em>(Thomas jensen, 17-06-2005 19:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3669&ForumID=1&Showsub=3673'>Re: Motorolie p&#229; Volvo 240</a> <em>(Johan &#197;rman, 17-06-2005 16:04)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3669&ForumID=1&Showsub=3672'>Re: Motorolie p&#229; Volvo 240</a> <em>(Emil J, 17-06-2005 15:31)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3669&ForumID=1&Showsub=3678'>Re: Motorolie pÃ¥ Volvo 240</a> <em>(Thomas jensen, 17-06-2005 19:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3669&ForumID=1&Showsub=3673'>Re: Motorolie pÃ¥ Volvo 240</a> <em>(Johan Ã…rman, 17-06-2005 16:04)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3669&ForumID=1&Showsub=3672'>Re: Motorolie pÃ¥ Volvo 240</a> <em>(Emil J, 17-06-2005 15:31)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

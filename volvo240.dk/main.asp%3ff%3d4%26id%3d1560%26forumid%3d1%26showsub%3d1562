@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=1560"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1560"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Udl&#230;sning af koder fra diagnosestik</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>UdlÃ¦sning af koder fra diagnosestik</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-03-2004&nbsp; 14:15</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-03-2004 14:15</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er der nogle som kan hjælpe mig med en eksakt procedure for udlæsning af koder i diagnosestikket på volvo 245 fra 1992. Det handler om procedure på følgende:<br><br>1) Indsprøjtningsanlæg<br>2) Tændingssystem <br>3) Nulstilling af computer<br><br>På forhånd tak !<br><br>Henrik</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er der nogle som kan hjÃ¦lpe mig med en eksakt procedure for udlÃ¦sning af koder i diagnosestikket pÃ¥ volvo 245 fra 1992. Det handler om procedure pÃ¥ fÃ¸lgende:<br><br>1) IndsprÃ¸jtningsanlÃ¦g<br>2) TÃ¦ndingssystem <br>3) Nulstilling af computer<br><br>PÃ¥ forhÃ¥nd tak !<br><br>Henrik</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1560&ForumID=1&Showsub=1562'>Re: Udl&#230;sning af koder fra diagnosestik</a> <em>(Ren&#233; &#216;stergaard, 21-03-2004 14:59)</em></strong></font></li><br><font face=Verdana>For at læse fejlkoder i motorstyreenheden skal du tage den sorte klap af diagnoseudtaget. I den sorte klap sidder der en lille kabelsko, som skal sættes ned i hul nr. 2 på selve diagnoseudtaget. Når kabelskoen er sat ned, trukker du 1 gang i 1 sek. på den lille knap. Når det er gjort vil den lille røde diode blinke begynde at blinke. Hvis koden er 1 blink - 1 blink - 1 blink er der ingen fejlkoder i systemet. Hvis den f.eks. blinker 4 blink - 2 - blink - 3 blink, er der fejlkoder i, som skal slås op i Volvo's FIK-databøger, eller hvis du er så heldig at kunne finde det på nettet et sted... :]<br><br>Jeg kan ikke huske hvilke andre numre de andre styreenheder har, men hvis du kan finde kodebetegnelserne, kan du sikkert også finde ud af hvilke styreenheder der er sat til hvilket nummer i diagnoseudtaget...<br><br>Held og lykke... :]</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1560&ForumID=1&Showsub=1562'>Re: UdlÃ¦sning af koder fra diagnosestik</a> <em>(Ren&#233; Ã˜stergaard, 21-03-2004 14:59)</em></strong></font></li><br><font face=Verdana>For at lÃ¦se fejlkoder i motorstyreenheden skal du tage den sorte klap af diagnoseudtaget. I den sorte klap sidder der en lille kabelsko, som skal sÃ¦ttes ned i hul nr. 2 pÃ¥ selve diagnoseudtaget. NÃ¥r kabelskoen er sat ned, trukker du 1 gang i 1 sek. pÃ¥ den lille knap. NÃ¥r det er gjort vil den lille rÃ¸de diode blinke begynde at blinke. Hvis koden er 1 blink - 1 blink - 1 blink er der ingen fejlkoder i systemet. Hvis den f.eks. blinker 4 blink - 2 - blink - 3 blink, er der fejlkoder i, som skal slÃ¥s op i Volvo's FIK-databÃ¸ger, eller hvis du er sÃ¥ heldig at kunne finde det pÃ¥ nettet et sted... :]<br><br>Jeg kan ikke huske hvilke andre numre de andre styreenheder har, men hvis du kan finde kodebetegnelserne, kan du sikkert ogsÃ¥ finde ud af hvilke styreenheder der er sat til hvilket nummer i diagnoseudtaget...<br><br>Held og lykke... :]</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">34</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">34</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

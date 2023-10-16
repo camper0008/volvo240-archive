@@ -19,7 +19,7 @@
           <tr>
             <td vAlign="top" align="left" width="48%">
             <font face="Tahoma" size="2">
-            <strong>1)</strong> Køn:</font></td>
+            <strong>1)</strong> KÃ¸n:</font></td>
             <td vAlign="top" align="left" width="48%">
               <table cellSpacing="0" cellPadding="0">
                 <tr>
@@ -36,11 +36,11 @@
           <tr>
             <td vAlign="top" align="left" width="48%">
             <font face="Tahoma" size="2">
-            <strong>2)</strong> Dit fødselsår:</font></td>
+            <strong>2)</strong> Dit fÃ¸dselsÃ¥r:</font></td>
             <td vAlign="top" align="left" width="48%">
               <font face="Tahoma">
               <select name="q2">
-                <option value selected>Vælg her</option>
+                <option value selected>VÃ¦lg her</option>
                 <option id="section_1_3_0" label="c0" value="2000">2000</option>
                 <option id="section_1_3_1" label="c1" value="1999">1999</option>
                 <option id="section_1_3_2" label="c2" value="1998">1998</option>
@@ -147,20 +147,20 @@
           </tr>
           <tr>
             <td vAlign="top" align="left" width="48%">
-            <font face="Tahoma" size="2"><strong>3)</strong>  Nuværende beskæftigelse:</font></td>
+            <font face="Tahoma" size="2"><strong>3)</strong>  NuvÃ¦rende beskÃ¦ftigelse:</font></td>
             <td vAlign="top" align="left" width="48%">
               <font face="Tahoma">
               <select name="q3">
-                <option value selected>Vælg her</option>
-                <option id="section_1_4_0" label="c0" value="Selvstændig">Selvstændig</option>
-                <option id="section_1_4_1" label="c1" value="Direktør">Direktør</option>
+                <option value selected>VÃ¦lg her</option>
+                <option id="section_1_4_0" label="c0" value="SelvstÃ¦ndig">SelvstÃ¦ndig</option>
+                <option id="section_1_4_1" label="c1" value="DirektÃ¸r">DirektÃ¸r</option>
                 <option id="section_1_4_2" label="c2" value="Leder">Leder</option>
-                <option id="section_1_4_3" label="c3" value="Faglært">Faglært</option>
+                <option id="section_1_4_3" label="c3" value="FaglÃ¦rt">FaglÃ¦rt</option>
                 <option id="section_1_4_4" label="c4" value="Specialarbejder">Specialarbejder</option>
-                <option id="section_1_4_5" label="c5" value="Ufaglært">Ufaglært</option>
-                <option id="section_1_4_6" label="c6" value="Funktionær">Funktionær</option>
+                <option id="section_1_4_5" label="c5" value="UfaglÃ¦rt">UfaglÃ¦rt</option>
+                <option id="section_1_4_6" label="c6" value="FunktionÃ¦r">FunktionÃ¦r</option>
                 <option id="section_1_4_7" label="c7" value="Studerende">Studerende</option>
-                <option id="section_1_4_8" label="c8" value="Lærling">Lærling</option>
+                <option id="section_1_4_8" label="c8" value="LÃ¦rling">LÃ¦rling</option>
                 <option id="section_1_4_9" label="c9" value="Ledig">Ledig</option>
                 <option id="section_1_4_10" label="c10" value="Pensioneret">Pensioneret</option>
                 <option id="section_1_4_11" label="c11" value="Andet">Andet</option>
@@ -169,32 +169,32 @@
           </tr>
           <tr>
             <td vAlign="top" align="left" width="48%">
-            <font face="Tahoma" size="2"><strong>4)</strong>  I hvilket område bor du?</font></td>
+            <font face="Tahoma" size="2"><strong>4)</strong>  I hvilket omrÃ¥de bor du?</font></td>
             <td vAlign="top" align="left" width="48%">
               <font face="Tahoma">
               <select name="q4">
-                <option value selected>Vælg her</option>
+                <option value selected>VÃ¦lg her</option>
                 <option id="section_1_5_0" label="c0" value="Bornholm">Bornholm</option>
                 <option id="section_1_5_1" label="c1" value="Frederiksborg Amt">Frederiksborg Amt</option>
                 <option id="section_1_5_2" label="c2" value="Fyns Amt">Fyns Amt</option>
-                <option id="section_1_5_3" label="c3" value="København/Frederiksberg">København/Frederiksberg</option>
-                <option id="section_1_5_4" label="c4" value="Københavns Amt">Københavns Amt</option>
+                <option id="section_1_5_3" label="c3" value="KÃ¸benhavn/Frederiksberg">KÃ¸benhavn/Frederiksberg</option>
+                <option id="section_1_5_4" label="c4" value="KÃ¸benhavns Amt">KÃ¸benhavns Amt</option>
                 <option id="section_1_5_5" label="c5" value="Nordjyllands Amt">Nordjyllands Amt</option>
                 <option id="section_1_5_6" label="c6" value="Ribe Amt">Ribe Amt</option>
-                <option id="section_1_5_7" label="c7" value="Ringkøbing Amt">Ringkøbing Amt</option>
+                <option id="section_1_5_7" label="c7" value="RingkÃ¸bing Amt">RingkÃ¸bing Amt</option>
                 <option id="section_1_5_8" label="c8" value="Roskilde Amt">Roskilde Amt</option>
-                <option id="section_1_5_9" label="c9" value="Storstrøms Amt">Storstrøms Amt</option>
-                <option id="section_1_5_10" label="c10" value="Sønderjyllands Amt">Sønderjyllands Amt</option>
+                <option id="section_1_5_9" label="c9" value="StorstrÃ¸ms Amt">StorstrÃ¸ms Amt</option>
+                <option id="section_1_5_10" label="c10" value="SÃ¸nderjyllands Amt">SÃ¸nderjyllands Amt</option>
                 <option id="section_1_5_11" label="c11" value="Vejle Amt">Vejle Amt</option>
-                <option id="section_1_5_12" label="c12" value="Vestsjællands Amt">Vestsjællands Amt</option>
+                <option id="section_1_5_12" label="c12" value="VestsjÃ¦llands Amt">VestsjÃ¦llands Amt</option>
                 <option id="section_1_5_13" label="c13" value="Viborg Amt">Viborg Amt</option>
-                <option id="section_1_5_14" label="c14" value="Århus Amt">Århus Amt</option>
+                <option id="section_1_5_14" label="c14" value="Ã…rhus Amt">Ã…rhus Amt</option>
               </select></font>
             </td>
           </tr>
           <tr>
             <td vAlign="top" align="left" width="48%">
-            <font face="Tahoma" size="2"><strong>5)</strong>  I hvilken sammenhæng besøger du volvo240.dk?</font></td>
+            <font face="Tahoma" size="2"><strong>5)</strong>  I hvilken sammenhÃ¦ng besÃ¸ger du volvo240.dk?</font></td>
             <td vAlign="top" align="left" width="48%">
               <table cellSpacing="0" cellPadding="0" id="table10">
                 <tr>
@@ -202,8 +202,8 @@
                   <td><font face="Tahoma" size="2">Privat</font></td>
                 </tr>
                 <tr>
-                  <td><font face="Tahoma"><input id="section_1_6_1" type="radio" value="Erhvervsmæssig" name="q5"></font></td>
-                  <td><font face="Tahoma" size="2">Erhvervsmæssig</font></td>
+                  <td><font face="Tahoma"><input id="section_1_6_1" type="radio" value="ErhvervsmÃ¦ssig" name="q5"></font></td>
+                  <td><font face="Tahoma" size="2">ErhvervsmÃ¦ssig</font></td>
                 </tr>
                 <tr>
                   <td><font face="Tahoma"><input id="section_1_6_2" type="radio" value="Studie/research" name="q5"></font></td>
@@ -214,24 +214,24 @@
           </tr>
           <tr>
             <td vAlign="top" align="left" width="48%">
-            <font face="Tahoma" size="2"><strong>6)</strong>  Hvor ofte besøger du volvo240.dk?</font></td>
+            <font face="Tahoma" size="2"><strong>6)</strong>  Hvor ofte besÃ¸ger du volvo240.dk?</font></td>
             <td vAlign="top" align="left" width="48%">
               <font face="Tahoma">
               <select name="q6">
-                <option value selected>Vælg her</option>
-                <option id="section_1_7_0" label="c0" value="Dette er mit første besøg">Dette er mit første besøg</option>
+                <option value selected>VÃ¦lg her</option>
+                <option id="section_1_7_0" label="c0" value="Dette er mit fÃ¸rste besÃ¸g">Dette er mit fÃ¸rste besÃ¸g</option>
                 <option id="section_1_7_1" label="c1" value="Dagligt">Dagligt</option>
                 <option id="section_1_7_2" label="c2" value="Ugentligt">Ugentligt</option>
-                <option id="section_1_7_3" label="c3" value="Månedligt">Månedligt</option>
-                <option id="section_1_7_4" label="c4" value="Sjældnere end månedligt">Sjældnere end månedligt</option>
+                <option id="section_1_7_3" label="c3" value="MÃ¥nedligt">MÃ¥nedligt</option>
+                <option id="section_1_7_4" label="c4" value="SjÃ¦ldnere end mÃ¥nedligt">SjÃ¦ldnere end mÃ¥nedligt</option>
               </select></font><font size="2" face="Tahoma">
             </td>
           </tr>
           <tr>
-            <td colspan="2">&nbsp;</td>
+            <td colspan="2"></td>
           </tr>
           <tr>
-            <td width="48%" align="left">&nbsp;</td>
+            <td width="48%" align="left"></td>
             <td width="48%" align="right"><font face="Tahoma"><input type="submit" value="Videre »" name="B1"></font></td>
           </tr>
         </table>

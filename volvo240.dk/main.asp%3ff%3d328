@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Golfbolde Opsamler</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Golfbolde Opsamler</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -142,7 +142,7 @@ p� S�by Golfklub. En s�ndag med godt vejr og mange fejlslag.</p>
 	<p>I siden stod en special bygget Volvo 240. Ombygget til at samle golfbolde 
 	op!<br>Foran var kofangeren pillet af og et stort apperat 
 	var monteret p� forenden.</p>
-	<p>Den &quot;Plov-lignende&quot; konstruktion k�res hen over pl�nen med golfboldene. 
+	<p>Den "Plov-lignende" konstruktion k�res hen over pl�nen med golfboldene. 
 	Boldene kiler sig fast mellem lamellerne og l�ftes med op. P� vej ned m�des 
 	de af en lille plade, som f�r boldene til at slippe og falde ned i en kurv 
 	foran hjulene.</p>
@@ -150,7 +150,7 @@ p� S�by Golfklub. En s�ndag med godt vejr og mange fejlslag.</p>
 	<p>I �vrigt b�rer bilen pr�g af at den st�r ved en golfbane. Og meget tyder 
 	p� at nogle spillere ikke rammer bolden helt rent, for buler i bilen og 
 	revner i ruderne var der en del af.</p>
-<p>&nbsp;</p>
+<p></p>
 
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
@@ -159,9 +159,9 @@ p� S�by Golfklub. En s�ndag med godt vejr og mange fejlslag.</p>
     <td width="33%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/p0004003.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/p0004003t.jpg" width="128" height="96"></a></td>
   </tr>
   <tr>
-    <td width="33%" align="center"> &nbsp;</td>
-    <td width="34%" align="center"> &nbsp;</td>
-    <td width="33%" align="center"> &nbsp;</td>
+    <td width="33%" align="center"> </td>
+    <td width="34%" align="center"> </td>
+    <td width="33%" align="center"> </td>
   </tr>
 </table>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
@@ -170,8 +170,8 @@ p� S�by Golfklub. En s�ndag med godt vejr og mange fejlslag.</p>
     <td width="50%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/galleri/usercar/images/p0004005.jpg&palt=','','height=670,width=500,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/galleri/usercar/images/p0004005t.jpg" width="96" height="128"></a></td>
   </tr>
   <tr>
-    <td width="50%" align="center"> &nbsp;</td>
-    <td width="50%" align="center"> &nbsp;</td>
+    <td width="50%" align="center"> </td>
+    <td width="50%" align="center"> </td>
   </tr>
 </table>
 
@@ -206,7 +206,7 @@ p� S�by Golfklub. En s�ndag med godt vejr og mange fejlslag.</p>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

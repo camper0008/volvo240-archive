@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-06-2014&nbsp; 14:10</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-06-2014 14:10</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hvad er en r_dblockarare eller en r_d-blok motor?<br><br>Er min B230A (240-1986) en r_d-blok?<br><br>Mvh<br>Rene<br></font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 15-06-2014 21:28)</em></u></strong></font></li><br><font face=Verdana>Hej Rene<br><br>En r_d-blok Volvo-motor er en f_lles beskrivelse af de Volvo-motorer, som har r_d blok og de er af st_bejern.<br>S_ JA.<br>En B5252 i f.eks. Volvo 850 er lavet i aluminium og er ikke malet. Den kaldes hvid-blok.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Rene Thorvald, 17-06-2014 12:30)</em></u></strong></font></li><br><font face=Verdana>Hej Christian.<br><br>Tak for svar. Ja hvid-blok har jeg ogs_ h_rt om (dem skruer de l_s p_ i Sverige).<br><br>Jeg g_r s_ ud fra min 240 er en r_d-blok, selvom den ikke er r_d. Det har den m_ske v_ret engang.<br><br>VH<br>Rene<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Mads Hansen, 20-06-2014 12:12)</em></u></strong></font></li><br><font face=Verdana>Hvis du g_r blokken ren for vejsnask og andet godt (l_bende oile skift er en klassiker) s_ er den nok r_d nedenunder &#59;-)<br><br>N_sten liges_ st_rk og sv_re at sl_ ihjel som de gamle B18/20 motor. Olie, vand, gnist og br_ndstof s_ k_re de.  <br><br>hvidblok motor er ogs_ solide motor, dog er de meget f_lsomme overfor olie skift (skal overholde service) <br><br>gad vide hvor mange hvidblokke der er d_de af glemt PCV service (krumtapudluftning) og for lang tid imellem oile service. Det er et must p_ hvid blok motor at overholde dette.   R_dblok motor er ikke s_ f_lsomme &#59;-)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Rene Thorvald, 24-06-2014 15:33)</em></u></strong></font></li><br><font face=Verdana>Hej Mads, det ka v_re du har ret. T_nker p_ at tage hele motoren ud og f_ ordnet motorrummet og s_ renovere maskinen og s_ f_ den malet r_d som den ska v_re..<br>VH Rene<br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 15-06-2014 21:28)</em></u></strong></font></li><br><font face=Verdana>Hej Rene<br><br>En r_d-blok Volvo-motor er en f_lles beskrivelse af de Volvo-motorer, som har r_d blok og de er af st_bejern.<br>S_ JA.<br>En B5252 i f.eks. Volvo 850 er lavet i aluminium og er ikke malet. Den kaldes hvid-blok.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Rene Thorvald, 17-06-2014 12:30)</em></u></strong></font></li><br><font face=Verdana>Hej Christian.<br><br>Tak for svar. Ja hvid-blok har jeg ogs_ h_rt om (dem skruer de l_s p_ i Sverige).<br><br>Jeg g_r s_ ud fra min 240 er en r_d-blok, selvom den ikke er r_d. Det har den m_ske v_ret engang.<br><br>VH<br>Rene<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Mads Hansen, 20-06-2014 12:12)</em></u></strong></font></li><br><font face=Verdana>Hvis du g_r blokken ren for vejsnask og andet godt (l_bende oile skift er en klassiker) s_ er den nok r_d nedenunder &#59;-)<br><br>N_sten liges_ st_rk og sv_re at sl_ ihjel som de gamle B18/20 motor. Olie, vand, gnist og br_ndstof s_ k_re de.  <br><br>hvidblok motor er ogs_ solide motor, dog er de meget f_lsomme overfor olie skift (skal overholde service) <br><br>gad vide hvor mange hvidblokke der er d_de af glemt PCV service (krumtapudluftning) og for lang tid imellem oile service. Det er et must p_ hvid blok motor at overholde dette.   R_dblok motor er ikke s_ f_lsomme &#59;-)</font><br><li><font face=Verdana><strong><u>Re: - <em>(Rene Thorvald, 24-06-2014 15:33)</em></u></strong></font></li><br><font face=Verdana>Hej Mads, det ka v_re du har ret. T_nker p_ at tage hele motoren ud og f_ ordnet motorrummet og s_ renovere maskinen og s_ f_ den malet r_d som den ska v_re..<br>VH Rene<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

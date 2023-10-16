@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-02-2014&nbsp; 17:24</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-02-2014 17:24</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">jeg har da venligst forespurgt s_lger af denne bil<br><br><a href="http://www.dba.dk/volvo-240-23-gl-stcar-1992/id-92899259" target="_blank">http://www.dba.dk/volvo-240-23-gl-stcar-1992/id-92899259</a>/<br><br>om ting den 16 feb. og han meddelte at den er solgt!!<br><br>men gider han slette den fra DBA??<br>trist at der er s_ useri_se folk som k_rer Volvo...  (griner)<br><br></font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 24-02-2014 17:40)</em></u></strong></font></li><br><font face=Verdana>Dem er der mange af og husk. Billeder og in real life er ikke det samme.<br><br>Mvh Kent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Klaus Rasmussen, 24-02-2014 17:46)</em></u></strong></font></li><br><font face=Verdana>ved det godt, men v_rste er nok at en henvendelse til DBA med kopi af mail fra s_lger medf_rte svaret at: de ikke kunne bruge mine oplysninger til noget da deres regler forhindrede dem i at slette annoncen p_ deres side. man gider _benbart ikke g_re noget ved det, men i min optik tr_kker det DBA ned p_ et useri_st plan. <br>som du siger, er der mange af dem, men man kan jo blive ved at skrive til s_lger at han skal slette.<br>desv_rre er der ikke mange handelspladser som DBA online med brugte biler...</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 24-02-2014 17:40)</em></u></strong></font></li><br><font face=Verdana>Dem er der mange af og husk. Billeder og in real life er ikke det samme.<br><br>Mvh Kent</font><br><li><font face=Verdana><strong><u>Re: - <em>(Klaus Rasmussen, 24-02-2014 17:46)</em></u></strong></font></li><br><font face=Verdana>ved det godt, men v_rste er nok at en henvendelse til DBA med kopi af mail fra s_lger medf_rte svaret at: de ikke kunne bruge mine oplysninger til noget da deres regler forhindrede dem i at slette annoncen p_ deres side. man gider _benbart ikke g_re noget ved det, men i min optik tr_kker det DBA ned p_ et useri_st plan. <br>som du siger, er der mange af dem, men man kan jo blive ved at skrive til s_lger at han skal slette.<br>desv_rre er der ikke mange handelspladser som DBA online med brugte biler...</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

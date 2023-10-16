@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Koblingsv_gt for Volvo</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Koblingsv_gt for Volvo</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -146,7 +146,7 @@ anh_ngertr_kket er godkendt til v_gten.</p>
 		<td align="center"><font color="#808080">600</font></td>
 	</tr>
 	<tr>
-		<td align="center" width="150">&nbsp;</td>
+		<td align="center" width="150"></td>
 		<td align="center" width="300"><font color="#808080">1300 cc Benzinmotor</font></td>
 		<td align="center"><font color="#808080">700</font></td>
 	</tr>
@@ -156,33 +156,33 @@ anh_ngertr_kket er godkendt til v_gten.</p>
 		<td align="center"><font color="#808080">900</font></td>
 	</tr>
 	<tr>
-		<td align="center" width="150">&nbsp;</td>
+		<td align="center" width="150"></td>
 		<td align="center" width="300"><font color="#808080">1600 cc dieselmotor</font></td>
 		<td align="center"><font color="#808080">850</font></td>
 	</tr>
 	<tr>
-		<td align="center" width="150">&nbsp;</td>
+		<td align="center" width="150"></td>
 		<td align="center" width="300"><font color="#808080">1400</font></td>
 		<td align="center"><font color="#808080">1.000</font></td>
 	</tr>
 	<tr>
-		<td align="center" width="150">&nbsp;</td>
+		<td align="center" width="150"></td>
 		<td align="center" width="300"><font color="#808080">1700</font></td>
 		<td align="center"><font color="#808080">1.000</font></td>
 	</tr>
 	<tr>
 		<td align="center" width="150"><font color="#808080">Volvo 360</font></td>
-		<td align="center" width="300">&nbsp;</td>
+		<td align="center" width="300"></td>
 		<td align="center"><font color="#808080">1.200</font></td>
 	</tr>
 	<tr>
 		<td align="center" width="150"><font color="#808080">Volvo 440/460</font></td>
-		<td align="center" width="300">&nbsp;</td>
+		<td align="center" width="300"></td>
 		<td align="center" width="150"><font color="#808080">1.200</font></td>
 	</tr>
 	<tr>
 		<td align="center" width="150"><font color="#808080">Volvo 480</font></td>
-		<td align="center" width="300">&nbsp;</td>
+		<td align="center" width="300"></td>
 		<td align="center"><font color="#808080">1.000</font></td>
 	</tr>
 	<tr>
@@ -191,13 +191,13 @@ anh_ngertr_kket er godkendt til v_gten.</p>
 		<td align="center"><font color="#808080">1.000</font></td>
 	</tr>
 	<tr>
-		<td align="center" width="150"><font color="#808080">&nbsp;</font></td>
+		<td align="center" width="150"><font color="#808080"></font></td>
 		<td align="center" width="300"><font color="#808080">St. car</font></td>
 		<td align="center"><font color="#808080">1.200</font></td>
 	</tr>
 	<tr>
 		<td align="center" width="150"><font color="#808080">Volvo 140/160</font></td>
-		<td align="center" width="300">&nbsp;</td>
+		<td align="center" width="300"></td>
 		<td align="center"><font color="#808080">1.200</font></td>
 	</tr>
 	<tr>
@@ -206,17 +206,17 @@ anh_ngertr_kket er godkendt til v_gten.</p>
 		<td align="center"><b>1.500</b></td>
 	</tr>
 	<tr>
-		<td align="center" width="150">&nbsp;</td>
+		<td align="center" width="150"></td>
 		<td align="center" width="300"><b>f.o.m _rgang 1981 (B)</b></td>
 		<td align="center"><b>1.600</b></td>
 	</tr>
 	<tr>
 		<td align="center" width="150"><font color="#808080">Volvo 740/760</font></td>
-		<td align="center" width="300">&nbsp;</td>
+		<td align="center" width="300"></td>
 		<td align="center"><font color="#808080">1.600</font></td>
 	</tr>
 	<tr>
-		<td align="center" width="150">&nbsp;</td>
+		<td align="center" width="150"></td>
 		<td align="center" width="300"><font color="#808080">m/originalt forst_rkningss_t</font></td>
 		<td align="center"><font color="#808080">1.800</font></td>
 	</tr>
@@ -227,11 +227,11 @@ anh_ngertr_kket er godkendt til v_gten.</p>
 	</tr>
 	<tr>
 		<td align="center" width="150"><font color="#808080">Volvo 940/960</font></td>
-		<td align="center" width="300">&nbsp;</td>
+		<td align="center" width="300"></td>
 		<td align="center"><font color="#808080">1.600</font></td>
 	</tr>
 	<tr>
-		<td align="center" width="150">&nbsp;</td>
+		<td align="center" width="150"></td>
 		<td align="center" width="300"><font color="#808080">m/originalt forst_rkningss_t</font></td>
 		<td align="center"><font color="#808080">1.800</font></td>
 	</tr>
@@ -270,7 +270,7 @@ anh_ngertr_kket er godkendt til v_gten.</p>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

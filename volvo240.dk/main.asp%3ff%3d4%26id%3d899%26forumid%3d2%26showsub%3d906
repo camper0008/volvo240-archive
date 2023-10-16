@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,13 +198,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=899"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=899"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>D&#229;rlige Volvo-kaburatorer ???</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>DÃ¥rlige Volvo-kaburatorer ???</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-10-2003&nbsp; 11:22</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-10-2003 11:22</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg er indehaver af en Volvo 240 DL, Stationcar fra 1988, med en B 230 K motor, og med en kaburator af typen, Solex CISAC.<br><br>I forbindelse med min søgen efter brugte dele til min kaburator, talte jeg med en mekaniker (vistnok fra et autogenbrug/ophug), som fortalte mig at kaburatorer fra Volvo (i disse årgange), simpelthen ikke virker. <br><br>Hans erfaringer var at kaburatorerne simpelthen er for dårlige lavet og bruger en helvedes masse bensin (ja det kender jeg til). Han havde meget stor erfaring med Volvo, og anbefalede mig direkte at købe en helt ny kaburator, hvis jeg ville gøre nogen ved bensinøkonomien.<br><br>Er der nogen her der ved om manden har ret ? - Det er jo en kendsgerning at 240 ikke kører ret langt på literen (min kører 7-9 km/l). <br><br>Kan jeg overhovedet gøre noget for at få min Volvo til at køre mere økonomisk, uden at skulle investere i en ny kaburator ? <br><br>MVH<br><br>Allan Berggreen <br><br>Det skal hertil siges at det ikke var fordi han forhandlede nye Volvodele, eller fordi han ville sælge mig en ny kaburator. - Han ville blot, som fagmand på området, give mig et godt råd. Han anslog iøvrigt at en ny kaburator ville koste 4-5000 kr.</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg er indehaver af en Volvo 240 DL, Stationcar fra 1988, med en B 230 K motor, og med en kaburator af typen, Solex CISAC.<br><br>I forbindelse med min sÃ¸gen efter brugte dele til min kaburator, talte jeg med en mekaniker (vistnok fra et autogenbrug/ophug), som fortalte mig at kaburatorer fra Volvo (i disse Ã¥rgange), simpelthen ikke virker. <br><br>Hans erfaringer var at kaburatorerne simpelthen er for dÃ¥rlige lavet og bruger en helvedes masse bensin (ja det kender jeg til). Han havde meget stor erfaring med Volvo, og anbefalede mig direkte at kÃ¸be en helt ny kaburator, hvis jeg ville gÃ¸re nogen ved bensinÃ¸konomien.<br><br>Er der nogen her der ved om manden har ret ? - Det er jo en kendsgerning at 240 ikke kÃ¸rer ret langt pÃ¥ literen (min kÃ¸rer 7-9 km/l). <br><br>Kan jeg overhovedet gÃ¸re noget for at fÃ¥ min Volvo til at kÃ¸re mere Ã¸konomisk, uden at skulle investere i en ny kaburator ? <br><br>MVH<br><br>Allan Berggreen <br><br>Det skal hertil siges at det ikke var fordi han forhandlede nye Volvodele, eller fordi han ville sÃ¦lge mig en ny kaburator. - Han ville blot, som fagmand pÃ¥ omrÃ¥det, give mig et godt rÃ¥d. Han anslog iÃ¸vrigt at en ny kaburator ville koste 4-5000 kr.</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=899&ForumID=2&Showsub=906'>Re: D&#229;rlige Volvo-kaburatorer ???</a> <em>(Jes, 07-10-2003 17:57)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Jo, jeg har et fritids-/hobby værksted, hvor jeg skruer i Volvo, primært 240.<br>Når jeg laver sådan en operation, så koster det i dele og arbejdsløn ialt kr. 1500,-. Med forbehold for evt. ekstra dele i form af tændrør, olieskift, tændrørskabler. Jeg nævner det fordi forudsætningen for at justere karburator rigtigt er at tændingsdelene er i orden, at motorolien er forholdsvis frisk og ikke fyldt med benzinrester m.m. som kan "forstyrre" CO-målingen i udstødningen.<br><br>Træffes bedst efter kl. 1700 på 98 378952<br>mvh<br><br>Jes</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=899&ForumID=2&Showsub=904'>Re: D&#229;rlige Volvo-kaburatorer ???</a> <em>(Allan Berggreen, 07-10-2003 13:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=899&ForumID=2&Showsub=903'>Re: D&#229;rlige Volvo-kaburatorer ???</a> <em>(Kim Thomsen, 07-10-2003 13:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=899&ForumID=2&Showsub=901'>Re: D&#229;rlige Volvo-kaburatorer ???</a> <em>(Jes, 07-10-2003 11:56)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=899&ForumID=2&Showsub=906'>Re: DÃ¥rlige Volvo-kaburatorer ???</a> <em>(Jes, 07-10-2003 17:57)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Jo, jeg har et fritids-/hobby vÃ¦rksted, hvor jeg skruer i Volvo, primÃ¦rt 240.<br>NÃ¥r jeg laver sÃ¥dan en operation, sÃ¥ koster det i dele og arbejdslÃ¸n ialt kr. 1500,-. Med forbehold for evt. ekstra dele i form af tÃ¦ndrÃ¸r, olieskift, tÃ¦ndrÃ¸rskabler. Jeg nÃ¦vner det fordi forudsÃ¦tningen for at justere karburator rigtigt er at tÃ¦ndingsdelene er i orden, at motorolien er forholdsvis frisk og ikke fyldt med benzinrester m.m. som kan "forstyrre" CO-mÃ¥lingen i udstÃ¸dningen.<br><br>TrÃ¦ffes bedst efter kl. 1700 pÃ¥ 98 378952<br>mvh<br><br>Jes</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=899&ForumID=2&Showsub=904'>Re: DÃ¥rlige Volvo-kaburatorer ???</a> <em>(Allan Berggreen, 07-10-2003 13:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=899&ForumID=2&Showsub=903'>Re: DÃ¥rlige Volvo-kaburatorer ???</a> <em>(Kim Thomsen, 07-10-2003 13:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=899&ForumID=2&Showsub=901'>Re: DÃ¥rlige Volvo-kaburatorer ???</a> <em>(Jes, 07-10-2003 11:56)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">2</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">2</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

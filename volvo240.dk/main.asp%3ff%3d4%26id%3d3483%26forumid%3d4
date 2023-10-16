@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -215,7 +215,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">S&#248;ren Jelstr&#248;m</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Søren Jelstrøm</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-07-2009&nbsp; 11:37</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-07-2009 11:37</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg k_rte bag en 240 sedan p_ gule plader forleden.<br><br>Kan jeg f_ en forklaring? Det troede jeg ikke man kunne.</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Klaus Autzen, 06-07-2009 12:25)</em></u></strong></font></li><br><font face=Verdana>Ja - jeg har set en den nye Skoda Superb p_ helt gule plader - med bags_de!<br>Jeg ved at tidligere kunne man f_ en invalide vogn p_ guleplader, hvis den var specielt indrettet og med nedsat afgift. Men det holder ikke for en 240!?<br>--<br>Klaus</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kenneth Poulsen, 09-07-2009 18:20)</em></u></strong></font></li><br><font face=Verdana>Info:<br>Personbiler der udelukkende bruges til sygetransport kan registeres p_ gule plader.<br><br>Det betyder at de ikke m_ anvendes til andre form_l som f.eks. TAXA k_rsel eller privat befordring.<br><br>Men en 240 - hmm ka&#39;ske det var en turist fra Nederlandende.<br>Kontraktm_ssigt m_ sygetransportvognene p_ Sj_lland ikke v_re over 6 _r, s_ en 240 har nok overskredet "sidste salgsdato". <br>Mvh<br>Kenneth Poulsen</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Jelstr&#248;m, 09-07-2009 20:14)</em></u></strong></font></li><br><font face=Verdana>N_h ja.. Det kan det self_lgelig v_re.<br><br>N_r sandt er sagt var det faktisk ogs_ p_ modsatte side af motorvejen. Men n_r man ser en volvo, s_ ser man jo alle detaljerne.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Klaus Autzen, 06-07-2009 12:25)</em></u></strong></font></li><br><font face=Verdana>Ja - jeg har set en den nye Skoda Superb p_ helt gule plader - med bags_de!<br>Jeg ved at tidligere kunne man f_ en invalide vogn p_ guleplader, hvis den var specielt indrettet og med nedsat afgift. Men det holder ikke for en 240!?<br>--<br>Klaus</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kenneth Poulsen, 09-07-2009 18:20)</em></u></strong></font></li><br><font face=Verdana>Info:<br>Personbiler der udelukkende bruges til sygetransport kan registeres p_ gule plader.<br><br>Det betyder at de ikke m_ anvendes til andre form_l som f.eks. TAXA k_rsel eller privat befordring.<br><br>Men en 240 - hmm ka&#39;ske det var en turist fra Nederlandende.<br>Kontraktm_ssigt m_ sygetransportvognene p_ Sj_lland ikke v_re over 6 _r, s_ en 240 har nok overskredet "sidste salgsdato". <br>Mvh<br>Kenneth Poulsen</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren Jelstrøm, 09-07-2009 20:14)</em></u></strong></font></li><br><font face=Verdana>N_h ja.. Det kan det self_lgelig v_re.<br><br>N_r sandt er sagt var det faktisk ogs_ p_ modsatte side af motorvejen. Men n_r man ser en volvo, s_ ser man jo alle detaljerne.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -267,7 +267,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

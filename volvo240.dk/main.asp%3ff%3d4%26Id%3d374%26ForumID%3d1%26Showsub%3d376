@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=374"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=374"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-05-2003&nbsp; 17:50</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-05-2003 17:50</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er der nogen der har lagt en B230FT i en 240/245,som ved hvor meget der skal laves om ?</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=374&ForumID=1&Showsub=456'>Re: B230FT</a> <em>(sebastian neumann, 23-05-2003 18:22)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=374&ForumID=1&Showsub=455'>Re: B230FT</a> <em>(sebastian neumann, 23-05-2003 18:21)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=374&ForumID=1&Showsub=445'>Re: B230FT</a> <em>(michael nordahn, 19-05-2003 22:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=374&ForumID=1&Showsub=376'>Re: B230FT</a> <em>(sebastian neumann, 02-05-2003 09:48)</em></strong></font></li><br><font face=Verdana>Hej.<br><br>I f_rste omgang ville det v_re rart at f_ at vide hvad _rgang din 240 er, samt hvilken motor der ligger i nu. Generelt kan jeg sige at styreboks / t_ndingsboks varierer og at ledningsnettet varierer en lille bitte smule. Du skal ogs_ t_nke p_ at du skal - hvis du ikke har en F motor men en E eller A motor, skal lave ledningsnettet om, Hvis du har en E motor skal der nogengange en forpumpe p_, og har du en A motor, bliver det hele meget omfattende. Du skal koble pumperel_, + en masse andre elektroniske dele til, tr_kke ledninger til motoren s_tte hovedpumpe og forpumpe p_ plus at du skal tr_kke forsynings og returr_r til benzintilf_rsel. Endeligt kan det siges at har du ikke et differentiale med sp_r, er det en god ide at investere i det, du skal have en M46 eller M90 gearkasse p_ hvis det skal holde, m_ske skal du modificere kardanakslen. Det jeg vil r_de dig til, hvis du ikke har en F motor, er at k_be en original B230FT 240, og k_re i den. Men hvis du har fingrene skruet ordentligt p_ og har tiden samt pladsen til det kan jeg kun anbefale det. <br><br>Jeg kan personligt fort_lle at jeg i _jeblikket har min ene 245 _rgang 79 skilt totalt ad - ingen undervogn eller noget, faktisk bare karrosseriet, hvor jeg skal lave rust. P_ min skal jeg have en B230FT underdel ( blok ) med oliek_ling af stempler. Specialdesignede stempler, Verdi plejlst_nger og et B234F topstykke, 8 benzindyser, turbo og intercooler, oliek_ler samt mange andre ting. Koblingen bliver ogs_ lavet specielt, sammen med et aluminiumssvinghjul. Gearkassen bliver enten en Toyota Supra gearkasse eller en M90 gearkasse, kardanen skal modificeres og bagt_jet skal forst_rkes. Endelig skal der andre b_sninger i undervognen samt KONI justerbar undervogn. Et dyrt projekt - ja, men jeg regner ogs_ med at bruge ca 2 _r p_ det. Det jeg pr_ver at sige er at du skal have masser af tid, g_re tingene ordentligt, og l_se en forf_rdelig masse b_ger / tekniske diagrammer osv. f_r du g_r igang. Planl_g det hele i forvejen, anskaf dig v_rkt_jet og hav et sted med ihvertfald en grav, det g_r tingene nemmere. Evt. kan du hvis du har en F motor, pr_ve at tage ind til Volvo og sp_rge dem hvor meget ledningsdiagrammet varierer, s_ vidt jeg husker er det sm_ting du skal lave om, men styrboksene skal du have fra en FT. Ellers skal du k_re med eftermarkedsindspr_jtning / t_nding, s_dan som jeg g_r det. Jeg har valgt et Haltech E6K anl_g med spr_jt / t_nding. Desv_rre er det bare en dyr forn_jelse ca. 12.000 m_tte jeg give for det, komplet med programmer, kabler og givere / sensorer. <br><br>God forn_jelse med dit projekt og skriv endelig hvis der er nogle ting du vil have uddybet eller du har flere sp_rgsm_l der skal besvares. <br><br>Mange hilsner.<br>Sebastian Neumann</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=374&ForumID=1&Showsub=456'>Re: B230FT</a> <em>(sebastian neumann, 23-05-2003 18:22)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=374&ForumID=1&Showsub=455'>Re: B230FT</a> <em>(sebastian neumann, 23-05-2003 18:21)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=374&ForumID=1&Showsub=445'>Re: B230FT</a> <em>(michael nordahn, 19-05-2003 22:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=374&ForumID=1&Showsub=376'>Re: B230FT</a> <em>(sebastian neumann, 02-05-2003 09:48)</em></strong></font></li><br><font face=Verdana>Hej.<br><br>I f_rste omgang ville det v_re rart at f_ at vide hvad _rgang din 240 er, samt hvilken motor der ligger i nu. Generelt kan jeg sige at styreboks / t_ndingsboks varierer og at ledningsnettet varierer en lille bitte smule. Du skal ogs_ t_nke p_ at du skal - hvis du ikke har en F motor men en E eller A motor, skal lave ledningsnettet om, Hvis du har en E motor skal der nogengange en forpumpe p_, og har du en A motor, bliver det hele meget omfattende. Du skal koble pumperel_, + en masse andre elektroniske dele til, tr_kke ledninger til motoren s_tte hovedpumpe og forpumpe p_ plus at du skal tr_kke forsynings og returr_r til benzintilf_rsel. Endeligt kan det siges at har du ikke et differentiale med sp_r, er det en god ide at investere i det, du skal have en M46 eller M90 gearkasse p_ hvis det skal holde, m_ske skal du modificere kardanakslen. Det jeg vil r_de dig til, hvis du ikke har en F motor, er at k_be en original B230FT 240, og k_re i den. Men hvis du har fingrene skruet ordentligt p_ og har tiden samt pladsen til det kan jeg kun anbefale det. <br><br>Jeg kan personligt fort_lle at jeg i _jeblikket har min ene 245 _rgang 79 skilt totalt ad - ingen undervogn eller noget, faktisk bare karrosseriet, hvor jeg skal lave rust. P_ min skal jeg have en B230FT underdel ( blok ) med oliek_ling af stempler. Specialdesignede stempler, Verdi plejlst_nger og et B234F topstykke, 8 benzindyser, turbo og intercooler, oliek_ler samt mange andre ting. Koblingen bliver ogs_ lavet specielt, sammen med et aluminiumssvinghjul. Gearkassen bliver enten en Toyota Supra gearkasse eller en M90 gearkasse, kardanen skal modificeres og bagt_jet skal forst_rkes. Endelig skal der andre b_sninger i undervognen samt KONI justerbar undervogn. Et dyrt projekt - ja, men jeg regner ogs_ med at bruge ca 2 _r p_ det. Det jeg pr_ver at sige er at du skal have masser af tid, g_re tingene ordentligt, og l_se en forf_rdelig masse b_ger / tekniske diagrammer osv. f_r du g_r igang. Planl_g det hele i forvejen, anskaf dig v_rkt_jet og hav et sted med ihvertfald en grav, det g_r tingene nemmere. Evt. kan du hvis du har en F motor, pr_ve at tage ind til Volvo og sp_rge dem hvor meget ledningsdiagrammet varierer, s_ vidt jeg husker er det sm_ting du skal lave om, men styrboksene skal du have fra en FT. Ellers skal du k_re med eftermarkedsindspr_jtning / t_nding, s_dan som jeg g_r det. Jeg har valgt et Haltech E6K anl_g med spr_jt / t_nding. Desv_rre er det bare en dyr forn_jelse ca. 12.000 m_tte jeg give for det, komplet med programmer, kabler og givere / sensorer. <br><br>God forn_jelse med dit projekt og skriv endelig hvis der er nogle ting du vil have uddybet eller du har flere sp_rgsm_l der skal besvares. <br><br>Mange hilsner.<br>Sebastian Neumann</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">38</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">38</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

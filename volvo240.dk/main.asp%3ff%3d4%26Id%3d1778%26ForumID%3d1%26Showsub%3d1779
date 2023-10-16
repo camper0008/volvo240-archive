@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=1778"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1778"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Nu er jeg s&#229; TR&#198;T!</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Nu er jeg så TRÆT!</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-05-2004&nbsp; 19:21</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-05-2004 19:21</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br>Nu er jeg ved at v�re godt tr�t af min Volvo!! <br>Hver gang det har regnet et par dage.. S� f�r den alvorlige start problemer. Ikke n�r den er kold.. N�h.. Det ville v�re for nemt. Men n�r den har k�rt en tur p� 1-2 km. F.eks n�r jeg skal op og handle. <br>S� er den ikke til at f� liv i. Den skyder, sprutter & opf�re sig ikke som et nysynet k�ret�j!<br>Jeg lod den st� i bare arrigskab. Kom op p� pakeringspladsen 4 timer efter. Satte mig ind.. Gav den halv chocker. S� sprang motoren igang?!?! Det var ikke lige det den gjorde for 4 timer siden! <br>Hvad i alverden skyldes det? Det regnede stadig.. S� det kan da ikke v�re fugt!<br>Nu har jeg f�et en fabrilsk id� om at udskifte ALLE t�ndningsdele. Inkl kabler!<br>Er der mere der skal st� for tur? Hvad med den varmstarts ventil? Jeg har h�rt s� meget om? <br>Er der mere.. Nu... Er jeg MEGET tr�t.. Syntes det er S� pinligt... Man sidder der.. med en masse vare. Ogs� skaber den sig som en gammel m�gspand der skal skrottes :-/<br><br>Data:<br><br>Volvo 244 m. Fra 85. Model 86 "GL" Dog uden tilbeh�r?! B230A motor, 310.000 p� uret. <br>AW71 gearkasse. <br><br>Tak fordi i gad kigge!!! :)<br><br>M.v.h<br><br>Emil j</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1778&ForumID=1&Showsub=1783'>Re: Nu er jeg s&#229; TR&#198;T!</a> <em>(bjarne g, 09-05-2004 15:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1778&ForumID=1&Showsub=1782'>Re: Nu er jeg s&#229; TR&#198;T!</a> <em>(Kent, 09-05-2004 13:21)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1778&ForumID=1&Showsub=1781'>Re: Nu er jeg s&#229; TR&#198;T!</a> <em>(Jes, 09-05-2004 13:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1778&ForumID=1&Showsub=1780'>Re: Nu er jeg s&#229; TR&#198;T!</a> <em>(Emil J., 09-05-2004 11:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1778&ForumID=1&Showsub=1779'>Re: Nu er jeg s&#229; TR&#198;T!</a> <em>(Lars Vestman, 09-05-2004 09:54)</em></strong></font></li><br><font face=Verdana>Hej Emil<br><br>Tag en dyb ind�nding! ;o)<br><br>Min (med samme motor og gearkasse) var meget provokerende i fugtigt vejr, n�r den skulle startes kold. Nu siger du at din er tosset n�r den en lunken, men alligevel: Jeg skiftede t�ndkabler, t�ndr�r og n�l i karburatoren, og nu opf�rer den sig eksemplarisk(*). Det med t�ndkablerne tager kun 10 min., s� pr�v det - med nogle kvalitetskabler.<br><br>(*) Min kan, og vil ikke g� i tomgang efter denne lille operation. F�rhen ville den heller ikke, men kunne dog alligevel hvis den blev startet som helt kold, eller fik en ordentlig spand kul. Jeg har f�et at vide, at min har det vakuumslangesystem som ellers kun B230K-motorer har...?!? M�ske jeg ogs� skal se p� varmstartsventilen.<br><br>Held og lykke!<br><br>M.v.h. Lars</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1778&ForumID=1&Showsub=1783'>Re: Nu er jeg så TRÆT!</a> <em>(bjarne g, 09-05-2004 15:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1778&ForumID=1&Showsub=1782'>Re: Nu er jeg så TRÆT!</a> <em>(Kent, 09-05-2004 13:21)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1778&ForumID=1&Showsub=1781'>Re: Nu er jeg så TRÆT!</a> <em>(Jes, 09-05-2004 13:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1778&ForumID=1&Showsub=1780'>Re: Nu er jeg så TRÆT!</a> <em>(Emil J., 09-05-2004 11:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1778&ForumID=1&Showsub=1779'>Re: Nu er jeg så TRÆT!</a> <em>(Lars Vestman, 09-05-2004 09:54)</em></strong></font></li><br><font face=Verdana>Hej Emil<br><br>Tag en dyb ind�nding! ;o)<br><br>Min (med samme motor og gearkasse) var meget provokerende i fugtigt vejr, n�r den skulle startes kold. Nu siger du at din er tosset n�r den en lunken, men alligevel: Jeg skiftede t�ndkabler, t�ndr�r og n�l i karburatoren, og nu opf�rer den sig eksemplarisk(*). Det med t�ndkablerne tager kun 10 min., s� pr�v det - med nogle kvalitetskabler.<br><br>(*) Min kan, og vil ikke g� i tomgang efter denne lille operation. F�rhen ville den heller ikke, men kunne dog alligevel hvis den blev startet som helt kold, eller fik en ordentlig spand kul. Jeg har f�et at vide, at min har det vakuumslangesystem som ellers kun B230K-motorer har...?!? M�ske jeg ogs� skal se p� varmstartsventilen.<br><br>Held og lykke!<br><br>M.v.h. Lars</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">17</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">17</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

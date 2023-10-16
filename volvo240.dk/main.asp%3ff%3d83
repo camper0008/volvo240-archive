@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Ekstra S_de</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Ekstra S_de</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,19 +203,19 @@ document.onmousedown=click;
   <tr>
     <td width="25" height="19">58</td>
     <td width="35" align="center" height="19">2</td>
-    <td width="90" height="19" align="right">&nbsp;</td>
+    <td width="90" height="19" align="right"></td>
     <td width="150" height="19">Wire</td>
   </tr>
   <tr>
     <td width="25" height="19">59</td>
     <td width="35" align="center" height="19">2</td>
-    <td width="90" height="19" align="right">&nbsp;</td>
+    <td width="90" height="19" align="right"></td>
     <td width="150" height="19">Skrue</td>
   </tr>
   <tr>
     <td width="25" height="19">60</td>
     <td width="35" align="center" height="19">2</td>
-    <td width="90" height="19" align="right">&nbsp;</td>
+    <td width="90" height="19" align="right"></td>
     <td width="150" height="19">Afstandsr_r</td>
   </tr>
   <tr>
@@ -227,11 +227,11 @@ document.onmousedown=click;
   <tr>
     <td width="25" height="19">62</td>
     <td width="35" align="center" height="19">2</td>
-    <td width="90" height="19" align="right">&nbsp;</td>
+    <td width="90" height="19" align="right"></td>
     <td width="150" height="19">Pladem_trik</td>
   </tr>
   <tr>
-    <td width="25" height="19">&nbsp;</td>
+    <td width="25" height="19"></td>
     <td width="35" align="center" height="19">1</td>
     <td width="90" height="19" align="right">1313458-0</td>
     <td width="150" height="19">Ombygningsindsats</td>
@@ -277,7 +277,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=265"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=265"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -217,7 +217,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">J&#248;rgen Bruun</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Jørgen Bruun</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-03-2003&nbsp; 21:55</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-03-2003 21:55</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hvor langt kan min tanrem k�re ? det er en b200k</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=265&ForumID=4&Showsub=273'>Re: tanrem</a> <em>(Norbert Zietmann, 28-03-2003 08:32)</em></strong></font></li><br><font face=Verdana>Hej S�ren; selvf�lgelig kan du selv skifte en tandrem. P� Krumtapshjulet er et m�rke, n�jagtigt som p� hjulet til knastakslen og den der aksel hvorp� t�nding, oljepumpe og evt. benzinpumpe k�rer. P� de senere sidder t�ndfordeleren vist nok p� knastakslen i stedet for, men skidt nu v�re med det. De der m�rker skal passe med de m�rker som sidder p� blokken, s� at hvert hjul st�r ud for hver sit m�rke. S� skulle cylinder 1 (talt forfra) gerne v�re i kompression. Undg� at dreje tandremshjulene. Har du nu alligevel drejet rundt p� det hele, s� kan du tjekke om cylinder 1 er i kompression ved at pille t�ndr�ret ud og m�rke efter med en skruetr�kker om stemplet er oppe. Hvis stemplet er oppe er den enten i kompression eller i udluftning. Stempel 1 og 4 k�rer sammen, og er derfor enten oppe eller nede sammen. For at kontrollere om den er i kompression (indsugningsventil og udst�dningsventil lukket), piller du ventild�kslet af og ser der p� hvordan knastakslen st�r. N�, men cylinder 1 skal alts� v�re i kompression og cylinder 4 derfor i udluftning (indsugningsventil lukket, udst�dningsvetil �ben). S� snart det stemmer skulle tandremmen bare smides p�. Hvis du ikke har drejet p� nogle af hjulene mens remmen har v�ret taget af; s� er alt dette slet ikke noget problem. Inden du tager remstrammerhjulet af, er det en rigtig god ide at s�tte et 3 mm bor i denne, ellers trykker fjederen hjulet for langt ud, og du f�r det aldrig p� igen. Det ser m�ske lidt kringlet ud, men det er ikke s� slemt, bare tag dig god tid; desuden er motorerne i 200�erne indtil �85 udf�rt s�ledes, at ventilerne ikke g�r i stemplerne hvis de er stillet forkert. Det eneste der sker hvis tandremmen kn�kker eller er stillet forkert, er at den ikke er til at f� liv i. Held og lykke med det. Norbert</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=265&ForumID=4&Showsub=268'>Re: tanrem</a> <em>(S&#248;ren, 27-03-2003 10:29)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=265&ForumID=4&Showsub=267'>Re: tanrem</a> <em>(Jes, 25-03-2003 16:23)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=265&ForumID=4&Showsub=273'>Re: tanrem</a> <em>(Norbert Zietmann, 28-03-2003 08:32)</em></strong></font></li><br><font face=Verdana>Hej S�ren; selvf�lgelig kan du selv skifte en tandrem. P� Krumtapshjulet er et m�rke, n�jagtigt som p� hjulet til knastakslen og den der aksel hvorp� t�nding, oljepumpe og evt. benzinpumpe k�rer. P� de senere sidder t�ndfordeleren vist nok p� knastakslen i stedet for, men skidt nu v�re med det. De der m�rker skal passe med de m�rker som sidder p� blokken, s� at hvert hjul st�r ud for hver sit m�rke. S� skulle cylinder 1 (talt forfra) gerne v�re i kompression. Undg� at dreje tandremshjulene. Har du nu alligevel drejet rundt p� det hele, s� kan du tjekke om cylinder 1 er i kompression ved at pille t�ndr�ret ud og m�rke efter med en skruetr�kker om stemplet er oppe. Hvis stemplet er oppe er den enten i kompression eller i udluftning. Stempel 1 og 4 k�rer sammen, og er derfor enten oppe eller nede sammen. For at kontrollere om den er i kompression (indsugningsventil og udst�dningsventil lukket), piller du ventild�kslet af og ser der p� hvordan knastakslen st�r. N�, men cylinder 1 skal alts� v�re i kompression og cylinder 4 derfor i udluftning (indsugningsventil lukket, udst�dningsvetil �ben). S� snart det stemmer skulle tandremmen bare smides p�. Hvis du ikke har drejet p� nogle af hjulene mens remmen har v�ret taget af; s� er alt dette slet ikke noget problem. Inden du tager remstrammerhjulet af, er det en rigtig god ide at s�tte et 3 mm bor i denne, ellers trykker fjederen hjulet for langt ud, og du f�r det aldrig p� igen. Det ser m�ske lidt kringlet ud, men det er ikke s� slemt, bare tag dig god tid; desuden er motorerne i 200�erne indtil �85 udf�rt s�ledes, at ventilerne ikke g�r i stemplerne hvis de er stillet forkert. Det eneste der sker hvis tandremmen kn�kker eller er stillet forkert, er at den ikke er til at f� liv i. Held og lykke med det. Norbert</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=265&ForumID=4&Showsub=268'>Re: tanrem</a> <em>(Søren, 27-03-2003 10:29)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=265&ForumID=4&Showsub=267'>Re: tanrem</a> <em>(Jes, 25-03-2003 16:23)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">41</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">41</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

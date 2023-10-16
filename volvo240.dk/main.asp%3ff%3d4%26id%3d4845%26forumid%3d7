@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">30-11-2013&nbsp; 23:26</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">30-11-2013 23:26</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Det er en 740 gle. _rg. 87.motor B230E.km. 314.000 km<br>Bilen har k_rt perfekt..Men da jeg sidst skulle starte,sk_d motoren og l_b vildt op i omdrejninger,speederen blev ikke r_rt,men motoren speedede op og sk_d et par gange ,for derefter at d_.Pr_ver igen efter et par minutter,men det samme sker,den speeder op til ca.3000 omdr/min skyder og sprutter for derefter at d_.Fors_g <a href="http://igen...Ved" target="_blank">igen...Ved</a> at PUMPE gaspedalen,kan motoren holdes igang,men stadig med skyden og uj_vn motorgang.</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 03-12-2013 09:06)</em></u></strong></font></li><br><font face=Verdana>Hej Max<br>Du henter blot en anden motor hos mig (B230E) og s_tter den i din Volvo.<br>Pris 1200,-kr<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 03-12-2013 14:15)</em></u></strong></font></li><br><font face=Verdana>Jeg havde engang en 240 med E motor. Den har tomgangsmotor lidt ala motorene med Regina styring. Min kunne ogs_ finde p_ at skabe sig. K_bte faktisk en brugt motor af dig JP... :-)<br><br>Du kan ogs_ pr_ve at tjekke om luftpladen i spj_ldet er centreret ordenligt. Du skal have L_snet for gummib_lgen og se til at spj_ld "tallerknen" sidder korrekt centreret i spj_ldhuset. <br>Mig bekendt er det een af de helt store syndere...</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Hax Hermansen, 04-12-2013 23:59)</em></u></strong></font></li><br><font face=Verdana>Rend og hop,med salg af billige motorer.Motoren har k_rt perfekt, indtil forleden dag.Jeg vil tjekke "tallerkenen" i luftm_ngdem_leren og har l_st mig til at, trykregulatoren kan v_re _rsag,til uj_vn motorgang.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 05-12-2013 21:38)</em></u></strong></font></li><br><font face=Verdana>Goddag<br>Hvor sidder tallerkenen i luftm_ngdem_leren ??<br><br>Mvh<br>Steen <br>Frederikssund</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 05-12-2013 21:44)</em></u></strong></font></li><br><font face=Verdana>den sidder i spj_ldhuset. ikke i luftm_ngdem_leren. :-)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Hax Hermansen, 05-12-2013 22:27)</em></u></strong></font></li><br><font face=Verdana>Jeg vil mene at "tallerkenen" er den store runde plade der sidder monteret med en 5mm. bolt nederst,n_r man tager gummib_lgen af luftm_ngdem_leren.Spj_ldet er den _verste del,som gaskablet har forbindelse til.<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 06-12-2013 07:05)</em></u></strong></font></li><br><font face=Verdana>N_e ja naturligvis  ( det er l_nge siden jeg havde bilen ) :-)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Hax Hermansen, 11-12-2013 23:18)</em></u></strong></font></li><br><font face=Verdana>S_ k_rer maskinen igen.Det var en ut_t slange,fra koldstarsventilen til gasspj_ldet i manifolden,samt snavset "tallerken" i luftm_ndem_leren,der drillede.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 12-12-2013 11:12)</em></u></strong></font></li><br><font face=Verdana>fedt!</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 12-12-2013 15:18)</em></u></strong></font></li><br><font face=Verdana>Og du l_ste opgaven uden at skulle skifte motor &#59;-)</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 03-12-2013 09:06)</em></u></strong></font></li><br><font face=Verdana>Hej Max<br>Du henter blot en anden motor hos mig (B230E) og s_tter den i din Volvo.<br>Pris 1200,-kr<br>MVH Jens Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 03-12-2013 14:15)</em></u></strong></font></li><br><font face=Verdana>Jeg havde engang en 240 med E motor. Den har tomgangsmotor lidt ala motorene med Regina styring. Min kunne ogs_ finde p_ at skabe sig. K_bte faktisk en brugt motor af dig JP... :-)<br><br>Du kan ogs_ pr_ve at tjekke om luftpladen i spj_ldet er centreret ordenligt. Du skal have L_snet for gummib_lgen og se til at spj_ld "tallerknen" sidder korrekt centreret i spj_ldhuset. <br>Mig bekendt er det een af de helt store syndere...</font><br><li><font face=Verdana><strong><u>Re: - <em>(Hax Hermansen, 04-12-2013 23:59)</em></u></strong></font></li><br><font face=Verdana>Rend og hop,med salg af billige motorer.Motoren har k_rt perfekt, indtil forleden dag.Jeg vil tjekke "tallerkenen" i luftm_ngdem_leren og har l_st mig til at, trykregulatoren kan v_re _rsag,til uj_vn motorgang.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 05-12-2013 21:38)</em></u></strong></font></li><br><font face=Verdana>Goddag<br>Hvor sidder tallerkenen i luftm_ngdem_leren ??<br><br>Mvh<br>Steen <br>Frederikssund</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 05-12-2013 21:44)</em></u></strong></font></li><br><font face=Verdana>den sidder i spj_ldhuset. ikke i luftm_ngdem_leren. :-)</font><br><li><font face=Verdana><strong><u>Re: - <em>(Hax Hermansen, 05-12-2013 22:27)</em></u></strong></font></li><br><font face=Verdana>Jeg vil mene at "tallerkenen" er den store runde plade der sidder monteret med en 5mm. bolt nederst,n_r man tager gummib_lgen af luftm_ngdem_leren.Spj_ldet er den _verste del,som gaskablet har forbindelse til.<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 06-12-2013 07:05)</em></u></strong></font></li><br><font face=Verdana>N_e ja naturligvis  ( det er l_nge siden jeg havde bilen ) :-)</font><br><li><font face=Verdana><strong><u>Re: - <em>(Hax Hermansen, 11-12-2013 23:18)</em></u></strong></font></li><br><font face=Verdana>S_ k_rer maskinen igen.Det var en ut_t slange,fra koldstarsventilen til gasspj_ldet i manifolden,samt snavset "tallerken" i luftm_ndem_leren,der drillede.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 12-12-2013 11:12)</em></u></strong></font></li><br><font face=Verdana>fedt!</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 12-12-2013 15:18)</em></u></strong></font></li><br><font face=Verdana>Og du l_ste opgaven uden at skulle skifte motor &#59;-)</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

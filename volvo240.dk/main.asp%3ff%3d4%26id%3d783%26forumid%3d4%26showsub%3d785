@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,13 +198,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spørge andre Volvo-ejere tilråds om alt vedrørende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spÃ¸rge andre Volvo-ejere tilrÃ¥ds om alt vedrÃ¸rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=783"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=783"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>F&#230;lgm&#248;trikker til VOLVO Turbinef&#230;lge.</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>FÃ¦lgmÃ¸trikker til VOLVO TurbinefÃ¦lge.</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-08-2003&nbsp; 11:26</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-08-2003 11:26</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Nye topmøtrikker til mine originale Volvo Alu-turbinefælge (Volvo 245-1988)koster 57 kr./stk. hos Volvo DK, så det bliver lidt kosbart for 20 nye stk.<br>De gamle er spændt ovale i den yderste del af hullerne og spænder helt vildt ved montering.<br>Findes der akceptable alternative løsninger, f.eks. i form af uoriginale topmøtrikker eller kan de gamle skæres op med en snittap.<br>Hvilket gevind er der tale om ?<br><br></font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Nye topmÃ¸trikker til mine originale Volvo Alu-turbinefÃ¦lge (Volvo 245-1988)koster 57 kr./stk. hos Volvo DK, sÃ¥ det bliver lidt kosbart for 20 nye stk.<br>De gamle er spÃ¦ndt ovale i den yderste del af hullerne og spÃ¦nder helt vildt ved montering.<br>Findes der akceptable alternative lÃ¸sninger, f.eks. i form af uoriginale topmÃ¸trikker eller kan de gamle skÃ¦res op med en snittap.<br>Hvilket gevind er der tale om ?<br><br></font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=783&ForumID=4&Showsub=785'>Re: F&#230;lgm&#248;trikker til VOLVO Turbinef&#230;lge.</a> <em>(Michael Jensen, 29-08-2003 21:43)</em></strong></font></li><br><font face=Verdana>Gevindene på hjulmøtrikkerne er 1/2UNF.<br>Jeg har selv samme problem idet jeg havde en skæv fælg og jeg købte<br>4Tunaverken alufælge.<br><br>Firmaet BILTEMA sælger forkromede topmøtrikker til Volvo, men de er<br>lavet forkert idet hullet der er boret er for stort, hvilket <br>bevirker at møtrikkerne er meget løse i gevindet.<br>Jeg vil på det kraftigste fraråde at man benytter disse møtrikker.<br>Hvad koster møtrikkerne evt. hos en forhandler i Sverige?</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=783&ForumID=4&Showsub=785'>Re: FÃ¦lgmÃ¸trikker til VOLVO TurbinefÃ¦lge.</a> <em>(Michael Jensen, 29-08-2003 21:43)</em></strong></font></li><br><font face=Verdana>Gevindene pÃ¥ hjulmÃ¸trikkerne er 1/2UNF.<br>Jeg har selv samme problem idet jeg havde en skÃ¦v fÃ¦lg og jeg kÃ¸bte<br>4Tunaverken alufÃ¦lge.<br><br>Firmaet BILTEMA sÃ¦lger forkromede topmÃ¸trikker til Volvo, men de er<br>lavet forkert idet hullet der er boret er for stort, hvilket <br>bevirker at mÃ¸trikkerne er meget lÃ¸se i gevindet.<br>Jeg vil pÃ¥ det kraftigste frarÃ¥de at man benytter disse mÃ¸trikker.<br>Hvad koster mÃ¸trikkerne evt. hos en forhandler i Sverige?</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">7</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">7</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,13 +198,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=41"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=41"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-10-2002&nbsp; 08:51</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-10-2002 08:51</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej. <br><br>Jeg har en 245 GL fra 79, med en B23A motor. Indtil for nylig, kørte motoren perfekt, men nu har jeg fået et problem. Når jeg kører, er der normalt ingen problemer når den er kold, men når den bliver varm ( nogengange også når den er kold ), "hugger" den. Det er som om den sætter ud og går i gang igen. Jeg troede først at det var karburatoren, så jeg skilte den ad, rensede den, da der var aflejringer i den, blæste den igennem og satte den på igen. Derefter var der ikke nogen problemer i et døgn, men nu til morgen, startede den, kørte perfekt indtil den var varm, og så huggede den noget så gevaldigt, ikke hele tiden, kun en gang imellem, og der er ingen logik i det. Nogen gange er det op ad bakke, andre gange når jeg skal sætte i gang, og nogen gange når det går ned ad bakke. Det skal også siges at jeg ikke kan stille tomgangen på den mere - den står noget lavt. Tændingsinstillingen er sat til 5 grader fød. Jeg kører bilen på blyfri benzin, har det noget at sige ? Karburatoren er en Pierburg DVG 175 cdus. <br><br>Jo, alle tændingsdele er nye, sammen med benzinfilteret, luftfilteret osv. <br><br>Det skal lige siges at før jeg skilte karburatoren ad, kunne jeg - hvis jeg stoppede bilen og ventede lidt, ikke starte den før at jeg pillede luftfilteret af, og jokkede speederen helt i bund ? ???<br><br>Håber nogen kan hjælpe mig ? <br><br>På forhånd tak.<br>Sebastian Neumann</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej. <br><br>Jeg har en 245 GL fra 79, med en B23A motor. Indtil for nylig, kÃ¸rte motoren perfekt, men nu har jeg fÃ¥et et problem. NÃ¥r jeg kÃ¸rer, er der normalt ingen problemer nÃ¥r den er kold, men nÃ¥r den bliver varm ( nogengange ogsÃ¥ nÃ¥r den er kold ), "hugger" den. Det er som om den sÃ¦tter ud og gÃ¥r i gang igen. Jeg troede fÃ¸rst at det var karburatoren, sÃ¥ jeg skilte den ad, rensede den, da der var aflejringer i den, blÃ¦ste den igennem og satte den pÃ¥ igen. Derefter var der ikke nogen problemer i et dÃ¸gn, men nu til morgen, startede den, kÃ¸rte perfekt indtil den var varm, og sÃ¥ huggede den noget sÃ¥ gevaldigt, ikke hele tiden, kun en gang imellem, og der er ingen logik i det. Nogen gange er det op ad bakke, andre gange nÃ¥r jeg skal sÃ¦tte i gang, og nogen gange nÃ¥r det gÃ¥r ned ad bakke. Det skal ogsÃ¥ siges at jeg ikke kan stille tomgangen pÃ¥ den mere - den stÃ¥r noget lavt. TÃ¦ndingsinstillingen er sat til 5 grader fÃ¸d. Jeg kÃ¸rer bilen pÃ¥ blyfri benzin, har det noget at sige ? Karburatoren er en Pierburg DVG 175 cdus. <br><br>Jo, alle tÃ¦ndingsdele er nye, sammen med benzinfilteret, luftfilteret osv. <br><br>Det skal lige siges at fÃ¸r jeg skilte karburatoren ad, kunne jeg - hvis jeg stoppede bilen og ventede lidt, ikke starte den fÃ¸r at jeg pillede luftfilteret af, og jokkede speederen helt i bund ? ???<br><br>HÃ¥ber nogen kan hjÃ¦lpe mig ? <br><br>PÃ¥ forhÃ¥nd tak.<br>Sebastian Neumann</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=41&ForumID=2&Showsub=49'>Re: Motorproblem ?</a> <em>(Jes, 29-10-2002 16:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=41&ForumID=2&Showsub=46'>Re: Motorproblem ?</a> <em>(Sebastian Neumann, 28-10-2002 21:53)</em></strong></font></li><br><font face=Verdana>Hej igen.<br><br>Lige for at følge lidt op. CO værdien på bilen er 2.0 % ( uden åndeslange fra krumtap ), og bilen suger ikke falsk luft ( prøvede med æter overalt ). Men, jeg prøvede til sidst at skifte tændspolen på bilen, da det var det eneste i tændingsanlægget jeg ikke havde skiftet, og straks efter, da jeg startede bilen, kunne jeg justere tomgang igen, og bilen går nu ( næsten ) som en drøm. Den huggede en enkelt gang i 5 ( OD ) i dag, men ellers overhovedet ikke, tændingen står stabilt på 10 grader fød, og tomgangen ligger klippestabilt på 900 o/min. Mit spørgsmål er nu, kan en tændspole virkelig gøre alt det - eller har der snarere været en løs forbindelse eller fugt til stede i den gamle, da det åbenbart var den der gav problemer ? <br><br>På forhånd tak for hjælpen.<br>Sebastian Neumann</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=41&ForumID=2&Showsub=44'>Re: Motorproblem ?</a> <em>(Jes, 26-10-2002 09:57)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=41&ForumID=2&Showsub=49'>Re: Motorproblem ?</a> <em>(Jes, 29-10-2002 16:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=41&ForumID=2&Showsub=46'>Re: Motorproblem ?</a> <em>(Sebastian Neumann, 28-10-2002 21:53)</em></strong></font></li><br><font face=Verdana>Hej igen.<br><br>Lige for at fÃ¸lge lidt op. CO vÃ¦rdien pÃ¥ bilen er 2.0 % ( uden Ã¥ndeslange fra krumtap ), og bilen suger ikke falsk luft ( prÃ¸vede med Ã¦ter overalt ). Men, jeg prÃ¸vede til sidst at skifte tÃ¦ndspolen pÃ¥ bilen, da det var det eneste i tÃ¦ndingsanlÃ¦gget jeg ikke havde skiftet, og straks efter, da jeg startede bilen, kunne jeg justere tomgang igen, og bilen gÃ¥r nu ( nÃ¦sten ) som en drÃ¸m. Den huggede en enkelt gang i 5 ( OD ) i dag, men ellers overhovedet ikke, tÃ¦ndingen stÃ¥r stabilt pÃ¥ 10 grader fÃ¸d, og tomgangen ligger klippestabilt pÃ¥ 900 o/min. Mit spÃ¸rgsmÃ¥l er nu, kan en tÃ¦ndspole virkelig gÃ¸re alt det - eller har der snarere vÃ¦ret en lÃ¸s forbindelse eller fugt til stede i den gamle, da det Ã¥benbart var den der gav problemer ? <br><br>PÃ¥ forhÃ¥nd tak for hjÃ¦lpen.<br>Sebastian Neumann</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=41&ForumID=2&Showsub=44'>Re: Motorproblem ?</a> <em>(Jes, 26-10-2002 09:57)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">10</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">10</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

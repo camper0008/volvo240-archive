@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -153,7 +153,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Per N&#230;ser</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Per Næser</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-12-2013&nbsp; 20:06</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-12-2013 20:06</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">_v min tandrem er sprunget, motoren gik straks ud og jeg fik den bugseret hjem. Har motoren taget skade eller er det bare en ny rem p_. Det er en B230k motor som sidder i en 740 GL fra 87, hvordan kan  jeg finde uf om ventilerne har taget skade uden at skal have topstykket af.</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Mark Bredahl, 19-12-2013 16:06)</em></u></strong></font></li><br><font face=Verdana>Jeg har l_st, her p_ siden, at lige pr_cis en B230K ikke har super godt af at tandremmen kn_kker.<br>:-/<br><br>Mvh Mark</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Mark Bredahl, 19-12-2013 16:06)</em></u></strong></font></li><br><font face=Verdana>Pr_v at Google "tandrem kn_kket p_ B230K"</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 19-12-2013 17:36)</em></u></strong></font></li><br><font face=Verdana>Hej Per<br>En kn_kket tandrem i en B230K motor b_jer ca. 3 til 5 ventiler, og topstykket kan ikke bruges mere.<br>Du kan hente et brugt topstykke hos mig der er i orden, for 300,-kr<br>Bare ring eller mail,  <a href="mailto:hubertusvolvo@gmail.com">hubertusvolvo@gmail.com</a><br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Per N&#230;ser, 09-01-2014 21:52)</em></u></strong></font></li><br><font face=Verdana>Jeg vil lige f_lge op p_ min _delagte tandrem. Mit topstykke havde 3 b_jede ventiler, s_ jeg fik et nyt topstykke hos Jens Peter Jensen ovre vest p_. Ved samme lejlighed fjernede jeg puls-air systemet som alligevel ikke fungerede. Motoren g_r nu meget bedre end f_r, men ventiler snakker lidt rigligt. Er der nogle p_ siden som kan justere ventiler eller kender nogen som kan det. Har pr_vet nogle lokale v_rksteder, men der er ikke megen hj_lp at hente. Bor ved Odense <br><br>Mhv Per</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 09-01-2014 22:17)</em></u></strong></font></li><br><font face=Verdana>Hej Per<br>Ja, det er s_rgeligt med de moderne v_rksteder nu om dage, de kan ikke reparere en bil der er over 15 _r gammel-<br>At justere ventiler p_ en r_dbloksmotor fra Volvo er noget af det letteste der findes, der beh_ves 1 stk. ventilpresse (specialv_rkt_j)1 stk. bladf_ler, en lille skruetr_kker og et sortiment af SIMS, s_ k_rer det for dig, uden THansen.<br>MVH J.P.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kristoffer, 12-01-2014 12:05)</em></u></strong></font></li><br><font face=Verdana>pr_v volderslev auto,det er i Odense s, ikke langt fra den store rundk_rsel. han skulle v_re gammel volvo mand fra kolding volvo klub.<br>mvh kristoffer</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Mark Bredahl, 19-12-2013 16:06)</em></u></strong></font></li><br><font face=Verdana>Jeg har l_st, her p_ siden, at lige pr_cis en B230K ikke har super godt af at tandremmen kn_kker.<br>:-/<br><br>Mvh Mark</font><br><li><font face=Verdana><strong><u>Re: - <em>(Mark Bredahl, 19-12-2013 16:06)</em></u></strong></font></li><br><font face=Verdana>Pr_v at Google "tandrem kn_kket p_ B230K"</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 19-12-2013 17:36)</em></u></strong></font></li><br><font face=Verdana>Hej Per<br>En kn_kket tandrem i en B230K motor b_jer ca. 3 til 5 ventiler, og topstykket kan ikke bruges mere.<br>Du kan hente et brugt topstykke hos mig der er i orden, for 300,-kr<br>Bare ring eller mail,  <a href="mailto:hubertusvolvo@gmail.com">hubertusvolvo@gmail.com</a><br>MVH Jens Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Per Næser, 09-01-2014 21:52)</em></u></strong></font></li><br><font face=Verdana>Jeg vil lige f_lge op p_ min _delagte tandrem. Mit topstykke havde 3 b_jede ventiler, s_ jeg fik et nyt topstykke hos Jens Peter Jensen ovre vest p_. Ved samme lejlighed fjernede jeg puls-air systemet som alligevel ikke fungerede. Motoren g_r nu meget bedre end f_r, men ventiler snakker lidt rigligt. Er der nogle p_ siden som kan justere ventiler eller kender nogen som kan det. Har pr_vet nogle lokale v_rksteder, men der er ikke megen hj_lp at hente. Bor ved Odense <br><br>Mhv Per</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 09-01-2014 22:17)</em></u></strong></font></li><br><font face=Verdana>Hej Per<br>Ja, det er s_rgeligt med de moderne v_rksteder nu om dage, de kan ikke reparere en bil der er over 15 _r gammel-<br>At justere ventiler p_ en r_dbloksmotor fra Volvo er noget af det letteste der findes, der beh_ves 1 stk. ventilpresse (specialv_rkt_j)1 stk. bladf_ler, en lille skruetr_kker og et sortiment af SIMS, s_ k_rer det for dig, uden THansen.<br>MVH J.P.</font><br><li><font face=Verdana><strong><u>Re: - <em>(kristoffer, 12-01-2014 12:05)</em></u></strong></font></li><br><font face=Verdana>pr_v volderslev auto,det er i Odense s, ikke langt fra den store rundk_rsel. han skulle v_re gammel volvo mand fra kolding volvo klub.<br>mvh kristoffer</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

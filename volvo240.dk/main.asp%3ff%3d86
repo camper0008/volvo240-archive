@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Knastaksel Info</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Knastaksel Info</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -158,7 +158,7 @@ Basis cirklen og ventilen p_ grund af ventil spillerummet.</P>
 fjernes og ventilen begynder at _bne. P_ en standard knastaksel er det for at 
 reducere st_j, men en high-power motor kr_ver en hurtigere acceleration af 
 ventilen, s_ rampen er derfor modificeret til at kunne dette (h_rd knast), men 
-rampen p_ den lukkende side skal stadig v_re bl_d ellers vil ventilen&nbsp; 
+rampen p_ den lukkende side skal stadig v_re bl_d ellers vil ventilen 
 banke og ikke blive i sin lukkede position, hvilket giver mindre power og motor 
 omdrejninger.</P>
 <P><B>Flanken</B> er den del knasten, hvor 
@@ -193,21 +193,21 @@ _ben i hele de 180 grader hvor stemplet g_r op, og lukker 15 grader efter TDC<su
 Dette giver en duration p_ 
 50+180+15=245 grader.</P>
 <P>Den tid hvor b_de ind- og udst_dningsventilen er _ben kaldes 
-&quot;overlap&quot;, og generelt er det s_dan, at jo st_rre overlap, jo hurtigere og mere 
+"overlap", og generelt er det s_dan, at jo st_rre overlap, jo hurtigere og mere 
 power giver knastakslen.<br>
 Udst_dningsgassernes bev_gelse hj_lper med at tr_kke frisk luft ind i 
 cylinderen. Dette virker bedst ved h_je omdrejninger, og et stort overlap giver 
 en lidt uj_vn tomgang.</P>
-<P><font size="1"><sup>1</sup> TDC er &quot;_verste d_dpunkt&quot;. Der hvor stemplet 
+<P><font size="1"><sup>1</sup> TDC er "_verste d_dpunkt". Der hvor stemplet 
 vender fra at k_re opad til nedad.<br>
-<sup>2</sup> LDC er &quot;nederste d_dpunkt&quot;. Der hvor stemplet vender fra at 
+<sup>2</sup> LDC er "nederste d_dpunkt". Der hvor stemplet vender fra at 
 k_re nedad til opad.</font></P>
 <hr>
 <P>Ved at _ndre p_ ventilspillerummet kan duration _ndres, men 
 dette er IKKE tilr_deligt.<br>
-Hvis ventilspillerummet&nbsp; er for stort vil der v_re megen st_j og knasterne 
+Hvis ventilspillerummet er for stort vil der v_re megen st_j og knasterne 
 vil slides hurtigere.<br>
-Hvil ventilspillerummet&nbsp; er for lille, kan ventilen &quot;h_nge&quot; hvis ramperne 
+Hvil ventilspillerummet er for lille, kan ventilen "h_nge" hvis ramperne 
 er lange, hvilket giver mindre power end standard.</P>
 <P>V_rdien for duration er ikke et m_l for hvor meget power motoren 
 har. Det er en v_rdi som fort_ller hvordan profilen ser ud.</P>
@@ -244,7 +244,7 @@ ridser.</P>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

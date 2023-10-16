@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">30-06-2009&nbsp; 20:42</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">30-06-2009 20:42</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa.<br><br>Jeg har for et godt stykke tid siden f_et monteret en 540 nm. kobling p_ min 940. Det har selvf_lgelig betydet at koblingspedalen er blevet en del h_rdere at tr_de ned. Se, det er fruen ikke specielt vild med, s_ jeg ville h_re om nogle af jer har kendskab til om man kan g_re pedalen lidt lettere at aktiverer?<br><br>P_ forh_nd tak.<br><br><br>Kjeld Lund</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 30-06-2009 21:34)</em></u></strong></font></li><br><font face=Verdana>Styrketr_ning er den eneste mulighed.<br>Den type kobling er beregnet til motorsport og man kan ikke b_de bl_se og have mel i munden samtidigt.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kjeld Lund, 01-07-2009 19:15)</em></u></strong></font></li><br><font face=Verdana>Hej Christian. <br><br>Ja, det var ogs_ mit forslag :0) men det faldt ikke i god jord. <br><br>Jeg har h_rt at koblingen fra en 940 diesel skulle have en anden slavecylinder<br>eller hovedcylinder, s_ jeg h_ber nogen kender til det eller har pr_vet det selv. <br><br>Kjeld <br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Morten VJ, 03-07-2009 06:33)</em></u></strong></font></li><br><font face=Verdana>Nu er det sv_rt at vide hvad h_rdt er uden en m_ling.<br>Og lige s_ sv_rt at beskrive.<br><br>Samme type trykfod, med standart 260 hydraulik, var ulidelig h_rd.<br>Faktisk s_ h_rd at kuglen i koblingshuset kn_kkede efter 2 m_neder.<br>Min l_sning var radikal. <br>Hydraulikken blev skiftet med et komplet system fra en Saab 9000.<br>Fordelen er mindsket friktion, da slavecylinderen trykker direkte p_ trykfoden.<br>H_rdheden er som en kobling i en stor 4 hjuls tr_kker.<br>DVS ikke noget med at have bilen i gear mens man holder for r_dt.<br><br>N_ste projekt bliver at regne lidt p_ det, <br>og se hvad en forl_ngelse af koblingspedalen kan give.<br><br>Volvo slavecylinderen er nok en blindgyde, da der svjv. kun findes et del nr.<br>Fra 240 til 940<br><br>S_ det bliver nok noget med at finde en hovedcylinder med mindre diameter.<br>Men der skal v_re plads til at slagl_ngden for_ges.<br><br>MVH<br><br>Morten</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kjeld Lund, 03-07-2009 21:37)</em></u></strong></font></li><br><font face=Verdana>Hej Morten. <br><br>Det lyder som en meget kompliceret l_sning med en slavecylinder fra en SAAB. Hvordan fik du det til at fungere?<br><br>Jeg har ogs_ en forventning at koblingen ikke bliver som en microbil. Jeg kan godt lide at man kan m_rke<br>at man virkelig har en kobling under foden. Meen, med 540 NM er den lige h_rd nok. <br><br>Kjeld</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Morten VJ, 04-07-2009 09:07)</em></u></strong></font></li><br><font face=Verdana>Egentlig var det simpelt at lave.<br>Jeg m_lte lidt, og fik drejet en ring, s_ledes at jeg kunne montere slavecylinderen i koblingshuset. <br>http://img107.imageshack.us/img107/8437/slavecylmw6.jpg<br>Borede center hullet op i slavecylinderen.<br><br>Lavede lidt kobber r_r.<br>Og modeficerede hovedcylinderens monterings punkter, og stang til pedalen.<br><br>Hvis jeg nu havde f_et alle m_l korrekte f_rste gang, s_ var ikke blevet s_ god til at af/p_ montere gearkassen.<br><br>Du burde vel pr_ve koblingen inden du beslutter dig, for hvilken vej du vil g_.<br><br>MVH<br><br>Morten<br><br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 30-06-2009 21:34)</em></u></strong></font></li><br><font face=Verdana>Styrketr_ning er den eneste mulighed.<br>Den type kobling er beregnet til motorsport og man kan ikke b_de bl_se og have mel i munden samtidigt.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kjeld Lund, 01-07-2009 19:15)</em></u></strong></font></li><br><font face=Verdana>Hej Christian. <br><br>Ja, det var ogs_ mit forslag :0) men det faldt ikke i god jord. <br><br>Jeg har h_rt at koblingen fra en 940 diesel skulle have en anden slavecylinder<br>eller hovedcylinder, s_ jeg h_ber nogen kender til det eller har pr_vet det selv. <br><br>Kjeld <br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Morten VJ, 03-07-2009 06:33)</em></u></strong></font></li><br><font face=Verdana>Nu er det sv_rt at vide hvad h_rdt er uden en m_ling.<br>Og lige s_ sv_rt at beskrive.<br><br>Samme type trykfod, med standart 260 hydraulik, var ulidelig h_rd.<br>Faktisk s_ h_rd at kuglen i koblingshuset kn_kkede efter 2 m_neder.<br>Min l_sning var radikal. <br>Hydraulikken blev skiftet med et komplet system fra en Saab 9000.<br>Fordelen er mindsket friktion, da slavecylinderen trykker direkte p_ trykfoden.<br>H_rdheden er som en kobling i en stor 4 hjuls tr_kker.<br>DVS ikke noget med at have bilen i gear mens man holder for r_dt.<br><br>N_ste projekt bliver at regne lidt p_ det, <br>og se hvad en forl_ngelse af koblingspedalen kan give.<br><br>Volvo slavecylinderen er nok en blindgyde, da der svjv. kun findes et del nr.<br>Fra 240 til 940<br><br>S_ det bliver nok noget med at finde en hovedcylinder med mindre diameter.<br>Men der skal v_re plads til at slagl_ngden for_ges.<br><br>MVH<br><br>Morten</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kjeld Lund, 03-07-2009 21:37)</em></u></strong></font></li><br><font face=Verdana>Hej Morten. <br><br>Det lyder som en meget kompliceret l_sning med en slavecylinder fra en SAAB. Hvordan fik du det til at fungere?<br><br>Jeg har ogs_ en forventning at koblingen ikke bliver som en microbil. Jeg kan godt lide at man kan m_rke<br>at man virkelig har en kobling under foden. Meen, med 540 NM er den lige h_rd nok. <br><br>Kjeld</font><br><li><font face=Verdana><strong><u>Re: - <em>(Morten VJ, 04-07-2009 09:07)</em></u></strong></font></li><br><font face=Verdana>Egentlig var det simpelt at lave.<br>Jeg m_lte lidt, og fik drejet en ring, s_ledes at jeg kunne montere slavecylinderen i koblingshuset. <br>http://img107.imageshack.us/img107/8437/slavecylmw6.jpg<br>Borede center hullet op i slavecylinderen.<br><br>Lavede lidt kobber r_r.<br>Og modeficerede hovedcylinderens monterings punkter, og stang til pedalen.<br><br>Hvis jeg nu havde f_et alle m_l korrekte f_rste gang, s_ var ikke blevet s_ god til at af/p_ montere gearkassen.<br><br>Du burde vel pr_ve koblingen inden du beslutter dig, for hvilken vej du vil g_.<br><br>MVH<br><br>Morten<br><br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -267,7 +267,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">12</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">12</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

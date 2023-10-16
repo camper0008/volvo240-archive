@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="Søg" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske sp�rgsm�l om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=4129"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=4129"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>S&#230;devarme virker ikke ej heller tripkmt&#230;ller</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Sædevarme virker ikke ej heller tripkmtæller</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-09-2005&nbsp; 12:19</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-09-2005 12:19</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">jeg har lige k�bt en volvo 240.2.3 st.car fra 87.<br>der er ikke noget varme i s�det.er det dyrt at f� lavet og hvad med tript�lleren,alts� den man idstiller p� 0 n�r man skal se hvor langt man k�rer.er det dyrt at f� lavet?<br>er i andre tilfredse med jeres volvo 240 og hvorfor kan i lide lige den model?hilsen kette amat�ren</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">jeg har lige købt en volvo 240.2.3 st.car fra 87.<br>der er ikke noget varme i sædet.er det dyrt at få lavet og hvad med triptælleren,altså den man idstiller på 0 når man skal se hvor langt man kører.er det dyrt at få lavet?<br>er i andre tilfredse med jeres volvo 240 og hvorfor kan i lide lige den model?hilsen kette amatøren</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4144'>Re: S&#230;devarme virker ikke ej heller tripkmt&#230;ller</a> <em>(Erling, 20-09-2005 12:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4143'>Re: S&#230;devarme virker ikke ej heller tripkmt&#230;ller</a> <em>(Johan &#197;rman, 20-09-2005 09:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4142'>Re: S&#230;devarme virker ikke ej heller tripkmt&#230;ller</a> <em>(kette35, 20-09-2005 09:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4140'>Re: S&#230;devarme virker ikke ej heller tripkmt&#230;ller</a> <em>(kent, 20-09-2005 09:24)</em></strong></font></li><br><font face=Verdana>en mekaniker ka sagtens lave det,men pr�v med pr�velampen f�rst.</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4138'>Re: S&#230;devarme virker ikke ej heller tripkmt&#230;ller</a> <em>(kette35, 20-09-2005 09:08)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4135'>Re: S&#230;devarme virker ikke ej heller tripkmt&#230;ller</a> <em>(kent, 19-09-2005 23:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4134'>Re: S&#230;devarme virker ikke ej heller tripkmt&#230;ller</a> <em>(kent, 19-09-2005 23:16)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4130'>Re: S&#230;devarme virker ikke ej heller tripkmt&#230;ller</a> <em>(Jens Peter Jensen, 19-09-2005 17:31)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4144'>Re: Sædevarme virker ikke ej heller tripkmtæller</a> <em>(Erling, 20-09-2005 12:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4143'>Re: Sædevarme virker ikke ej heller tripkmtæller</a> <em>(Johan Årman, 20-09-2005 09:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4142'>Re: Sædevarme virker ikke ej heller tripkmtæller</a> <em>(kette35, 20-09-2005 09:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4140'>Re: Sædevarme virker ikke ej heller tripkmtæller</a> <em>(kent, 20-09-2005 09:24)</em></strong></font></li><br><font face=Verdana>en mekaniker ka sagtens lave det,men prøv med prøvelampen først.</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4138'>Re: Sædevarme virker ikke ej heller tripkmtæller</a> <em>(kette35, 20-09-2005 09:08)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4135'>Re: Sædevarme virker ikke ej heller tripkmtæller</a> <em>(kent, 19-09-2005 23:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4134'>Re: Sædevarme virker ikke ej heller tripkmtæller</a> <em>(kent, 19-09-2005 23:16)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4129&ForumID=2&Showsub=4130'>Re: Sædevarme virker ikke ej heller tripkmtæller</a> <em>(Jens Peter Jensen, 19-09-2005 17:31)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">15</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">15</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

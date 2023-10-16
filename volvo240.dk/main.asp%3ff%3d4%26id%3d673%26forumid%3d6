@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-09-2004&nbsp; 15:41</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-09-2004 15:41</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hvor k_ber I originale reservedele? G_r jeg blot til min lokale Bilia, eller er der andre (evt. billigere) muligheder?<br>Mvh Jesper<br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 09-09-2004 21:38)</em></u></strong></font></li><br><font face=Verdana>Der er da n_ppe nogen tvivl om, at du hos din lokale Volvo forhandler, kan f_ de reservedele som du skal bruge.<br>Og det er min erfaring, at de ogs_ er villige til at give r_d og vejledning i forbindelse med montering og anvendelse.<br><br>Mvh<br>Finn Kruse</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Simon, 12-09-2004 18:06)</em></u></strong></font></li><br><font face=Verdana>Jeg har bare oplevet der er nogle ting de ikke engang gider unders_ge. Den lokale mente ikke der var lavet el-antenne til 240, s_ det kunne han alts_ ikke f_ hjem. Ringede til en der l_ 12km v_k og der var det intet problem - s_ jeg k_bte den bare der.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Michael Poulsen, 13-09-2004 22:52)</em></u></strong></font></li><br><font face=Verdana>det er langtis siden, ca 1973 jeg stod med dele til en Amazon, idag er det 245, men bremsedele, produceret hos Girling,ATE, Bendix, har kun kassen til forskel, det istemplede nummer er det samme, olie kontroller mill og ford normen, i lang tid leverede Sacs koblinger til Volvo,kilremme, jeg kan blive ved, tit er der kun kassen og prisen til forskeld, men med al respekt. Der er dele der er bedst originale. Siger en der har lavet volvo hos Competition Service.<br><br>mvh<br><br>Michael</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jesper, 14-09-2004 17:46)</em></u></strong></font></li><br><font face=Verdana>Interessante insider-oplysninger fra Michael! Jeg er ikke i tvivl om, at min lokale Volvoforhandler er leveringsdygtig i de reservedele jeg har brug for, og tvivler heller ikke p_ at de kan give en god vejledning etc. Men mht. almindelige sliddele (bremseklodser, oliefilter etc.) var jeg blot interesseret i at h_re om det er muligt at k_be disse (originale) dele uden et fordyrende "mellemled". Men m_ske skal jeg lade v_re med at opfatte min Volvoforhandler som et "mellemled"?<br>Mvh Jesper</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(michael nordahn, 17-09-2004 01:00)</em></u></strong></font></li><br><font face=Verdana>Der ER da et sted ,hvor man kan f_ en rigtig god service, og de helt rigtige reservedele, originale.......<br>Gadbjerg reservedelslager, ved Kristian Worm..<br>75876244.<br>www.volvospareparts.com <br>Og han har hjulpet mig gennem volvojunglen de sidste 13 _r...<br>Kan varmt anbefales, og han er IKKE for dyr..<br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 09-09-2004 21:38)</em></u></strong></font></li><br><font face=Verdana>Der er da n_ppe nogen tvivl om, at du hos din lokale Volvo forhandler, kan f_ de reservedele som du skal bruge.<br>Og det er min erfaring, at de ogs_ er villige til at give r_d og vejledning i forbindelse med montering og anvendelse.<br><br>Mvh<br>Finn Kruse</font><br><li><font face=Verdana><strong><u>Re: - <em>(Simon, 12-09-2004 18:06)</em></u></strong></font></li><br><font face=Verdana>Jeg har bare oplevet der er nogle ting de ikke engang gider unders_ge. Den lokale mente ikke der var lavet el-antenne til 240, s_ det kunne han alts_ ikke f_ hjem. Ringede til en der l_ 12km v_k og der var det intet problem - s_ jeg k_bte den bare der.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Michael Poulsen, 13-09-2004 22:52)</em></u></strong></font></li><br><font face=Verdana>det er langtis siden, ca 1973 jeg stod med dele til en Amazon, idag er det 245, men bremsedele, produceret hos Girling,ATE, Bendix, har kun kassen til forskel, det istemplede nummer er det samme, olie kontroller mill og ford normen, i lang tid leverede Sacs koblinger til Volvo,kilremme, jeg kan blive ved, tit er der kun kassen og prisen til forskeld, men med al respekt. Der er dele der er bedst originale. Siger en der har lavet volvo hos Competition Service.<br><br>mvh<br><br>Michael</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jesper, 14-09-2004 17:46)</em></u></strong></font></li><br><font face=Verdana>Interessante insider-oplysninger fra Michael! Jeg er ikke i tvivl om, at min lokale Volvoforhandler er leveringsdygtig i de reservedele jeg har brug for, og tvivler heller ikke p_ at de kan give en god vejledning etc. Men mht. almindelige sliddele (bremseklodser, oliefilter etc.) var jeg blot interesseret i at h_re om det er muligt at k_be disse (originale) dele uden et fordyrende "mellemled". Men m_ske skal jeg lade v_re med at opfatte min Volvoforhandler som et "mellemled"?<br>Mvh Jesper</font><br><li><font face=Verdana><strong><u>Re: - <em>(michael nordahn, 17-09-2004 01:00)</em></u></strong></font></li><br><font face=Verdana>Der ER da et sted ,hvor man kan f_ en rigtig god service, og de helt rigtige reservedele, originale.......<br>Gadbjerg reservedelslager, ved Kristian Worm..<br>75876244.<br>www.volvospareparts.com <br>Og han har hjulpet mig gennem volvojunglen de sidste 13 _r...<br>Kan varmt anbefales, og han er IKKE for dyr..<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -264,9 +264,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">21</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">21</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

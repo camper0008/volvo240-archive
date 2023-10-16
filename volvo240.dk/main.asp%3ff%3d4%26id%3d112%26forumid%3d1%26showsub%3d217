@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,13 +198,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Motor </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Motor, Gearkasse og Bagtøj. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Motor, Gearkasse og BagtÃ¸j. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=112"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=112"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-12-2002&nbsp; 17:26</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-12-2002 17:26</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa<br>Jeg er den glade ejer af en 1979 242DL. Mit problem er at jeg ikke kan få min B19 motor til at gå længere end 8 km/l... men den går altid mere end 7,5 km/l... og det er uanset hvordan jeg kører - og om jeg har trailer på..... er der nogen der kan fortælle mig hvad jeg kan gøre for at få den til at gå længere på literen... måske få renoveret karburatoren.... det skal lige siges at jeg fik justeret karburator i januar måned....<br><br>MVH<br>Philip</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa<br>Jeg er den glade ejer af en 1979 242DL. Mit problem er at jeg ikke kan fÃ¥ min B19 motor til at gÃ¥ lÃ¦ngere end 8 km/l... men den gÃ¥r altid mere end 7,5 km/l... og det er uanset hvordan jeg kÃ¸rer - og om jeg har trailer pÃ¥..... er der nogen der kan fortÃ¦lle mig hvad jeg kan gÃ¸re for at fÃ¥ den til at gÃ¥ lÃ¦ngere pÃ¥ literen... mÃ¥ske fÃ¥ renoveret karburatoren.... det skal lige siges at jeg fik justeret karburator i januar mÃ¥ned....<br><br>MVH<br>Philip</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=218'>Re: Volvo 242dl B19</a> <em>(Jes, 28-02-2003 15:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=217'>Re: Volvo 242dl B19</a> <em>(Per, 27-02-2003 22:12)</em></strong></font></li><br><font face=Verdana>Jeg har en 244DL 1979 med automat gear har alle DL´er det?<br>nå men jeg køre kun 6,33 km/l er det normalt <br>jeg har købt den af min farmors mand og den har aldrig kørt over 90 km/t (før nu!)<br>motoren har nu gået 94.000 km. og ser ud somom at den aldrig har været brugt!<br>skal den have en motor justering?<br>jeg køre 380 km max. på en tank 60 L.<br>men den skulle havde kørt 780 km på en tank <br>ja altså på en laaaang tur!<br>og den olie jeg fik med var som <br>18% cremefraise???? skal det være så tykt???</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=116'>Re: Volvo 242dl B19</a> <em>(Philip, 11-12-2002 21:59)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=115'>Re: Volvo 242dl B19</a> <em>(Jesper, 11-12-2002 18:20)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=218'>Re: Volvo 242dl B19</a> <em>(Jes, 28-02-2003 15:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=217'>Re: Volvo 242dl B19</a> <em>(Per, 27-02-2003 22:12)</em></strong></font></li><br><font face=Verdana>Jeg har en 244DL 1979 med automat gear har alle DL´er det?<br>nÃ¥ men jeg kÃ¸re kun 6,33 km/l er det normalt <br>jeg har kÃ¸bt den af min farmors mand og den har aldrig kÃ¸rt over 90 km/t (fÃ¸r nu!)<br>motoren har nu gÃ¥et 94.000 km. og ser ud somom at den aldrig har vÃ¦ret brugt!<br>skal den have en motor justering?<br>jeg kÃ¸re 380 km max. pÃ¥ en tank 60 L.<br>men den skulle havde kÃ¸rt 780 km pÃ¥ en tank <br>ja altsÃ¥ pÃ¥ en laaaang tur!<br>og den olie jeg fik med var som <br>18% cremefraise???? skal det vÃ¦re sÃ¥ tykt???</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=116'>Re: Volvo 242dl B19</a> <em>(Philip, 11-12-2002 21:59)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=115'>Re: Volvo 242dl B19</a> <em>(Jesper, 11-12-2002 18:20)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

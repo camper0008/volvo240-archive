@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;240 DK Modelliste</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">240 DK Modelliste</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -154,27 +154,27 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">2-d_rs</td>
-    <td width="16%">&nbsp;242L - B20A</td>
-    <td width="17%">&nbsp;242DL - B21A</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">242L - B20A</td>
+    <td width="17%">242DL - B21A</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;244L - B20A</td>
-    <td width="17%">&nbsp;244DL - B21A</td>
-    <td width="17%">&nbsp;244GL - B21E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">244L - B20A</td>
+    <td width="17%">244DL - B21A</td>
+    <td width="17%">244GL - B21E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;245L - B20A</td>
-    <td width="17%">&nbsp;245DL - B21A</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">245L - B20A</td>
+    <td width="17%">245DL - B21A</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
@@ -192,32 +192,32 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">2-d_rs</td>
-    <td width="16%">&nbsp;242L - B20A</td>
-    <td width="17%">&nbsp;242DL - B21A</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">242L - B20A</td>
+    <td width="17%">242DL - B21A</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;244L - B20A</td>
-    <td width="17%">&nbsp;244DL - B21A</td>
-    <td width="17%">&nbsp;244GL - B21E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">244L - B20A</td>
+    <td width="17%">244DL - B21A</td>
+    <td width="17%">244GL - B21E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;245L - B20A</td>
-    <td width="17%">&nbsp;245DL - B21A</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">245L - B20A</td>
+    <td width="17%">245DL - B21A</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
   <tr>
-    <td colspan="6">&nbsp;</td>
+    <td colspan="6"></td>
   </tr>
 </tfoot>
 
@@ -230,27 +230,27 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">2-d_rs</td>
-    <td width="16%">&nbsp;242L - B19A</td>
-    <td width="17%">&nbsp;242DL - B21A</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">242L - B19A</td>
+    <td width="17%">242DL - B21A</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;244L - B19A</td>
-    <td width="17%">&nbsp;244DL - B21A</td>
-    <td width="17%">&nbsp;244GL - B21E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">244L - B19A</td>
+    <td width="17%">244DL - B21A</td>
+    <td width="17%">244GL - B21E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;245L - B19A</td>
-    <td width="17%">&nbsp;245DL - B21A</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">245L - B19A</td>
+    <td width="17%">245DL - B21A</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
@@ -270,32 +270,32 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">2-d_rs</td>
-    <td width="16%">&nbsp;242L - B19A</td>
-    <td width="17%">&nbsp;242DL - B21A</td>
-    <td width="17%">&nbsp;242GT - B21E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">242L - B19A</td>
+    <td width="17%">242DL - B21A</td>
+    <td width="17%">242GT - B21E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;244L - B19A</td>
-    <td width="17%">&nbsp;244DL - B21A</td>
-    <td width="17%">&nbsp;244GL - B21E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">244L - B19A</td>
+    <td width="17%">244DL - B21A</td>
+    <td width="17%">244GL - B21E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;245L - B19A</td>
-    <td width="17%">&nbsp;245DL - B21A</td>
-    <td width="17%">&nbsp;245GL - B21E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">245L - B19A</td>
+    <td width="17%">245DL - B21A</td>
+    <td width="17%">245GL - B21E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
   <tr>
-    <td colspan="6">&nbsp;</td>
+    <td colspan="6"></td>
   </tr>
 </tfoot>
 
@@ -309,29 +309,29 @@ document.onmousedown=click;
   <tr>
     <td width="16%">2-d_rs
     </td>
-    <td width="16%">&nbsp;242DL - B19A</td>
-    <td width="17%">&nbsp;242GL - B21A</td>
-    <td width="17%">&nbsp;242GT - B23E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">242DL - B19A</td>
+    <td width="17%">242GL - B21A</td>
+    <td width="17%">242GT - B23E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">4-d_rs
     </td>
-    <td width="16%">&nbsp;244DL - B19A</td>
-    <td width="17%">&nbsp;244GL - B21A</td>
-    <td width="17%">&nbsp;244GLE - B21E</td>
-    <td width="17%">&nbsp;244GLE - B19A</td>
-    <td width="17%">&nbsp;244DL - B17A</td>
+    <td width="16%">244DL - B19A</td>
+    <td width="17%">244GL - B21A</td>
+    <td width="17%">244GLE - B21E</td>
+    <td width="17%">244GLE - B19A</td>
+    <td width="17%">244DL - B17A</td>
   </tr>
   <tr>
     <td width="16%">5-d_rs
     </td>
-    <td width="16%">&nbsp;245DL - B21A</td>
-    <td width="17%">&nbsp;245GL - B21A</td>
-    <td width="17%">&nbsp;245GLE - B21E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">245DL - B21A</td>
+    <td width="17%">245GL - B21A</td>
+    <td width="17%">245GLE - B21E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
@@ -369,27 +369,27 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">2-d_rs</td>
-    <td width="16%">&nbsp;242DL - B19A</td>
-    <td width="17%">&nbsp;242GL - B21A</td>
-    <td width="17%">&nbsp;242GT - B23E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">242DL - B19A</td>
+    <td width="17%">242GL - B21A</td>
+    <td width="17%">242GT - B23E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;244DL - B19A</td>
-    <td width="17%">&nbsp;244GL - B21A</td>
-    <td width="17%">&nbsp;244GLE - B21E</td>
-    <td width="17%">&nbsp;244GLT - B23E</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">244DL - B19A</td>
+    <td width="17%">244GL - B21A</td>
+    <td width="17%">244GLE - B21E</td>
+    <td width="17%">244GLT - B23E</td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;245DL - B21A</td>
-    <td width="17%">&nbsp;245GL - B21A</td>
-    <td width="17%">&nbsp;245DLE - B21E</td>
-    <td width="17%">&nbsp;245GLT - B23E</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">245DL - B21A</td>
+    <td width="17%">245GL - B21A</td>
+    <td width="17%">245DLE - B21E</td>
+    <td width="17%">245GLT - B23E</td>
+    <td width="17%"></td>
   </tr>
   </tbody>
   <tfoot>
@@ -408,27 +408,27 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">2-d_rs</td>
-    <td width="16%">&nbsp;242DL - B21A</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">242DL - B21A</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;244DL - B21A</td>
-    <td width="17%">&nbsp;244GL -  B23A</td>
-    <td width="17%">&nbsp;244GLE - B23E</td>
-    <td width="17%">&nbsp;244GLT - B23E</td>
-    <td width="17%">&nbsp;244TURBO -  B21ET</td>
+    <td width="16%">244DL - B21A</td>
+    <td width="17%">244GL -  B23A</td>
+    <td width="17%">244GLE - B23E</td>
+    <td width="17%">244GLT - B23E</td>
+    <td width="17%">244TURBO -  B21ET</td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;245DL - B21A</td>
-    <td width="17%">&nbsp;245GL -  B23A</td>
-    <td width="17%">&nbsp;245GLE - B23E</td>
-    <td width="17%">&nbsp;245GLT - B23E</td>
-    <td width="17%">&nbsp;245TURBO -  B21ET</td>
+    <td width="16%">245DL - B21A</td>
+    <td width="17%">245GL -  B23A</td>
+    <td width="17%">245GLE - B23E</td>
+    <td width="17%">245GLT - B23E</td>
+    <td width="17%">245TURBO -  B21ET</td>
   </tr>
 </tbody>
 <tfoot>
@@ -450,32 +450,32 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">2-d_rs</td>
-    <td width="16%">&nbsp;242DL - B21A</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">242DL - B21A</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;244DL - B21A</td>
-    <td width="17%">&nbsp;244GL -  B23A</td>
-    <td width="17%">&nbsp;244GLE - B23E</td>
-    <td width="17%">&nbsp;244GLT - B23E</td>
-    <td width="17%">&nbsp;244TURBO -  B21ET</td>
+    <td width="16%">244DL - B21A</td>
+    <td width="17%">244GL -  B23A</td>
+    <td width="17%">244GLE - B23E</td>
+    <td width="17%">244GLT - B23E</td>
+    <td width="17%">244TURBO -  B21ET</td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;245DL - B21A</td>
-    <td width="17%">&nbsp;245GL -  B23A</td>
-    <td width="17%">&nbsp;245GLE - B23E</td>
-    <td width="17%">&nbsp;245GLT - B23E</td>
-    <td width="17%">&nbsp;245TURBO -  B21ET</td>
+    <td width="16%">245DL - B21A</td>
+    <td width="17%">245GL -  B23A</td>
+    <td width="17%">245GLE - B23E</td>
+    <td width="17%">245GLT - B23E</td>
+    <td width="17%">245TURBO -  B21ET</td>
   </tr>
 </tbody>
 <tfoot>
   <tr>
-    <td colspan="6">&nbsp;</td>
+    <td colspan="6"></td>
   </tr>
 </tfoot>
 
@@ -488,27 +488,27 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">2-d_rs</td>
-    <td width="16%">&nbsp;240 - B19A</td>
-    <td width="17%">&nbsp;240 - B21A</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240 - B19A</td>
+    <td width="17%">240 - B21A</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;240 - B19A</td>
-    <td width="17%">&nbsp;240 - B21A</td>
-    <td width="17%">&nbsp;240 -  B23A</td>
-    <td width="17%">&nbsp;240GLT - B23E</td>
-    <td width="17%">&nbsp;240TURBO -  B21ET</td>
+    <td width="16%">240 - B19A</td>
+    <td width="17%">240 - B21A</td>
+    <td width="17%">240 -  B23A</td>
+    <td width="17%">240GLT - B23E</td>
+    <td width="17%">240TURBO -  B21ET</td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;</td>
-    <td width="17%">&nbsp;240 - B21A</td>
-    <td width="17%">&nbsp;240 -  B23A</td>
-    <td width="17%">&nbsp;240GLT - B23E</td>
-    <td width="17%">&nbsp;240TURBO -  B21ET</td>
+    <td width="16%"></td>
+    <td width="17%">240 - B21A</td>
+    <td width="17%">240 -  B23A</td>
+    <td width="17%">240GLT - B23E</td>
+    <td width="17%">240TURBO -  B21ET</td>
   </tr>
 </tbody>
 <tfoot>
@@ -531,27 +531,27 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">2-d_rs</td>
-    <td width="16%">&nbsp;240 - B21A</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240 - B21A</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;240 - B21A</td>
-    <td width="17%">&nbsp;240GL -  B23A</td>
+    <td width="16%">240 - B21A</td>
+    <td width="17%">240GL -  B23A</td>
     <td width="17%">240GLT -  B23E</td>
-    <td width="17%">&nbsp;240TURBO -  B21ET</td>
-    <td width="17%">&nbsp;240 - B19K</td>
+    <td width="17%">240TURBO -  B21ET</td>
+    <td width="17%">240 - B19K</td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;240 - B21A</td>
-    <td width="17%">&nbsp;240GL -  B23A</td>
+    <td width="16%">240 - B21A</td>
+    <td width="17%">240GL -  B23A</td>
     <td width="17%">240GLT - B23E</td>
-    <td width="17%">&nbsp;240TURBO -  B21ET</td>
-    <td width="17%">&nbsp;</td>
+    <td width="17%">240TURBO -  B21ET</td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
@@ -569,23 +569,23 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">2-d_rs</td>
-    <td width="84%" colspan="5">&nbsp;2-d_rs modellen udg_r fra og med 1985</td>
+    <td width="84%" colspan="5">2-d_rs modellen udg_r fra og med 1985</td>
   </tr>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;240DL -  B200K</td>
-    <td width="17%">&nbsp;240GL -  B230A</td>
-    <td width="17%">&nbsp;240GLT -  B230E</td>
-    <td width="17%">&nbsp;240TURBO -  B21ET</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240DL -  B200K</td>
+    <td width="17%">240GL -  B230A</td>
+    <td width="17%">240GLT -  B230E</td>
+    <td width="17%">240TURBO -  B21ET</td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;240DL -  B200K</td>
-    <td width="17%">&nbsp;240GL -  B230A</td>
-    <td width="17%">&nbsp;240GLT -  B21ET</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240DL -  B200K</td>
+    <td width="17%">240GL -  B230A</td>
+    <td width="17%">240GLT -  B21ET</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
@@ -605,19 +605,19 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;240DL -  B230A</td>
-    <td width="17%">&nbsp;240GL -  B230A</td>
-    <td width="17%">&nbsp;240GLT -  B230E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240DL -  B230A</td>
+    <td width="17%">240GL -  B230A</td>
+    <td width="17%">240GLT -  B230E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;240DL -  B230A</td>
-    <td width="17%">&nbsp;240GL -  B230A</td>
-    <td width="17%">&nbsp;240GLT -  B230E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240DL -  B230A</td>
+    <td width="17%">240GL -  B230A</td>
+    <td width="17%">240GLT -  B230E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
@@ -636,24 +636,24 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;240DL -  B230K</td>
-    <td width="17%">&nbsp;240GL -  B230K</td>
-    <td width="17%">&nbsp;240GLT -  B230E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240DL -  B230K</td>
+    <td width="17%">240GL -  B230K</td>
+    <td width="17%">240GLT -  B230E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;240DL -  B230K</td>
-    <td width="17%">&nbsp;240GL -  B230K</td>
-    <td width="17%">&nbsp;240GLT -  B230E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240DL -  B230K</td>
+    <td width="17%">240GL -  B230K</td>
+    <td width="17%">240GLT -  B230E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
   <tr>
-    <td colspan="6">&nbsp;</td>
+    <td colspan="6"></td>
   </tr>
 </tfoot>
 
@@ -666,24 +666,24 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;240DL -  B230K</td>
-    <td width="17%">&nbsp;240GL -  B230K</td>
-    <td width="17%">&nbsp;240GLT -  B230E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240DL -  B230K</td>
+    <td width="17%">240GL -  B230K</td>
+    <td width="17%">240GLT -  B230E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;240DL -  B230K</td>
-    <td width="17%">&nbsp;240GL -  B230K</td>
-    <td width="17%">&nbsp;240GLT -  B230E</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240DL -  B230K</td>
+    <td width="17%">240GL -  B230K</td>
+    <td width="17%">240GLT -  B230E</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
   <tr>
-    <td colspan="6">&nbsp;</td>
+    <td colspan="6"></td>
   </tr>
 </tfoot>
 
@@ -696,19 +696,19 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;240DL -  B230K/F</td>
-    <td width="17%">&nbsp;240GL -  B230K/F</td>
-    <td width="17%">&nbsp;240GLE -  B230E</td>
+    <td width="16%">240DL -  B230K/F</td>
+    <td width="17%">240GL -  B230K/F</td>
+    <td width="17%">240GLE -  B230E</td>
     <td width="17%">240GLT - B230E</td>
-    <td width="17%">&nbsp;</td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;240DL -  B230K/F</td>
-    <td width="17%">&nbsp;240GL -  B230K/F</td>
-    <td width="17%">&nbsp;240GLE -  B230E</td>
+    <td width="16%">240DL -  B230K/F</td>
+    <td width="17%">240GL -  B230K/F</td>
+    <td width="17%">240GLE -  B230E</td>
     <td width="17%">240GLT - B230E</td>
-    <td width="17%">&nbsp;</td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
@@ -730,19 +730,19 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;240GL - B200F</td>
-    <td width="17%">&nbsp;240GL -  B230F</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240GL - B200F</td>
+    <td width="17%">240GL -  B230F</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;</td>
-    <td width="17%">&nbsp;240GL -  B230F</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%"></td>
+    <td width="17%">240GL -  B230F</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
@@ -760,19 +760,19 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;240GL - B200F</td>
-    <td width="17%">&nbsp;240GL -  B230F</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240GL - B200F</td>
+    <td width="17%">240GL -  B230F</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;</td>
-    <td width="17%">&nbsp;240GL -  B230F</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%"></td>
+    <td width="17%">240GL -  B230F</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
@@ -790,24 +790,24 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;240GL -  B230F</td>
-    <td width="17%">&nbsp;240SE -  B230F</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240GL -  B230F</td>
+    <td width="17%">240SE -  B230F</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;240GL -  B230F</td>
-    <td width="17%">&nbsp;240SE -  B230F</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240GL -  B230F</td>
+    <td width="17%">240SE -  B230F</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
   <tr>
-    <td colspan="6">&nbsp;</td>
+    <td colspan="6"></td>
   </tr>
 <tfoot>
 
@@ -820,19 +820,19 @@ document.onmousedown=click;
 <tbody>
   <tr>
     <td width="16%">4-d_rs</td>
-    <td width="16%">&nbsp;240GL -  B230F</td>
-    <td width="17%">&nbsp;240SE -  B230F</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240GL -  B230F</td>
+    <td width="17%">240SE -  B230F</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
   <tr>
     <td width="16%">5-d_rs</td>
-    <td width="16%">&nbsp;240GL -  B230F</td>
-    <td width="17%">&nbsp;240SE -  B230F</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
-    <td width="17%">&nbsp;</td>
+    <td width="16%">240GL -  B230F</td>
+    <td width="17%">240SE -  B230F</td>
+    <td width="17%"></td>
+    <td width="17%"></td>
+    <td width="17%"></td>
   </tr>
 </tbody>
 <tfoot>
@@ -915,7 +915,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

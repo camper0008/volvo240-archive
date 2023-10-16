@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=4053"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=4053"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Kolding VOLVO tr&#230;f</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Kolding VOLVO træf</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-08-2005&nbsp; 11:44</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-08-2005 11:44</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">S_ Drenge!! <br><br>  Nu er det med at komme ud af hullerne til TR_F i Kolding 3-5 september, vi kan tales ved ved stumpemarkedet undertegnede har en stand med alt godt fra havet. Hilsen K. Bager</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4053&ForumID=4&Showsub=4076'>Re: Kolding VOLVO tr&#230;f</a> <em>(Ren&#233; &#216;stergaard, 02-09-2005 20:27)</em></strong></font></li><br><font face=Verdana>Jeg tager turen fra K_benhavn i morgen tidlig kl. 7, og forventer at v_re der 9:30. Vel m_dt! :0)</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4053&ForumID=4&Showsub=4071'>Re: Kolding VOLVO tr&#230;f</a> <em>(kent, 01-09-2005 23:45)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4053&ForumID=4&Showsub=4069'>Re: Kolding VOLVO tr&#230;f</a> <em>(torben-ib, 01-09-2005 18:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4053&ForumID=4&Showsub=4055'>Re: Kolding VOLVO tr&#230;f</a> <em>(hans Olesen, 29-08-2005 23:10)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4053&ForumID=4&Showsub=4076'>Re: Kolding VOLVO træf</a> <em>(Ren&#233; Østergaard, 02-09-2005 20:27)</em></strong></font></li><br><font face=Verdana>Jeg tager turen fra K_benhavn i morgen tidlig kl. 7, og forventer at v_re der 9:30. Vel m_dt! :0)</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4053&ForumID=4&Showsub=4071'>Re: Kolding VOLVO træf</a> <em>(kent, 01-09-2005 23:45)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4053&ForumID=4&Showsub=4069'>Re: Kolding VOLVO træf</a> <em>(torben-ib, 01-09-2005 18:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4053&ForumID=4&Showsub=4055'>Re: Kolding VOLVO træf</a> <em>(hans Olesen, 29-08-2005 23:10)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">54</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">54</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

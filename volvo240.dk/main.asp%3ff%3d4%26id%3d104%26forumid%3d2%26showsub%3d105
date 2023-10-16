@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=104"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=104"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Elektriske sp&#248;rgsm&#229;l</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Elektriske spÃ¸rgsmÃ¥l</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-12-2002&nbsp; 13:14</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-12-2002 13:14</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Kære Volvo-folk,<br><br>jeg har for nylig købt en 1986 240 DL Stationcar (316K) og har et par spørgsmål jeg håber nogen kan hjælpe med at opklare. <br>(1) Efter at blinklyset slår fra bliver det ved med at klikke usystematisk et stykke tid. Er det relæet? <br>(2)Kabinelyset virker, men reagerer ikke på dørene, ligesom bagagerumslyset virker, men ikke reagerer på bagklappen. Hvad skyldes det?<br>(3)Katastrofeblinket virker ikke. Når man slår det til virker det som om at det tager al anden strøm, bl.a. fra blæser og elbagrude.<br><br>- og et motor-spørgsmål:<br>(4) Noget rumler når motoren ikke får gas under kørsel, men der er ingen problemer i tomgang. Det lyder som om det kommer lige under forsæderne. Så snart jeg giver det mindste gas forsvinder rumleriet, og det er særligt højt når jeg sætter farten ned, fx op mod et lys.<br><br>På forhånd tak for hjælpen,<br><br>David</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">KÃ¦re Volvo-folk,<br><br>jeg har for nylig kÃ¸bt en 1986 240 DL Stationcar (316K) og har et par spÃ¸rgsmÃ¥l jeg hÃ¥ber nogen kan hjÃ¦lpe med at opklare. <br>(1) Efter at blinklyset slÃ¥r fra bliver det ved med at klikke usystematisk et stykke tid. Er det relÃ¦et? <br>(2)Kabinelyset virker, men reagerer ikke pÃ¥ dÃ¸rene, ligesom bagagerumslyset virker, men ikke reagerer pÃ¥ bagklappen. Hvad skyldes det?<br>(3)Katastrofeblinket virker ikke. NÃ¥r man slÃ¥r det til virker det som om at det tager al anden strÃ¸m, bl.a. fra blÃ¦ser og elbagrude.<br><br>- og et motor-spÃ¸rgsmÃ¥l:<br>(4) Noget rumler nÃ¥r motoren ikke fÃ¥r gas under kÃ¸rsel, men der er ingen problemer i tomgang. Det lyder som om det kommer lige under forsÃ¦derne. SÃ¥ snart jeg giver det mindste gas forsvinder rumleriet, og det er sÃ¦rligt hÃ¸jt nÃ¥r jeg sÃ¦tter farten ned, fx op mod et lys.<br><br>PÃ¥ forhÃ¥nd tak for hjÃ¦lpen,<br><br>David</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=104&ForumID=2&Showsub=113'>Re: Elektriske sp&#248;rgsm&#229;l</a> <em>(David, 10-12-2002 09:09)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=104&ForumID=2&Showsub=107'>Re: Elektriske sp&#248;rgsm&#229;l</a> <em>(Jesper, 04-12-2002 22:59)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=104&ForumID=2&Showsub=105'>Re: Elektriske sp&#248;rgsm&#229;l</a> <em>(Jes, 04-12-2002 16:56)</em></strong></font></li><br><font face=Verdana>Her er nogle muligheder<br>1 og 3: Disse to problemer hænger sammen. Årsagen kan enten være et defekt blinkrelæ eller dårlige forbindelser til kontakten i midterpanelet til havariblinket. Det sidste er let at kontrollere, da kontakten blot kan trækkes ud af panelet. Kontroller da at stikket er sat rigtigt og helt i. Er problemet der stadig, så skift blinkrelæet, prøv evt. med et fra en hugger. Relæet er placeret indvendig venstre side af midterpanel. Ved at afmontere sidebeklædningen til midterpanelet kan du komme til.<br>2: Loftlyset har 3 stillinger: 1; tændt hele tiden. 2; slukket (det er den midterste position). 3; aktiveret af dørkontakten.<br>Derudover kan det meget vel være defekte dørkontakter, de er en af 240´erens svagheder. Køb nogle nye, de er ikke ret dyre. <br>4: Slidte kardankryds. Evt. er kardan ikke spændt helt fast på flangen til gearkasse/bagtøj. Ved kontrol skal du ind under bilen. Ved at vrikke med kardanen kan du se hvor problemet er. Det er nemmest at kontrollere hvis bilen står i frigear og uden at håndbremsen er trukket. Husk da at lægge en klods for/bag hjulene så den ikke ruller selv.<br><br>mvh<br><br>Jes</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=104&ForumID=2&Showsub=113'>Re: Elektriske spÃ¸rgsmÃ¥l</a> <em>(David, 10-12-2002 09:09)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=104&ForumID=2&Showsub=107'>Re: Elektriske spÃ¸rgsmÃ¥l</a> <em>(Jesper, 04-12-2002 22:59)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=104&ForumID=2&Showsub=105'>Re: Elektriske spÃ¸rgsmÃ¥l</a> <em>(Jes, 04-12-2002 16:56)</em></strong></font></li><br><font face=Verdana>Her er nogle muligheder<br>1 og 3: Disse to problemer hÃ¦nger sammen. Ã…rsagen kan enten vÃ¦re et defekt blinkrelÃ¦ eller dÃ¥rlige forbindelser til kontakten i midterpanelet til havariblinket. Det sidste er let at kontrollere, da kontakten blot kan trÃ¦kkes ud af panelet. Kontroller da at stikket er sat rigtigt og helt i. Er problemet der stadig, sÃ¥ skift blinkrelÃ¦et, prÃ¸v evt. med et fra en hugger. RelÃ¦et er placeret indvendig venstre side af midterpanel. Ved at afmontere sidebeklÃ¦dningen til midterpanelet kan du komme til.<br>2: Loftlyset har 3 stillinger: 1; tÃ¦ndt hele tiden. 2; slukket (det er den midterste position). 3; aktiveret af dÃ¸rkontakten.<br>Derudover kan det meget vel vÃ¦re defekte dÃ¸rkontakter, de er en af 240´erens svagheder. KÃ¸b nogle nye, de er ikke ret dyre. <br>4: Slidte kardankryds. Evt. er kardan ikke spÃ¦ndt helt fast pÃ¥ flangen til gearkasse/bagtÃ¸j. Ved kontrol skal du ind under bilen. Ved at vrikke med kardanen kan du se hvor problemet er. Det er nemmest at kontrollere hvis bilen stÃ¥r i frigear og uden at hÃ¥ndbremsen er trukket. Husk da at lÃ¦gge en klods for/bag hjulene sÃ¥ den ikke ruller selv.<br><br>mvh<br><br>Jes</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">39</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">39</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

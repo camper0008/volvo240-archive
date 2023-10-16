@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Opret Ny Bruger</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Opret Ny Bruger</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -209,7 +209,7 @@ document.onmousedown=click;
         <input type='password' name='fpassword' size='40' value='' tabindex="2">*</td>
     </tr>
     <tr>
-      <td width='87' style="font-family: Arial; color: #FFFFFF; font-size: 10 pt; font-weight: bold" bgcolor="#008080">&nbsp;</td>
+      <td width='87' style="font-family: Arial; color: #FFFFFF; font-size: 10 pt; font-weight: bold" bgcolor="#008080"></td>
       <td width='237' bgcolor="#C0C0C0"></td>
     </tr>
     <tr>
@@ -288,9 +288,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%">&nbsp;</font></td>
+    <td align="right" width="35%"></font></td>
  </tr>
 </thead>
 </table>

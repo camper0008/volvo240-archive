@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=1904"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=1904"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-06-2004&nbsp; 22:52</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-06-2004 22:52</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Venner,<br><br>Min 240 fra 88 ryster i rattet n_r jeg k_rer p_ motorvej (110-120 km/t) og n_r jeg k_rer langtsomt (specielt p_ ny og plan asfalt) kan jeg m_rke periodiste "bump".<br><br>Er der nogen der har et bud p_ hvad der kan v_re galt. En ven har g_ttet p_ at det er sporingen (hvad det s_ end er) der er kilden til problemet eller en sk_v bremseskive.<br><br>Hvad siger I ?<br><br>Jan</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1926'>Re: Rystelser - skal den spores ?</a> <em>(Ren&#233; &#216;stergaard, 15-06-2004 22:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1922'>Re: Rystelser - skal den spores ?</a> <em>(Jan, 14-06-2004 21:03)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1919'>Re: Rystelser - skal den spores ?</a> <em>(Jes, 14-06-2004 11:59)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1918'>Re: Rystelser - skal den spores ?</a> <em>(jan, 14-06-2004 09:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1916'>Re: Rystelser - skal den spores ?</a> <em>(Emil J, 13-06-2004 23:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1915'>Re: Rystelser - skal den spores ?</a> <em>(Ren&#233; &#216;stergaard, 13-06-2004 22:49)</em></strong></font></li><br><font face=Verdana>En sporing skader aldrig, men af _konomiske grunde, ville jeg starte med at f_ alle dine hjul afbalanceret, hos en mekaniker/et d_kcenter...</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1905'>Re: Rystelser - skal den spores ?</a> <em>(Mikkel, 11-06-2004 03:30)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1926'>Re: Rystelser - skal den spores ?</a> <em>(Ren&#233; Østergaard, 15-06-2004 22:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1922'>Re: Rystelser - skal den spores ?</a> <em>(Jan, 14-06-2004 21:03)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1919'>Re: Rystelser - skal den spores ?</a> <em>(Jes, 14-06-2004 11:59)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1918'>Re: Rystelser - skal den spores ?</a> <em>(jan, 14-06-2004 09:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1916'>Re: Rystelser - skal den spores ?</a> <em>(Emil J, 13-06-2004 23:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1915'>Re: Rystelser - skal den spores ?</a> <em>(Ren&#233; Østergaard, 13-06-2004 22:49)</em></strong></font></li><br><font face=Verdana>En sporing skader aldrig, men af _konomiske grunde, ville jeg starte med at f_ alle dine hjul afbalanceret, hos en mekaniker/et d_kcenter...</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1904&ForumID=2&Showsub=1905'>Re: Rystelser - skal den spores ?</a> <em>(Mikkel, 11-06-2004 03:30)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">53</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">53</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

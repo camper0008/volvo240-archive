@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=5"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=5&amp;MessageId=293"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=5&MessageId=293"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-04-2003&nbsp; 18:00</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-04-2003 18:00</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Finn<br><br>Nu kigger jeg tit ind på denne geniale side, og der kommer flere og flere "nye" navne, så hvor besøgt er denne side egentlig ved at være?<br><br>Mvh Hans B</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Finn<br><br>Nu kigger jeg tit ind pÃ¥ denne geniale side, og der kommer flere og flere "nye" navne, sÃ¥ hvor besÃ¸gt er denne side egentlig ved at vÃ¦re?<br><br>Mvh Hans B</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=293&ForumID=5&Showsub=303'>Re: Att. Finn Kruse</a> <em>(Finn Kruse, 09-04-2003 22:03)</em></strong></font></li><br><font face=Verdana>Den 6. apr 2003 så statestikken ud som følger:<br><br>Ialt har brugerne åbnet 67056 sider.<br> <br>De 10 mest sete sider er (sorteret efter hit/side): <br>1 Startside <br>2 Nyheder <br>3 Salg -> Biler <br>4 Forum <br>5 Salg -> Køb & Salg <br>6 Diverse -> 240 Register -> Vis tilmeldte biler <br>7 Links <br>8 Volvo 240 Info -> Generelt -> 240 Historie <br>9 Volvo 240 Info <br>10 Volvo Original -> Reservedele del 1 <br><br><br>Brugerne kommer fra:<br>  .dk     Denmark                   3560 <br>    -     Unknown                   2749 <br> .com     US Commercial              190 <br> .net     Network                     75 <br>  .no     Norway                      43 <br>  .se     Sweden                      15 <br>  .be     Belgium                      9 <br>  .fi     Finland                      8 <br>  .nl     Netherlands                  6 <br>  .de     Germany                      4 <br>  .it     Italy                        3 <br>  .ee     Estonia                      2 <br>  .is     Iceland                      2 <br>  .tw     Taiwan                       2 <br>  .uk     United Kingdom               2 <br>  .jp     Japan                        2 <br>  .yu     Yugoslavia                   1 <br> .gov     US Government                1 <br>.arpa     Old style Arpanet            1 <br> .org     Non-Profit Organizations     1 <br>  .il     Israel                       1 <br>  .au     Australia                    1 <br>  .fr     France                       1 <br>  .ch     Switzerland                  1 <br>  .ca     Canada                       1<br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=293&ForumID=5&Showsub=303'>Re: Att. Finn Kruse</a> <em>(Finn Kruse, 09-04-2003 22:03)</em></strong></font></li><br><font face=Verdana>Den 6. apr 2003 sÃ¥ statestikken ud som fÃ¸lger:<br><br>Ialt har brugerne Ã¥bnet 67056 sider.<br> <br>De 10 mest sete sider er (sorteret efter hit/side): <br>1 Startside <br>2 Nyheder <br>3 Salg -> Biler <br>4 Forum <br>5 Salg -> KÃ¸b & Salg <br>6 Diverse -> 240 Register -> Vis tilmeldte biler <br>7 Links <br>8 Volvo 240 Info -> Generelt -> 240 Historie <br>9 Volvo 240 Info <br>10 Volvo Original -> Reservedele del 1 <br><br><br>Brugerne kommer fra:<br>  .dk     Denmark                   3560 <br>    -     Unknown                   2749 <br> .com     US Commercial              190 <br> .net     Network                     75 <br>  .no     Norway                      43 <br>  .se     Sweden                      15 <br>  .be     Belgium                      9 <br>  .fi     Finland                      8 <br>  .nl     Netherlands                  6 <br>  .de     Germany                      4 <br>  .it     Italy                        3 <br>  .ee     Estonia                      2 <br>  .is     Iceland                      2 <br>  .tw     Taiwan                       2 <br>  .uk     United Kingdom               2 <br>  .jp     Japan                        2 <br>  .yu     Yugoslavia                   1 <br> .gov     US Government                1 <br>.arpa     Old style Arpanet            1 <br> .org     Non-Profit Organizations     1 <br>  .il     Israel                       1 <br>  .au     Australia                    1 <br>  .fr     France                       1 <br>  .ch     Switzerland                  1 <br>  .ca     Canada                       1<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">2</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">2</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

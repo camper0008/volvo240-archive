@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=1283"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=1283"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-02-2004&nbsp; 18:19</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-02-2004 18:19</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">hej<br>jeg har lige været til syn med min volvo 245/85<br>og de brokkede sig over at der ikke var nogen <br>sikring på den røde ledning,der går fra batteriet<br>(ikke den tykke til starteren)men den anden.<br>men den der går over i en samledåse,som sidder ved siden af<br>batteriet.<br>  er der nogen der ved om der er en sikring på originalt,<br>og hvor stor den evt. skal være?<br>                                  jeg skal også hen og skifte mine<br>fjederbens skåle ,er der nogen der har prøvet det før,og som måske har et godt råd..<br>                      på forhånd tak.........tommy</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">hej<br>jeg har lige vÃ¦ret til syn med min volvo 245/85<br>og de brokkede sig over at der ikke var nogen <br>sikring pÃ¥ den rÃ¸de ledning,der gÃ¥r fra batteriet<br>(ikke den tykke til starteren)men den anden.<br>men den der gÃ¥r over i en samledÃ¥se,som sidder ved siden af<br>batteriet.<br>  er der nogen der ved om der er en sikring pÃ¥ originalt,<br>og hvor stor den evt. skal vÃ¦re?<br>                                  jeg skal ogsÃ¥ hen og skifte mine<br>fjederbens skÃ¥le ,er der nogen der har prÃ¸vet det fÃ¸r,og som mÃ¥ske har et godt rÃ¥d..<br>                      pÃ¥ forhÃ¥nd tak.........tommy</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1283&ForumID=2&Showsub=1348'>Re: sikring v/batteri-fjederben</a> <em>(Emil J, 13-02-2004 02:08)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1283&ForumID=2&Showsub=1341'>Re: sikring v/batteri-fjederben</a> <em>(Ren&#233; &#216;stergaard, 12-02-2004 20:54)</em></strong></font></li><br><font face=Verdana>Det er ikke helt nemt at skifte fjederbensskålene, da de gamle skal skæres af støddæmperen, og de nye skal svejses på. Find hellere nogle andre fjederben, da det gør arbejdet en del lettere...</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1283&ForumID=2&Showsub=1291'>Re: sikring v/batteri-fjederben</a> <em>(Sebastian Neumann, 06-02-2004 16:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1283&ForumID=2&Showsub=1284'>Re: sikring v/batteri-fjederben</a> <em>(Emil J, 04-02-2004 19:28)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1283&ForumID=2&Showsub=1348'>Re: sikring v/batteri-fjederben</a> <em>(Emil J, 13-02-2004 02:08)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1283&ForumID=2&Showsub=1341'>Re: sikring v/batteri-fjederben</a> <em>(Ren&#233; Ã˜stergaard, 12-02-2004 20:54)</em></strong></font></li><br><font face=Verdana>Det er ikke helt nemt at skifte fjederbensskÃ¥lene, da de gamle skal skÃ¦res af stÃ¸ddÃ¦mperen, og de nye skal svejses pÃ¥. Find hellere nogle andre fjederben, da det gÃ¸r arbejdet en del lettere...</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1283&ForumID=2&Showsub=1291'>Re: sikring v/batteri-fjederben</a> <em>(Sebastian Neumann, 06-02-2004 16:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1283&ForumID=2&Showsub=1284'>Re: sikring v/batteri-fjederben</a> <em>(Emil J, 04-02-2004 19:28)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">97</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">97</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

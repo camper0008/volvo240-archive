@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;240 Historie</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">240 Historie</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -135,13 +135,13 @@ document.onmousedown=click;
 
 <h2 align="center">Historien bag Volvo 200 serien.</h2><br>
 
-<img src="/240info/generel/images/240_history_01.jpg" alt="1990 240 sedan" border="2" hspace="10" vspace="10">&nbsp;
+<img src="/240info/generel/images/240_history_01.jpg" alt="1990 240 sedan" border="2" hspace="10" vspace="10">
 
 <p align="left"> 240 serien, sammen med 260
 serien blev introduceret i 1974 med seks forskellige modeller. Til forskel for
 140/160 serien fik den nye 240 serie en ny front. I 1974 blev 240 leveret med en
 ny B21 motor med overliggende knastaksel. Mange af de finesser der kom til i 240
-serien var inspireret af &quot; Volvo experimental safety car (VESC)&quot; som
+serien var inspireret af " Volvo experimental safety car (VESC)" som
 blev bygget i 1972. VESC var en test for indf_relse af sikkerhedsudstyr som
 blokeringsfri bremser (ABS), air<img src="/240info/generel/images/240_history_02.jpg" align="right" alt="Volvo Experimental Safe Car - Kan ses p_ Volvo Museum" border="2" hspace="10" vspace="10">bag
 og teleskop kofanger for at n_vne et par stykker. 240 var s_ banebrydende
@@ -155,8 +155,8 @@ introducerede Volvo en speciel jubil_umsudgave af 240 som var s_lvfarvet med
 et jubil_umsm_rke i sort og guld.</p>
 
 <p>I 1980'erne blev introduceret nogle lidt
-mere &quot;heftige&quot; 240 modeller. Den f_rste af disse var en 240 GLT med
-140 hk.<img src="/240info/generel/images/240_history_03.jpg" alt="240 Turbo - Kan ses p_ Volvo Museum" align="left" border="2" hspace="10" vspace="10">&nbsp;<br>
+mere "heftige" 240 modeller. Den f_rste af disse var en 240 GLT med
+140 hk.<img src="/240info/generel/images/240_history_03.jpg" alt="240 Turbo - Kan ses p_ Volvo Museum" align="left" border="2" hspace="10" vspace="10"><br>
 Den n_ste i denne r_kken var 240 Turbo. Det var Volvo's f_rste motor med
 turbolader B21ET som kunne producere 155 hk. Til k_bere med _nsket om en bil
 med turbo og plads som en stationcar, lavede Volvo i 1983 en s_kaldt 240 Turbo
@@ -212,7 +212,7 @@ af 240-modellen.
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

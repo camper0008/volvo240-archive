@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-06-2003&nbsp; 21:23</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-06-2003 21:23</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej!<br><br>Hvordan renser man bedst og nemmest EGR-r_r og -ventil for sod og koks? <br><br>Det er blevet n_vnt, at man kan h_lde en danskvand p_ motoren for at rense selve motoren for aflejret sod og koks. Men hvordan g_r man???<br><br>P_ forh_nd tak<br><br>Ole</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Hnerik, 20-06-2003 12:56)</em></u></strong></font></li><br><font face=Verdana>Hej.  Hvad er EGR-r_r? og hvor sidder de henne p_ en volvo motor?? - (sidder de p_ alle volvo motorer)..<br><br>Mvh. Henrik</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ole Eriksen, 20-06-2003 13:15)</em></u></strong></font></li><br><font face=Verdana>Hej!<br><br>Se Jes' indl_g under 'Magnetventil'.<br><br>Ole</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Hnerik, 20-06-2003 12:56)</em></u></strong></font></li><br><font face=Verdana>Hej.  Hvad er EGR-r_r? og hvor sidder de henne p_ en volvo motor?? - (sidder de p_ alle volvo motorer)..<br><br>Mvh. Henrik</font><br><li><font face=Verdana><strong><u>Re: - <em>(Ole Eriksen, 20-06-2003 13:15)</em></u></strong></font></li><br><font face=Verdana>Hej!<br><br>Se Jes' indl_g under 'Magnetventil'.<br><br>Ole</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">23</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">23</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

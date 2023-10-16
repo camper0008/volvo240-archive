@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=298"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=298"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,11 +213,11 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>K&#248;b af Volvo 264</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Køb af Volvo 264</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Johan &#197;rman</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Johan Årman</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-04-2003&nbsp; 21:45</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-04-2003 21:45</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle Volvofans!<br><br>Jeg overvejer at anskaffe en 264 fra 1970'erne. Jeg ved, hvad jeg skal v�re opm�rksom p� p� karrossen, men hvad med motorerne? Er de liges� holdbare som 240'ernes? Og hvordfan skal jeg tjekke det? Og hvor meget m� jeg give for et p�nt eksemplar? <br><br>Med venlig Hilsen<br><br>Johan �rman, Charlottenlund</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=298&ForumID=4&Showsub=347'>Re: K&#248;b af Volvo 264</a> <em>(Palle Kristensen, 23-04-2003 21:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=298&ForumID=4&Showsub=299'>Re: K&#248;b af Volvo 264</a> <em>(Norbert Zietmann, 07-04-2003 23:38)</em></strong></font></li><br><font face=Verdana>Hej Johan;<br>Motorerne i Volvo 260�er serien er V6 motorer udviklet af Peugeot og Renault. Efter min mening en stor fejl. Sm�ringen af knastakslen er underdimensioneret; knasterne slides helt ned til de er helt runde. Slidte knastaksler tikker forf�rdeligt. Udover sm�ring af knastakslen er der problemer med k�levandet. Motorerne er udf�rt helt i aluminium og er derfor kendt for at koge. Aluminiums varmeledeevne g�r at de bliver alt for varme. Det kan s� resultere i ekspansionsbeholdere med form som fodbolde og diverse sprungne slanger. V6�erne er desuden kendt for at tage af k�levandet. Vandet ender i olien, hvilket ikke skyldes �delagte toppakninger men er en konstruktionsfejl. Hvis det endelig skal v�re en Volvo 260�er, s� smid V6�eren v�k og l�g en B21ET i som i stedet. B27/28E og B21ET har samme indspr�jtningssystem, arbejdsindsatsen er s�ledes begr�nset. Med B21ET som alternativ til B27/28E�eren, er den rigelige kraft ogs� sikret. Held og lykke med projektet. Norbert</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=298&ForumID=4&Showsub=347'>Re: Køb af Volvo 264</a> <em>(Palle Kristensen, 23-04-2003 21:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=298&ForumID=4&Showsub=299'>Re: Køb af Volvo 264</a> <em>(Norbert Zietmann, 07-04-2003 23:38)</em></strong></font></li><br><font face=Verdana>Hej Johan;<br>Motorerne i Volvo 260�er serien er V6 motorer udviklet af Peugeot og Renault. Efter min mening en stor fejl. Sm�ringen af knastakslen er underdimensioneret; knasterne slides helt ned til de er helt runde. Slidte knastaksler tikker forf�rdeligt. Udover sm�ring af knastakslen er der problemer med k�levandet. Motorerne er udf�rt helt i aluminium og er derfor kendt for at koge. Aluminiums varmeledeevne g�r at de bliver alt for varme. Det kan s� resultere i ekspansionsbeholdere med form som fodbolde og diverse sprungne slanger. V6�erne er desuden kendt for at tage af k�levandet. Vandet ender i olien, hvilket ikke skyldes �delagte toppakninger men er en konstruktionsfejl. Hvis det endelig skal v�re en Volvo 260�er, s� smid V6�eren v�k og l�g en B21ET i som i stedet. B27/28E og B21ET har samme indspr�jtningssystem, arbejdsindsatsen er s�ledes begr�nset. Med B21ET som alternativ til B27/28E�eren, er den rigelige kraft ogs� sikret. Held og lykke med projektet. Norbert</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">44</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">44</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

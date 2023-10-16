@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="Søg" name="B1">
       </form>
     </td>
   </tr>
@@ -189,13 +189,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spørge andre Volvo-ejere tilråds om alt vedrørende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=76"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=76"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -216,16 +216,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-11-2002&nbsp; 22:26</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-11-2002 22:26</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg er en stor fan af volvo <br>jeg har lige f&#229; k&#248;rekort.<br>er det godt at starte men en 240???<br>jeg vil godt bygge den om</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg er en stor fan af volvo <br>jeg har lige få kørekort.<br>er det godt at starte men en 240???<br>jeg vil godt bygge den om</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=194'>Re: Volvo 240</a> <em>(Norbert Zietmann, 17-02-2003 10:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=193'>Re: Volvo 240</a> <em>(Michael, 16-02-2003 23:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=189'>Re: Volvo 240</a> <em>(Norbert Zietmann, 16-02-2003 03:20)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=188'>Re: Volvo 240</a> <em>(S&#248;ren, 15-02-2003 18:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=185'>Re: Volvo 240</a> <em>(sebastian neumann, 13-02-2003 17:33)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=184'>Re: Volvo 240</a> <em>(Norbert Zietmann, 12-02-2003 00:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=182'>Re: Volvo 240</a> <em>(sebastian, 11-02-2003 22:54)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=181'>Re: Volvo 240</a> <em>(Norbert Zietmann, 10-02-2003 23:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=122'>Re: Volvo 240</a> <em>(S&#248;ren, 21-12-2002 19:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=78'>Re: Volvo 240</a> <em>(stefan, 22-11-2002 22:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=77'>Re: Volvo 240</a> <em>(Sebastian, 22-11-2002 20:14)</em></strong></font></li><br><font face=Verdana>Hej.<br><br>Jeg er som du - en stor fan af volvo240. Jeg fik mit k&#248;rekort for 2 &#229;r siden, og har k&#248;rt volvo 240 siden jeg fik det. Om det er en god ide at starte med en 240 ved jeg ikke, hvis du har h&#230;nderne skruet rigtigt p&#229;, s&#229; er det, og hvis du har r&#229;d til at betale en lidt -efter min mening dyr v&#230;gtafgift, og bruge lidt flere penge s&#229; p&#229; benzin, s&#229; er det ikke noget problem. Du skal s&#248;rge for at kigge den igennem for rust, paneler, sk&#230;rmkanter, vanger, de f&#248;rste 5 cm fra panelet og ind. Og alts&#229; i det hele taget kigge bilen efter, f&#248;r du k&#248;ber. Man kan sige at n&#229;r du skal skrue p&#229; bilen, s&#229; er der rigeligt med plads, og k&#248;ber du en &#230;ldre model med karburator - s&#229; er det nogenlunde simpelt, indspr&#248;jtning KAN ogs&#229; v&#230;re simpelt, men s&#248;rg for at s&#230;tte dig ind i indspr&#248;jtningssystemet - specielt hvis du har t&#230;nkt dig at pille ved det. Skal du style / trimme, s&#229; er der masser af hj&#230;lp at hente p&#229; nettet, personligt bruger jeg KG-trimning i sverige, n&#229;r jeg skal bruge dele, og til sp&#248;rgsm&#229;l og svar, bruger jeg f&#248;lgende hjemmeside : <a href="http://www.turboperformanceclub.com">http://www.turboperformanceclub.com</a> <br><br>Min personlige erfaring med min Volvo er at den er l&#230;kker at k&#248;re i, ikke specielt sv&#230;r at skrue p&#229;, den ruster selvf&#248;lgelig rundt omkring - men den er ogs&#229; 23 &#229;r gammel nu. Det er nogenlunde nemt at f&#229; dele til den - og k&#248;rer man nogenlunde fornuftigt, g&#229;r de stort set ikke i stykker. Styling er der masser af, det er ikke altid billigt, men man betaler jo ogs&#229; efter den kvalitet man f&#229;r. Det jeg har v&#230;ret allermest glad for ved at v&#230;lge volvo er at der ALTID er hj&#230;lp at hente, alle kender de gamle sk&#230;rg&#229;rdstraktorer, og alle holder vel et eller andet sted af dem.<br><br>Om min egen volvo kan man sige at den startede som en B23A model, men er endt som en B21ET intercooler, og stort set modificeret alle steder. Den g&#229;r som en dr&#248;m, og er ikke ( n&#230;sten ) til at tage livet af. God forn&#248;jelse med evt. k&#248;b og med din kommende bil. <br><br>De herligste hilsner.<br>Sebastian Neumann<br>Volvo 245 GL 79 B21ET (TIC)</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=194'>Re: Volvo 240</a> <em>(Norbert Zietmann, 17-02-2003 10:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=193'>Re: Volvo 240</a> <em>(Michael, 16-02-2003 23:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=189'>Re: Volvo 240</a> <em>(Norbert Zietmann, 16-02-2003 03:20)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=188'>Re: Volvo 240</a> <em>(Søren, 15-02-2003 18:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=185'>Re: Volvo 240</a> <em>(sebastian neumann, 13-02-2003 17:33)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=184'>Re: Volvo 240</a> <em>(Norbert Zietmann, 12-02-2003 00:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=182'>Re: Volvo 240</a> <em>(sebastian, 11-02-2003 22:54)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=181'>Re: Volvo 240</a> <em>(Norbert Zietmann, 10-02-2003 23:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=122'>Re: Volvo 240</a> <em>(Søren, 21-12-2002 19:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=78'>Re: Volvo 240</a> <em>(stefan, 22-11-2002 22:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=76&ForumID=4&Showsub=77'>Re: Volvo 240</a> <em>(Sebastian, 22-11-2002 20:14)</em></strong></font></li><br><font face=Verdana>Hej.<br><br>Jeg er som du - en stor fan af volvo240. Jeg fik mit kørekort for 2 år siden, og har kørt volvo 240 siden jeg fik det. Om det er en god ide at starte med en 240 ved jeg ikke, hvis du har hænderne skruet rigtigt på, så er det, og hvis du har råd til at betale en lidt -efter min mening dyr vægtafgift, og bruge lidt flere penge så på benzin, så er det ikke noget problem. Du skal sørge for at kigge den igennem for rust, paneler, skærmkanter, vanger, de første 5 cm fra panelet og ind. Og altså i det hele taget kigge bilen efter, før du køber. Man kan sige at når du skal skrue på bilen, så er der rigeligt med plads, og køber du en ældre model med karburator - så er det nogenlunde simpelt, indsprøjtning KAN også være simpelt, men sørg for at sætte dig ind i indsprøjtningssystemet - specielt hvis du har tænkt dig at pille ved det. Skal du style / trimme, så er der masser af hjælp at hente på nettet, personligt bruger jeg KG-trimning i sverige, når jeg skal bruge dele, og til spørgsmål og svar, bruger jeg følgende hjemmeside : <a href="http://www.turboperformanceclub.com">http://www.turboperformanceclub.com</a> <br><br>Min personlige erfaring med min Volvo er at den er lækker at køre i, ikke specielt svær at skrue på, den ruster selvfølgelig rundt omkring - men den er også 23 år gammel nu. Det er nogenlunde nemt at få dele til den - og kører man nogenlunde fornuftigt, går de stort set ikke i stykker. Styling er der masser af, det er ikke altid billigt, men man betaler jo også efter den kvalitet man får. Det jeg har været allermest glad for ved at vælge volvo er at der ALTID er hjælp at hente, alle kender de gamle skærgårdstraktorer, og alle holder vel et eller andet sted af dem.<br><br>Om min egen volvo kan man sige at den startede som en B23A model, men er endt som en B21ET intercooler, og stort set modificeret alle steder. Den går som en drøm, og er ikke ( næsten ) til at tage livet af. God fornøjelse med evt. køb og med din kommende bil. <br><br>De herligste hilsner.<br>Sebastian Neumann<br>Volvo 245 GL 79 B21ET (TIC)</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -244,7 +244,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -253,9 +253,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">5</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">5</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

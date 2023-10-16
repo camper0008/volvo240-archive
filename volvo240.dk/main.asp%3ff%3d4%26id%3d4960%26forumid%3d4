@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -153,7 +153,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">S&#248;ren</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Søren</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">13-11-2014&nbsp; 21:15</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">13-11-2014 21:15</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er der nogen, der har en mening om, om det kan passe, at en mekaniker har brugt 5 timer p_ at skifte:<br>2 bremseslanger<br>4 clips<br>2 bremseskiver bag<br>1 s_t bremseklodser bag<br>_ meter benzinr_r<br><br>For mig er det mange timer, men jeg er jo ikke mekaniker.<br><br>S_ren<br>Kbh _</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 13-11-2014 22:22)</em></u></strong></font></li><br><font face=Verdana>Skift af skiver og klodser tager hurtigt 1-1.5 v_rkstedstime hvis der skal sm_re og renses. Kommer der slanger oveni skal der luftes ud ogs_, der kan nok nemt l_gges en time mere oveni. Benzinr_ret kan v_re en joker fordi det m_ske er meget besv_rligt at komme til. Jaja, self_lgelig tager det ikke 1.5 time at fl_ de gamle skiver og klodser af og kaste nyt p_, men skulle et v_rksted arbejde p_ den m_de, s_ skulle det ikke hedde timepris, men minutpris:-)<br>5 timer nok lidt h_jt sat, men det er vist ikke helt i hampen.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 16-11-2014 12:44)</em></u></strong></font></li><br><font face=Verdana>Hvis det er en Volvo, s_ skal h_ndbremse justeres, n_r bagskiverne har v_ret af. <br>Foruden de ting, som Jacob beskriver, s_ er der ogs_ f_lgende detaljer:<br>Bilen skal i bremse-rullefelt, der skal registreres tid, reservedelene skrives ud af lageret og der skal ryddes op.<br>Og er der bare en skrue eller lignende, som sidder godt groet fast og som skal varmes for at kunne l_snes, ja s_ l_ber der hurtigt noget tid p_ opgaven.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 17-11-2014 11:51)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Jeg syntes det lyder fair. Jeg kan bare huske da jeg skulle lave bagbremser p_ min gamle 240. Der var kalibre boltene groet fast. Samt at jeg m_tte bruge mindst 30 min p_ at f_ kalibrene til at arbejde igen. :)<br><br>Udskift af br_ndstofr_r kan ogs_ v_re skod. Da der nogle skal bruge nogle nye klips, samt det skal bukkes lidt. <br><br>MVH<br><br>Emil</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 13-11-2014 22:22)</em></u></strong></font></li><br><font face=Verdana>Skift af skiver og klodser tager hurtigt 1-1.5 v_rkstedstime hvis der skal sm_re og renses. Kommer der slanger oveni skal der luftes ud ogs_, der kan nok nemt l_gges en time mere oveni. Benzinr_ret kan v_re en joker fordi det m_ske er meget besv_rligt at komme til. Jaja, self_lgelig tager det ikke 1.5 time at fl_ de gamle skiver og klodser af og kaste nyt p_, men skulle et v_rksted arbejde p_ den m_de, s_ skulle det ikke hedde timepris, men minutpris:-)<br>5 timer nok lidt h_jt sat, men det er vist ikke helt i hampen.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 16-11-2014 12:44)</em></u></strong></font></li><br><font face=Verdana>Hvis det er en Volvo, s_ skal h_ndbremse justeres, n_r bagskiverne har v_ret af. <br>Foruden de ting, som Jacob beskriver, s_ er der ogs_ f_lgende detaljer:<br>Bilen skal i bremse-rullefelt, der skal registreres tid, reservedelene skrives ud af lageret og der skal ryddes op.<br>Og er der bare en skrue eller lignende, som sidder godt groet fast og som skal varmes for at kunne l_snes, ja s_ l_ber der hurtigt noget tid p_ opgaven.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 17-11-2014 11:51)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Jeg syntes det lyder fair. Jeg kan bare huske da jeg skulle lave bagbremser p_ min gamle 240. Der var kalibre boltene groet fast. Samt at jeg m_tte bruge mindst 30 min p_ at f_ kalibrene til at arbejde igen. :)<br><br>Udskift af br_ndstofr_r kan ogs_ v_re skod. Da der nogle skal bruge nogle nye klips, samt det skal bukkes lidt. <br><br>MVH<br><br>Emil</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

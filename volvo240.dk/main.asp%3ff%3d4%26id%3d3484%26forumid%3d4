@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -215,7 +215,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Andreas Kjellstr&#248;m</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Andreas Kjellstrøm</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-07-2009&nbsp; 15:05</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-07-2009 15:05</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej til Volvo-folket...<br>Jeg har et lille problem, min kobling er ved at drive mig til vanvid ... Den knirker som ind i fanden, og jeg har fors_gt at sm_rre mig ud af problemet men uden held. Og det kan da ikke passe det kun er mig der har oplevet det? - s_ jeg h_bede p_ at der var nogen der lige havde et super r_d til hvad jeg skal g_re ved den?</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 06-07-2009 16:15)</em></u></strong></font></li><br><font face=Verdana>Hejsa..<br><br>Jeg har f_r oplevet med min m46 gearkasse at den kugle som "gaflen" er monteret p_, bliver t_r, s_ den skal sm_res. S_ holdt piveriet op, i mit tilf_lde.<br><br>Dennis</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lars, 06-07-2009 16:25)</em></u></strong></font></li><br><font face=Verdana>Er det koblingspedalen, eller er det fra koblingshuset(indefra ell udefra)hvis du kun kan h_rer det inde i bilen. har du ikke smurt det rigtige sted.....mvh Lars</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Andreas Kjellstr&#248;m, 07-07-2009 00:44)</em></u></strong></font></li><br><font face=Verdana>Det er selve pedalen der larmer. S_ det er nok et problem med ham (l_s: mig) der har smurt pedalen den er gal med :) Jeg m_ ud med sm_rekanden igen, (igen, igen).</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Martin Odgaard, 07-07-2009 08:21)</em></u></strong></font></li><br><font face=Verdana>Hej Andreas<br><br>Hvad sm_rer du din koblingspedal med?<br>S_ vidt jeg husker (det er l_nge siden jeg har haft det skilt ad) s_ sidder der plasticb_sninger p_ akslen til pedalen, og de har bedst af siliconeolie (eller siliconefedt hvis du skiller det ad). Kablet med indl_g af plastic/nylon) skal ogs_ have siliconeolie, hvis det skal have noget. Alm motorolie etc. er ikke godt til plastic. <br>V_r ogs_ opm_rksom p_ det _je i enden af kablet der g_r p_ pedalen. Det kan blive slidt meget med tiden, og hvis det er ved at v_re slidt igennem, s_ skift kablet, s_ du ikke en dag m_ k_re uden kobling. Knirkelyden kan evt. ogs_ stamme lige fra dette punkt, og som sm_remiddel hertil er en smule fedt p_ sin plads, gerne grafitfedt/molykote etc.<br><br>Mvh. Martin</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 06-07-2009 16:15)</em></u></strong></font></li><br><font face=Verdana>Hejsa..<br><br>Jeg har f_r oplevet med min m46 gearkasse at den kugle som "gaflen" er monteret p_, bliver t_r, s_ den skal sm_res. S_ holdt piveriet op, i mit tilf_lde.<br><br>Dennis</font><br><li><font face=Verdana><strong><u>Re: - <em>(Lars, 06-07-2009 16:25)</em></u></strong></font></li><br><font face=Verdana>Er det koblingspedalen, eller er det fra koblingshuset(indefra ell udefra)hvis du kun kan h_rer det inde i bilen. har du ikke smurt det rigtige sted.....mvh Lars</font><br><li><font face=Verdana><strong><u>Re: - <em>(Andreas Kjellstrøm, 07-07-2009 00:44)</em></u></strong></font></li><br><font face=Verdana>Det er selve pedalen der larmer. S_ det er nok et problem med ham (l_s: mig) der har smurt pedalen den er gal med :) Jeg m_ ud med sm_rekanden igen, (igen, igen).</font><br><li><font face=Verdana><strong><u>Re: - <em>(Martin Odgaard, 07-07-2009 08:21)</em></u></strong></font></li><br><font face=Verdana>Hej Andreas<br><br>Hvad sm_rer du din koblingspedal med?<br>S_ vidt jeg husker (det er l_nge siden jeg har haft det skilt ad) s_ sidder der plasticb_sninger p_ akslen til pedalen, og de har bedst af siliconeolie (eller siliconefedt hvis du skiller det ad). Kablet med indl_g af plastic/nylon) skal ogs_ have siliconeolie, hvis det skal have noget. Alm motorolie etc. er ikke godt til plastic. <br>V_r ogs_ opm_rksom p_ det _je i enden af kablet der g_r p_ pedalen. Det kan blive slidt meget med tiden, og hvis det er ved at v_re slidt igennem, s_ skift kablet, s_ du ikke en dag m_ k_re uden kobling. Knirkelyden kan evt. ogs_ stamme lige fra dette punkt, og som sm_remiddel hertil er en smule fedt p_ sin plads, gerne grafitfedt/molykote etc.<br><br>Mvh. Martin</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -267,7 +267,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

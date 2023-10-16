@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=2921"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2921"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,10 +224,10 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-02-2005&nbsp; 20:13</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-02-2005 20:13</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">volvo 240 86 230a.  3 gange indenfor 2 dage har jeg ikke kunnet starte den efter at den har stået stille i 20 - 45 min. Har oplevet det samme en gang for et halvt år siden. Jeg har tidligere haft en 240 som havde lidt af det samme problem, men det var hver gang at den havde holdt stille i lidt tid og den kunne altid startes hvis man havde lidt toldmodighed. Det skyldtes vel at den var druknet. Men på den her er der ikke noget at gøre, der er tænding, benzin i filteret, tændrør er rene og tøre, alt er undersøgt imens at den ikke ville starte. Tændrør-kabler-dæksel er nye, jeg kører med karburatorsprit i benzinen. Det har både været tø og frost vejr. Den kan så startes igen hvis den står stille i yderligere 30-40 min.    Jeg har også prøvet at spray jet/diesel start direkte i manifolden igennem en vakuumstuds uden at den tændte.   Kan en tændspole virke, men på nedsat effekt? så den tænder men ikke med nok kraft.<br><br>jeg er på bar bund, syntes jeg har prøvet alt undtagen en mekaniker!!!<br><br>mvh<br>ole</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">volvo 240 86 230a.  3 gange indenfor 2 dage har jeg ikke kunnet starte den efter at den har stÃ¥et stille i 20 - 45 min. Har oplevet det samme en gang for et halvt Ã¥r siden. Jeg har tidligere haft en 240 som havde lidt af det samme problem, men det var hver gang at den havde holdt stille i lidt tid og den kunne altid startes hvis man havde lidt toldmodighed. Det skyldtes vel at den var druknet. Men pÃ¥ den her er der ikke noget at gÃ¸re, der er tÃ¦nding, benzin i filteret, tÃ¦ndrÃ¸r er rene og tÃ¸re, alt er undersÃ¸gt imens at den ikke ville starte. TÃ¦ndrÃ¸r-kabler-dÃ¦ksel er nye, jeg kÃ¸rer med karburatorsprit i benzinen. Det har bÃ¥de vÃ¦ret tÃ¸ og frost vejr. Den kan sÃ¥ startes igen hvis den stÃ¥r stille i yderligere 30-40 min.    Jeg har ogsÃ¥ prÃ¸vet at spray jet/diesel start direkte i manifolden igennem en vakuumstuds uden at den tÃ¦ndte.   Kan en tÃ¦ndspole virke, men pÃ¥ nedsat effekt? sÃ¥ den tÃ¦nder men ikke med nok kraft.<br><br>jeg er pÃ¥ bar bund, syntes jeg har prÃ¸vet alt undtagen en mekaniker!!!<br><br>mvh<br>ole</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">43</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">43</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

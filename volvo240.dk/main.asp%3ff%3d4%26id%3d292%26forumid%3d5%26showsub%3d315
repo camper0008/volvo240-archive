@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="Søg" name="B1">
       </form>
     </td>
   </tr>
@@ -194,8 +194,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=5"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=5&amp;MessageId=292"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=5&MessageId=292"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -204,7 +204,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Kan I s&#229; se at f&#229;...</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Kan I så se at få...</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -216,16 +216,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-04-2003&nbsp; 01:18</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-04-2003 01:18</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">...Jeres 240&#180;er op p&#229; &quot;Volvo 200 register&quot;! ;o)<br><br>Denne aldeles glimrende side om vore k&#230;re Volvoer er efterh&#229;nden s&#229; bes&#248;gt (fornemmer jeg), at der m&#229; v&#230;re basis for langt flere biler i registret. Ligenu er der kun tre...  Kom s&#229; folkens - lad os se dem og forh&#229;bentlig kan &#230;rede Hr. Kruse begynde at bruge registret til noget.<br><br>Godt for&#229;r, og m.v.h.<br>Lars Vestman<br></font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">...Jeres 240&#180;er op på "Volvo 200 register"! ;o)<br><br>Denne aldeles glimrende side om vore kære Volvoer er efterhånden så besøgt (fornemmer jeg), at der må være basis for langt flere biler i registret. Ligenu er der kun tre...  Kom så folkens - lad os se dem og forhåbentlig kan ærede Hr. Kruse begynde at bruge registret til noget.<br><br>Godt forår, og m.v.h.<br>Lars Vestman<br></font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=292&ForumID=5&Showsub=315'>Re: Kan I s&#229; se at f&#229;...</a> <em>(Finn Kruse, 12-04-2003 22:24)</em></strong></font></li><br><font face=Verdana>Der er lavet en del godkendelser til Volvo 240-serien. Min egen er godkendt efter godkendelsesnummer 5036 som er fra sept. 1986. I nov. 86 laves et till&#230;g 1 som omhandler v&#230;gt&#230;ndringer og &#230;ndringer i b&#230;rende elementer. I aug. 88 kommer till&#230;g 2 som udover nye v&#230;gt&#230;ndringer ogs&#229; omhandler &#230;ndringer i ratdiameter og st&#248;jm&#229;ling. I till&#230;g 3 fra nov. 88 er der igen &#230;ndringer til og st&#248;jm&#229;linger samt til d&#230;ktryk. Herudover en rettelse til till&#230;g 2. Till&#230;g 4 kommer i maj 1989 og denne er til modeller med B230F motoren som erkl&#230;res &quot;milj&#248;venlig&quot;. Biler med denne motor godkendes og med nye v&#230;gtangivelser.<br>Til den foreg&#229;ende godkendelse 4480 fra okt. 84, laves der till&#230;g helt frem til dec. 88. <br>Der er ikke s&#230;rlige godkendelser p&#229; modelbetegnelser som DL, GL etc. men s&#230;rlig ekstraudstyr som soltag, lav undervogn osv. behandles s&#230;rskilt, men i samme godkendelse.<br>Godkendelsesnummeret er, som du sikkert kan se, en ret vigtig detalje til statistiske form&#229;l.<br><br>Mht. en formular til indtastning af data, vil jeg lave en s&#229;dan i n&#230;r fremtid.<br><br>mvh<br>Finn Kruse<br></font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=292&ForumID=5&Showsub=310'>Re: Kan I s&#229; se at f&#229;...</a> <em>(Jan Lassen, 12-04-2003 01:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=292&ForumID=5&Showsub=300'>Re: Kan I s&#229; se at f&#229;...</a> <em>(Finn Kruse, 07-04-2003 23:59)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=292&ForumID=5&Showsub=297'>Re: Kan I s&#229; se at f&#229;...</a> <em>(Michael, 07-04-2003 21:40)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=292&ForumID=5&Showsub=315'>Re: Kan I så se at få...</a> <em>(Finn Kruse, 12-04-2003 22:24)</em></strong></font></li><br><font face=Verdana>Der er lavet en del godkendelser til Volvo 240-serien. Min egen er godkendt efter godkendelsesnummer 5036 som er fra sept. 1986. I nov. 86 laves et tillæg 1 som omhandler vægtændringer og ændringer i bærende elementer. I aug. 88 kommer tillæg 2 som udover nye vægtændringer også omhandler ændringer i ratdiameter og støjmåling. I tillæg 3 fra nov. 88 er der igen ændringer til og støjmålinger samt til dæktryk. Herudover en rettelse til tillæg 2. Tillæg 4 kommer i maj 1989 og denne er til modeller med B230F motoren som erklæres "miljøvenlig". Biler med denne motor godkendes og med nye vægtangivelser.<br>Til den foregående godkendelse 4480 fra okt. 84, laves der tillæg helt frem til dec. 88. <br>Der er ikke særlige godkendelser på modelbetegnelser som DL, GL etc. men særlig ekstraudstyr som soltag, lav undervogn osv. behandles særskilt, men i samme godkendelse.<br>Godkendelsesnummeret er, som du sikkert kan se, en ret vigtig detalje til statistiske formål.<br><br>Mht. en formular til indtastning af data, vil jeg lave en sådan i nær fremtid.<br><br>mvh<br>Finn Kruse<br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=292&ForumID=5&Showsub=310'>Re: Kan I så se at få...</a> <em>(Jan Lassen, 12-04-2003 01:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=292&ForumID=5&Showsub=300'>Re: Kan I så se at få...</a> <em>(Finn Kruse, 07-04-2003 23:59)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=292&ForumID=5&Showsub=297'>Re: Kan I så se at få...</a> <em>(Michael, 07-04-2003 21:40)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -244,7 +244,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -253,9 +253,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

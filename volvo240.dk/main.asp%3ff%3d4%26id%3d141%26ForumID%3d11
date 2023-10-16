@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-05-2003&nbsp; 12:34</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-05-2003 12:34</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er der nogen der ved hvor man billigt kan skaffe 40 mm. s�nkningsfjedre evt. med d�mpere til en volvo 240 GL. B23</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Norbert Zietmann, 07-05-2003 14:53)</em></u></strong></font></li><br><font face=Verdana>Hej!<br>Jeg k�bte i august eller september 2002 4 s�nkningsfjedre (35 mm) til 240/260 hos Skandinavian SpareParts for omkring 1600 kroner.<br>Hilsen Norbert</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 07-05-2003 21:48)</em></u></strong></font></li><br><font face=Verdana>Volvo laver et s�t fjedre til s�nkning af bilen og det koster knap kr. 3000,-. Disse fjedre er godkendt til bilen og de giver derfor ikke anledning til problemer i forbindelse med syn.<br><br>mvh<br>Finn</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Michael Jensen, 09-05-2003 08:46)</em></u></strong></font></li><br><font face=Verdana>Volvo har solgt et s�nkningss�t der s�nker bilen 20mm og det har res.nr.3529918. St�dd�mperene i s�ttet er af m�rket "de Carbon" og er<br>meget d�rlige.<br>Har selv k�bt s�ttet i 2000 hvor det kostede 1995,-  <br>Med venlig hilsen <br>Michael</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 10-05-2003 01:34)</em></u></strong></font></li><br><font face=Verdana>3529918 s�ttet kan ikke f�s l�ngere.<br><br>Men der findes et andet s�t fjedre som jeg tidligere omtalte, der stadig kan skaffes. De er lidt h�rdere og lidt lavere.<br><br>mvh<br>Finn<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Sputte, 04-06-2003 07:07)</em></u></strong></font></li><br><font face=Verdana>Hvorfor ikke k�be BilStein s�ttet fra SpareParts med d�mpere og fjedre? S� burde det da v�re p� det rene.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 04-06-2003 08:52)</em></u></strong></font></li><br><font face=Verdana>Under alle omst�ndigheder er det vigtigt at sikre sig at de er godkendt. Og det er Volvos egne. <br>I modsat fald, er der rimelig stor sandsynlighed for at bilen ikke bliver godkendt ved syn.<br><br>mvh<br>Finn Kruse</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Sputte, 06-06-2003 02:26)</em></u></strong></font></li><br><font face=Verdana>Finn, hvorfor skulle den ikke kunne synes med 35mm s�nkning og andre d�mpere? Jeg tror du har mistet tr�den et sted.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 06-06-2003 02:35)</em></u></strong></font></li><br><font face=Verdana>Fjedrene skal v�re godkendt. Er de det s� er der ingen problemer.<br><br>mvh<br>Finn Kruse</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Sputte, 21-06-2003 23:25)</em></u></strong></font></li><br><font face=Verdana>Finn, jeg g�r ud fra vi snakker en T�V godkendelse, for i s� fald er vi selvf�lgelig enige!</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(michael nordahn, 15-08-2003 18:53)</em></u></strong></font></li><br><font face=Verdana>TUV godk�ndte s�nkningsfjedre set til 800.- ex moms, hos www.nvautodele.dk Disse s�nker bilen 40mm.<br>Min egen 240.er er blevet synet hver gang uden anm. med en 40mm s�nkning.<br>God forn�jelse med opgaven.<br>HUSK KOLDING VOLVOTR�F D.6/7-9.2003</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Norbert Zietmann, 07-05-2003 14:53)</em></u></strong></font></li><br><font face=Verdana>Hej!<br>Jeg k�bte i august eller september 2002 4 s�nkningsfjedre (35 mm) til 240/260 hos Skandinavian SpareParts for omkring 1600 kroner.<br>Hilsen Norbert</font><br><li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 07-05-2003 21:48)</em></u></strong></font></li><br><font face=Verdana>Volvo laver et s�t fjedre til s�nkning af bilen og det koster knap kr. 3000,-. Disse fjedre er godkendt til bilen og de giver derfor ikke anledning til problemer i forbindelse med syn.<br><br>mvh<br>Finn</font><br><li><font face=Verdana><strong><u>Re: - <em>(Michael Jensen, 09-05-2003 08:46)</em></u></strong></font></li><br><font face=Verdana>Volvo har solgt et s�nkningss�t der s�nker bilen 20mm og det har res.nr.3529918. St�dd�mperene i s�ttet er af m�rket "de Carbon" og er<br>meget d�rlige.<br>Har selv k�bt s�ttet i 2000 hvor det kostede 1995,-  <br>Med venlig hilsen <br>Michael</font><br><li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 10-05-2003 01:34)</em></u></strong></font></li><br><font face=Verdana>3529918 s�ttet kan ikke f�s l�ngere.<br><br>Men der findes et andet s�t fjedre som jeg tidligere omtalte, der stadig kan skaffes. De er lidt h�rdere og lidt lavere.<br><br>mvh<br>Finn<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Sputte, 04-06-2003 07:07)</em></u></strong></font></li><br><font face=Verdana>Hvorfor ikke k�be BilStein s�ttet fra SpareParts med d�mpere og fjedre? S� burde det da v�re p� det rene.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 04-06-2003 08:52)</em></u></strong></font></li><br><font face=Verdana>Under alle omst�ndigheder er det vigtigt at sikre sig at de er godkendt. Og det er Volvos egne. <br>I modsat fald, er der rimelig stor sandsynlighed for at bilen ikke bliver godkendt ved syn.<br><br>mvh<br>Finn Kruse</font><br><li><font face=Verdana><strong><u>Re: - <em>(Sputte, 06-06-2003 02:26)</em></u></strong></font></li><br><font face=Verdana>Finn, hvorfor skulle den ikke kunne synes med 35mm s�nkning og andre d�mpere? Jeg tror du har mistet tr�den et sted.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 06-06-2003 02:35)</em></u></strong></font></li><br><font face=Verdana>Fjedrene skal v�re godkendt. Er de det s� er der ingen problemer.<br><br>mvh<br>Finn Kruse</font><br><li><font face=Verdana><strong><u>Re: - <em>(Sputte, 21-06-2003 23:25)</em></u></strong></font></li><br><font face=Verdana>Finn, jeg g�r ud fra vi snakker en T�V godkendelse, for i s� fald er vi selvf�lgelig enige!</font><br><li><font face=Verdana><strong><u>Re: - <em>(michael nordahn, 15-08-2003 18:53)</em></u></strong></font></li><br><font face=Verdana>TUV godk�ndte s�nkningsfjedre set til 800.- ex moms, hos www.nvautodele.dk Disse s�nker bilen 40mm.<br>Min egen 240.er er blevet synet hver gang uden anm. med en 40mm s�nkning.<br>God forn�jelse med opgaven.<br>HUSK KOLDING VOLVOTR�F D.6/7-9.2003</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">16</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">16</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

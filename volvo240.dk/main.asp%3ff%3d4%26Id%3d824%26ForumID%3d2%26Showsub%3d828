@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=824"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=824"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>S&#230;r opf&#248;rsel!</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Sær opførsel!</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-09-2003&nbsp; 11:13</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-09-2003 11:13</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej! Min 240 er en m. B230A-motor, Pierburg DVG 175 CDUS-karburator og aut.-gear. fra '85.<br><br>Ig_r under en k_retur bem_rkede jeg, at instrumenterne opf_rte sig s_rt. Temperaturen var nede p_ 1/4, blinklyset blinkede svagt og uregelm_ssigt og o.-t_lleren svingede op og ned i takt m. blinklyset. Mystisk!<br><br>Jeg kiggede p_ sikringerne og fandt at den sikring der h_rte til bl.a. instrumenterne ikke fejlede noget. Jeg pillede den ud mens den stod i tomgang, og i samme _jeblik faldt tomgangen til 3-400 o/min.?!? P_ sikringspanelet st_r der, at den samme sikring ogs_ er for "constant idle system" - ergo var der noget som styrede tomgangen, hvilket jeg ikke var klar over.<br><br>Min 240 har _benbart en "solenoid valve" til styringen af tomgangen, men iflg. Haynes er det kun biler m. A/C - hvilket min ikke har. Den er dog imp. fra Schweiz... Det virker ikke som om at den har haft A/C - alt ser normalt ud.<br><br>Dette forklarer tildels de problemer jeg har haft med den lave tomgang. For den har i lang tid ikke villet holde korrekt tomgang v. varmstart - dog kunne dette "tvinges igennem" ved at jeg enten accelererede h_rdt i et _jeblik s_ledes, at omdrejningerne kom godt i vejret - eller at jeg dappede h_rdt p_ speederen nogle gange (da det ikke altid lykkes i f_rste fors_g).<br><br>Kan mit tomgangsproblem, som jeg indtil nu har tiltroet en slidt karb. og/eller evt. d_rlige vakuumforbindelser, skyldes denne solenoidventil som er syg eller defekt?<br><br>Det skal lige siges, at den underlige opf_rsel har rettet sig efter montering af en ny sikring. Min indtil nu meget pessimistiske tankm_ler lader ogs_ til at vise mere trov_rdigt nu...?!? Tomgangen er dog stadig tosset.<br><br>P.f.t. og m.v.h.<br>Lars Vestman<br><br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=824&ForumID=2&Showsub=837'>Re: S&#230;r opf&#248;rsel!</a> <em>(Lars Vestman, 18-09-2003 10:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=824&ForumID=2&Showsub=831'>Re: S&#230;r opf&#248;rsel!</a> <em>(J&#248;rgen Bruun, 15-09-2003 21:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=824&ForumID=2&Showsub=828'>Re: S&#230;r opf&#248;rsel!</a> <em>(Jes, 15-09-2003 11:44)</em></strong></font></li><br><font face=Verdana>Hej igen<br><br>Hvis du laver kontrollen med at afmontere stikket n_r motoren k_rer, _bner magnetventilen ikke igen n_r ledningen atter s_ttes p_. S_dan er det, hvorfor ved jeg ikke. Kan skyldes trykket i manifolden. Derfor er det vigtigt at kontrollen udf_res med t_nding p_, men standset motor.<br><br>Med et voltmeter p_ plus/minus p_ akkumulatoren skal generatoren lade med 14,2 - 14,4 volt uanset omdrejninger. Afviger den herfra, er der fejl i generator, typisk laderel_. Laderel_et er indbygget i kulholderen i generator (med undtagelse af modeller f_r ca. 1978, som har separat laderel_ monteret p_ h_jre indersk_rm).<br><br>mvh<br><br>Jes</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=824&ForumID=2&Showsub=827'>Re: S&#230;r opf&#248;rsel!</a> <em>(Lars Vestman, 14-09-2003 22:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=824&ForumID=2&Showsub=826'>Re: S&#230;r opf&#248;rsel!</a> <em>(Jes, 14-09-2003 21:42)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=824&ForumID=2&Showsub=837'>Re: Sær opførsel!</a> <em>(Lars Vestman, 18-09-2003 10:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=824&ForumID=2&Showsub=831'>Re: Sær opførsel!</a> <em>(Jørgen Bruun, 15-09-2003 21:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=824&ForumID=2&Showsub=828'>Re: Sær opførsel!</a> <em>(Jes, 15-09-2003 11:44)</em></strong></font></li><br><font face=Verdana>Hej igen<br><br>Hvis du laver kontrollen med at afmontere stikket n_r motoren k_rer, _bner magnetventilen ikke igen n_r ledningen atter s_ttes p_. S_dan er det, hvorfor ved jeg ikke. Kan skyldes trykket i manifolden. Derfor er det vigtigt at kontrollen udf_res med t_nding p_, men standset motor.<br><br>Med et voltmeter p_ plus/minus p_ akkumulatoren skal generatoren lade med 14,2 - 14,4 volt uanset omdrejninger. Afviger den herfra, er der fejl i generator, typisk laderel_. Laderel_et er indbygget i kulholderen i generator (med undtagelse af modeller f_r ca. 1978, som har separat laderel_ monteret p_ h_jre indersk_rm).<br><br>mvh<br><br>Jes</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=824&ForumID=2&Showsub=827'>Re: Sær opførsel!</a> <em>(Lars Vestman, 14-09-2003 22:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=824&ForumID=2&Showsub=826'>Re: Sær opførsel!</a> <em>(Jes, 14-09-2003 21:42)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">44</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">44</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

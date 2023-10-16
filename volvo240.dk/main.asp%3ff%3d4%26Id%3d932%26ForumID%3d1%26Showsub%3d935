@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=932"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=932"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-10-2003&nbsp; 23:29</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-10-2003 23:29</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">P_ vej hjem fra arbejde lyser olielampen i instrumenthuset pludselig op i min '85 245 B230A. Underligt - den har aldrig lyst f_r under k_rsel.<br><br>N_, ind til siden og sluk for motoren. Jeg lader den st_ et minut eller to og m_ler s_ oliestanden. 5 mm fra max.-stregen, d.v.s. alt i orden. Endnu mere underligt.<br>Jeg s_tter mig ind og starter motoren, og nu kommer det rigtig underlige: Lampen lyser stadig umiddelbart efter, men toner med det samme langsomt ud over 5-10 sekunder, og lyser slet ikke resten af vejen hjem.<br><br>Er det olietrykskontakten der er g_et nisser i?<br><br>(Den k_rer med fuldsynt. 5W-40-olie (som s_dvanlig), skiftet for 500 km. siden og med originalt oliefilter.)<br><br>M.v.h. Lars Vestman</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=932&ForumID=1&Showsub=938'>Re: Skizofren olielampe?</a> <em>(Lars Vestman, 16-10-2003 13:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=932&ForumID=1&Showsub=937'>Re: Skizofren olielampe?</a> <em>(Lars Vestman, 16-10-2003 13:48)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=932&ForumID=1&Showsub=936'>Re: Skizofren olielampe?</a> <em>(H,Martin Lotzfeldt, 16-10-2003 10:03)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=932&ForumID=1&Showsub=935'>Re: Skizofren olielampe?</a> <em>(Jes, 16-10-2003 08:45)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Flere muligheder:<br><br>1. Defekt olietrykskontakt. Olietrykskontakten p_ B 230 motorerne er ikke s_ langlivet som p_ B 23 motorerne. Bl.a. kan den blive ut_t, s_ olien spr_jter ud.Havde en gang en olietrykskontakt, som f_rst slukkede n_r motoren kom over ca. 3000 omdr. efter et par dage med det sjov blev den ut_t og spr_jtede ca. 1 l. olie ud pr. 20 km k_rsel.<br><br>2. Isoleringen p_ ledningen til olitrykskontakten (og generator)bliver med tiden m_r, revner og falder af. derved er kobberet afisoleret. Hvis/n_r det s_ r_rer ved stel vil din olielampe lyse. L_sningen er at skifte den del af ledningen, hvor isoleringen er m_r. Er det helt galt kan man f_ et komplet ledningsnet til motoren. Det skiftes s_ fra stikket ved torpedov_ggen er fremefter.<br><br>3. Der er byttet om p_ ledningerne til olietrykskontakt og generator, s_ det faktisk er en d_rlig generator du har. Ja, det lyder utroligt, men jeg har set en del tilf_lde af hvor disse to ledninger er ombyttet. De er lige lange og sidder t_t ved hinanden.<br><br>Pr_v fejls_gning i r_kkef_lgen 2 - 1- 3.<br><br>mvh<br><br>Jes</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=932&ForumID=1&Showsub=938'>Re: Skizofren olielampe?</a> <em>(Lars Vestman, 16-10-2003 13:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=932&ForumID=1&Showsub=937'>Re: Skizofren olielampe?</a> <em>(Lars Vestman, 16-10-2003 13:48)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=932&ForumID=1&Showsub=936'>Re: Skizofren olielampe?</a> <em>(H,Martin Lotzfeldt, 16-10-2003 10:03)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=932&ForumID=1&Showsub=935'>Re: Skizofren olielampe?</a> <em>(Jes, 16-10-2003 08:45)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Flere muligheder:<br><br>1. Defekt olietrykskontakt. Olietrykskontakten p_ B 230 motorerne er ikke s_ langlivet som p_ B 23 motorerne. Bl.a. kan den blive ut_t, s_ olien spr_jter ud.Havde en gang en olietrykskontakt, som f_rst slukkede n_r motoren kom over ca. 3000 omdr. efter et par dage med det sjov blev den ut_t og spr_jtede ca. 1 l. olie ud pr. 20 km k_rsel.<br><br>2. Isoleringen p_ ledningen til olitrykskontakten (og generator)bliver med tiden m_r, revner og falder af. derved er kobberet afisoleret. Hvis/n_r det s_ r_rer ved stel vil din olielampe lyse. L_sningen er at skifte den del af ledningen, hvor isoleringen er m_r. Er det helt galt kan man f_ et komplet ledningsnet til motoren. Det skiftes s_ fra stikket ved torpedov_ggen er fremefter.<br><br>3. Der er byttet om p_ ledningerne til olietrykskontakt og generator, s_ det faktisk er en d_rlig generator du har. Ja, det lyder utroligt, men jeg har set en del tilf_lde af hvor disse to ledninger er ombyttet. De er lige lange og sidder t_t ved hinanden.<br><br>Pr_v fejls_gning i r_kkef_lgen 2 - 1- 3.<br><br>mvh<br><br>Jes</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">39</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">39</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

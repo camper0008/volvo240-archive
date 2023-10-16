@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=1186"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1186"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -217,7 +217,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">S&#248;ren Petersen</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Søren Petersen</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-01-2004&nbsp; 18:16</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-01-2004 18:16</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har fornylig erhvervet en �ldre 242 fra 1977,og her er mit sp�rgsm�l, HVAD ER S�DAN EN V�RD?<br><br>Fakta om bilen:<br>Model: 242L fra 1977<br>Der ligger en 1,9 benzin med turbo+intercooler(eftermonteret)<br>Bilen har k�rt 29.500 km. (ja, ikke mere. motor ikke skiftet)<br>Ingen rust overhovedet, har st�et indend�rs n�sten hele sit liv.<br>Alt er  originalt, lige p�n�r anl�gget.<br><br>H�ber der er nogle der har en bud p� hvad s�dan en fin bil er v�rd!<br><br>P� forh�nd tak for hj�lpen</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1211'>Re: Vurdering af 242 fra 1977</a> <em>(Kim L&#248;venskjold, 17-01-2004 18:16)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1198'>Re: Vurdering af 242 fra 1977</a> <em>(S&#248;ren Petersen, 11-01-2004 16:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1196'>Re: Vurdering af 242 fra 1977</a> <em>(Lars Vestman, 11-01-2004 11:20)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1192'>Re: Vurdering af 242 fra 1977</a> <em>(Jes, 10-01-2004 10:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1189'>Re: Vurdering af 242 fra 1977</a> <em>(S&#248;ren Petersen, 09-01-2004 20:58)</em></strong></font></li><br><font face=Verdana>Jeg ved den har st�et p� en teknisk skole indtil for 5 �r siden, men da den havde st�et p� rulleb�nd i n�sten 20 �r, har det v�ret n�dvendigt at udskifte en del. <br>Jeg bruger bilen nu hver dag, og der er faktisk ingen problemer med den. Desuden er den faktisk ret kvik, har f�et den m�lt og den l�ber omkring de 140 HK.<br>Der er for et par �r siden ogs� sat overdrive i den, s� den l�ber hurtigt p� motorvejen.</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1188'>Re: Vurdering af 242 fra 1977</a> <em>(Jes, 09-01-2004 19:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1187'>Re: Vurdering af 242 fra 1977</a> <em>(S&#248;ren, 09-01-2004 19:55)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1211'>Re: Vurdering af 242 fra 1977</a> <em>(Kim Løvenskjold, 17-01-2004 18:16)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1198'>Re: Vurdering af 242 fra 1977</a> <em>(Søren Petersen, 11-01-2004 16:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1196'>Re: Vurdering af 242 fra 1977</a> <em>(Lars Vestman, 11-01-2004 11:20)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1192'>Re: Vurdering af 242 fra 1977</a> <em>(Jes, 10-01-2004 10:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1189'>Re: Vurdering af 242 fra 1977</a> <em>(Søren Petersen, 09-01-2004 20:58)</em></strong></font></li><br><font face=Verdana>Jeg ved den har st�et p� en teknisk skole indtil for 5 �r siden, men da den havde st�et p� rulleb�nd i n�sten 20 �r, har det v�ret n�dvendigt at udskifte en del. <br>Jeg bruger bilen nu hver dag, og der er faktisk ingen problemer med den. Desuden er den faktisk ret kvik, har f�et den m�lt og den l�ber omkring de 140 HK.<br>Der er for et par �r siden ogs� sat overdrive i den, s� den l�ber hurtigt p� motorvejen.</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1188'>Re: Vurdering af 242 fra 1977</a> <em>(Jes, 09-01-2004 19:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1186&ForumID=4&Showsub=1187'>Re: Vurdering af 242 fra 1977</a> <em>(Søren, 09-01-2004 19:55)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">25</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">25</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

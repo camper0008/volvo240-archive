@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=900"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=900"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>D&#229;rlige Volvo-kaburatorer ???</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Dårlige Volvo-kaburatorer ???</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-10-2003&nbsp; 11:27</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-10-2003 11:27</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg er indehaver af en Volvo 240 DL, Stationcar fra 1988, med en B 230 K motor, og med en kaburator af typen, Solex CISAC.<br><br>I forbindelse med min s_gen efter brugte dele til min kaburator, talte jeg med en mekaniker (vistnok fra et autogenbrug/ophug), som fortalte mig at kaburatorer fra Volvo (i disse _rgange), simpelthen ikke virker. <br><br>Hans erfaringer var at kaburatorerne simpelthen er for d_rlige lavet og bruger en helvedes masse bensin (ja det kender jeg til). Han havde meget stor erfaring med Volvo, og anbefalede mig direkte at k_be en helt ny kaburator, hvis jeg ville g_re nogen ved bensin_konomien.<br><br>Er der nogen her der ved om manden har ret ? - Det er jo en kendsgerning at 240 ikke k_rer ret langt p_ literen (min k_rer 7-9 km/l). <br><br>Kan jeg overhovedet g_re noget for at f_ min Volvo til at k_re mere _konomisk, uden at skulle investere i en ny kaburator ? <br><br>MVH<br><br>Allan Berggreen <br><br>PS.<br><br>Det skal hertil siges at det ikke var fordi han forhandlede nye Volvodele, eller fordi han ville s_lge mig en ny kaburator. - Han ville blot, som fagmand p_ omr_det, give mig et godt r_d. Han anslog i_vrigt at en ny kaburator ville koste 4-5000 kr.<br><br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=900&ForumID=4&Showsub=1011'>Re: D&#229;rlige Volvo-kaburatorer ???</a> <em>(ABT, 17-11-2003 21:33)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=900&ForumID=4&Showsub=945'>Re: D&#229;rlige Volvo-kaburatorer ???</a> <em>(Allan Bergreen, 19-10-2003 14:07)</em></strong></font></li><br><font face=Verdana>Hej Allan.<br><br>Jeg kan kun give dig ret mht. Cisac karburatoren. Den er meget sv_r. Jeg skal selv til at rep. min nu. Det vil sige jeg skifter simpelthen alt hvad der er af pakninger og div. Nogen har fortalt mig at den store gummipakning som sidder nederst kan v_re _rsgen til hele problemet. Jeg har skilt min ad, og har derved obs. at denne tykke pakning incl. pappakningen, _verst og nederst har v_ret bekadiget, og efter mit falke_je har den v_ret ut_t. Det vil sige at vognen hugger n_r man k_rer. Der kommer simpelthen luft ind, og det m_ der ikke.<br>Jeg skal nok vende tilbage n_r jeg har samlet karburatoren igen. MVH. S_ren. Nakskov.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=900&ForumID=4&Showsub=1011'>Re: Dårlige Volvo-kaburatorer ???</a> <em>(ABT, 17-11-2003 21:33)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=900&ForumID=4&Showsub=945'>Re: Dårlige Volvo-kaburatorer ???</a> <em>(Allan Bergreen, 19-10-2003 14:07)</em></strong></font></li><br><font face=Verdana>Hej Allan.<br><br>Jeg kan kun give dig ret mht. Cisac karburatoren. Den er meget sv_r. Jeg skal selv til at rep. min nu. Det vil sige jeg skifter simpelthen alt hvad der er af pakninger og div. Nogen har fortalt mig at den store gummipakning som sidder nederst kan v_re _rsgen til hele problemet. Jeg har skilt min ad, og har derved obs. at denne tykke pakning incl. pappakningen, _verst og nederst har v_ret bekadiget, og efter mit falke_je har den v_ret ut_t. Det vil sige at vognen hugger n_r man k_rer. Der kommer simpelthen luft ind, og det m_ der ikke.<br>Jeg skal nok vende tilbage n_r jeg har samlet karburatoren igen. MVH. S_ren. Nakskov.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">51</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">51</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

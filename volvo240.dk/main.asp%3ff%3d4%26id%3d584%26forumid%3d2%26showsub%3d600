@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=584"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=584"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Forhjul, m&#230;rkelig bankelyd, hvad er dette ??</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Forhjul, mÃ¦rkelig bankelyd, hvad er dette ??</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-07-2003&nbsp; 16:27</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-07-2003 16:27</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br>Vores 245 GLE fra 1989, er plusselig begyndt at give en mærkelig bankelyd fra højre forhjul.<br>Det er udelukkende en lyd der kommer når man køre til venstre, og giver lidt gas eller har rimelig fart på samtidig.<br>Lyden er der ikke når man køre lige ud eller køre til højre.<br>Der er heller ingen skurelyde fra forhjulet, når den køre lige ud, eller da vi løftede den op og drejede hjulet rundt selv.<br><br>Lyden siger bang, bang, bang, bang.... osv., nærmest som jeg tænker mig det ville lyde hvis man eks. kun skruede hjul møtrikkerne halvt ind på hjul boltene..... <br><br>Er der nogle gode forslag til hvad det kan være der er galt her ??<br>Styrekugler og bærekugler er udskiftet i januar 2003, så kan det være hjullejerne der plusselig er stået af på én gang ??<br><br>Mvh.<br>Peter<br></font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br>Vores 245 GLE fra 1989, er plusselig begyndt at give en mÃ¦rkelig bankelyd fra hÃ¸jre forhjul.<br>Det er udelukkende en lyd der kommer nÃ¥r man kÃ¸re til venstre, og giver lidt gas eller har rimelig fart pÃ¥ samtidig.<br>Lyden er der ikke nÃ¥r man kÃ¸re lige ud eller kÃ¸re til hÃ¸jre.<br>Der er heller ingen skurelyde fra forhjulet, nÃ¥r den kÃ¸re lige ud, eller da vi lÃ¸ftede den op og drejede hjulet rundt selv.<br><br>Lyden siger bang, bang, bang, bang.... osv., nÃ¦rmest som jeg tÃ¦nker mig det ville lyde hvis man eks. kun skruede hjul mÃ¸trikkerne halvt ind pÃ¥ hjul boltene..... <br><br>Er der nogle gode forslag til hvad det kan vÃ¦re der er galt her ??<br>Styrekugler og bÃ¦rekugler er udskiftet i januar 2003, sÃ¥ kan det vÃ¦re hjullejerne der plusselig er stÃ¥et af pÃ¥ én gang ??<br><br>Mvh.<br>Peter<br></font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=584&ForumID=2&Showsub=3015'>Re: Forhjul, m&#230;rkelig bankelyd, hvad er dette ??</a> <em>(kent, 09-03-2005 23:13)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=584&ForumID=2&Showsub=3009'>Re: Forhjul, m&#230;rkelig bankelyd, hvad er dette ??</a> <em>(Michael &#216;, 09-03-2005 13:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=584&ForumID=2&Showsub=600'>Re: Forhjul, m&#230;rkelig bankelyd, hvad er dette ??</a> <em>(Michael Jensen, 08-07-2003 10:40)</em></strong></font></li><br><font face=Verdana>Ja jeg har også haft et sæt "3måneders bærekugler".<br>Idet hele taget skal man passe på ved valg af uoriginale dele.<br>Måske var det en ide at lave en hitliste over gode og dårlige<br>(farlige uorginale)dele.<br></font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=584&ForumID=2&Showsub=587'>Re: Forhjul, m&#230;rkelig bankelyd, hvad er dette ??</a> <em>(Jes, 06-07-2003 12:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=584&ForumID=2&Showsub=586'>Re: Forhjul, m&#230;rkelig bankelyd, hvad er dette ??</a> <em>(Peter, 06-07-2003 09:39)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=584&ForumID=2&Showsub=585'>Re: Forhjul, m&#230;rkelig bankelyd, hvad er dette ??</a> <em>(Emil J., 05-07-2003 19:09)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=584&ForumID=2&Showsub=3015'>Re: Forhjul, mÃ¦rkelig bankelyd, hvad er dette ??</a> <em>(kent, 09-03-2005 23:13)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=584&ForumID=2&Showsub=3009'>Re: Forhjul, mÃ¦rkelig bankelyd, hvad er dette ??</a> <em>(Michael Ã˜, 09-03-2005 13:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=584&ForumID=2&Showsub=600'>Re: Forhjul, mÃ¦rkelig bankelyd, hvad er dette ??</a> <em>(Michael Jensen, 08-07-2003 10:40)</em></strong></font></li><br><font face=Verdana>Ja jeg har ogsÃ¥ haft et sÃ¦t "3mÃ¥neders bÃ¦rekugler".<br>Idet hele taget skal man passe pÃ¥ ved valg af uoriginale dele.<br>MÃ¥ske var det en ide at lave en hitliste over gode og dÃ¥rlige<br>(farlige uorginale)dele.<br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=584&ForumID=2&Showsub=587'>Re: Forhjul, mÃ¦rkelig bankelyd, hvad er dette ??</a> <em>(Jes, 06-07-2003 12:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=584&ForumID=2&Showsub=586'>Re: Forhjul, mÃ¦rkelig bankelyd, hvad er dette ??</a> <em>(Peter, 06-07-2003 09:39)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=584&ForumID=2&Showsub=585'>Re: Forhjul, mÃ¦rkelig bankelyd, hvad er dette ??</a> <em>(Emil J., 05-07-2003 19:09)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">11</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">11</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

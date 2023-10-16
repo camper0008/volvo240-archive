@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">13-10-2013&nbsp; 17:28</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">13-10-2013 17:28</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">K_re alle<br><br>Jeg h_ber i kan hj_lpe med mit problem med Volvoen.<br>Det er en 240 st.car. fra 93.<br><br>Lampen til lambdasonde er begyndt at lyse. Samtidig sker der sommetider det, at motoren pludselig g_r ud. S_ venter man ca 30 sekunder og den er lige til at starte op igen. Det kommer spontant og uden videre m_nster.<br><br>Jeg har pr_vet at pille stelledningen fra, for at nulstille, og derefter var lambda-lampen slukket, indtil motoren satte ud f_rste gang derefter.<br><br>Jeg har l_st mig til herinde at andre har haft held med at udbedre fejlen, ved at skifte rel_ til benzinpumpe.<br>S_ det er nu mit n_ste tr_k - men: Hvor hulen sidder rel_et? Jeg kan ikke finde det..<br><br>P_ forh_nd tak for hj_lpen<br><br>mvh<br><br>Lars</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 13-10-2013 18:33)</em></u></strong></font></li><br><font face=Verdana>Hej Lars<br>Benzin pumpe rel_et sidder ovre ved de 2 ECUere oppe under filten i passager siden (h_jre side) rel_et er hvidt.<br>MVH Jens Peter<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lars Rasmussen, 22-10-2013 17:02)</em></u></strong></font></li><br><font face=Verdana>K_re alle.<br><br>Rel_et er nu skiftet, og bilen har k_rt som den skal i en uges tid nu.<br><br>For dem som m_tte v_re interesseret, havde jeg fejlkode 1-4-4<br><br>Tak for hj_lp<br><br>mvh<br><br>Lars</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 13-10-2013 18:33)</em></u></strong></font></li><br><font face=Verdana>Hej Lars<br>Benzin pumpe rel_et sidder ovre ved de 2 ECUere oppe under filten i passager siden (h_jre side) rel_et er hvidt.<br>MVH Jens Peter<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Lars Rasmussen, 22-10-2013 17:02)</em></u></strong></font></li><br><font face=Verdana>K_re alle.<br><br>Rel_et er nu skiftet, og bilen har k_rt som den skal i en uges tid nu.<br><br>For dem som m_tte v_re interesseret, havde jeg fejlkode 1-4-4<br><br>Tak for hj_lp<br><br>mvh<br><br>Lars</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

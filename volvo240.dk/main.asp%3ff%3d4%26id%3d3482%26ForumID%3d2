@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-07-2009&nbsp; 17:33</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-07-2009 17:33</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej er der nogen der har pr_vet at skifte varmeelement i en Volvo 940.. Jeg kan ikke lige genneskue hvormeget der skal splittes ad.<br>mvh Lars</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Max B&#252;low Nielsen, 05-07-2009 17:45)</em></u></strong></font></li><br><font face=Verdana>Hej Lars<br><br>1: sp_nd 2 klemmer p_ vandslangerne ude i motorrummet<br>2: fjern slangerne fra ventilen inde i kabinen og fra tuden i motorrummet.<br>3: fjern ventilen - lirk kabeltr_kket af - man drejer ventilen indtil den l_sner sig.<br>4: fjern 2 skruer der holder varmeelementet <br>5: tr_k varmeelementet ud - <br><br>Og husk at nyde den dejlige arbejdsstilling &#59;-)<br><br>mvh<br>MAX</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lars, 05-07-2009 19:31)</em></u></strong></font></li><br><font face=Verdana>Hej Max.. Nu har jeg skiftet nogle elementer... men det var mere hvormeget inde i bilen der skal afmonteres. Nogle biler er det 2 skruer. og andre er det hele instrumentet der skal ud.. Har vi en ca. tid.<br><br>Jeg skal v_re _rlig, at jeg har overhovedet ikke kigge p_ det.. men jeg har en bil til service og bunden er v_d. og der mangler k_lerv_dske. min egen skal ogs_ have en kaffekop hver 3md. s_h... mvh Lars</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Max B&#252;low Nielsen, 05-07-2009 20:03)</em></u></strong></font></li><br><font face=Verdana>Hej Lars<br><br>p_ min 940 fra 1998 - er der kun 2 skruer!!! - man kan med lidt held gelinde lirke elementet forbi speederpedalen.<br>Men er du sikker p_ at din ventil ikke er g_et i stykker - det var min!!! Ofte er det ventilen der g_r f_rst.<br><br>Men hvorom alt er s_ skal du ikke have instrument ud - kun ventilen og evt. speederpedalen....<br><br>Jeg brugte ca. 2 timer p_ sagen - men jeg er ogs_ 188cm og vejer alt for meget siger k_resten &#59;-)<br><br>mvh<br>Max</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lars, 05-07-2009 21:25)</em></u></strong></font></li><br><font face=Verdana>Hej Max. <br><br>hvordan fandt du ud af, at det var ventilen. Min f_tter h_ldte k_lert_tner i sin og problemet var l_st..<br><br>Det er jo ikke noget man gidder at k_mpe med. N_r der er andre der har pr_vet det.<br>mvh Lars</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Max B&#252;low Nielsen, 05-07-2009 23:00)</em></u></strong></font></li><br><font face=Verdana>:-)<br><br>den var mildest talt pisse ut_t &#59;-)<br>Men det var ret nemt at se - da det gr_nne stads dryppede ud af ventilen og der var et tydeligt spor fra ventilen ned til gulvet...<br>Men de er kendt for at l_kke med tiden... Jeg skiftede dog ogs_ varmeelementet da der var irgr_nne aflejringer p_ varmelegmet....<br><br>Max<br>For_vrigt - s_ er min bil uden Aircondition - alts_ ganske almindelige og kedelig varme....<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lars, 06-07-2009 18:57)</em></u></strong></font></li><br><font face=Verdana>Hej Max..<br><br>Du havde ret i, at det var hanen. jeg skal v_re _rlig og sige, at jeg er ikke meget for element udskiftning. for p_ de fleste biler er det bordet ud...(selvf_lgelig ikke volvo)<br><br>Men efter din kort beskivelse, ligger den lige til h_jre benet....n_r man har taget pladen under ratstammen af... Jeg vil g_tte p_ en _ times tid...<br><br>Mange tak mvh Lars</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Max B&#252;low Nielsen, 05-07-2009 17:45)</em></u></strong></font></li><br><font face=Verdana>Hej Lars<br><br>1: sp_nd 2 klemmer p_ vandslangerne ude i motorrummet<br>2: fjern slangerne fra ventilen inde i kabinen og fra tuden i motorrummet.<br>3: fjern ventilen - lirk kabeltr_kket af - man drejer ventilen indtil den l_sner sig.<br>4: fjern 2 skruer der holder varmeelementet <br>5: tr_k varmeelementet ud - <br><br>Og husk at nyde den dejlige arbejdsstilling &#59;-)<br><br>mvh<br>MAX</font><br><li><font face=Verdana><strong><u>Re: - <em>(Lars, 05-07-2009 19:31)</em></u></strong></font></li><br><font face=Verdana>Hej Max.. Nu har jeg skiftet nogle elementer... men det var mere hvormeget inde i bilen der skal afmonteres. Nogle biler er det 2 skruer. og andre er det hele instrumentet der skal ud.. Har vi en ca. tid.<br><br>Jeg skal v_re _rlig, at jeg har overhovedet ikke kigge p_ det.. men jeg har en bil til service og bunden er v_d. og der mangler k_lerv_dske. min egen skal ogs_ have en kaffekop hver 3md. s_h... mvh Lars</font><br><li><font face=Verdana><strong><u>Re: - <em>(Max B&#252;low Nielsen, 05-07-2009 20:03)</em></u></strong></font></li><br><font face=Verdana>Hej Lars<br><br>p_ min 940 fra 1998 - er der kun 2 skruer!!! - man kan med lidt held gelinde lirke elementet forbi speederpedalen.<br>Men er du sikker p_ at din ventil ikke er g_et i stykker - det var min!!! Ofte er det ventilen der g_r f_rst.<br><br>Men hvorom alt er s_ skal du ikke have instrument ud - kun ventilen og evt. speederpedalen....<br><br>Jeg brugte ca. 2 timer p_ sagen - men jeg er ogs_ 188cm og vejer alt for meget siger k_resten &#59;-)<br><br>mvh<br>Max</font><br><li><font face=Verdana><strong><u>Re: - <em>(Lars, 05-07-2009 21:25)</em></u></strong></font></li><br><font face=Verdana>Hej Max. <br><br>hvordan fandt du ud af, at det var ventilen. Min f_tter h_ldte k_lert_tner i sin og problemet var l_st..<br><br>Det er jo ikke noget man gidder at k_mpe med. N_r der er andre der har pr_vet det.<br>mvh Lars</font><br><li><font face=Verdana><strong><u>Re: - <em>(Max B&#252;low Nielsen, 05-07-2009 23:00)</em></u></strong></font></li><br><font face=Verdana>:-)<br><br>den var mildest talt pisse ut_t &#59;-)<br>Men det var ret nemt at se - da det gr_nne stads dryppede ud af ventilen og der var et tydeligt spor fra ventilen ned til gulvet...<br>Men de er kendt for at l_kke med tiden... Jeg skiftede dog ogs_ varmeelementet da der var irgr_nne aflejringer p_ varmelegmet....<br><br>Max<br>For_vrigt - s_ er min bil uden Aircondition - alts_ ganske almindelige og kedelig varme....<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Lars, 06-07-2009 18:57)</em></u></strong></font></li><br><font face=Verdana>Hej Max..<br><br>Du havde ret i, at det var hanen. jeg skal v_re _rlig og sige, at jeg er ikke meget for element udskiftning. for p_ de fleste biler er det bordet ud...(selvf_lgelig ikke volvo)<br><br>Men efter din kort beskivelse, ligger den lige til h_jre benet....n_r man har taget pladen under ratstammen af... Jeg vil g_tte p_ en _ times tid...<br><br>Mange tak mvh Lars</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -267,7 +267,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

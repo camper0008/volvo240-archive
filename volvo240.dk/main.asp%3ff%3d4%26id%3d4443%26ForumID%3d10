@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -222,7 +222,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-09-2011&nbsp; 16:36</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-09-2011 16:36</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej, hva olie og hvor meget h_lder jeg p_ en m46 og hva skal overdrivet have?<br><br>bilen er en 1993 940</font></td>
@@ -233,7 +233,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 08-09-2011 17:19)</em></u></strong></font></li><br><font face=Verdana><a href="http://www.volvo240.dk/main.asp?f=105" target="_blank">http://www.volvo240.dk/main.asp?f=105</a><br><br>Hovedgearkasse og overdrive h_nger sammen og deler derfor olie.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 08-09-2011 20:51)</em></u></strong></font></li><br><font face=Verdana>hvorfor f.... kunne jeg ikke selv find det! :-)<br><br>Mange tak!</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 09-09-2011 09:08)</em></u></strong></font></li><br><font face=Verdana>st_r under volvo 240 info<br>vh<br>Tommy</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 08-09-2011 17:19)</em></u></strong></font></li><br><font face=Verdana><a href="http://www.volvo240.dk/main.asp?f=105" target="_blank">http://www.volvo240.dk/main.asp?f=105</a><br><br>Hovedgearkasse og overdrive h_nger sammen og deler derfor olie.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 08-09-2011 20:51)</em></u></strong></font></li><br><font face=Verdana>hvorfor f.... kunne jeg ikke selv find det! :-)<br><br>Mange tak!</font><br><li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 09-09-2011 09:08)</em></u></strong></font></li><br><font face=Verdana>st_r under volvo 240 info<br>vh<br>Tommy</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -242,7 +242,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -266,7 +266,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

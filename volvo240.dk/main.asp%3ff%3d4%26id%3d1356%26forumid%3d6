@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-01-2006&nbsp; 00:17</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-01-2006 00:17</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">jeg ska ha k�bt 4 nye ankerplader,men ska jeg k�be dem originale eller uorginale Brugte kommer ikke p� tale.er der nogen der har noget erfaring med dem.</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 14-01-2006 10:21)</em></u></strong></font></li><br><font face=Verdana>Hej Du kan godt bruge uorginale ankerplader, bare du f�r k�bt dem der h�re til din bil. jeg bruger aldrig andre end uorginale ankerplader, n�r pasformen er den samme. MVH Tommy</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ren&#233; &#216;stergaard, 14-01-2006 11:05)</em></u></strong></font></li><br><font face=Verdana>Jeg plejer at bruge dem fra NOR ( http://www.nor-as.dk/ ), men du skal v�re momsregistreret som autofirma for at kunne k�be direkte derfra. Kender du et godt v�rksted, kan du f� dem til at bestille dem. Pasformen er fin, og der er masser af gods i dem. :)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Johan &#197;rman, 15-01-2006 00:55)</em></u></strong></font></li><br><font face=Verdana>Hej. Jeg har k�bt nye uoriginale ankerplader hos spareparts i stenl�se. De passede fint, men var ubehandlede. Jeg malede dem derfor et par gange f�r jeg satte dem p�. De sidder jo ret udsat...<br><br>Venlig hilsen <br><br>Johan �rman</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 14-01-2006 10:21)</em></u></strong></font></li><br><font face=Verdana>Hej Du kan godt bruge uorginale ankerplader, bare du f�r k�bt dem der h�re til din bil. jeg bruger aldrig andre end uorginale ankerplader, n�r pasformen er den samme. MVH Tommy</font><br><li><font face=Verdana><strong><u>Re: - <em>(Ren&#233; Østergaard, 14-01-2006 11:05)</em></u></strong></font></li><br><font face=Verdana>Jeg plejer at bruge dem fra NOR ( http://www.nor-as.dk/ ), men du skal v�re momsregistreret som autofirma for at kunne k�be direkte derfra. Kender du et godt v�rksted, kan du f� dem til at bestille dem. Pasformen er fin, og der er masser af gods i dem. :)</font><br><li><font face=Verdana><strong><u>Re: - <em>(Johan Årman, 15-01-2006 00:55)</em></u></strong></font></li><br><font face=Verdana>Hej. Jeg har k�bt nye uoriginale ankerplader hos spareparts i stenl�se. De passede fint, men var ubehandlede. Jeg malede dem derfor et par gange f�r jeg satte dem p�. De sidder jo ret udsat...<br><br>Venlig hilsen <br><br>Johan �rman</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -264,9 +264,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">14</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">14</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

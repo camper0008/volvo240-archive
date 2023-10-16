@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">13-11-2013&nbsp; 08:38</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">13-11-2013 08:38</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle!<br><br>Jeg har p_ mit projekt (en 244 DL fra 76) gennemg_et og udskiftet alle bremseledningerne og skal nu til at genopfylde med bremsev_ske - og selvf_lgelig lufte bremser derefter. Er der nogle tips til, hvordan man b_r g_re dette?<br>Jeg t_nker ikke s_ meget p_ selve luftningen men snarere, hvordan man fylder v_sken p_ systemet - for at undg_ at fange for meget luft her? Det er m_ske lige ud af landevejen?<br>MVH David</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 13-11-2013 11:01)</em></u></strong></font></li><br><font face=Verdana>Hej David<br>Jeg kan sige dig hvordan jeg g_r, (om det er den nemmeste/bedste m_de vides ikke)Jeg ringer til min lokale Volvo ven, som hj_lper.<br>S_, _bner jeg alle 8 skruer, og s_ h_lder hj_lperen nyt v_ske i beholderen, og jeg lukker skruerne under Volvoen s_ snart de begynder at dryppe.<br>S_, toppes der HELT op med v_ske i beholderen, og hj_lperen ind i Volvoen og liften k_res op, og s_ udlufter vi i den rigtige r_kkef_lge.<br>Jeg h_ber at dette har givet dig et hint, god forn_jelse med udluftningen af Volvoen.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(David Cray, 13-11-2013 14:45)</em></u></strong></font></li><br><font face=Verdana>Hej Jens Peter!<br><br>Jeg havde overvejet samme metode, da jeg regnede med, jeg p_ den m_de kunne undg_ luft, der blev fanget i r_rene.<br>Mange tak for bekr_ftelsen!<br>Mvh David</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 13-11-2013 11:01)</em></u></strong></font></li><br><font face=Verdana>Hej David<br>Jeg kan sige dig hvordan jeg g_r, (om det er den nemmeste/bedste m_de vides ikke)Jeg ringer til min lokale Volvo ven, som hj_lper.<br>S_, _bner jeg alle 8 skruer, og s_ h_lder hj_lperen nyt v_ske i beholderen, og jeg lukker skruerne under Volvoen s_ snart de begynder at dryppe.<br>S_, toppes der HELT op med v_ske i beholderen, og hj_lperen ind i Volvoen og liften k_res op, og s_ udlufter vi i den rigtige r_kkef_lge.<br>Jeg h_ber at dette har givet dig et hint, god forn_jelse med udluftningen af Volvoen.<br>MVH Jens Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(David Cray, 13-11-2013 14:45)</em></u></strong></font></li><br><font face=Verdana>Hej Jens Peter!<br><br>Jeg havde overvejet samme metode, da jeg regnede med, jeg p_ den m_de kunne undg_ luft, der blev fanget i r_rene.<br>Mange tak for bekr_ftelsen!<br>Mvh David</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

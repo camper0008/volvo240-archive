@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=3087"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=3087"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">27-03-2005&nbsp; 20:18</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">27-03-2005 20:18</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">at sp�rge, men findes der ikke et forum som den pragtfulde side her hvor det drejer sig om Volvo 400 serie, jeg st� og skal bruge en sedle til f�residen (Volvo 460  �96) eller endnu bedre kende i ikke en der lige har s�dan en liggende.<br><br>Undskyld jeg bruger Volvo240.dk til dette sp�rgsm�l men jeg har ikke haft s� meget at g�re med 400 serien....s� jeg t�nkte bare...�h sorry<br><br>Mvh<br>Henning</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3087&ForumID=4&Showsub=3094'>Re: Forkert sted....</a> <em>(Henning, 27-03-2005 23:07)</em></strong></font></li><br><font face=Verdana>Jeg bor p� Als, men Kent hvis du kender en der muligvis kan hj�lpe s� st� min e-mail �verst. Ellers mange tak for hj�lpen<br><br>Hej Tommy, mange tak for telefonnr.<br><br>Mvh<br>Henning (Volvo 240 tic)</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3087&ForumID=4&Showsub=3091'>Re: Forkert sted....</a> <em>(kent, 27-03-2005 21:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3087&ForumID=4&Showsub=3090'>Re: Forkert sted....</a> <em>(Tommy Hansen, 27-03-2005 21:25)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3087&ForumID=4&Showsub=3094'>Re: Forkert sted....</a> <em>(Henning, 27-03-2005 23:07)</em></strong></font></li><br><font face=Verdana>Jeg bor p� Als, men Kent hvis du kender en der muligvis kan hj�lpe s� st� min e-mail �verst. Ellers mange tak for hj�lpen<br><br>Hej Tommy, mange tak for telefonnr.<br><br>Mvh<br>Henning (Volvo 240 tic)</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3087&ForumID=4&Showsub=3091'>Re: Forkert sted....</a> <em>(kent, 27-03-2005 21:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3087&ForumID=4&Showsub=3090'>Re: Forkert sted....</a> <em>(Tommy Hansen, 27-03-2005 21:25)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">58</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">58</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

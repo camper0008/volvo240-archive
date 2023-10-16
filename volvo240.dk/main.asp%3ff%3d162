@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;DM Finale D.2-3 Oktober.</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">DM Finale D.2-3 Oktober.</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,7 +202,7 @@ vil v_re 5 deltager3 i Super Pole.</p>
     <td width="25%" align="center"> 5 Jason Watt<br>
 	Endte nr. 12</td>
     <td width="25%" align="center"> 25 Martin Pedersen<br>
-	Endte nr.&nbsp; 15</td>
+	Endte nr. 15</td>
     <td width="25%" align="center"> 20 Jesper Sylvest<br>
 	Endte nr. 11</td>
   </tr>
@@ -252,7 +252,7 @@ vil v_re 5 deltager3 i Super Pole.</p>
     <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20041003-17.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20041003-17t.jpg" width="128" height="96"></a></td>
     <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20041003-18.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20041003-18t.jpg" width="128" height="96"></a></td>
     <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20041003-19.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20041003-19t.jpg" width="128" height="96"></a></td>
-    <td width="25%" align="center">&nbsp;</a></td>
+    <td width="25%" align="center"></a></td>
   </tr>
 </table>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
@@ -263,7 +263,7 @@ vil v_re 5 deltager3 i Super Pole.</p>
 	Endte nr. 2</td>
     <td width="25%" align="center"> 3 John Nielsen<br>
 	Endte nr. 13</td>
-    <td width="25%" align="center">&nbsp;</td>
+    <td width="25%" align="center"></td>
   </tr>
 </table>
 <p>En placering som nr. 5 til prefinalen er kan godt g_ an.</p>
@@ -298,7 +298,7 @@ Jens M_ller med.</p>
 <p>Der har v_ret travlhed i Byriel Team siden l_bet i Padborg. Men den blev klar 
 og var p_ banen.</p>
 <p>I l_rdagens tidtagninger blev Anders hhv. nr. 16 og nr. 14.</p>
-<p>&nbsp;<table border="0" cellpadding="5" cellspacing="1" width="745">
+<p><table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/jr20041003-20.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/jr20041003-20t.jpg" width="128" height="96"></a></td>
     <td> 
@@ -360,7 +360,7 @@ tilfredsstillende.</p>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

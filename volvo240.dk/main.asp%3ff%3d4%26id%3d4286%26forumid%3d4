@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S¯g" name="B1">&nbsp;
+        <input type="submit" value="S√∏g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp¯rge andre Volvo-ejere tilrÂds om alt vedr¯rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp√∏rge andre Volvo-ejere tilr√•ds om alt vedr√∏rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=4286"><font face="Verdana">Besvar indlÊg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=4286"><font face="Verdana">Besvar indl√¶g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Kan den tr&#230;kke en Campingvogn p&#229; 1500kg?</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Kan den tr√¶kke en Campingvogn p√• 1500kg?</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">13-10-2005&nbsp; 15:48</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">13-10-2005 15:48</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br>Vi overvejer at k¯be en Volvo stationcar, men det er et krav at den kan trÊkke vores campingvogn med en totaltvÊgt pÂ 1500kg. Jeg vil meget gerne h¯re fra folk med erfaring (bÂde godt og skidt) pÂ omrÂdet. Det kommer vel meget an pÂ hvilken model (240, 260 ?) man vÊlger.. ?<br><br>PÂ forhÂnd mange tak,<br><br>Mark</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br>Vi overvejer at k√∏be en Volvo stationcar, men det er et krav at den kan tr√¶kke vores campingvogn med en totaltv√¶gt p√• 1500kg. Jeg vil meget gerne h√∏re fra folk med erfaring (b√•de godt og skidt) p√• omr√•det. Det kommer vel meget an p√• hvilken model (240, 260 ?) man v√¶lger.. ?<br><br>P√• forh√•nd mange tak,<br><br>Mark</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4405'>Re: Kan den tr&#230;kke en Campingvogn p&#229; 1500kg?</a> <em>(Jakob Jensen, 28-10-2005 13:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4404'>Re: Kan den tr&#230;kke en Campingvogn p&#229; 1500kg?</a> <em>(Ebbe Kure, 27-10-2005 19:01)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4331'>Re: Kan den tr&#230;kke en Campingvogn p&#229; 1500kg?</a> <em>(kim, 17-10-2005 19:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4323'>Re: Kan den tr&#230;kke en Campingvogn p&#229; 1500kg?</a> <em>(Mark Nellemann, 17-10-2005 12:53)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4293'>Re: Kan den tr&#230;kke en Campingvogn p&#229; 1500kg?</a> <em>(Mark Nellemann, 14-10-2005 16:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4292'>Re: Kan den tr&#230;kke en Campingvogn p&#229; 1500kg?</a> <em>(Johan &#197;rman, 14-10-2005 01:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4289'>Re: Kan den tr&#230;kke en Campingvogn p&#229; 1500kg?</a> <em>(Claus Philipsen, 13-10-2005 20:42)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4405'>Re: Kan den tr√¶kke en Campingvogn p√• 1500kg?</a> <em>(Jakob Jensen, 28-10-2005 13:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4404'>Re: Kan den tr√¶kke en Campingvogn p√• 1500kg?</a> <em>(Ebbe Kure, 27-10-2005 19:01)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4331'>Re: Kan den tr√¶kke en Campingvogn p√• 1500kg?</a> <em>(kim, 17-10-2005 19:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4323'>Re: Kan den tr√¶kke en Campingvogn p√• 1500kg?</a> <em>(Mark Nellemann, 17-10-2005 12:53)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4293'>Re: Kan den tr√¶kke en Campingvogn p√• 1500kg?</a> <em>(Mark Nellemann, 14-10-2005 16:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4292'>Re: Kan den tr√¶kke en Campingvogn p√• 1500kg?</a> <em>(Johan √Örman, 14-10-2005 01:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4286&ForumID=4&Showsub=4289'>Re: Kan den tr√¶kke en Campingvogn p√• 1500kg?</a> <em>(Claus Philipsen, 13-10-2005 20:42)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf¯j til foretrukne">F¯j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf√∏j til foretrukne">F√∏j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">123</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">123</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

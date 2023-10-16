@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -214,7 +214,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Marianne Fib&#230;k</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Marianne Fibæk</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -222,7 +222,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-02-2011&nbsp; 15:33</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-02-2011 15:33</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har en 940 fra 98. Den har i nogen tid "brummet", n_r den n_r de 75 og stopper igen, n_r den n_r ca. 100. <br>Den har lige v_ret p_ v_rksted og har f_et skiftet begge kardankryds og midterkrydset (som ikke er et kryds, men jeg kan ikke huske, hvad det hedder).<br>Det hjalp ikke en b_nne!<br>Nogen forslag til yderligere tiltag?</font></td>
@@ -233,7 +233,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Marianne Fib&#230;k, 19-02-2011 15:37)</em></u></strong></font></li><br><font face=Verdana>Det skal lige siges, at det ikke er d_kkene - de er helt nye og i balance. <br>Brummeriet f_les/h_res i hele vognen og det har ingen indflydelse p_ lyden, om motoren er i gear eller ej. <br>Bremserne er nye og i orden.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 19-02-2011 17:07)</em></u></strong></font></li><br><font face=Verdana>Hej Marianne<br>Nu er jeg ikke Volvo 900 mand, men min umiddelbare ide er at v_rkstedet har samlet kardan akselen forkert, alts_ en ommer.(det kan man nemlig nemt komme til, n_r kardan akselen har v_ret adskildt)<br>Men 900 folket kommer nok med et svar til dig.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 19-02-2011 19:24)</em></u></strong></font></li><br><font face=Verdana>Det er nok midterlejet de har skiftet, men har de ogs_ skiftet det gummioph_ng som midterlejet sidder i?<br><br>MVH Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Marianne Fib&#230;k, 20-02-2011 15:49)</em></u></strong></font></li><br><font face=Verdana>Yep - alt er skiftet. I hvert fald i f_lge aftalen og regningen.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lars, 22-02-2011 10:42)</em></u></strong></font></li><br><font face=Verdana>Hej Marianne.<br><br>Jeg tror, at det er Hardy-skiven den er tosset med. Jeg har de sammen symtomer. Jeg har f_et renoveret kardanen komp. Og det hjalp ikke.<br><br>Der var een der fortalte mig engang, at Hardyen skal m_rkes "op" s_ den sidder samme sted. Og det fik jeg ikke gjort.<br><br>N_ste projekt ny hardy + 2 gearkasse oph_ng.<br>mvh Lars</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Marianne Fib&#230;k, 29-03-2011 19:49)</em></u></strong></font></li><br><font face=Verdana>Nu har den v_ret p_ v_rksted igen - hele kardanen blev afmonteret og sendt "i byen" til afbalancering.<br>Jeg betalte for afbalanceringen, men v_rkstedet betalte al arbejdsl_n og gav mig en V50 at k_re i, mens de reparerede.<br>Det er vist det n_rmeste, man kan komme en indr_mmelse af, at de har glemt at m_rke op, f_r de skiftede kryds, hardy osv.?<br>Nu flyder mors volvo igen som en dr_m uden s_re mislyde.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Marianne Fibæk, 19-02-2011 15:37)</em></u></strong></font></li><br><font face=Verdana>Det skal lige siges, at det ikke er d_kkene - de er helt nye og i balance. <br>Brummeriet f_les/h_res i hele vognen og det har ingen indflydelse p_ lyden, om motoren er i gear eller ej. <br>Bremserne er nye og i orden.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 19-02-2011 17:07)</em></u></strong></font></li><br><font face=Verdana>Hej Marianne<br>Nu er jeg ikke Volvo 900 mand, men min umiddelbare ide er at v_rkstedet har samlet kardan akselen forkert, alts_ en ommer.(det kan man nemlig nemt komme til, n_r kardan akselen har v_ret adskildt)<br>Men 900 folket kommer nok med et svar til dig.<br>MVH Jens Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 19-02-2011 19:24)</em></u></strong></font></li><br><font face=Verdana>Det er nok midterlejet de har skiftet, men har de ogs_ skiftet det gummioph_ng som midterlejet sidder i?<br><br>MVH Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Marianne Fibæk, 20-02-2011 15:49)</em></u></strong></font></li><br><font face=Verdana>Yep - alt er skiftet. I hvert fald i f_lge aftalen og regningen.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Lars, 22-02-2011 10:42)</em></u></strong></font></li><br><font face=Verdana>Hej Marianne.<br><br>Jeg tror, at det er Hardy-skiven den er tosset med. Jeg har de sammen symtomer. Jeg har f_et renoveret kardanen komp. Og det hjalp ikke.<br><br>Der var een der fortalte mig engang, at Hardyen skal m_rkes "op" s_ den sidder samme sted. Og det fik jeg ikke gjort.<br><br>N_ste projekt ny hardy + 2 gearkasse oph_ng.<br>mvh Lars</font><br><li><font face=Verdana><strong><u>Re: - <em>(Marianne Fibæk, 29-03-2011 19:49)</em></u></strong></font></li><br><font face=Verdana>Nu har den v_ret p_ v_rksted igen - hele kardanen blev afmonteret og sendt "i byen" til afbalancering.<br>Jeg betalte for afbalanceringen, men v_rkstedet betalte al arbejdsl_n og gav mig en V50 at k_re i, mens de reparerede.<br>Det er vist det n_rmeste, man kan komme en indr_mmelse af, at de har glemt at m_rke op, f_r de skiftede kryds, hardy osv.?<br>Nu flyder mors volvo igen som en dr_m uden s_re mislyde.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -242,7 +242,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -266,7 +266,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">18</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">18</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

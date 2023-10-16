@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=2333"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2333"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>D&#230;mperolie i karburator &quot;forsvinder&quot;</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Dæmperolie i karburator "forsvinder"</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">31-10-2004&nbsp; 11:42</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">31-10-2004 11:42</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Et sp�rgsm�l fra en nybagt 240 ejer.<br>D�mperolien i min Pierburg 175 forsvinder.<br>Har skiftet gummimembranen. Der var en revne i.<br>Har vasket karburatoren af, udvendigt, for at lokalisere et evt. spild.<br>Ingen af delene har givet resultat.<br>Har i "hajer" et godt r�d? <br>P� forh�nd tak.<br><br>Mark</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2351'>Re: D&#230;mperolie i karburator &quot;forsvinder&quot;</a> <em>(Mark Bredahl, 03-11-2004 18:46)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2341'>Re: D&#230;mperolie i karburator &quot;forsvinder&quot;</a> <em>(Erling, 02-11-2004 08:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2339'>Re: D&#230;mperolie i karburator &quot;forsvinder&quot;</a> <em>(Emil J, 01-11-2004 18:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2338'>Re: D&#230;mperolie i karburator &quot;forsvinder&quot;</a> <em>(Rasmus Skou, 01-11-2004 10:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2334'>Re: D&#230;mperolie i karburator &quot;forsvinder&quot;</a> <em>(Emil J, 31-10-2004 14:23)</em></strong></font></li><br><font face=Verdana>Hejsa.<br>Velkommen til. �hm. Jeg har ogs� nogen gang klaget min n�d til at f� en lille guide her p� siden om hvordan man laver lidt simple vedligholdelse p� de motore & karburatore der sidder i vores elskede Volvoer. <br>Men jeg kan s� kun g�tte nu. Jeg kan n�sten forstille mig at der m� sidde en slags "samle" pakning i karburatoren. S� olien ikke l�ber ud. Derfor vil jeg nok anbefale dig at k�be en reperations h�ndbog over bilen koster 200 - 300 kr mener jeg. Da der garenteret er et "Exploded view" af karburatoren. <br>Hvad olie type bruger du? Du skal bare bruge almindelig Automat gearkasse olie, det tynde r�de stads.<br>Den olie m� jo l�be ud et sted. fyld "klokken" op, og m�rk alle steder p� karburatoren, om det l�ber ud. <br>Som sagt, kan jeg kun g�tte! Men det kan v�re der er en her p� sitet der ved hvordan du skal h�ndtere det. <br><br>M.v.h<br><br>Emil J.<br>244 �rgang 86, B230A, AW71 & 315.000 p� uret!</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2351'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Mark Bredahl, 03-11-2004 18:46)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2341'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Erling, 02-11-2004 08:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2339'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Emil J, 01-11-2004 18:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2338'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Rasmus Skou, 01-11-2004 10:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2334'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Emil J, 31-10-2004 14:23)</em></strong></font></li><br><font face=Verdana>Hejsa.<br>Velkommen til. �hm. Jeg har ogs� nogen gang klaget min n�d til at f� en lille guide her p� siden om hvordan man laver lidt simple vedligholdelse p� de motore & karburatore der sidder i vores elskede Volvoer. <br>Men jeg kan s� kun g�tte nu. Jeg kan n�sten forstille mig at der m� sidde en slags "samle" pakning i karburatoren. S� olien ikke l�ber ud. Derfor vil jeg nok anbefale dig at k�be en reperations h�ndbog over bilen koster 200 - 300 kr mener jeg. Da der garenteret er et "Exploded view" af karburatoren. <br>Hvad olie type bruger du? Du skal bare bruge almindelig Automat gearkasse olie, det tynde r�de stads.<br>Den olie m� jo l�be ud et sted. fyld "klokken" op, og m�rk alle steder p� karburatoren, om det l�ber ud. <br>Som sagt, kan jeg kun g�tte! Men det kan v�re der er en her p� sitet der ved hvordan du skal h�ndtere det. <br><br>M.v.h<br><br>Emil J.<br>244 �rgang 86, B230A, AW71 & 315.000 p� uret!</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">56</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">56</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

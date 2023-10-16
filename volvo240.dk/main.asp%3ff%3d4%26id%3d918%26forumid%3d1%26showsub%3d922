@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=918"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=918"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Blyfri p&#229; 245GL fra 1984?</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Blyfri på 245GL fra 1984?</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-10-2003&nbsp; 15:14</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-10-2003 15:14</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br>Jeg har netop k_bt en 245GL Stationcar fra 1984. S_ vidt vides, har den altid k_rt p_ blyholdig benzin, men kan den k_re p_ blyfri?<br><br>Her i forumet har jeg set omtale forskellige motorer (B230E etc.) - har det indflydelse p_ svaret? Hvordan ser jeg, hvilken motor der ligger i bilen?<br><br>P_ forh_nd tak!</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=918&ForumID=1&Showsub=931'>Re: Blyfri p&#229; 245GL fra 1984?</a> <em>(Finn Kruse, 15-10-2003 22:54)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=918&ForumID=1&Showsub=929'>Re: Blyfri p&#229; 245GL fra 1984?</a> <em>(Emil J, 15-10-2003 18:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=918&ForumID=1&Showsub=925'>Re: Blyfri p&#229; 245GL fra 1984?</a> <em>(Jes, 15-10-2003 10:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=918&ForumID=1&Showsub=924'>Re: Blyfri p&#229; 245GL fra 1984?</a> <em>(Flemming Kjeldstrup, 15-10-2003 06:37)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=918&ForumID=1&Showsub=922'>Re: Blyfri p&#229; 245GL fra 1984?</a> <em>(Lars Vestman, 13-10-2003 23:45)</em></strong></font></li><br><font face=Verdana>Hej Thomas<br><br>Min 245 fra 10/84 m. B230A-motor k_rer glimrende p_ 98 blyfri, og min tidligere m. B23E, B21E og B19A kunne ogs_ k_re p_ blyfri. Jeg tror ogs_ at din kan, men ved det ikke med sikkerhed.<br>Her p_ 240.dk kan du tyde dit stelnummer p_ "Volvo 240 Info" -> "ID-plade" -> "VIN-nummer".<br>P_ http://www.volvoentusiasterne.dk/oktan.htm kan du finde mere information om benzin.<br><br>M.v.h. Lars Vestman</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=918&ForumID=1&Showsub=921'>Re: Blyfri p&#229; 245GL fra 1984?</a> <em>(Johan Jargil &#197;rman, 13-10-2003 01:42)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=918&ForumID=1&Showsub=931'>Re: Blyfri på 245GL fra 1984?</a> <em>(Finn Kruse, 15-10-2003 22:54)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=918&ForumID=1&Showsub=929'>Re: Blyfri på 245GL fra 1984?</a> <em>(Emil J, 15-10-2003 18:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=918&ForumID=1&Showsub=925'>Re: Blyfri på 245GL fra 1984?</a> <em>(Jes, 15-10-2003 10:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=918&ForumID=1&Showsub=924'>Re: Blyfri på 245GL fra 1984?</a> <em>(Flemming Kjeldstrup, 15-10-2003 06:37)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=918&ForumID=1&Showsub=922'>Re: Blyfri på 245GL fra 1984?</a> <em>(Lars Vestman, 13-10-2003 23:45)</em></strong></font></li><br><font face=Verdana>Hej Thomas<br><br>Min 245 fra 10/84 m. B230A-motor k_rer glimrende p_ 98 blyfri, og min tidligere m. B23E, B21E og B19A kunne ogs_ k_re p_ blyfri. Jeg tror ogs_ at din kan, men ved det ikke med sikkerhed.<br>Her p_ 240.dk kan du tyde dit stelnummer p_ "Volvo 240 Info" -> "ID-plade" -> "VIN-nummer".<br>P_ http://www.volvoentusiasterne.dk/oktan.htm kan du finde mere information om benzin.<br><br>M.v.h. Lars Vestman</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=918&ForumID=1&Showsub=921'>Re: Blyfri på 245GL fra 1984?</a> <em>(Johan Jargil Årman, 13-10-2003 01:42)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">52</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">52</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

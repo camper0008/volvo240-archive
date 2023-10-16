@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -215,7 +215,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Henrik S.M&#248;ller</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Henrik S.Møller</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-10-2003&nbsp; 12:06</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-10-2003 12:06</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er en volvo 240Gl st.car fra 1991 med b230fx motor n�dvendigvis en forhenv�rende politivogn ?<br><br>Er det en model man skal passe p�?<br><br>Er reservedelpriser de samme som almindelig 116 hk fra samme �rgang ?</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Peter Albertsen, 20-10-2003 15:27)</em></u></strong></font></li><br><font face=Verdana>Jeg er selv eg glad ejer af en 240GL (kat) stationcar �rgang 91, med eftermonteret turbo/intercooler mm. Da jeg for nylig skulle skift min<br>60 mm udst�dning (afgangsr�r, bagpotte, mellemr�r og mellempotte)kontaktede jeg f�rst volvo for at h�re hvad s�dan en bandit kostede hos dem! De oplyste mig om f�lgende: Der findes et udst�dnings system popul�rt kaldt politi potten (Den sad vist p� B230 Fxeren)(� 60 mm) som jeg kunne bruge! Pris: for ovenn�vnte, minus mellem potte: sm� 4000 kr incl. moms. En standart parke incl. mellempotten, koster vel omkring 1000-1500 kr. S� det er da en forskel som kan m�rkes!<br>I �vrigt l�ste jeg mit problem, ved at k�bte et turbo s�t til lidt over 1500 kr for alle fire dele.<br>Jeg har en genbo som har en B230 Fxer hvis nok fra 93. Den har han k�bt fra ny, s� der er alts�r nogle som har k�rt uden udrykning og <br>vovse. Personligt ville jeg k�be s�dan en Fxer, det koste jo lidt at have det sjovt. S� hvis den f�les god og er uden for meget rust (helst ingen) s�... Held og lykke med de 136HK!</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Peter Albertsen, 20-10-2003 15:27)</em></u></strong></font></li><br><font face=Verdana>Jeg er selv eg glad ejer af en 240GL (kat) stationcar �rgang 91, med eftermonteret turbo/intercooler mm. Da jeg for nylig skulle skift min<br>60 mm udst�dning (afgangsr�r, bagpotte, mellemr�r og mellempotte)kontaktede jeg f�rst volvo for at h�re hvad s�dan en bandit kostede hos dem! De oplyste mig om f�lgende: Der findes et udst�dnings system popul�rt kaldt politi potten (Den sad vist p� B230 Fxeren)(� 60 mm) som jeg kunne bruge! Pris: for ovenn�vnte, minus mellem potte: sm� 4000 kr incl. moms. En standart parke incl. mellempotten, koster vel omkring 1000-1500 kr. S� det er da en forskel som kan m�rkes!<br>I �vrigt l�ste jeg mit problem, ved at k�bte et turbo s�t til lidt over 1500 kr for alle fire dele.<br>Jeg har en genbo som har en B230 Fxer hvis nok fra 93. Den har han k�bt fra ny, s� der er alts�r nogle som har k�rt uden udrykning og <br>vovse. Personligt ville jeg k�be s�dan en Fxer, det koste jo lidt at have det sjovt. S� hvis den f�les god og er uden for meget rust (helst ingen) s�... Held og lykke med de 136HK!</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -264,9 +264,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">7</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">7</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

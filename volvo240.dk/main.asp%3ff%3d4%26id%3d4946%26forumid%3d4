@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-09-2014&nbsp; 15:03</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-09-2014 15:03</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej!<br>Jeg er helt ny p_ forummet,men jeg har l_st en del tr_de herinde og det virker som et hyggeligt forum. Jeg l_ste i en tr_d fra 2011 om et dokument der siger at en Volvo 240 er godkendt til at have 200 hk og 220 hk med ventilerede skivebremser. Jeg har ikke kunnet finde det omtalte dokument nogen steder og linksne til det har altid v_re d_de. Jeg har s_ skrevet lidt med Volvo support der f_rst skrev at jeg kunne l_se om typegodkendelser p_ trafikstyrelsens hjemmeside og at de alts_ ikke ligger inde med s_dan informationer. Jeg ville derfor h_re om der er nogen af jer der har det omtalte dokument og om jeg kunne f_ det?</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Lasse Rasmussen, 07-09-2014 20:28)</em></u></strong></font></li><br><font face=Verdana>bump<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 08-09-2014 10:49)</em></u></strong></font></li><br><font face=Verdana>Tag kontakt til Volvo Danmark for de har dokumentet for det er der jeg har f_et mit fra i sin tid.<br>Jeg laver ikke kopier af det jeg har s_ enten m_ du f_ en anden til det eller kontakte Volvo Danmark.<br>Mvh <br>Kent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 08-09-2014 22:40)</em></u></strong></font></li><br><font face=Verdana>Hej Lasse<br><br>Har h_rt rygter om, at Volvo Danmark ikke l_ngere vil udlevere det omtalte effektdokument, da det kom dem for _rer, at nogle unge kn_gte havde misbrugt det.<br>De var endda s_ uartige at indspille en ellers ret flot film med de h_rdtpumpede Volvoer, som langt oversteg effekten beskrevet i dokumentet og som Volvo derved stod inde for.<br>Eftersigende skulle det v_re en lokal synsvirksomhed, som havde reageret p_ filmen og taget kontakt for at f_ det stoppet.<br>Om rygterne er sande, ved jeg ikke. Men noget kan tyde p_ delvis sandhed, da du ikke er den f_rste, som har f_et negativt svar fra Volvo.<br><br>Ja de f_ kan _del_gge det for mange.<br><br>Held og lykke med at f_ fingre i dokumentet.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 08-09-2014 23:09)</em></u></strong></font></li><br><font face=Verdana>Goddag Lasse<br><br>Jeg har det omtalte dokument, og ligeledes en udtalelse fra "Skat" vedr_rende afgift.<br>Send mig en e-mail s_ kan du f_ dokumenterne.  <a <a href="mailto:href="http://steen.damsgaard@gmail.com">href="http://steen.damsgaard@gmail.com</a>" <a href="mailto:target="_blank">steen.damsgaard@gmail.com">target="_blank">steen.damsgaard@gmail.com</a></a><br><br>Mvh<br>Steen<br>Frederikssund</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lasse Rasmussen, 09-09-2014 15:53)</em></u></strong></font></li><br><font face=Verdana>MANGE TAK FOR SVARENE! <br><br>Christian, du har ret. Jeg har haft kontakt til volvo og de svarede noget i stil med "Volvo ligger ikke inde med den slags informationer, pr_v at kontakte volvoklubber i Danmark". <br><br>Steen, jeg sender en mail til dig med det samme!</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Stockfleth, 09-09-2014 18:30)</em></u></strong></font></li><br><font face=Verdana>Hej Lasse. Det dokument Steen er i besiddelse, kan du ikke bruge til noget, Da det papir du skal bruge p_ din bil, skal der st_ dit Stel nr. p_. Ellers godtager synsmanden den ikke.<br>Og det er det Volvo Danmark har lukket ned for pga. nogle Tonni&#39;er, der absolut ikke lade v_r&#39; med at fremstille sine ting som ikke er lovlig, var i Vmax sidste _r.<br><br>Beklager, men den vej er udelukket.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lasse Rasmussen, 09-09-2014 19:33)</em></u></strong></font></li><br><font face=Verdana>Er du sikker p_ dette, har du f_et afslag? Jeg synes jeg l_ste her (eller et andet forum) at han havde f_et godkendt sin bil med en fotokopi af dokumentet.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Lasse Rasmussen, 07-09-2014 20:28)</em></u></strong></font></li><br><font face=Verdana>bump<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 08-09-2014 10:49)</em></u></strong></font></li><br><font face=Verdana>Tag kontakt til Volvo Danmark for de har dokumentet for det er der jeg har f_et mit fra i sin tid.<br>Jeg laver ikke kopier af det jeg har s_ enten m_ du f_ en anden til det eller kontakte Volvo Danmark.<br>Mvh <br>Kent</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 08-09-2014 22:40)</em></u></strong></font></li><br><font face=Verdana>Hej Lasse<br><br>Har h_rt rygter om, at Volvo Danmark ikke l_ngere vil udlevere det omtalte effektdokument, da det kom dem for _rer, at nogle unge kn_gte havde misbrugt det.<br>De var endda s_ uartige at indspille en ellers ret flot film med de h_rdtpumpede Volvoer, som langt oversteg effekten beskrevet i dokumentet og som Volvo derved stod inde for.<br>Eftersigende skulle det v_re en lokal synsvirksomhed, som havde reageret p_ filmen og taget kontakt for at f_ det stoppet.<br>Om rygterne er sande, ved jeg ikke. Men noget kan tyde p_ delvis sandhed, da du ikke er den f_rste, som har f_et negativt svar fra Volvo.<br><br>Ja de f_ kan _del_gge det for mange.<br><br>Held og lykke med at f_ fingre i dokumentet.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 08-09-2014 23:09)</em></u></strong></font></li><br><font face=Verdana>Goddag Lasse<br><br>Jeg har det omtalte dokument, og ligeledes en udtalelse fra "Skat" vedr_rende afgift.<br>Send mig en e-mail s_ kan du f_ dokumenterne.  <a <a href="mailto:href="http://steen.damsgaard@gmail.com">href="http://steen.damsgaard@gmail.com</a>" <a href="mailto:target="_blank">steen.damsgaard@gmail.com">target="_blank">steen.damsgaard@gmail.com</a></a><br><br>Mvh<br>Steen<br>Frederikssund</font><br><li><font face=Verdana><strong><u>Re: - <em>(Lasse Rasmussen, 09-09-2014 15:53)</em></u></strong></font></li><br><font face=Verdana>MANGE TAK FOR SVARENE! <br><br>Christian, du har ret. Jeg har haft kontakt til volvo og de svarede noget i stil med "Volvo ligger ikke inde med den slags informationer, pr_v at kontakte volvoklubber i Danmark". <br><br>Steen, jeg sender en mail til dig med det samme!</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren Stockfleth, 09-09-2014 18:30)</em></u></strong></font></li><br><font face=Verdana>Hej Lasse. Det dokument Steen er i besiddelse, kan du ikke bruge til noget, Da det papir du skal bruge p_ din bil, skal der st_ dit Stel nr. p_. Ellers godtager synsmanden den ikke.<br>Og det er det Volvo Danmark har lukket ned for pga. nogle Tonni&#39;er, der absolut ikke lade v_r&#39; med at fremstille sine ting som ikke er lovlig, var i Vmax sidste _r.<br><br>Beklager, men den vej er udelukket.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Lasse Rasmussen, 09-09-2014 19:33)</em></u></strong></font></li><br><font face=Verdana>Er du sikker p_ dette, har du f_et afslag? Jeg synes jeg l_ste her (eller et andet forum) at han havde f_et godkendt sin bil med en fotokopi af dokumentet.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-12-2004&nbsp; 20:55</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-12-2004 20:55</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Jeg har en Volvo 765 1990 med AW71 automatgearkasse, den har f_et store problemer med at skifte gear, n_r den er blevet driftsvarm vil den ikke skifte rigtigt, den hugger/fedter i skiftet, den vil heller ikke tage gassen normalt, men virker n_rmest som om den kobler ud indimellem. Oliestanden er ok, og olien er r_dbrun og lugter ikke br_ndt!<br>Nogle gode ideer til hvad der kunne v_re problemet, og eventuelt et godt sted i stork_benhavn, hvor de er gode til automatgearkasser, og naturligvis gerne billige:-)<br><br>Mvh.<br>Benny</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Emil J, 08-12-2004 21:11)</em></u></strong></font></li><br><font face=Verdana>Hej.<br>Det kunne v_re dit filter i gearkassen der er beskidt. Fordi n_r den har st_et lidt, s_ falder skidtet til bunds. N_r s_ du begynder at k_re "hvivler" skidtet op & tilstopper filteret, som giver f_lgene resultat: D_rlig/ingen gearskift & fedter meget. <br>Pr_v at "flushe" gearkassen:<br>http://au.geocities.com/ozbrick850/atfflushthread1.html#drain<br>Og giv den et nyt filter & kork pakning. S_ tror jeg n_sten den k_re igen. :)<br>Check ogs_ om dit kick-down kabel er korrekt justeret! <br><br>M.v.h<br><br>Emil J</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Benny Juul, 09-12-2004 00:04)</em></u></strong></font></li><br><font face=Verdana>Ok, det skal pr_ves.<br>Udskiftning af filter og pakning, er det en st_rre opgave, og du skulle vel ikke ligge inde med et link ligesom til flushen!<br><br>Mvh.<br>Benny</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Emil J, 08-12-2004 21:11)</em></u></strong></font></li><br><font face=Verdana>Hej.<br>Det kunne v_re dit filter i gearkassen der er beskidt. Fordi n_r den har st_et lidt, s_ falder skidtet til bunds. N_r s_ du begynder at k_re "hvivler" skidtet op & tilstopper filteret, som giver f_lgene resultat: D_rlig/ingen gearskift & fedter meget. <br>Pr_v at "flushe" gearkassen:<br>http://au.geocities.com/ozbrick850/atfflushthread1.html#drain<br>Og giv den et nyt filter & kork pakning. S_ tror jeg n_sten den k_re igen. :)<br>Check ogs_ om dit kick-down kabel er korrekt justeret! <br><br>M.v.h<br><br>Emil J</font><br><li><font face=Verdana><strong><u>Re: - <em>(Benny Juul, 09-12-2004 00:04)</em></u></strong></font></li><br><font face=Verdana>Ok, det skal pr_ves.<br>Udskiftning af filter og pakning, er det en st_rre opgave, og du skulle vel ikke ligge inde med et link ligesom til flushen!<br><br>Mvh.<br>Benny</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">39</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">39</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-03-2015&nbsp; 17:07</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-03-2015 17:07</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har lidt problemer med overfladerust f.eks. sk_rmkanter der kommer igen igen selv om der bliver renset og lakeret hver for_r.<br>Er der et forslag til en god grundmaling / primer der kan holde rusten nede inden selve lakken kommer p_.<br>m.v.h. Alvin</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 20-03-2015 17:57)</em></u></strong></font></li><br><font face=Verdana>i gamle dage brugte jeg epoxy :-D men i dag kan man vist bruge noget der hedder Galvafroid .. mener det er en slags zinkmaling...</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 21-03-2015 14:07)</em></u></strong></font></li><br><font face=Verdana>der findes en regul_r grunder, den er bordeaux-r_d. Kan f_es hos FTZ og lignende. Jeg rettede en bule i taget p_ min 94 for 3 _r siden, hvor et omr_de p_ st_rrelse med en knytn_ve blev slebet ned til blank metal. Det affedte jeg med silikonefjerner og malede med denne r_de grunder. Efter 3 _r er der intet tegn p_ rust.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 21-03-2015 14:53)</em></u></strong></font></li><br><font face=Verdana>Det galvafroid har jeg pr_vet for en del op siden,men havde ikke held med det da det ligesom ikke ville t_rre og man kunne skrabe det af med en negl igen s_ det smed jeg ud.<br>Renset. Betyder det er omr_det er sandbl_st eller er omr_det helt rengjort fpr rust??<br><a href="http://www.autolak-online.dk/autolak/fyller/sikkens-ep-primer-ii-1.html" target="_blank">http://www.autolak-online.dk/autolak/fyller/sikkens-ep-primer-ii-1.html</a><br>Denne her bruger jeg til mine opgaver eller har brugt til noget p_ min.<br><br>mvh <br>Kent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Alvin Schou, 21-03-2015 17:19)</em></u></strong></font></li><br><font face=Verdana>Tak til Torben, Jakob og Kent for jeres gode r_d. Jeg kan huske jeg brugte den bordeaux-r_de for mange _r siden, den brugte smedene til deres jernkonstruktioner de sendte ud af huset, i det firma jeg var ansat i. Den kunne jeg godt t_nke mig at bruge / finde. Jakob du skriver den kan k_bes ved FTZ, hvad er det for et firma / butik.<br><br>Tak for de gode oplysninger m.v.h. Alvin</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 26-03-2015 19:35)</em></u></strong></font></li><br><font face=Verdana>Hej Alvin<br><br>Den type grunder/primer, som smedene brugte og stadig bruger kan sagtens v_re almindelig brun/r_d grunder fra Esbjerg.<br>Den kan du k_be i spandevis hos den lokale forhandler af landbrugsmaskiner. Koster ikke alverden og f_s i 1 liter, 5 liter og 10 liters d_ser/dunke.<br>Om det harmonerer med almindelig autolak ved jeg ikke, men du kan ligeledes k_be maskinemalje i mange farver fra Esbjerg.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Alvin Schou, 27-03-2015 17:41)</em></u></strong></font></li><br><font face=Verdana>Hej Christian<br><br>Tak for dit svar, jeg har fundet noget grunder / primer i den brun/r_de farve ved T. Hansen, s_ det pr_ver jeg i f_rste omgang. Om det er det rigtige vil jo vise sig om et _r.<br>P_ d_sen st_r der, det kan lakeres med autolak, s_ jeg h_ber det kan stoppe rusten, s_ den gamle Volvo 240 kan klare 27 _r mere. Tak for dit svar.<br><br>m.v.h. Alvin</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 20-03-2015 17:57)</em></u></strong></font></li><br><font face=Verdana>i gamle dage brugte jeg epoxy :-D men i dag kan man vist bruge noget der hedder Galvafroid .. mener det er en slags zinkmaling...</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 21-03-2015 14:07)</em></u></strong></font></li><br><font face=Verdana>der findes en regul_r grunder, den er bordeaux-r_d. Kan f_es hos FTZ og lignende. Jeg rettede en bule i taget p_ min 94 for 3 _r siden, hvor et omr_de p_ st_rrelse med en knytn_ve blev slebet ned til blank metal. Det affedte jeg med silikonefjerner og malede med denne r_de grunder. Efter 3 _r er der intet tegn p_ rust.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 21-03-2015 14:53)</em></u></strong></font></li><br><font face=Verdana>Det galvafroid har jeg pr_vet for en del op siden,men havde ikke held med det da det ligesom ikke ville t_rre og man kunne skrabe det af med en negl igen s_ det smed jeg ud.<br>Renset. Betyder det er omr_det er sandbl_st eller er omr_det helt rengjort fpr rust??<br><a href="http://www.autolak-online.dk/autolak/fyller/sikkens-ep-primer-ii-1.html" target="_blank">http://www.autolak-online.dk/autolak/fyller/sikkens-ep-primer-ii-1.html</a><br>Denne her bruger jeg til mine opgaver eller har brugt til noget p_ min.<br><br>mvh <br>Kent</font><br><li><font face=Verdana><strong><u>Re: - <em>(Alvin Schou, 21-03-2015 17:19)</em></u></strong></font></li><br><font face=Verdana>Tak til Torben, Jakob og Kent for jeres gode r_d. Jeg kan huske jeg brugte den bordeaux-r_de for mange _r siden, den brugte smedene til deres jernkonstruktioner de sendte ud af huset, i det firma jeg var ansat i. Den kunne jeg godt t_nke mig at bruge / finde. Jakob du skriver den kan k_bes ved FTZ, hvad er det for et firma / butik.<br><br>Tak for de gode oplysninger m.v.h. Alvin</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 26-03-2015 19:35)</em></u></strong></font></li><br><font face=Verdana>Hej Alvin<br><br>Den type grunder/primer, som smedene brugte og stadig bruger kan sagtens v_re almindelig brun/r_d grunder fra Esbjerg.<br>Den kan du k_be i spandevis hos den lokale forhandler af landbrugsmaskiner. Koster ikke alverden og f_s i 1 liter, 5 liter og 10 liters d_ser/dunke.<br>Om det harmonerer med almindelig autolak ved jeg ikke, men du kan ligeledes k_be maskinemalje i mange farver fra Esbjerg.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Alvin Schou, 27-03-2015 17:41)</em></u></strong></font></li><br><font face=Verdana>Hej Christian<br><br>Tak for dit svar, jeg har fundet noget grunder / primer i den brun/r_de farve ved T. Hansen, s_ det pr_ver jeg i f_rste omgang. Om det er det rigtige vil jo vise sig om et _r.<br>P_ d_sen st_r der, det kan lakeres med autolak, s_ jeg h_ber det kan stoppe rusten, s_ den gamle Volvo 240 kan klare 27 _r mere. Tak for dit svar.<br><br>m.v.h. Alvin</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

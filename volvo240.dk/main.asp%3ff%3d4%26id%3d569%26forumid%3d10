@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">27-05-2004&nbsp; 01:50</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">27-05-2004 01:50</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Er det helt t_beligt at k_be en dieselvolvo 700/900 med en D24TIC fra 1989-1991 med 200000-300000 kilometer p_ bagen, nogle siger straks man skal s_ge l_ge hvis man overvejer noget i den stil, andre siger den ikke kan slides op?<br><br>Mvh.<br>Benny<br>760GLE</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kent, 28-05-2004 01:52)</em></u></strong></font></li><br><font face=Verdana>ja der er forskellige meninger om de motorer   men hvis du tar ud at kigge p_ den  s_ v_r sikker p_ at den er iskold den m_ ikke lige ha v_ret startet   for alt ka starte n_r det er varmt  og kig efter oliespild  men de g_r alts_ ikke s_ meget p_ literen ca 12   og g_r de istykker  og de skal p_ v_rksted   koster det.desuden   er det dyre i v_gtafgift  t_nk dig godt om f_r du k_ber den    ligemeget hvor billig den s_ er.det er bare mit r_d  jeg t_nkte osse p_ at k_be en s_dan bil   men tog min lommeregner og ja   det er en anden historie...mvh Kent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Johnny, 14-06-2004 20:40)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Ja, der er delte meninger om den motor. Jeg har tidligere haft en alm. diesel u. turbo i en 245. Det v_rste var godt nok, at den var sl_v som en padde. Ud over den alm. vedligeholdelse (stillet ventiler, skiftet tandrem og dysser og renoveret br_ndstofpumpen) har jeg m_ttet skifte alle dysser_rene, dem gik der hul i hen ad vejen, og skiftet vacuumpumpen til bremserne. Motoren k_rte 400.000, men s_ kunne den n_sten heller ikke mere.<br>Min nuv_rende 740 turbodiesel med intercooler har g_et 380.000 p_ nuv_rende tidspunkt og bruger endnu ikke olie. Jeg har ikke f_et lavet andet end alm. vedligeholdelse og br_ndstofpumpen er ikke r_rt. Den k_rer 16,9 km/l ved 90 km/t. Ved blandet k_rsel er br_ndstofforbruget 13,5-14,5 km/l. Der er installeret oliefyr i bilen.<br>Og s_ er den i_vrigt g_et gennem alle syn 1. gang. Jeg finder en 940 med samme motor om et _rs tid.<br>Med venlig hilsen<br>Johnny</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kent, 28-05-2004 01:52)</em></u></strong></font></li><br><font face=Verdana>ja der er forskellige meninger om de motorer   men hvis du tar ud at kigge p_ den  s_ v_r sikker p_ at den er iskold den m_ ikke lige ha v_ret startet   for alt ka starte n_r det er varmt  og kig efter oliespild  men de g_r alts_ ikke s_ meget p_ literen ca 12   og g_r de istykker  og de skal p_ v_rksted   koster det.desuden   er det dyre i v_gtafgift  t_nk dig godt om f_r du k_ber den    ligemeget hvor billig den s_ er.det er bare mit r_d  jeg t_nkte osse p_ at k_be en s_dan bil   men tog min lommeregner og ja   det er en anden historie...mvh Kent</font><br><li><font face=Verdana><strong><u>Re: - <em>(Johnny, 14-06-2004 20:40)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Ja, der er delte meninger om den motor. Jeg har tidligere haft en alm. diesel u. turbo i en 245. Det v_rste var godt nok, at den var sl_v som en padde. Ud over den alm. vedligeholdelse (stillet ventiler, skiftet tandrem og dysser og renoveret br_ndstofpumpen) har jeg m_ttet skifte alle dysser_rene, dem gik der hul i hen ad vejen, og skiftet vacuumpumpen til bremserne. Motoren k_rte 400.000, men s_ kunne den n_sten heller ikke mere.<br>Min nuv_rende 740 turbodiesel med intercooler har g_et 380.000 p_ nuv_rende tidspunkt og bruger endnu ikke olie. Jeg har ikke f_et lavet andet end alm. vedligeholdelse og br_ndstofpumpen er ikke r_rt. Den k_rer 16,9 km/l ved 90 km/t. Ved blandet k_rsel er br_ndstofforbruget 13,5-14,5 km/l. Der er installeret oliefyr i bilen.<br>Og s_ er den i_vrigt g_et gennem alle syn 1. gang. Jeg finder en 940 med samme motor om et _rs tid.<br>Med venlig hilsen<br>Johnny</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">35</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">35</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

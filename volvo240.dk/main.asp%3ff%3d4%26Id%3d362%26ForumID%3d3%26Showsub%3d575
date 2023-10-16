@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=3"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=3&amp;MessageId=362"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=3&MessageId=362"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -217,7 +217,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">s&#248;ren jepsen</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">søren jepsen</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">27-04-2003&nbsp; 21:25</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">27-04-2003 21:25</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er der nogen der har et kvalificeret bud p_ hvorfor jeg har dryppende vand ved sikringerne i f_rersiden? Jeg har uorginalt soltag i og det er ikke der vandet kommer fra (har tidligere haft 245 med orginalt skyde/vippetag hvor slangerne der f_rer vand ned gennem d_rstolpen var rustet af ved soltaget med vand overalt i bilen til f_lge)<br>Jeg mist_nker foruden og har da ogs_ konstateret en smule ut_thed _verst i passagersiden. Jeg synes bare ikke rigtigt at det ser ud af s_ meget. Er der nogen der har haft lignende oplevelser?<br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=362&ForumID=3&Showsub=575'>Re: vand ved sikringer!</a> <em>(Poul Andersen, 29-06-2003 22:30)</em></strong></font></li><br><font face=Verdana>Hejsa.<br><br>Jeg har samme problem med min 245 fra '86. Jeg har meget st_rk mistanke til forruden, men ved fra en ven at d_rstolpen heller ikke har det for godt. Om en ut_t forrude kan medf_re t_ring i d_rstolpen ved jeg ikke, men et forsigtigt r_d er nok at f_ pillet forruden ud og se hvordan der ser ud bagved.<br><br>mvh<br>Poul</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=362&ForumID=3&Showsub=363'>Re: vand ved sikringer!</a> <em>(Jes, 28-04-2003 16:42)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=362&ForumID=3&Showsub=575'>Re: vand ved sikringer!</a> <em>(Poul Andersen, 29-06-2003 22:30)</em></strong></font></li><br><font face=Verdana>Hejsa.<br><br>Jeg har samme problem med min 245 fra '86. Jeg har meget st_rk mistanke til forruden, men ved fra en ven at d_rstolpen heller ikke har det for godt. Om en ut_t forrude kan medf_re t_ring i d_rstolpen ved jeg ikke, men et forsigtigt r_d er nok at f_ pillet forruden ud og se hvordan der ser ud bagved.<br><br>mvh<br>Poul</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=362&ForumID=3&Showsub=363'>Re: vand ved sikringer!</a> <em>(Jes, 28-04-2003 16:42)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">44</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">44</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

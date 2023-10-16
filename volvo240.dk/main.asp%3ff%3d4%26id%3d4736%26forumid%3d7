@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-02-2013&nbsp; 11:14</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-02-2013 11:14</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Volvo 740 _rg 1987<br><br>Motorhjelm kan ikke _bnes. Tr_kkes der i kablet inde fra kabinen sker der ikke noget. <br><br>Hvordan f_r man _bnet til maskinrummet uden brug af d_se_bner? <br><br>L_sningsforslag modtages med tak.<br><br>Der er heldigvis sprinklerv_ske til en par uger endnu.<br><br>Med venlig hilsen<br>Torben<br></font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 11-02-2013 15:48)</em></u></strong></font></li><br><font face=Verdana>Hej Torben<br><br>Inden du begynder at splitte hele bilen ad med en d_se_bner eller andet v_rkt_j, s_ f_ fat p_ hj_lper, som kan give en hj_lpene h_nd eller to.<br>Mens du tr_kker i h_ndtaget i kabinen, skal din hj_lper pr_ve at l_fte lidt i forsm_kken. For ofte, s_ er det bare fjedren p_ stormkrogen, som g_r lidt tr_g og ikke l_fter hjelmen fri, som den skal.<br><br>N_r det er pr_vet, s_ vend tilbage uanset om det virker eller ej.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Torben Steenfeldt, 11-02-2013 18:25)</em></u></strong></font></li><br><font face=Verdana>Hej Christian<br><br>Tak for dit forslag, det virkede. S_ jeg l_gger d_se_bneren tilbage i skuffen. <br><br>Men hvis kablet var kn_kket, hvad havde jeg s_ gjort?<br><br>Med venlig hilsen<br>Torben</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 11-02-2013 19:25)</em></u></strong></font></li><br><font face=Verdana>Hej Torben<br><br>Ja s_ havde du sikkert kl_et dig godt og grundigt i hovedbunden :-)<br>Jeg ved faktisk ikke rigtig, hvad jeg selv ville g_re. Jeg har aldrig rigtig bekymret mig om det, da jeg aldrig har oplevet et kn_kket kabel.<br>Men jeg er helt sikker p_, at man godt kan kn_kke kablet, hvis man bare hiver alt hvad man kan og lidt til, som nogen m_ske nok kunne fristes til i et tilf_lde som dit. Men der er jeg heldigvis aldrig selv kommet til, da jeg ved, at det omtrent altid skyldes at fjedren er tr_g.<br>Det er jeg p_ forkant med og sm_rer j_vnligt hele l_semekanismen. Husk der er 2 l_se p_ en Volvo 700 og ikke kun _n, som p_ Volvo 240serien.<br><br>Mvh Christian</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 11-02-2013 15:48)</em></u></strong></font></li><br><font face=Verdana>Hej Torben<br><br>Inden du begynder at splitte hele bilen ad med en d_se_bner eller andet v_rkt_j, s_ f_ fat p_ hj_lper, som kan give en hj_lpene h_nd eller to.<br>Mens du tr_kker i h_ndtaget i kabinen, skal din hj_lper pr_ve at l_fte lidt i forsm_kken. For ofte, s_ er det bare fjedren p_ stormkrogen, som g_r lidt tr_g og ikke l_fter hjelmen fri, som den skal.<br><br>N_r det er pr_vet, s_ vend tilbage uanset om det virker eller ej.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Torben Steenfeldt, 11-02-2013 18:25)</em></u></strong></font></li><br><font face=Verdana>Hej Christian<br><br>Tak for dit forslag, det virkede. S_ jeg l_gger d_se_bneren tilbage i skuffen. <br><br>Men hvis kablet var kn_kket, hvad havde jeg s_ gjort?<br><br>Med venlig hilsen<br>Torben</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 11-02-2013 19:25)</em></u></strong></font></li><br><font face=Verdana>Hej Torben<br><br>Ja s_ havde du sikkert kl_et dig godt og grundigt i hovedbunden :-)<br>Jeg ved faktisk ikke rigtig, hvad jeg selv ville g_re. Jeg har aldrig rigtig bekymret mig om det, da jeg aldrig har oplevet et kn_kket kabel.<br>Men jeg er helt sikker p_, at man godt kan kn_kke kablet, hvis man bare hiver alt hvad man kan og lidt til, som nogen m_ske nok kunne fristes til i et tilf_lde som dit. Men der er jeg heldigvis aldrig selv kommet til, da jeg ved, at det omtrent altid skyldes at fjedren er tr_g.<br>Det er jeg p_ forkant med og sm_rer j_vnligt hele l_semekanismen. Husk der er 2 l_se p_ en Volvo 700 og ikke kun _n, som p_ Volvo 240serien.<br><br>Mvh Christian</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

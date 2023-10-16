@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Login</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Login</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -134,7 +134,7 @@ document.onmousedown=click;
 
 <p align="center">Fra den 1. maj 2012, skal du bruge din E-mail og dit password, for at logge ind.<br>Dit brugernavn, kan ikke l�ngere anvendes.</p>
 <p align="center">Har du problemer med at logge ind, kontakt da <a href="mailto:fkruse@volvo240.dk?subject=Login Problemer">fkruse@volvo240.dk</a></p>
-<p align="center">&nbsp;</p>
+<p align="center"></p>
   <form method="POST" action="/security/login_script_e.asp">
     <table border="1" cellpadding="30" cellspacing="0" bgcolor="#c0c0c0" bordercolor="#c0c0c0" align="center">
       <tr>

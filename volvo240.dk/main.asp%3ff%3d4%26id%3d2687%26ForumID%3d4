@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-02-2008&nbsp; 22:50</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-02-2008 22:50</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Jeg overvejer at skifte vores "1984 244 B23A Automatgear/OD" ud med en "1978 B21E 244 Aut. (3 gear)"<br><br>Er der nogle problemer/forskelle jeg skal v�re specielt opm�rksom p�?<br>Jeg er ikke s� meget for de E-motorer - jeg er s� glad for min rent mekaniske B23A motor - er det begrundet eller k�re B21E fortrinligt sommer og vinter ?</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 06-02-2008 23:10)</em></u></strong></font></li><br><font face=Verdana>hej<br><br>Bliver lige n�dt til at sp�rge om det drejer sig om hele bilen, eller kun motor gearkasse?<br><br>Den 78&#39;er har formodentlig den lidt �ldre BW gearkasse, den skulle ikke v�re helt s� god som AW er, men ikke noget jeg ved af erfaring.<br><br>Hvilken motor der er bedst kommer efter min mening an p� ejerens k�rem�nster.<br>B21E er en ganske udem�rket motor, og kan ikke se hvorfor man skulle kalde den for d�rligere end B230A, den er dog en smule dyrere at reparere p� da det netop er inspr�jtning.<br><br>B21E er noget mere sports betonet end B230A er. Jeg kalder gerne B230A for bl�dhats sejtr�kker (har ikke bl�d hat, men elsker alligevel motoren) hvor B21E er noget mere sports betonet.<br>�rsagen er at B230A levere st�rre tr�kkraft i de lave omdrejninger (specielt med h�nger etc) hvor en B21E gerne vil have lidt flere o/m. Det kan dog �ndres med et simpelt knast skifte, dog p� bekostning af et par hk.<br><br>som sagt, en smags sag. Det er min mening.<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Rasmataz, 06-02-2008 23:17)</em></u></strong></font></li><br><font face=Verdana>Tak for hurtigt svar, Det er hele bilen der skal skiftes ud til 78�erne.<br>Den skal stadig bare bruges til daglig brug.<br><br>Er der evt. nogle som har erfaring med BW gearkassen fremfor AW gearkassen?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 06-02-2008 23:24)</em></u></strong></font></li><br><font face=Verdana>hov, overs� lige det var en B23A og ikke B230A.. �ndrer godt nok ikke det store p� det, men stadigt en fejl.. undskylder.<br><br>vh KJ<br>NB, det hurtige svar var nok lidt et tilf�lde, kiggede herind p� det rigtige tidspunkt &#59;o)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Vagn Poulsen, 07-02-2008 00:12)</em></u></strong></font></li><br><font face=Verdana>Jeg har haft en B21 med BW55 gear. Gearet holdt uden problemer til alle 500.000km, som bilen n�ede at k�re inden den rustede op.<br><br>Har nu en 240 med AW70/71 gear. Det er en meget stor behagelighed at den har fire gear mod bare tre i den gamle BW55. Det reducerer st�jniveauet betydeligt. Kilometertallet p� den nuv�rende gearkasse er ukendt, men den har kostet en temmelig dyr istands�ttelse for at kunne fungere ordentligt.<br><br>Mvh.<br>Vagn</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Rasmataz, 07-02-2008 10:05)</em></u></strong></font></li><br><font face=Verdana>Jeg er lige blevet gjort opm�rksom p�, at det ikke er en B21E men en B21A - men sp�rgsm�let er n�sten det samme. Jeg ved godt at den selvf�lgelig ikke har s� meget tr�k i bunden, men er der andre problemer? Jeg t�nker nok mest p� gearkasserne dvs. BW35/55 VS AW70/71 - jeg kommer selvf�lgelig til at savne overgearet, men jeg k�rer mest i K�benhavn og v�lger at sl� OD fra i Byen.....</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 06-02-2008 23:10)</em></u></strong></font></li><br><font face=Verdana>hej<br><br>Bliver lige n�dt til at sp�rge om det drejer sig om hele bilen, eller kun motor gearkasse?<br><br>Den 78&#39;er har formodentlig den lidt �ldre BW gearkasse, den skulle ikke v�re helt s� god som AW er, men ikke noget jeg ved af erfaring.<br><br>Hvilken motor der er bedst kommer efter min mening an p� ejerens k�rem�nster.<br>B21E er en ganske udem�rket motor, og kan ikke se hvorfor man skulle kalde den for d�rligere end B230A, den er dog en smule dyrere at reparere p� da det netop er inspr�jtning.<br><br>B21E er noget mere sports betonet end B230A er. Jeg kalder gerne B230A for bl�dhats sejtr�kker (har ikke bl�d hat, men elsker alligevel motoren) hvor B21E er noget mere sports betonet.<br>�rsagen er at B230A levere st�rre tr�kkraft i de lave omdrejninger (specielt med h�nger etc) hvor en B21E gerne vil have lidt flere o/m. Det kan dog �ndres med et simpelt knast skifte, dog p� bekostning af et par hk.<br><br>som sagt, en smags sag. Det er min mening.<br><br>vh KJ</font><br><li><font face=Verdana><strong><u>Re: - <em>(Rasmataz, 06-02-2008 23:17)</em></u></strong></font></li><br><font face=Verdana>Tak for hurtigt svar, Det er hele bilen der skal skiftes ud til 78�erne.<br>Den skal stadig bare bruges til daglig brug.<br><br>Er der evt. nogle som har erfaring med BW gearkassen fremfor AW gearkassen?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 06-02-2008 23:24)</em></u></strong></font></li><br><font face=Verdana>hov, overs� lige det var en B23A og ikke B230A.. �ndrer godt nok ikke det store p� det, men stadigt en fejl.. undskylder.<br><br>vh KJ<br>NB, det hurtige svar var nok lidt et tilf�lde, kiggede herind p� det rigtige tidspunkt &#59;o)</font><br><li><font face=Verdana><strong><u>Re: - <em>(Vagn Poulsen, 07-02-2008 00:12)</em></u></strong></font></li><br><font face=Verdana>Jeg har haft en B21 med BW55 gear. Gearet holdt uden problemer til alle 500.000km, som bilen n�ede at k�re inden den rustede op.<br><br>Har nu en 240 med AW70/71 gear. Det er en meget stor behagelighed at den har fire gear mod bare tre i den gamle BW55. Det reducerer st�jniveauet betydeligt. Kilometertallet p� den nuv�rende gearkasse er ukendt, men den har kostet en temmelig dyr istands�ttelse for at kunne fungere ordentligt.<br><br>Mvh.<br>Vagn</font><br><li><font face=Verdana><strong><u>Re: - <em>(Rasmataz, 07-02-2008 10:05)</em></u></strong></font></li><br><font face=Verdana>Jeg er lige blevet gjort opm�rksom p�, at det ikke er en B21E men en B21A - men sp�rgsm�let er n�sten det samme. Jeg ved godt at den selvf�lgelig ikke har s� meget tr�k i bunden, men er der andre problemer? Jeg t�nker nok mest p� gearkasserne dvs. BW35/55 VS AW70/71 - jeg kommer selvf�lgelig til at savne overgearet, men jeg k�rer mest i K�benhavn og v�lger at sl� OD fra i Byen.....</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -265,9 +265,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

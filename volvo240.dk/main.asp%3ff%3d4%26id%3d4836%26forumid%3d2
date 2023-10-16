@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-11-2013&nbsp; 22:24</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-11-2013 22:24</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har en Volvo 240 2,3 i kat 1992 gummislange mellem tank og p_fyldningstuds ut_t er der nogen der har erfaring med at skifte denne fik at vide at der var 2 modeller skal den skiftes inden fra bagagerum ? da den vist nok er lidt tragt formet har jeg ladet mig fort_lle.<br>hj_lp s_ges<br>mvh Tom</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 04-11-2013 22:40)</em></u></strong></font></li><br><font face=Verdana>Hej Tom<br>Du har ingen gummislange imellem tank og p_fyldningsstuds.<br>Ikke p_ en _rg. 1992<br>Dette fandtes KUN til 1977 modellerne, s_ er de afskaffet.<br>MVH J.P.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 04-11-2013 22:42)</em></u></strong></font></li><br><font face=Verdana>Hej igen<br>Hvis du evt. skulle have en s_dan slange imellem der, vil jeg meget gerne have et foto tilsendt af den p_,  <a href="mailto:hubertusvolvo@gmail.com">hubertusvolvo@gmail.com</a><br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 04-11-2013 22:42)</em></u></strong></font></li><br><font face=Verdana>Hvor kan den s_ v_re ut_t for der l_ber benzin ud n_r jeg tanker er det et fast r_r ? det m_ vel v_re samlet p_ en m_de ? <br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 04-11-2013 22:45)</em></u></strong></font></li><br><font face=Verdana>ok Volvo mener der er en stump p_ ca 10 cm hvor af den ene ende er lidt tragt formet der sidder noget gummi mellem tank og gennemf_ring til bagage rum. Tank og p_fyldningstuds er vel ikke ud i et ?<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 04-11-2013 23:47)</em></u></strong></font></li><br><font face=Verdana>Nej tanken er en del for sig selv og r_ret er en del for sig selv.Det er samlet ved tanken og imellem de 2 dele skal der sidde en stor gummi o ring for at t_tne det til en del.Hvor drypper det fra??<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 05-11-2013 09:11)</em></u></strong></font></li><br><font face=Verdana>Hej Tom<br>Problemet kender jeg godt, jeg har rep. dette problem mange gange, det er selve p_fyldningsr_retr_ret der er t_ret lige f_r tanken, det er lavet af aluminium.<br>Du kan k_be et nyt r_r af mig for 100,-kr<br>Afmontering og montering foreg_r med tanken afmonteret.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 05-11-2013 21:25)</em></u></strong></font></li><br><font face=Verdana>Hej jens peter den vil jeg gerne k_be hvordan g_r vi min mail er <a href="mailto:Tomdrewes@live.dk">Tomdrewes@live.dk</a><br><br>mvh tom</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 05-11-2013 21:30)</em></u></strong></font></li><br><font face=Verdana>hej jens har du ogs_ gummien ?<br>mvh tom</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 04-11-2013 22:40)</em></u></strong></font></li><br><font face=Verdana>Hej Tom<br>Du har ingen gummislange imellem tank og p_fyldningsstuds.<br>Ikke p_ en _rg. 1992<br>Dette fandtes KUN til 1977 modellerne, s_ er de afskaffet.<br>MVH J.P.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 04-11-2013 22:42)</em></u></strong></font></li><br><font face=Verdana>Hej igen<br>Hvis du evt. skulle have en s_dan slange imellem der, vil jeg meget gerne have et foto tilsendt af den p_,  <a href="mailto:hubertusvolvo@gmail.com">hubertusvolvo@gmail.com</a><br></font><br><li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 04-11-2013 22:42)</em></u></strong></font></li><br><font face=Verdana>Hvor kan den s_ v_re ut_t for der l_ber benzin ud n_r jeg tanker er det et fast r_r ? det m_ vel v_re samlet p_ en m_de ? <br></font><br><li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 04-11-2013 22:45)</em></u></strong></font></li><br><font face=Verdana>ok Volvo mener der er en stump p_ ca 10 cm hvor af den ene ende er lidt tragt formet der sidder noget gummi mellem tank og gennemf_ring til bagage rum. Tank og p_fyldningstuds er vel ikke ud i et ?<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 04-11-2013 23:47)</em></u></strong></font></li><br><font face=Verdana>Nej tanken er en del for sig selv og r_ret er en del for sig selv.Det er samlet ved tanken og imellem de 2 dele skal der sidde en stor gummi o ring for at t_tne det til en del.Hvor drypper det fra??<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 05-11-2013 09:11)</em></u></strong></font></li><br><font face=Verdana>Hej Tom<br>Problemet kender jeg godt, jeg har rep. dette problem mange gange, det er selve p_fyldningsr_retr_ret der er t_ret lige f_r tanken, det er lavet af aluminium.<br>Du kan k_be et nyt r_r af mig for 100,-kr<br>Afmontering og montering foreg_r med tanken afmonteret.<br>MVH Jens Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 05-11-2013 21:25)</em></u></strong></font></li><br><font face=Verdana>Hej jens peter den vil jeg gerne k_be hvordan g_r vi min mail er <a href="mailto:Tomdrewes@live.dk">Tomdrewes@live.dk</a><br><br>mvh tom</font><br><li><font face=Verdana><strong><u>Re: - <em>(tom drewes, 05-11-2013 21:30)</em></u></strong></font></li><br><font face=Verdana>hej jens har du ogs_ gummien ?<br>mvh tom</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

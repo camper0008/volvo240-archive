@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=3096"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=3096"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">28-03-2005&nbsp; 16:08</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">28-03-2005 16:08</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Mit olietryk opfører sig underligt!!<br><br>Problemet er, at lampen for lavt olietryk lyser når jeg har kørt en længere tur på eks. landevejen eller motorvejen - også selvom det er med en 80 - 90 km/t. I det øjeblik jeg kobler ud, og motoren går i tomgang så lyser den djævel af en olietrykslampe!!<br><br>Det forekommer aldrig når jeg kører inde i byen eller hvis det er på kortere ture. - kun når motoren rigtig har været gennemvarm. <br><br>Det sjove er, at hvis jeg gasser lidt op (ca. 1500 - 2000 rpm) går lyset ud, og ellers ses pæren hvor den blinker sådan lidt i takt til motorgangen hvis man ligger i intervallet mellem tomgang og de ca. 1500 rpm.<br><br>Kunne det tænkes at det er noget med oliepumpen eller der er en tilstopning ved ansugningen i bundkarret? <br><br>Jeg har tidligere periode-døjet med problemet, men afhjalp det med et olieskift og skift af oliefilter. <br><br>Motoren bruger ikke olie eller vand, og har for kort tid siden fået sig et renoveret topstykke. Jeg kører på en 10/40 semi-syntetisk - og har altid gjort dette.<br><br>Håber at kunne modtage nogle fyldest-gørende svar, for det er nu ikke sagen her i det godt vejr.<br><br>Hilsen Niels</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Mit olietryk opfÃ¸rer sig underligt!!<br><br>Problemet er, at lampen for lavt olietryk lyser nÃ¥r jeg har kÃ¸rt en lÃ¦ngere tur pÃ¥ eks. landevejen eller motorvejen - ogsÃ¥ selvom det er med en 80 - 90 km/t. I det Ã¸jeblik jeg kobler ud, og motoren gÃ¥r i tomgang sÃ¥ lyser den djÃ¦vel af en olietrykslampe!!<br><br>Det forekommer aldrig nÃ¥r jeg kÃ¸rer inde i byen eller hvis det er pÃ¥ kortere ture. - kun nÃ¥r motoren rigtig har vÃ¦ret gennemvarm. <br><br>Det sjove er, at hvis jeg gasser lidt op (ca. 1500 - 2000 rpm) gÃ¥r lyset ud, og ellers ses pÃ¦ren hvor den blinker sÃ¥dan lidt i takt til motorgangen hvis man ligger i intervallet mellem tomgang og de ca. 1500 rpm.<br><br>Kunne det tÃ¦nkes at det er noget med oliepumpen eller der er en tilstopning ved ansugningen i bundkarret? <br><br>Jeg har tidligere periode-dÃ¸jet med problemet, men afhjalp det med et olieskift og skift af oliefilter. <br><br>Motoren bruger ikke olie eller vand, og har for kort tid siden fÃ¥et sig et renoveret topstykke. Jeg kÃ¸rer pÃ¥ en 10/40 semi-syntetisk - og har altid gjort dette.<br><br>HÃ¥ber at kunne modtage nogle fyldest-gÃ¸rende svar, for det er nu ikke sagen her i det godt vejr.<br><br>Hilsen Niels</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3134'>Re: Manglende Olietryk B18</a> <em>(niels, 02-04-2005 23:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3117'>Re: Manglende Olietryk B18</a> <em>(, 31-03-2005 00:58)</em></strong></font></li><br><font face=Verdana>Hmm.... Er ret sikker på jeg ikke vil give mig i kast med at måle olietryk på min gamle Amazon. <br><br>I stedet vil jeg køre op til min gamle mekaniker og høre hans mening - For trods alt har han levet mere end dobbelt så længe som jeg med skidt og olie under neglene. Hans mening må tælle.<br><br>Jeg vender tilbage med dommen<br><br>For en sikkerheds skyld har jeg dog afmonteret en fin oliepumpe fra en motor jeg havde stående.</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3113'>Re: Manglende Olietryk B18</a> <em>(Emil J, 30-03-2005 11:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3112'>Re: Manglende Olietryk B18</a> <em>(nielsd, 30-03-2005 00:09)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3105'>Re: Manglende Olietryk B18</a> <em>(michael jensen, 29-03-2005 16:55)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3100'>Re: Manglende Olietryk B18</a> <em>(Niels, 29-03-2005 07:45)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3099'>Re: Manglende Olietryk B18</a> <em>(Jesper Johansen, 29-03-2005 00:33)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3097'>Re: Manglende Olietryk B18</a> <em>(michael jensen, 28-03-2005 19:08)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3134'>Re: Manglende Olietryk B18</a> <em>(niels, 02-04-2005 23:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3117'>Re: Manglende Olietryk B18</a> <em>(, 31-03-2005 00:58)</em></strong></font></li><br><font face=Verdana>Hmm.... Er ret sikker pÃ¥ jeg ikke vil give mig i kast med at mÃ¥le olietryk pÃ¥ min gamle Amazon. <br><br>I stedet vil jeg kÃ¸re op til min gamle mekaniker og hÃ¸re hans mening - For trods alt har han levet mere end dobbelt sÃ¥ lÃ¦nge som jeg med skidt og olie under neglene. Hans mening mÃ¥ tÃ¦lle.<br><br>Jeg vender tilbage med dommen<br><br>For en sikkerheds skyld har jeg dog afmonteret en fin oliepumpe fra en motor jeg havde stÃ¥ende.</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3113'>Re: Manglende Olietryk B18</a> <em>(Emil J, 30-03-2005 11:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3112'>Re: Manglende Olietryk B18</a> <em>(nielsd, 30-03-2005 00:09)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3105'>Re: Manglende Olietryk B18</a> <em>(michael jensen, 29-03-2005 16:55)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3100'>Re: Manglende Olietryk B18</a> <em>(Niels, 29-03-2005 07:45)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3099'>Re: Manglende Olietryk B18</a> <em>(Jesper Johansen, 29-03-2005 00:33)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3096&ForumID=1&Showsub=3097'>Re: Manglende Olietryk B18</a> <em>(michael jensen, 28-03-2005 19:08)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">22</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">22</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

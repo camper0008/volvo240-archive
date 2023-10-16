@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=4320"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=4320"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,10 +224,10 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-10-2005&nbsp; 11:01</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-10-2005 11:01</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvo-folkens. Jeg har nu igen haft en lidt ubehagelig oplevelse. Da jeg efter at have kørt et par timer på motorvej havnede i en kø begyndte min olielampe at blinke (Den lyste aldrig konstant). Jeg oplevede det samme i sommer (nøjagtig efter samme oplevelse Motorvej -> KØ). Her skiftede jeg olie og filter, og problemet kom ikke igen før i denne weekend. Da olie og filter kun er ca. 2000 km gamle (og oliestanden er iorden). Er jeg i tvivl om hvordan jeg skal forholde mig til problemet. Jeg valge her i weekenden at køre videre (med sved på panden), og lampen holdt efter en halv times blinkere op med at brokke sig, og den lyste ikke igen på, heller ikke på hjemturens 300 km på motorvej. Er der nogen af jer der har en ide om hvad der er galt? Kan det være rigtigt at maskinen forlanger olie+filter skift igen, eller er der mon noget andet galt? Ledningen til olietryksensoren har det ikke for godt, men da blinkeriet nu to gange er opstået efter nøjagtig samme type kørsel tror jeg næppe at det er her problemet ligger (ps. der forsvinder så godt som ingen olie mellen 10.000 km olieskift).<br>Håber en af her har en ide om hvad motoren prøver at fortælle.<br>Mange hilsner<br>Jesper; 245 1986,B230A (373.000 km)<br></font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvo-folkens. Jeg har nu igen haft en lidt ubehagelig oplevelse. Da jeg efter at have kÃ¸rt et par timer pÃ¥ motorvej havnede i en kÃ¸ begyndte min olielampe at blinke (Den lyste aldrig konstant). Jeg oplevede det samme i sommer (nÃ¸jagtig efter samme oplevelse Motorvej -> KÃ˜). Her skiftede jeg olie og filter, og problemet kom ikke igen fÃ¸r i denne weekend. Da olie og filter kun er ca. 2000 km gamle (og oliestanden er iorden). Er jeg i tvivl om hvordan jeg skal forholde mig til problemet. Jeg valge her i weekenden at kÃ¸re videre (med sved pÃ¥ panden), og lampen holdt efter en halv times blinkere op med at brokke sig, og den lyste ikke igen pÃ¥, heller ikke pÃ¥ hjemturens 300 km pÃ¥ motorvej. Er der nogen af jer der har en ide om hvad der er galt? Kan det vÃ¦re rigtigt at maskinen forlanger olie+filter skift igen, eller er der mon noget andet galt? Ledningen til olietryksensoren har det ikke for godt, men da blinkeriet nu to gange er opstÃ¥et efter nÃ¸jagtig samme type kÃ¸rsel tror jeg nÃ¦ppe at det er her problemet ligger (ps. der forsvinder sÃ¥ godt som ingen olie mellen 10.000 km olieskift).<br>HÃ¥ber en af her har en ide om hvad motoren prÃ¸ver at fortÃ¦lle.<br>Mange hilsner<br>Jesper; 245 1986,B230A (373.000 km)<br></font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">46</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">46</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

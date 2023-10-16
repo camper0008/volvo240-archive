@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Ring Djursland 7. august 2005</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Ring Djursland 7. august 2005</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -149,8 +149,8 @@ lige at f� et overblik af hvor de forskellige teams var placeret i depotet. <b
 Volvo Motorsport var let at finde, da de holdt til lige foran indgangen.<br>
 Straks sv�rere var det at finde Michael Jensen og hans Volvo S40 Turbo. Det 
 viste sig han slet ikke var tilstede p� banen, s� jeg regnede ikke med at se 
-Volvo'en i denne weekend. Men jeg blev klogere, for om s�ndagen skete der noget.<p>&nbsp;<h2>DTC</h2>
-<p>&nbsp;</p>
+Volvo'en i denne weekend. Men jeg blev klogere, for om s�ndagen skete der noget.<p><h2>DTC</h2>
+<p></p>
 
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
@@ -189,7 +189,7 @@ Th: Volvo raceren lige efter 1. sving. </p>
     <td width="25%" align="center"> 22 Jens Reno M�ller <br>                                                                                                                                                                                                                                                               
 	Endte nr. 12</td>                                                                                                                                                                                                                                                                                                  
     <td width="25%" align="center"> 17 Michel Nykj�r <br>                                                                                                                                                                                                                                                                 
-	Endte nr.&nbsp; 6</td>                                                                                                                                                                                                                                                                                             
+	Endte nr. 6</td>                                                                                                                                                                                                                                                                                             
     <td width="25%" align="center"> 7 Rene Rasmussen  <br>                                                                                                                                                                                                                                                                 
 		Endte nr. 11</td>                                                                                                                                                                                                                                                                                                   
   </tr>                                                                                                                                                                                                                                                                                                              
@@ -248,7 +248,7 @@ Jan Magnussen vandt prefinalen foran John Nielsen og Henrik Lundgaard.</p>
     <td>                                                                                                                                                                                                                                                                                                
 <p>Tv: Jan Magnussen k�rte en suveren prefinale..</p>                                                                                                                                                                                                                         
     </td>                                                                                                                                                                                                                                                                                               
-    <td width="130">&nbsp;</td>                                                                                                                                                                                                                                                                         
+    <td width="130"></td>                                                                                                                                                                                                                                                                         
   </tr>                                                                                                                                                                                                                                                                                                 
 </table>                                                                                                                                                                                                                                                                                                
                                                                                                                                                                                                                                                                                                         
@@ -263,7 +263,7 @@ Martin Jensen og Michel Nykj�r.</p>
   <tr>                                                                                                                                                                                                                                                                                                  
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050807-dtc02w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050807-dtc02t.jpg" width="128" height="85"></a></td>
     <td>                                                                                                                                                                                                                                                                                                
-<p>&nbsp;</p>                                                                                                                                                                                                                                                        
+<p></p>                                                                                                                                                                                                                                                        
     </td>                                                                                                                                                                                                                                                                                               
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050807-dtc03w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050807-dtc03t.jpg" width="128" height="85"></a></td>
   </tr>
@@ -291,14 +291,14 @@ at deltage. </p>
 
 <p>I 2. heat gik det knap s� godt. Der var skr�mmer i farvandet og da bilen 
 endelig kom i pit, viste det sig at hele motorrummet var smurt ind i motorolie.</p>
-<p>Hos Holmgaard forklarede en at mekanikerne, at det skyldtes at &quot;sikringen&quot; p� 
-oliepinden var &quot;hoppet af&quot; og derfor sad l�s og kunne lade olie slippe ud i 
+<p>Hos Holmgaard forklarede en at mekanikerne, at det skyldtes at "sikringen" p� 
+oliepinden var "hoppet af" og derfor sad l�s og kunne lade olie slippe ud i 
 motorrummet.</p>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050807-n03w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050807-n03t.jpg" width="128" height="85"></a></td>
     <td>                                                                                                                                                                                                                                                                                            
-<p>Tv: Motorrummet da det lige blev �bnet &quot;uden sikring&quot;.<br>                                                                                                                                                                                                                                                                         
+<p>Tv: Motorrummet da det lige blev �bnet "uden sikring".<br>                                                                                                                                                                                                                                                                         
 Th: S�dan skulle den ha' siddet monteret.</p>                                                                                                                                                                                                                                          
     </td>                                                                                                                                                                                                                                                                                           
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050807-n04w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050807-n04t.jpg" width="128" height="85"></a></td>
@@ -314,12 +314,12 @@ som det kan ses herunder.</p>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050807-n05w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050807-n05t.jpg" width="128" height="85"></a></td>
     <td>                                                                                                                                                                                                                                                                                            
 <p>Tv: Det var p� det n�rmeste hele bilen som var smurt ind i motorolie.<br>                                                                                                                                                                                                                                                                         
-Th: Det er vist godt, at der er noget der hedder &quot;auto opretning&quot;...</p>                                                                                                                                                                                                                                          
+Th: Det er vist godt, at der er noget der hedder "auto opretning"...</p>                                                                                                                                                                                                                                          
     </td>                                                                                                                                                                                                                                                                                           
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050807-n06w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050807-n06t.jpg" width="128" height="85"></a></td>
   </tr>                                                                                                                                                                                                                                                                                             
 </table>                                                                                                                                                                                                                                                                                            
-<p>&nbsp;</p>
+<p></p>
 <p>Det var en weekend med masser af god race og nogle gode snakke med k�rerne i 
 depotet.</p>
 
@@ -354,7 +354,7 @@ depotet.</p>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

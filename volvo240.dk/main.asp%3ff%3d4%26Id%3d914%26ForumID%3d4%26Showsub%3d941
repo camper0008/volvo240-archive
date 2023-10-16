@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=914"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=914"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Afgift p&#229; 240 turbo</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Afgift på 240 turbo</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-10-2003&nbsp; 18:21</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-10-2003 18:21</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa har et lille sp_rgsm_l, mener at der er en der burde vide det herinde.. Jeg har besluttet mig for at k_be en 240 turbo...<br>Men ville vide om det kan betale sig at k_be en uden afgift.. og hvis det er, hva koster det s_ at f_ den p_ danske plader???<br>MVH Ronnie</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=914&ForumID=4&Showsub=946'>Re: Afgift p&#229; 240 turbo</a> <em>(Ronnie, 19-10-2003 14:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=914&ForumID=4&Showsub=943'>Re: Afgift p&#229; 240 turbo</a> <em>(Kim L&#248;venskjold, 18-10-2003 11:08)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=914&ForumID=4&Showsub=941'>Re: Afgift p&#229; 240 turbo</a> <em>(Ronnie, 18-10-2003 00:38)</em></strong></font></li><br><font face=Verdana>Hej kim har du sendt nogle billeder???<br>Hvis du bor p_ sj_lland vil jeg hellere komme ud og kigge p_ den???<br>MVH Ronnie</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=914&ForumID=4&Showsub=939'>Re: Afgift p&#229; 240 turbo</a> <em>(Kim L&#248;venskjold, 16-10-2003 17:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=914&ForumID=4&Showsub=933'>Re: Afgift p&#229; 240 turbo</a> <em>(Ronnie, 15-10-2003 23:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=914&ForumID=4&Showsub=926'>Re: Afgift p&#229; 240 turbo</a> <em>(Kim L&#248;venskjold, 15-10-2003 12:19)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=914&ForumID=4&Showsub=946'>Re: Afgift på 240 turbo</a> <em>(Ronnie, 19-10-2003 14:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=914&ForumID=4&Showsub=943'>Re: Afgift på 240 turbo</a> <em>(Kim Løvenskjold, 18-10-2003 11:08)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=914&ForumID=4&Showsub=941'>Re: Afgift på 240 turbo</a> <em>(Ronnie, 18-10-2003 00:38)</em></strong></font></li><br><font face=Verdana>Hej kim har du sendt nogle billeder???<br>Hvis du bor p_ sj_lland vil jeg hellere komme ud og kigge p_ den???<br>MVH Ronnie</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=914&ForumID=4&Showsub=939'>Re: Afgift på 240 turbo</a> <em>(Kim Løvenskjold, 16-10-2003 17:41)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=914&ForumID=4&Showsub=933'>Re: Afgift på 240 turbo</a> <em>(Ronnie, 15-10-2003 23:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=914&ForumID=4&Showsub=926'>Re: Afgift på 240 turbo</a> <em>(Kim Løvenskjold, 15-10-2003 12:19)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">52</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">52</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

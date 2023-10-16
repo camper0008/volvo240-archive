@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=463"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=463"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>motor: S&#248;ger Sebastian Neumann</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>motor: Søger Sebastian Neumann</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">27-05-2003&nbsp; 00:31</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">27-05-2003 00:31</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Kan Du ikke rette kontakt til mig p_ 28727747.<br>Jeg er r_get t_mlig p_ s.......<br>B-230ET motoren er p_ plads i 240.eren, men jeg kan ikke f_ t_nding p_ l.....<br>Jeg har nu holdt p_ i 10 dage med elarbejde, men lige det der med at f_ gnist p_ t_ndr_ret, vil alts_ ikke.<br>Det lyder som om det lige er noget du har styr p_, og motoren er alts_ en B-230ET fra 740 turbo _rg 1986, med 2 f_lere p_ svinghjulet.<br>Det med de 15 grader syd for vandret linie er mig bek_ndt helt korrekt, men selv Volvo var i tvivl, og selvf_lgelig m_rker man da ikke noget op f_rst. "s_ ryget alt det sjove da f_rst"<br>Er du ikke i stan til at hj_lpe, har du m_ske en kontakt man kan benytte.<br>P_ forh_nd tak.<br>Michael Nordahn.<br>migi@post.tele.dk <br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=463&ForumID=1&Showsub=472'>Re: motor: S&#248;ger Sebastian Neumann</a> <em>(Sebastian Neumann, 31-05-2003 14:17)</em></strong></font></li><br><font face=Verdana>Hej.<br><br>Herligt at det kom til at virke med t_ndingen - s_ var det ikke s_ galt alligevel... <br><br>Tja, det kan v_re vi ses jo, hvis jeg kommer, bliver det i en m_rkebl_ ( meget mat ) grim 240 karburator turbo - da min anden er under gennemgribende renovering og tuning - he he satser p_ mellem 300 og 400 motor heste om alt g_r godt.... plus at jeg er igang med at slibe og spartle og lave rust s_ den kan f_ en rigtig flot farve og blive p_n igen... <br><br>N_ hygge og god sommer.<br>Sebastian</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=463&ForumID=1&Showsub=471'>Re: motor: S&#248;ger Sebastian Neumann</a> <em>(michael nordahn, 31-05-2003 00:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=463&ForumID=1&Showsub=467'>Re: motor: S&#248;ger Sebastian Neumann</a> <em>(Sebastian Neumann, 28-05-2003 17:48)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=463&ForumID=1&Showsub=465'>Re: motor: S&#248;ger Sebastian Neumann</a> <em>(Sebastian Neumann, 28-05-2003 17:29)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=463&ForumID=1&Showsub=472'>Re: motor: Søger Sebastian Neumann</a> <em>(Sebastian Neumann, 31-05-2003 14:17)</em></strong></font></li><br><font face=Verdana>Hej.<br><br>Herligt at det kom til at virke med t_ndingen - s_ var det ikke s_ galt alligevel... <br><br>Tja, det kan v_re vi ses jo, hvis jeg kommer, bliver det i en m_rkebl_ ( meget mat ) grim 240 karburator turbo - da min anden er under gennemgribende renovering og tuning - he he satser p_ mellem 300 og 400 motor heste om alt g_r godt.... plus at jeg er igang med at slibe og spartle og lave rust s_ den kan f_ en rigtig flot farve og blive p_n igen... <br><br>N_ hygge og god sommer.<br>Sebastian</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=463&ForumID=1&Showsub=471'>Re: motor: Søger Sebastian Neumann</a> <em>(michael nordahn, 31-05-2003 00:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=463&ForumID=1&Showsub=467'>Re: motor: Søger Sebastian Neumann</a> <em>(Sebastian Neumann, 28-05-2003 17:48)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=463&ForumID=1&Showsub=465'>Re: motor: Søger Sebastian Neumann</a> <em>(Sebastian Neumann, 28-05-2003 17:29)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">14</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">14</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

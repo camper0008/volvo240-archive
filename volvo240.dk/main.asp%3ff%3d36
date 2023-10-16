@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;D�k</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">D�k</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -171,31 +171,31 @@ svarer til hastighedskoden.</td>
   <tr>
     <th width="66" align="left" valign="top">Hastighedskode</th>
     <td>Angiver d�kket max. hastighed.<br>
-      De mest almindelige symboler er:&nbsp;
+      De mest almindelige symboler er:
       <table border="1" cellpadding="0" cellspacing="0" width="250">
         <tr>
           <td width="25" align="center"><b>Q</b></td>
-          <td width="100">&nbsp;&nbsp;&lt;160 kh/t</td>
+          <td width="100">&lt;160 kh/t</td>
           <td width="25" align="center"><b>T</b></td>
-          <td width="100">&nbsp;&nbsp;&lt;190 km/t</td>
+          <td width="100">&lt;190 km/t</td>
         </tr>
         <tr>
           <td width="25" align="center"><b>H</b></td>
-          <td width="100">&nbsp;&nbsp;&lt;210 km/t</td>
+          <td width="100">&lt;210 km/t</td>
           <td width="25" align="center"><b>V</b></td>
-          <td width="100">&nbsp;&nbsp;&lt;240 km/t</td>
+          <td width="100">&lt;240 km/t</td>
         </tr>
         <tr>
           <td width="25" align="center"><b>W</b></td>
-          <td width="100">&nbsp;&nbsp;&lt;270 km/t</td>
+          <td width="100">&lt;270 km/t</td>
           <td width="25" align="center"><b>Y</b></td>
-          <td width="100">&nbsp;&nbsp;&lt;300 km/t</td>
+          <td width="100">&lt;300 km/t</td>
         </tr>
         <tr>
           <td width="25" align="center"><b>ZR</b></td>
-          <td width="100">&nbsp;&nbsp;&gt;240 km/t</td>
-          <td width="25" align="center"><b>&nbsp;</b></td>
-          <td width="100">&nbsp;</td>
+          <td width="100">&gt;240 km/t</td>
+          <td width="25" align="center"><b></b></td>
+          <td width="100"></td>
         </tr>
       </table>
     </td>
@@ -207,7 +207,7 @@ svarer til hastighedskoden.</td>
 <p align="center">
 <img border="2" src="/240info/technic/tires/images/240_tires_01.gif">
 </p>
-<p>&nbsp;</p>
+<p></p>
 <table border="1" cellpadding="0" cellspacing="0" width="503" align="center">
   <caption>Beregningseksempel p� <b>185/70 14 88 T</b></caption>
   <tr>
@@ -230,26 +230,26 @@ svarer til hastighedskoden.</td>
   </tr>
   <tr>
     <th width="117" align="left">Belastningskode</th>
-    <td width="25" align="center">&nbsp;B</td>
+    <td width="25" align="center">B</td>
     <td width="37" align="center">88</td>
-    <td width="314">&nbsp;560 Kg</td>
+    <td width="314">560 Kg</td>
   </tr>
   <tr>
     <th width="117" align="left">Hastighedskode</th>
-    <td width="25" align="center">&nbsp;H</td>
+    <td width="25" align="center">H</td>
     <td width="37" align="center">T</td>
-    <td width="314">&nbsp;&lt;190 km/t</td>
+    <td width="314">&lt;190 km/t</td>
   </tr>
   <tr>
     <th width="117" align="left">Diameter</th>
     <td width="25" align="center">D</td>
-    <td width="37" align="center">&nbsp;</td>
+    <td width="37" align="center"></td>
     <td width="314">2 * h + d = 2 * 129,5 + 355,6 = 614,6 mm</td>
   </tr>
   <tr>
     <th width="117" align="left">Omkreds</th>
     <td width="25" align="center">O</td>
-    <td width="37" align="center">&nbsp;</td>
+    <td width="37" align="center"></td>
     <td width="314">D * pi = 3.14 * 614,6 = 1931 mm</td>
   </tr>
 </table>
@@ -262,7 +262,7 @@ og mindste omkreds er: 1835<br>
 
 <A href="/240info/technic/tires/tirecalc.asp" onclick="window.open( '/240info/technic/tires/tirecalc.asp','','height=240,width=320,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false">D�kst�relse beregninger</A>
 
-<p>&nbsp;</p>
+<p></p>
 <h2>Hjul og d�k � vigtige for bilens k�reegenskaber!</h2>
 <p>Bilens gode k�reegenskaber kan forandres m�rkbart, hvis man f. eks. ikke holder det korrekte d�ktryk.</p>
 <h2>Generelt om hjul og d�k</h2>
@@ -295,7 +295,7 @@ og mindste omkreds er: 1835<br>
 
 <p>Visse varianter af 5-d�res modellen har d�k med betegnelsen 185 SR 14 R, hvor det sidste bogstav R st�r for Reinforced = forst�rket. Hvis De skifter d�k: Pas p� at De f�r d�k med samme dimension (betegnelse) og helst ogs� af samme fabrikat p� alle fire hjul, da der ellers er risiko for, at bilens k�reegenskaber �ndres.</p>
 
-<p>&nbsp;</p>
+<p></p>
 <h2>D�kslidtage</h2>
 <p>Min. m�nsterdybde er 1,6 mm, m�lt p� den <b>midterste 3/4 dele af slidbanen</b>. D.v.s. de yderste 12,5 % i hver side ikke t�ller med ved m�ling af m�nsterdybde. Derudover er det et lovkrav at d�kkene er med slidindikator. P� visse steder i bunden af m�nsteret er der en lille "klods". Den er 1,6 mm h�j, d.v.s. n�r d�kket er slidt ned til klodsen er det p� minimum.</p>
 <p>T�nk p�, at d�k med lille m�nsterdybde har meget d�rligt vejgreb i regn og sne, hvilket forringer sikkerheden betydeligt.<br>
@@ -311,7 +311,7 @@ Ved vinterk�rsel anbefales det at m�nsterdybde er min. 3 mm.</p>
   <li><p>Pas p� d�kkene ved parkering ind til en fortovskant.</li>
 </ul>
 <p align="center"><img border="2" src="/240info/technic/tires/images/240_tires_02.gif">
-<h2>&quot;Morgensyge&quot;</h2>
+<h2>"Morgensyge"</h2>
 <p>Alle d�k bliver varme under k�rsel. N�r d�kkene derefter k�les af, mens man parkerer, deformeres d�kkene mod underlaget. Det bety�der, at de f�r hver et fladt punkt. Denne deformation kan man kalde for "Morgensyge" og den kan for�rsage lidt vibrationer og ubalance, indtil d�kkene er varmet op. De forskellige d�ktyper har mere eller mindre tendens til "Morgensyge" p� grund af de forskellige typer materiale i d�kket.<br>
 l koldt vejr tager det naturligvis l�ngere tid, inden d�kkene bliver varme og vibrationerne forsvinder.</p>
 <h2>Pigd�k, snek�der</h2>
@@ -321,7 +321,7 @@ Hvis De vil skifte hjulene, skal De lade hjulet sidde p� samme side som tidlig
 Volvo-forhandleren har godkendte Volvo-konstruerede snek�der!<br>
 Bem�rk! Man m� ikke k�re hurtigere end 60 km/t med snek�der!<br>
 K�r ikke p� rene veje mere end h�jst n�dvendigt, da det slider meget h�rdt p� snek�der og d�k.<br>
-De s�kaldte &quot;<b>Snabbl�nkar</b>&quot; m� ikke bruges, da afstanden mellem skivebremserne og hjulene er for lille.</p>
+De s�kaldte "<b>Snabbl�nkar</b>" m� ikke bruges, da afstanden mellem skivebremserne og hjulene er for lille.</p>
 <table border="1" cellpadding="5" cellspacing="0" width="700" align="center">
   <tr>
     <td>
@@ -380,7 +380,7 @@ Ved varme d�k g�lder 10-30 kPa (1,5-4 psi) h�jere v�rdier afh�ngigt af
     <td width="75">280<br>300<br>280</td>
   </tr>
   <tr>
-    <th width="300" colspan="2">Reserved�k &quot;Special Spare&quot;</th>
+    <th width="300" colspan="2">Reserved�k "Special Spare"</th>
     <td width="75">280</td>
     <td width="75">280</td>
     <td width="75">280</td>
@@ -389,7 +389,7 @@ Ved varme d�k g�lder 10-30 kPa (1,5-4 psi) h�jere v�rdier afh�ngigt af
 </table>
 <p>
 Hvis man skal k�re l�nge med h�j hastighed (mere end en time over 120 km/t), b�r man �ge d�ktrykket med ca. 30 kPa.<br>
-Bem�rk! <b> Dette g�lder ikke reservehjulet "Special Spare&quot;</b>, l dette hjul skal lufttrykket altid v�re 280 kPa.</p>
+Bem�rk! <b> Dette g�lder ikke reservehjulet "Special Spare"</b>, l dette hjul skal lufttrykket altid v�re 280 kPa.</p>
 <p>&nbsp</p>
 
 <table border="1" cellpadding="5" cellspacing="0" width="600" align="center">
@@ -454,7 +454,7 @@ bliver ringere, og i visse tilf�lde er d�kket ikke l�ngere anvendeligt.</t
     <th width="25" valign="top" align="center">10</th>
     <td width="575"><b>Reng�ring af d�k med h�jtryks-dampspuler (70 bar):</b><br>
 D�k kan selv ved anvendelse af koldt vand p� kort afstand blive beskadiget eller 
-�delagt p� f� sekunder. Skaderne viser sig som &quot;brands�r&quot; p� d�ksiden.</td>
+�delagt p� f� sekunder. Skaderne viser sig som "brands�r" p� d�ksiden.</td>
   </tr></tbody>
 </table>
 
@@ -485,7 +485,7 @@ D�k kan selv ved anvendelse af koldt vand p� kort afstand blive beskadiget e
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

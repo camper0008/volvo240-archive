@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Bremseskiver</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Bremseskiver</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -146,25 +146,25 @@ document.onmousedown=click;
       skiver kan komme ud af balance. Volvo centrerer sine bremseskiver ved at 
       have meget strenge tolerancer for centrumhullet. P_ andre bremseskiver 
       bruges bolthullerne som centrering, men disse bremseskiver kan risikere at 
-      &quot;falde ned&quot; og h_nge ucentreret.</p>
+      "falde ned" og h_nge ucentreret.</p>
       <p>Bel_gningernes egenskaber skal tilpasses materialeegenskaberne hos 
       bremseskiven. Bl.a. skal bel_gningen holde skiven ren for rust. Rust 
       p_virker friktionen, s_ledes at en rusten skive har d_rligere friktion. 
-      Hvis man v_lger &quot;fremmede&quot; bremseklodser og bremseskiver har man ingen 
+      Hvis man v_lger "fremmede" bremseklodser og bremseskiver har man ingen 
       mulighed for at kontrollere, om delene er indbyrdes tilpasset. Resultatet 
       kan blive d_rligere bremsevirkning, for_get slitage, skrigende bremser, 
       _get risiko for fading o.s.v.<br>
       <br>
       (Fading = gasmolekyler, der medf_rer nedsat bremseeffekt).</p>
-      <p>&nbsp;</p>
+      <p></p>
       <p align="center"><img border="0" src="/volvooriginal/images/240-brakes01.jpg"></p>
       <br>
       <h3 align="left">Bremseskiver.</h3>
       <p align="left">Materialesammens_tningen i Volvos bremseskiver skyldes de valg, der er 
       gjort m.h.t. en r_kke faktorer s_som friktions-egenskaber, 
       rustmodslandsdygtighed, varmeledningsevne og utilb_jelighed til 
-      &quot;bremseskrig&quot;. Et h_jt grafitindhold sikrer en god varmeledningsevne og 
-      virker som et &quot;stumt&quot; materiale, der ikke skaber lydproblemer. Det store 
+      "bremseskrig". Et h_jt grafitindhold sikrer en god varmeledningsevne og 
+      virker som et "stumt" materiale, der ikke skaber lydproblemer. Det store 
       grafitindhold bevirker samtidig, at skiven holder l_ngere og modst_r 
       rustangreb bedre. Sammens_tningen af materialerne skal derfor afvejes 
       meget omhyggeligt. Det er tilf_ldet for Volvos originalskiver.</p>
@@ -194,7 +194,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

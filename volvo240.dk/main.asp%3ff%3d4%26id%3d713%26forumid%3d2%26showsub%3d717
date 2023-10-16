@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,13 +198,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=713"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=713"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-08-2003&nbsp; 20:17</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-08-2003 20:17</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har skiftet bremseskiver og klodser på forhjulene.<br>Når bremsepedalen trykkes ned, med motoren slukket, er pedalen hård ca. halvt nede. Men når motoren startes, går pedalen næsten helt i bund - på nær 1-2 cm.<br>Jeg har udskiftet hovedcylindren og alle 4 hjul er udluftet. Men det gav ingen bedring.<br>Kan det være bremseforstærkeren som er defekt?<br>Hvis det ikke er bremseforstærkeren, hvad kan det så være?<br><br>mvh<br>Torben</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har skiftet bremseskiver og klodser pÃ¥ forhjulene.<br>NÃ¥r bremsepedalen trykkes ned, med motoren slukket, er pedalen hÃ¥rd ca. halvt nede. Men nÃ¥r motoren startes, gÃ¥r pedalen nÃ¦sten helt i bund - pÃ¥ nÃ¦r 1-2 cm.<br>Jeg har udskiftet hovedcylindren og alle 4 hjul er udluftet. Men det gav ingen bedring.<br>Kan det vÃ¦re bremseforstÃ¦rkeren som er defekt?<br>Hvis det ikke er bremseforstÃ¦rkeren, hvad kan det sÃ¥ vÃ¦re?<br><br>mvh<br>Torben</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=713&ForumID=2&Showsub=732'>Re: Bremsepedal i bund</a> <em>(sebastian neumann, 11-08-2003 14:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=713&ForumID=2&Showsub=729'>Re: Bremsepedal i bund</a> <em>(sebastian neumann, 11-08-2003 14:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=713&ForumID=2&Showsub=727'>Re: Bremsepedal i bund</a> <em>(Torben Hansen, 11-08-2003 10:00)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=713&ForumID=2&Showsub=717'>Re: Bremsepedal i bund</a> <em>(sebastian neumann, 09-08-2003 11:50)</em></strong></font></li><br><font face=Verdana>Hej. <br><br>Hvordan har du udluftet systemet, jeg kan forstå du har brugt den måde beskrevet i et tidligere indlæg, men hvordan ellers, sugede du bremsevæsken ud, havde du en hjælper eller gjorde du det selv med hjælp af de systemer der tryksætter systemet ? <br><br>Noget jeg har fundet ud af er at hvis de forreste calipre vender omvendt ( ja det kan lade sig gøre - en af mine venner havde gjort det ) eller hvis de to rør til hovedcylinderen vender forkert, så er det stort set umuligt at få det udluftet. Har du fået den rigtige hovedcylinder, der er to forskellige en med rørtilslutning i højre og en i venstre side ? Er du sikker på at den nye hovedcylinder ikke er defekt ( det kan ske ) Var den gamle hovedcylinder defekt, ellers så prøv at smide den på igen, er alle rør spændt ? <br><br>Det var lige hvad jeg kunne komme på.<br><br>Mvh.<br>Sebastian</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=713&ForumID=2&Showsub=715'>Re: Bremsepedal i bund</a> <em>(Torben Hansen, 09-08-2003 09:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=713&ForumID=2&Showsub=714'>Re: Bremsepedal i bund</a> <em>(Michael Jensen, 08-08-2003 21:07)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=713&ForumID=2&Showsub=732'>Re: Bremsepedal i bund</a> <em>(sebastian neumann, 11-08-2003 14:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=713&ForumID=2&Showsub=729'>Re: Bremsepedal i bund</a> <em>(sebastian neumann, 11-08-2003 14:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=713&ForumID=2&Showsub=727'>Re: Bremsepedal i bund</a> <em>(Torben Hansen, 11-08-2003 10:00)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=713&ForumID=2&Showsub=717'>Re: Bremsepedal i bund</a> <em>(sebastian neumann, 09-08-2003 11:50)</em></strong></font></li><br><font face=Verdana>Hej. <br><br>Hvordan har du udluftet systemet, jeg kan forstÃ¥ du har brugt den mÃ¥de beskrevet i et tidligere indlÃ¦g, men hvordan ellers, sugede du bremsevÃ¦sken ud, havde du en hjÃ¦lper eller gjorde du det selv med hjÃ¦lp af de systemer der tryksÃ¦tter systemet ? <br><br>Noget jeg har fundet ud af er at hvis de forreste calipre vender omvendt ( ja det kan lade sig gÃ¸re - en af mine venner havde gjort det ) eller hvis de to rÃ¸r til hovedcylinderen vender forkert, sÃ¥ er det stort set umuligt at fÃ¥ det udluftet. Har du fÃ¥et den rigtige hovedcylinder, der er to forskellige en med rÃ¸rtilslutning i hÃ¸jre og en i venstre side ? Er du sikker pÃ¥ at den nye hovedcylinder ikke er defekt ( det kan ske ) Var den gamle hovedcylinder defekt, ellers sÃ¥ prÃ¸v at smide den pÃ¥ igen, er alle rÃ¸r spÃ¦ndt ? <br><br>Det var lige hvad jeg kunne komme pÃ¥.<br><br>Mvh.<br>Sebastian</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=713&ForumID=2&Showsub=715'>Re: Bremsepedal i bund</a> <em>(Torben Hansen, 09-08-2003 09:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=713&ForumID=2&Showsub=714'>Re: Bremsepedal i bund</a> <em>(Michael Jensen, 08-08-2003 21:07)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

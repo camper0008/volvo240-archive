@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=10"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=10&amp;MessageId=1940"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=10&MessageId=1940"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -217,7 +217,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">John K. Br&#248;ndbo</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">John K. BrÃ¸ndbo</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">22-06-2004&nbsp; 17:32</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">22-06-2004 17:32</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er Norsk, men håper dere skjønner hva som menes.<br><br>For en stund tilbake begynte girkassen(tror jeg iallefall) å oppføre seg unormalt. Min BW55 ville ikke låse seg i 3 giret. Turtallet bare økte uten noe form for fremdrift. Turtallet steg til det "nådde" 2 giret, og først da fikk jeg fremdrift. Dette i alle hastigheter. 1 og 2 giret fungerte greit. Jeg var avhengig av bilen, og ettersom det ikke er noe problem å kjøre i 80-90 over korte avstander i 2 giret gjorde jeg dette. Så skjedde det samme med 2 giret og jeg parkerte bilen.<br><br>Etter en del spm. fant jeg ut at det trolig var forskjellige pakninger i min BW55 som var øldelagt/slitte.<br>Jeg fant en overhalet BW55 som jeg kjøpte å satte inn i min 240, men har fortsatt store problemer. Den nye kassen fungerte fint en stund, men etter 15 min kjøring ble den også vanskelig. Den vil ikke låse i førstegiret, og ettehvert får jeg ingenting annet en økt turtall når jeg gir på. Nå tror jeg det kan være konvertern som svikter når oljen blir varm eller noe slikt.<br><br>Vedkommende som solgte meg girkassen skal se over den en gang til, men jeg vil ikke sette den inn igjen uten en ny konverter. <br><br>Det som står på Konverteren min er 5015JBD. Jeg håper noen kan hjelpe meg med å finne en ny, evnt. en måte å reparere den på. Har lett lenge nå, men uten hell.<br><br>Takk for et flott forum! Savner dette i Norge!</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er Norsk, men hÃ¥per dere skjÃ¸nner hva som menes.<br><br>For en stund tilbake begynte girkassen(tror jeg iallefall) Ã¥ oppfÃ¸re seg unormalt. Min BW55 ville ikke lÃ¥se seg i 3 giret. Turtallet bare Ã¸kte uten noe form for fremdrift. Turtallet steg til det "nÃ¥dde" 2 giret, og fÃ¸rst da fikk jeg fremdrift. Dette i alle hastigheter. 1 og 2 giret fungerte greit. Jeg var avhengig av bilen, og ettersom det ikke er noe problem Ã¥ kjÃ¸re i 80-90 over korte avstander i 2 giret gjorde jeg dette. SÃ¥ skjedde det samme med 2 giret og jeg parkerte bilen.<br><br>Etter en del spm. fant jeg ut at det trolig var forskjellige pakninger i min BW55 som var Ã¸ldelagt/slitte.<br>Jeg fant en overhalet BW55 som jeg kjÃ¸pte Ã¥ satte inn i min 240, men har fortsatt store problemer. Den nye kassen fungerte fint en stund, men etter 15 min kjÃ¸ring ble den ogsÃ¥ vanskelig. Den vil ikke lÃ¥se i fÃ¸rstegiret, og ettehvert fÃ¥r jeg ingenting annet en Ã¸kt turtall nÃ¥r jeg gir pÃ¥. NÃ¥ tror jeg det kan vÃ¦re konvertern som svikter nÃ¥r oljen blir varm eller noe slikt.<br><br>Vedkommende som solgte meg girkassen skal se over den en gang til, men jeg vil ikke sette den inn igjen uten en ny konverter. <br><br>Det som stÃ¥r pÃ¥ Konverteren min er 5015JBD. Jeg hÃ¥per noen kan hjelpe meg med Ã¥ finne en ny, evnt. en mÃ¥te Ã¥ reparere den pÃ¥. Har lett lenge nÃ¥, men uten hell.<br><br>Takk for et flott forum! Savner dette i Norge!</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1940&ForumID=10&Showsub=1961'>Re: Skifter Automatkasse BW55 - Problemer</a> <em>(Emil J., 28-06-2004 14:29)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1940&ForumID=10&Showsub=1959'>Re: Skifter Automatkasse BW55 - Problemer</a> <em>(John K. Br&#248;ndbo, 26-06-2004 17:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1940&ForumID=10&Showsub=1958'>Re: Skifter Automatkasse BW55 - Problemer</a> <em>(Emil J, 26-06-2004 14:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1940&ForumID=10&Showsub=1957'>Re: Skifter Automatkasse BW55 - Problemer</a> <em>(John Kjetil Br&#248;ndbo, 26-06-2004 02:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1940&ForumID=10&Showsub=1956'>Re: Skifter Automatkasse BW55 - Problemer</a> <em>(Emil J, 26-06-2004 01:22)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1940&ForumID=10&Showsub=1955'>Re: Skifter Automatkasse BW55 - Problemer</a> <em>(Emil J, 26-06-2004 01:03)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1940&ForumID=10&Showsub=1961'>Re: Skifter Automatkasse BW55 - Problemer</a> <em>(Emil J., 28-06-2004 14:29)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1940&ForumID=10&Showsub=1959'>Re: Skifter Automatkasse BW55 - Problemer</a> <em>(John K. BrÃ¸ndbo, 26-06-2004 17:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1940&ForumID=10&Showsub=1958'>Re: Skifter Automatkasse BW55 - Problemer</a> <em>(Emil J, 26-06-2004 14:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1940&ForumID=10&Showsub=1957'>Re: Skifter Automatkasse BW55 - Problemer</a> <em>(John Kjetil BrÃ¸ndbo, 26-06-2004 02:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1940&ForumID=10&Showsub=1956'>Re: Skifter Automatkasse BW55 - Problemer</a> <em>(Emil J, 26-06-2004 01:22)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1940&ForumID=10&Showsub=1955'>Re: Skifter Automatkasse BW55 - Problemer</a> <em>(Emil J, 26-06-2004 01:03)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">5</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">5</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-10-2013&nbsp; 22:36</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-10-2013 22:36</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej. <br>volvo245.1991.B230F<br>har fors_gt k_be alle 3 remme, men f_et forkerte hver gang hos <br>ikke-Volvo forhandlere. Servoremmen har _n st_rrelse, ventilatorrem en 2. st_rrelse, og remmen til vandpumpen en 3. st_rrelse? er det korrekt? 3 forskellige st_rrelser? dette skaber lidt forvirring hos H_jer/thansen<br><br>sidste ting: skal servopumpen Helt af f_r remmen kan monteres?<br><br>tak... Torben..</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 22-10-2013 07:11)</em></u></strong></font></li><br><font face=Verdana>Hej Torben<br>Volvo 240GL st. car. 1991, B230F<br>Volvoen har 2 remme der er lige lange (generator/vandpumpe/krumtap)<br>Og s_ har den _n rem der er lidt l_ngere end de andre 2 til Servopumpen som ikke skal helt af for at skifte rem.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 22-10-2013 16:44)</em></u></strong></font></li><br><font face=Verdana>Tak JP - ja for fx thansen/h_jer fort_ller, at der er 3 forskellige muligheder, men det er nu kommet et skkridt videre, da der ikke var airconforberedt p_ den, og fort_ller at pumpe skal l_snes endda noget for at skifte servorem</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 22-10-2013 19:08)</em></u></strong></font></li><br><font face=Verdana>Hej Torben<br>Ja, hvis der sidder en kompressor til AC monteret p_ beslaget som ogs_ har servopumpe, s_ er der en hel 3. st_rrelse rem, og den er endnu l_ngere, da den tr_kker b_de kompressor og servopumpe i den forreste remskive.<br>MVH Jens Peter</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 22-10-2013 07:11)</em></u></strong></font></li><br><font face=Verdana>Hej Torben<br>Volvo 240GL st. car. 1991, B230F<br>Volvoen har 2 remme der er lige lange (generator/vandpumpe/krumtap)<br>Og s_ har den _n rem der er lidt l_ngere end de andre 2 til Servopumpen som ikke skal helt af for at skifte rem.<br>MVH Jens Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 22-10-2013 16:44)</em></u></strong></font></li><br><font face=Verdana>Tak JP - ja for fx thansen/h_jer fort_ller, at der er 3 forskellige muligheder, men det er nu kommet et skkridt videre, da der ikke var airconforberedt p_ den, og fort_ller at pumpe skal l_snes endda noget for at skifte servorem</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 22-10-2013 19:08)</em></u></strong></font></li><br><font face=Verdana>Hej Torben<br>Ja, hvis der sidder en kompressor til AC monteret p_ beslaget som ogs_ har servopumpe, s_ er der en hel 3. st_rrelse rem, og den er endnu l_ngere, da den tr_kker b_de kompressor og servopumpe i den forreste remskive.<br>MVH Jens Peter</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

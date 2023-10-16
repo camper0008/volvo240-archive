@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-03-2014&nbsp; 19:30</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-03-2014 19:30</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><a href="http://www.carlift-ramp-mr1.com" target="_blank">www.carlift-ramp-mr1.com</a>/</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 12-03-2014 19:30)</em></u></strong></font></li><br><font face=Verdana>se ovenst_ende link</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Bjarne Warming, 12-03-2014 22:18)</em></u></strong></font></li><br><font face=Verdana>Hej Torben,<br>Sp_rgsm_let er om der er leverand_rer/forhandlere uden for UK.<br>Har du pr_vet at kontakte dem der hjemmesiden? <br>De skriver at du kan k_be den hos dem.<br>Citeret fra hjemmesiden:<br>--------<br>The MR1 Classic is from _795.00 ex-works, and _954.00 including UK value added tax (VAT) of 20&#37;.<br>The MR1 Modern is from _1095.00 ex-works, and _1314.00 including UK VAT of 20&#37;.<br>-----<br>How do I buy an MR1_ car lift? <br>E-mail <a href="mailto:carliftmike@gmail.com">carliftmike@gmail.com</a> with your name, post code and any questions. When you are happy, we&#39;ll send you an order form with a fixed price and an estimated delivery date. Payment may be made by cheque, bank transfer or credit card via <a href="http://www.PayPal.com" target="_blank">www.PayPal.com</a>.<br>Should you live outside the UK, please tell us, as we may have a solution for you too!<br>---------<br><br>MVH<br><br>Bjarne</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 13-03-2014 07:05)</em></u></strong></font></li><br><font face=Verdana>Jeg syntes det lyder meget dyrt for den smule jern,<br>Men hvis man ikke har plads til en lift...</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 14-03-2014 22:01)</em></u></strong></font></li><br><font face=Verdana><a href="http://www.ajengros.dk/shop/saxe-lift-1608p.html" target="_blank">http://www.ajengros.dk/shop/saxe-lift-1608p.html</a><br>Hvad med s_dan noget her istedet for?<br><br>mvh Kent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 17-03-2014 17:13)</em></u></strong></font></li><br><font face=Verdana>Der var engang i et "g_r det selv blad" en remp, kunne bygge i tr_, jeg har selv overvejet en 4-punkt lift med hjul p_ s_ man kan k_re den v_k, n_r man skal bruge gulvpladsen til noget andet. De lifte som Kent henviser til kan k_bes fra ca 7000,00kr andre steder<br>fortsat god dag Tommy</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 24-03-2014 00:17)</em></u></strong></font></li><br><font face=Verdana>Har denne weekend snakket med en smed - han vil lave en rampe til mig for 1000-1500kr og s_ skal jeg selv grunde den og male den.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 12-03-2014 19:30)</em></u></strong></font></li><br><font face=Verdana>se ovenst_ende link</font><br><li><font face=Verdana><strong><u>Re: - <em>(Bjarne Warming, 12-03-2014 22:18)</em></u></strong></font></li><br><font face=Verdana>Hej Torben,<br>Sp_rgsm_let er om der er leverand_rer/forhandlere uden for UK.<br>Har du pr_vet at kontakte dem der hjemmesiden? <br>De skriver at du kan k_be den hos dem.<br>Citeret fra hjemmesiden:<br>--------<br>The MR1 Classic is from _795.00 ex-works, and _954.00 including UK value added tax (VAT) of 20&#37;.<br>The MR1 Modern is from _1095.00 ex-works, and _1314.00 including UK VAT of 20&#37;.<br>-----<br>How do I buy an MR1_ car lift? <br>E-mail <a href="mailto:carliftmike@gmail.com">carliftmike@gmail.com</a> with your name, post code and any questions. When you are happy, we&#39;ll send you an order form with a fixed price and an estimated delivery date. Payment may be made by cheque, bank transfer or credit card via <a href="http://www.PayPal.com" target="_blank">www.PayPal.com</a>.<br>Should you live outside the UK, please tell us, as we may have a solution for you too!<br>---------<br><br>MVH<br><br>Bjarne</font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 13-03-2014 07:05)</em></u></strong></font></li><br><font face=Verdana>Jeg syntes det lyder meget dyrt for den smule jern,<br>Men hvis man ikke har plads til en lift...</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 14-03-2014 22:01)</em></u></strong></font></li><br><font face=Verdana><a href="http://www.ajengros.dk/shop/saxe-lift-1608p.html" target="_blank">http://www.ajengros.dk/shop/saxe-lift-1608p.html</a><br>Hvad med s_dan noget her istedet for?<br><br>mvh Kent</font><br><li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 17-03-2014 17:13)</em></u></strong></font></li><br><font face=Verdana>Der var engang i et "g_r det selv blad" en remp, kunne bygge i tr_, jeg har selv overvejet en 4-punkt lift med hjul p_ s_ man kan k_re den v_k, n_r man skal bruge gulvpladsen til noget andet. De lifte som Kent henviser til kan k_bes fra ca 7000,00kr andre steder<br>fortsat god dag Tommy</font><br><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 24-03-2014 00:17)</em></u></strong></font></li><br><font face=Verdana>Har denne weekend snakket med en smed - han vil lave en rampe til mig for 1000-1500kr og s_ skal jeg selv grunde den og male den.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

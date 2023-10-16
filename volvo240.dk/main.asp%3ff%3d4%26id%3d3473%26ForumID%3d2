@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-06-2009&nbsp; 14:08</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-06-2009 14:08</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">hj_lp mit soltag virker ikke,og jeg tror det regner ind i bilen.det kan kun vippes opaf,og kan ikke k_res tilbage?nogen der kender et godt v_rksted??m.v.h. kim.</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Per Braae Kristensen, 01-07-2009 17:46)</em></u></strong></font></li><br><font face=Verdana>Hvor bor du ?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Johan Jargil &#197;rman, 01-07-2009 22:21)</em></u></strong></font></li><br><font face=Verdana>hej.<br><br>Kan soltaget ikke k_re overhovedet?<br><br>S_ er det nok motoren, den er gal med. Du kan tage pladen over bakspejlet af og lukke taget manuelt med en skruetr_kker, hvis det er det, der er problemet.<br><br>Venlig hilsen<br><br>Johan</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kim, 03-07-2009 08:17)</em></u></strong></font></li><br><font face=Verdana>hey per,jeg bor i kbh..</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kim, 03-07-2009 08:23)</em></u></strong></font></li><br><font face=Verdana>hey johan,soltaget kan kun vippes en lille smule opaf,og ned igen.det kan ikke k_re ind under taget,s_ jeg ved ikke,om det er motoren,der er noget galt med,da det godt kan k_res en lille smule op og ned?? mvh kim...</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Johan Jargil &#197;rman, 03-07-2009 21:13)</em></u></strong></font></li><br><font face=Verdana>Hmmm. Det kan sikkert justeres, med mindre den er gal med en skinne eller andet. Det m_ ses p_.. Jeg bor i Kbh, men jeg har ikke tid f_r om en m_neds tid.<br><br>Venlig hilsen<br><br>Johan _rman</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kim, 05-07-2009 23:28)</em></u></strong></font></li><br><font face=Verdana>hey johan, vi tager den op igen,n_r tiden er inde..mvh.kim</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Per Braae Kristensen, 01-07-2009 17:46)</em></u></strong></font></li><br><font face=Verdana>Hvor bor du ?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Johan Jargil Årman, 01-07-2009 22:21)</em></u></strong></font></li><br><font face=Verdana>hej.<br><br>Kan soltaget ikke k_re overhovedet?<br><br>S_ er det nok motoren, den er gal med. Du kan tage pladen over bakspejlet af og lukke taget manuelt med en skruetr_kker, hvis det er det, der er problemet.<br><br>Venlig hilsen<br><br>Johan</font><br><li><font face=Verdana><strong><u>Re: - <em>(kim, 03-07-2009 08:17)</em></u></strong></font></li><br><font face=Verdana>hey per,jeg bor i kbh..</font><br><li><font face=Verdana><strong><u>Re: - <em>(kim, 03-07-2009 08:23)</em></u></strong></font></li><br><font face=Verdana>hey johan,soltaget kan kun vippes en lille smule opaf,og ned igen.det kan ikke k_re ind under taget,s_ jeg ved ikke,om det er motoren,der er noget galt med,da det godt kan k_res en lille smule op og ned?? mvh kim...</font><br><li><font face=Verdana><strong><u>Re: - <em>(Johan Jargil Årman, 03-07-2009 21:13)</em></u></strong></font></li><br><font face=Verdana>Hmmm. Det kan sikkert justeres, med mindre den er gal med en skinne eller andet. Det m_ ses p_.. Jeg bor i Kbh, men jeg har ikke tid f_r om en m_neds tid.<br><br>Venlig hilsen<br><br>Johan _rman</font><br><li><font face=Verdana><strong><u>Re: - <em>(kim, 05-07-2009 23:28)</em></u></strong></font></li><br><font face=Verdana>hey johan, vi tager den op igen,n_r tiden er inde..mvh.kim</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -267,7 +267,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">12</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">12</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

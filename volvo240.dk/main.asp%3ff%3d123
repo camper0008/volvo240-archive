@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Syn</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Syn</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -141,12 +141,12 @@ document.onmousedown=click;
     <th width="150" valign="top" align="left">Hvorn_r er n_ste periodiske syn?</th>
     <td width="810">Periodisk syn sker i henhold til bilens m_nedsdato, som normalt tager 
 udgangspunkt i bilens 1. registreringsdato. P_ registreringsattesten findes 
-feltet: &quot;Periodisk syn (anmeldt m_nedsdato)&quot;. Hvis der ikke er angivet en dato i 
+feltet: "Periodisk syn (anmeldt m_nedsdato)". Hvis der ikke er angivet en dato i 
 dette felt, er udgangspunktet bilens 1. registreringsdato, men hvis der er 
-angivet fx. &quot;15.09&quot;, skal bilen til syn med udgangspunkt i september m_ned. Hvis 
-der er angivet en godkendelsesdato: &quot;15.09.98&quot;, indkaldes bilen til syn alle 
+angivet fx. "15.09", skal bilen til syn med udgangspunkt i september m_ned. Hvis 
+der er angivet en godkendelsesdato: "15.09.98", indkaldes bilen til syn alle 
 lige _r omkring den 15. september. Hvis der p_ registreringsattesten ikke findes 
-en dato, der indeholder &quot;15.09&quot;, kan man ikke vide, om det periodiske syn falder 
+en dato, der indeholder "15.09", kan man ikke vide, om det periodiske syn falder 
 i et lige eller ulige _r.</td>
   </tr>
   <tr>
@@ -309,7 +309,7 @@ medbringes dokumentation for bilens registrering i udlandet.</p>
   </li>
   </ul>
 
-&nbsp;</td>
+</td>
   </tr>
     <th width="150" valign="top" align="left">
       <A href="" onclick="window.open( '/common/showwin.asp?fname=/diverse/syn/undervogn.htm&fTitle=Syn->Undervogn','','channelmode=no,height=320,width=630,location=no,menubar=no,resizable=no,scrollbars=yes,status=no,titlebar=yes,toolbar=no,dependent=yes'); &#13;&#10;&#9;return false">[Undervogn]</A>
@@ -358,7 +358,7 @@ medbringes dokumentation for bilens registrering i udlandet.</p>
     </ul>
     </li>
   </ul>
-&nbsp;</td>
+</td>
   </tr>
   <tr>
     <th width="150" valign="top" align="left">
@@ -446,7 +446,7 @@ medbringes dokumentation for bilens registrering i udlandet.</p>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

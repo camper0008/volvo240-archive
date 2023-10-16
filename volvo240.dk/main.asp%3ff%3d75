@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Reservedele</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Reservedele</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -146,7 +146,7 @@ document.onmousedown=click;
       Der findes originale Volvo reservedele, som er produceret hos samme fabrikant
       som ogs_ laver billigere dele til Volvo biler.<br>
       MEN fordi en producent producerer produkter som ligner de dele som produceres
-      til Volvo, er der ingen garanti for, at disse &quot;uoriginale&quot; dele
+      til Volvo, er der ingen garanti for, at disse "uoriginale" dele
       opfylder Volvos krav.<br>
       <br>
       <br>
@@ -171,7 +171,7 @@ document.onmousedown=click;
       for at opfylde samme h_je krav som Volvo stiller til originale dele? Nej vel,
       jeg har heller ikke h_rt om nogen.<br>
       Og hvis en uoriginal hjelm bliver sat p_, som deformerer anderledes en
-      forventet, hvordan reagerer s_ resten af bilen p_ denne &quot;forkerte&quot;
+      forventet, hvordan reagerer s_ resten af bilen p_ denne "forkerte"
       deformation? Hvem har den n_dvendige viden om bilens samlede reaktion p_ de
       enkelte dele foruden Volvo?<br>
       T_r du montere en uoriginal hjelm og k_rer en tur med dine b_rn i bilen?
@@ -222,7 +222,7 @@ document.onmousedown=click;
       Svaret er som oftest, at prisen p_ uoriginale dele er mindre end p_
       originale dele. Men p_ l_ngere sigt, viser det sig oftest, at
       prisforskellen ikke er s_rlig stor. Originale dele passer som de
-      skal og ofte holder de l_ngere.&nbsp;<br>
+      skal og ofte holder de l_ngere.<br>
       I visse tilf_lde, hvor prisen er afg_rende, vil jeg foretr_kke en brugt
       original del frem for en ny uoriginal.</p>
       <p>Som s_ mange andre, k_ber ogs_ jeg det billigste blandt 2 ens
@@ -276,7 +276,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

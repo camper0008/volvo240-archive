@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=2435"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2435"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Hvilke &quot;r&#229;varer&quot;</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Hvilke "råvarer"</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">26-11-2004&nbsp; 00:11</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">26-11-2004 00:11</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa Volvo-venner<br><br>Nu har jeg f_et skiftet den membran i kaburatoren, og den k_rer som en dr_m igen. Min k_reste og jeg skal snart p_ en meget lang biltur (1200 km) og jeg vil g_re vognen lidt klar. Jeg har skiftet div. filtre og olie osv. Nu er turen kommet til t_ndr_rene. BOSCH laver de der super4 r_r. Hva....  er det noget for min volvo (B230A) Jeg vil helst putte helt almindelige r_r i, men vil lige h_re hvad folket herinde mener. <br><br>Jeg var for _vrigt heldig forleden dag. Jeg fandt lige en tidlige bilhandler som havde 4 FABRIKSNYE 15" originale volvo aluf_lge til salg (dem med mange eger!) monteret med spritnye d_k (semperit) <br>Pris kr.: 3000,-  Jeg slog til med det samme. Han ville gemme dem til sig selv, men havde vist opgivet sin volvodr_m. Synd for ham og godt for mig.</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2435&ForumID=1&Showsub=2441'>Re: Hvilke &quot;r&#229;varer&quot;</a> <em>(Jesper Munksgaard, 26-11-2004 22:07)</em></strong></font></li><br><font face=Verdana>Hejsa Henrik.<br><br>Forleden dag da jeg var p_ bes_g ved volvo's reservedlsafdeling her i Esbjerg blev jeg anbefalet at putte syrefri symaskinolie i kaburatoren. En anden herre herinde bruger automatgear's olie.<br><br>Hvis du ikke har automatgear i din volvo har du jo nok ikke s_dan en olie liggende. Jeg bruger den syrefri til symaskiner, og det virker tip top.<br><br>Med venlig Hilsen<br><br>Jesper</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2435&ForumID=1&Showsub=2440'>Re: Hvilke &quot;r&#229;varer&quot;</a> <em>(Henrik Funk, 26-11-2004 21:24)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2435&ForumID=1&Showsub=2437'>Re: Hvilke &quot;r&#229;varer&quot;</a> <em>(malnitz, 26-11-2004 09:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2435&ForumID=1&Showsub=2436'>Re: Hvilke &quot;r&#229;varer&quot;</a> <em>(Emil J, 26-11-2004 03:57)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2435&ForumID=1&Showsub=2441'>Re: Hvilke "råvarer"</a> <em>(Jesper Munksgaard, 26-11-2004 22:07)</em></strong></font></li><br><font face=Verdana>Hejsa Henrik.<br><br>Forleden dag da jeg var p_ bes_g ved volvo's reservedlsafdeling her i Esbjerg blev jeg anbefalet at putte syrefri symaskinolie i kaburatoren. En anden herre herinde bruger automatgear's olie.<br><br>Hvis du ikke har automatgear i din volvo har du jo nok ikke s_dan en olie liggende. Jeg bruger den syrefri til symaskiner, og det virker tip top.<br><br>Med venlig Hilsen<br><br>Jesper</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2435&ForumID=1&Showsub=2440'>Re: Hvilke "råvarer"</a> <em>(Henrik Funk, 26-11-2004 21:24)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2435&ForumID=1&Showsub=2437'>Re: Hvilke "råvarer"</a> <em>(malnitz, 26-11-2004 09:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2435&ForumID=1&Showsub=2436'>Re: Hvilke "råvarer"</a> <em>(Emil J, 26-11-2004 03:57)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

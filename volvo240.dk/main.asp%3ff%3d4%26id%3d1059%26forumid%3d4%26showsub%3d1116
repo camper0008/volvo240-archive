@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=1059"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1059"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-12-2003&nbsp; 11:30</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-12-2003 11:30</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">er der nogen danske sider med styling til en volvo 240 ??<br>eller er det kun svenskere der g�r sig i s�dan noget.<br><br>MVH Claus</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1295'>Re: styling til en 240 .. hvor</a> <em>(Kent, 07-02-2004 22:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1286'>Re: styling til en 240 .. hvor</a> <em>(Thomsen, 04-02-2004 20:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1121'>Re: styling til en 240 .. hvor</a> <em>(Hans Boldt, 13-12-2003 17:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1117'>Re: styling til en 240 .. hvor</a> <em>(Sebastian Neumann, 12-12-2003 20:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1116'>Re: styling til en 240 .. hvor</a> <em>(Morten Ludager, 12-12-2003 13:20)</em></strong></font></li><br><font face=Verdana>Hej igen.<br>Jeg har lige v�ret inde og kigge p� Plast & Son's hjemmeside , og der st�r det komplette s�t godt nok til 4000 SEK, og er det ikke ca. 3200 DKR.? Uden jeg lige har kigget n�rmere p� det, ville man jo umiddelbart tro, det var billigere at f� det sendt herned, til billigere penge sammenlagt end hvad du vil ha for dit. Mener du stadig det skal koste 5000 kr.?</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1102'>Re: styling til en 240 .. hvor</a> <em>(Hans Boldt, 09-12-2003 18:51)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1084'>Re: styling til en 240 .. hvor</a> <em>(Morten Lundager, 08-12-2003 17:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1083'>Re: styling til en 240 .. hvor</a> <em>(Hans Boldt, 08-12-2003 14:20)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1077'>Re: styling til en 240 .. hvor</a> <em>(Finn Kruse, 07-12-2003 23:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1076'>Re: styling til en 240 .. hvor</a> <em>(ronnie, 06-12-2003 21:39)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1064'>Re: styling til en 240 .. hvor</a> <em>(Claus Madsen, 04-12-2003 17:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1060'>Re: styling til en 240 .. hvor</a> <em>(Simon D. Hansen, 04-12-2003 15:54)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1295'>Re: styling til en 240 .. hvor</a> <em>(Kent, 07-02-2004 22:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1286'>Re: styling til en 240 .. hvor</a> <em>(Thomsen, 04-02-2004 20:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1121'>Re: styling til en 240 .. hvor</a> <em>(Hans Boldt, 13-12-2003 17:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1117'>Re: styling til en 240 .. hvor</a> <em>(Sebastian Neumann, 12-12-2003 20:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1116'>Re: styling til en 240 .. hvor</a> <em>(Morten Ludager, 12-12-2003 13:20)</em></strong></font></li><br><font face=Verdana>Hej igen.<br>Jeg har lige v�ret inde og kigge p� Plast & Son's hjemmeside , og der st�r det komplette s�t godt nok til 4000 SEK, og er det ikke ca. 3200 DKR.? Uden jeg lige har kigget n�rmere p� det, ville man jo umiddelbart tro, det var billigere at f� det sendt herned, til billigere penge sammenlagt end hvad du vil ha for dit. Mener du stadig det skal koste 5000 kr.?</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1102'>Re: styling til en 240 .. hvor</a> <em>(Hans Boldt, 09-12-2003 18:51)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1084'>Re: styling til en 240 .. hvor</a> <em>(Morten Lundager, 08-12-2003 17:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1083'>Re: styling til en 240 .. hvor</a> <em>(Hans Boldt, 08-12-2003 14:20)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1077'>Re: styling til en 240 .. hvor</a> <em>(Finn Kruse, 07-12-2003 23:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1076'>Re: styling til en 240 .. hvor</a> <em>(ronnie, 06-12-2003 21:39)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1064'>Re: styling til en 240 .. hvor</a> <em>(Claus Madsen, 04-12-2003 17:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1059&ForumID=4&Showsub=1060'>Re: styling til en 240 .. hvor</a> <em>(Simon D. Hansen, 04-12-2003 15:54)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">52</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">52</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

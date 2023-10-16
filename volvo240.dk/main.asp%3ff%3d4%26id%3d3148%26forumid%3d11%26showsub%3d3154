@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -194,16 +194,16 @@ document.onmousedown=click;
 <table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
 <tbody>
   <tr>
-    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Bagtøj </font></strong></td>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: BagtÃ¸j </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Forum om <b>Bagtøj</b>. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Forum om <b>BagtÃ¸j</b>. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=11"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=11&amp;MessageId=3148"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=11&MessageId=3148"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-04-2005&nbsp; 10:57</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-04-2005 10:57</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">er der nogen der har prøvet at fjerne gummihuden i skærmkasserne/bunden.jeg vil ha givet min et nyt lag og søger derfor en nemmere løsning end at bruge en spartel.jeg har tænkt på at bruge en varmeblæser/hårtører.er der nogen der har prøvet lignende.</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">er der nogen der har prÃ¸vet at fjerne gummihuden i skÃ¦rmkasserne/bunden.jeg vil ha givet min et nyt lag og sÃ¸ger derfor en nemmere lÃ¸sning end at bruge en spartel.jeg har tÃ¦nkt pÃ¥ at bruge en varmeblÃ¦ser/hÃ¥rtÃ¸rer.er der nogen der har prÃ¸vet lignende.</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3148&ForumID=11&Showsub=3154'>Re: gummihud</a> <em>(Henrik L, 06-04-2005 11:18)</em></strong></font></li><br><font face=Verdana>Hej. Hvis jeg var dig, ville jeg prøve at få fat i servicehandbok, Volvo "reperation och underhåll" Avd 1(14) Karossunderhåll 240-260. Den fortæller alt om hvordan vi holder vores højt elskede volvoer rustfri. Et komplet sprøjtediagram og Arbejdsgang er beskrevet. Et stort arbejde. alternativt kan man måske få fat i et diagram fra pava, dinitrol eller lign. Jeg valgte at lade de professionelle gøre det på min. Men ved mindre reperationer er det guld værd. Ifølge Manualen skal skærmkasser først have et tyndt rustbeskyttelse og derefter et lag af den tykke. Begge dele dog tyndt nok til at blive sprøjtet på....</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3148&ForumID=11&Showsub=3149'>Re: gummihud</a> <em>(Thomas Jensen, 05-04-2005 13:39)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3148&ForumID=11&Showsub=3154'>Re: gummihud</a> <em>(Henrik L, 06-04-2005 11:18)</em></strong></font></li><br><font face=Verdana>Hej. Hvis jeg var dig, ville jeg prÃ¸ve at fÃ¥ fat i servicehandbok, Volvo "reperation och underhÃ¥ll" Avd 1(14) KarossunderhÃ¥ll 240-260. Den fortÃ¦ller alt om hvordan vi holder vores hÃ¸jt elskede volvoer rustfri. Et komplet sprÃ¸jtediagram og Arbejdsgang er beskrevet. Et stort arbejde. alternativt kan man mÃ¥ske fÃ¥ fat i et diagram fra pava, dinitrol eller lign. Jeg valgte at lade de professionelle gÃ¸re det pÃ¥ min. Men ved mindre reperationer er det guld vÃ¦rd. IfÃ¸lge Manualen skal skÃ¦rmkasser fÃ¸rst have et tyndt rustbeskyttelse og derefter et lag af den tykke. Begge dele dog tyndt nok til at blive sprÃ¸jtet pÃ¥....</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3148&ForumID=11&Showsub=3149'>Re: gummihud</a> <em>(Thomas Jensen, 05-04-2005 13:39)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">5</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">5</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

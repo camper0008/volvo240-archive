@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -201,7 +201,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Kristian Gr&#248;nbech</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Kristian Grønbech</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -209,7 +209,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-08-2013&nbsp; 07:56</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-08-2013 07:56</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er der nogen som vil dele deres erfaring omkring at lave svejse rep. p_ udst_dningssystemet ?<br><br>PFT.</font></td>
@@ -220,7 +220,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 12-08-2013 17:38)</em></u></strong></font></li><br><font face=Verdana>Hej Kristian, generelt vil jeg sige at det med at svejse p_ udst_dtning er altid kun en meget midlertidlig "l_sning". Man kan godt lige lukke et hul, men for det meste ruster en udst_dtning indfra udtil (kondensvand) eller de ruster i svejsninger. Det samme vil sker n_r man svejslapper, d.v.s. lige ved siden af svejses_m er det sv_ste sted som vil ruste igen vis det ikke efterbehandles. Det afh_nger ogs_ lidt hvor p_ afgassystemet skaden er! Taler vi om en rustfri udst_dtning er der ingen problem med at svejse, men de "sorte" ville jeg skifte vis vi taler om en st_rre rep. H_ber jeg kunne hj_lpe med svaret.<br>M.v.h.<br>Antonio</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 12-08-2013 22:25)</em></u></strong></font></li><br><font face=Verdana>Definer svejserep?<br>Mener du udskifte enkelte r_rdele og svejse dem sammen med det resterende system eller mener du svejse sm_ huller i en potte?</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 12-08-2013 17:38)</em></u></strong></font></li><br><font face=Verdana>Hej Kristian, generelt vil jeg sige at det med at svejse p_ udst_dtning er altid kun en meget midlertidlig "l_sning". Man kan godt lige lukke et hul, men for det meste ruster en udst_dtning indfra udtil (kondensvand) eller de ruster i svejsninger. Det samme vil sker n_r man svejslapper, d.v.s. lige ved siden af svejses_m er det sv_ste sted som vil ruste igen vis det ikke efterbehandles. Det afh_nger ogs_ lidt hvor p_ afgassystemet skaden er! Taler vi om en rustfri udst_dtning er der ingen problem med at svejse, men de "sorte" ville jeg skifte vis vi taler om en st_rre rep. H_ber jeg kunne hj_lpe med svaret.<br>M.v.h.<br>Antonio</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 12-08-2013 22:25)</em></u></strong></font></li><br><font face=Verdana>Definer svejserep?<br>Mener du udskifte enkelte r_rdele og svejse dem sammen med det resterende system eller mener du svejse sm_ huller i en potte?</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -229,7 +229,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">25</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">25</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

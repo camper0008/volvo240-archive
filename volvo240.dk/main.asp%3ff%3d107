@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Hastighedsberegning</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Hastighedsberegning</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -149,7 +149,7 @@ document.onmousedown=click;
 <option>13</option><option>14</option><option selected>15</option><option>16</option><option>17</option>
               </select>
             </td>
-            <td width='100'>&nbsp;</td>
+            <td width='100'></td>
           </tr>
           <tr>
             <td width='100'>Gearkasse:</td>
@@ -158,7 +158,7 @@ document.onmousedown=click;
 <option value='M40'>M40, manuel 4-trins</option><option value='M41'>M41, manuel 4 trins + overgear</option><option value='M45S'>M45, manuel 4-trins (spec.)</option><option value='M45L'>M45, manuel 4-trins (Lav 1.)</option><option value='M45H'>M45, manuel 4-trins (H_j 1.)</option><option value='M46L'>M46, manuel 4-trins (Lav 1.)</option><option value='M46H'>M46, manuel 4-trins (H_j 1.)</option><option value='M47' selected>M47, manuel 5-trins</option><option value='AW'>AW79/71, automatisk 4-trins (4. trin = el-overgear)</option><option value='BW35'>BW35, automatisk 3-trins</option><option value='BW55'>BW55, automatisk 3-trins</option>
               </select>
             </td>
-            <td width='100'>&nbsp;</td>
+            <td width='100'></td>
           </tr>
           <tr>
             <td width='100'>Bagt_j:</td>
@@ -170,12 +170,12 @@ document.onmousedown=click;
             <td width='100'><A href="" onclick="window.open( '/common/showwin.asp?fname=/diverse/speedhelp.asp&ftitle=Hj_lp til bagt_jsudveksling','','left=100,top=100,height=250,width=500,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false">[Hj_lp]</A></td>
           </tr>
           <tr>
-            <td width='100'>&nbsp;</td>
+            <td width='100'></td>
             <td width='550'>
               <input type='submit' value='Beregn' name='B1' tabindex='6'>
               <input type='reset' value='Nulstil' name='B2'>
             </td>
-            <td width='100'>&nbsp;</td>
+            <td width='100'></td>
            </tr>
         </table>
       </form>
@@ -208,7 +208,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

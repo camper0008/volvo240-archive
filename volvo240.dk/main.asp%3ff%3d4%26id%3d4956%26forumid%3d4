@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">22-10-2014&nbsp; 08:04</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">22-10-2014 08:04</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg er den glade ejer af 2 Volvo 240GL fra henholdsveis 1987 og 1990.<br>Selvom de tilsyneladende er identiske er de angivet med forskellig egenv_gt i Motorregistret. 1325 kg (1987) og 1225 (1990). <br><br>Jeg har forg_ves s_gt at f_ fat p_ typegodkendelserne for at se om der er tale om en fejlregistrering eller om der er en v_gtforskel. <br>Da v_gtafgiften skiller ved 1300 kg har det en betydning.<br><br>Hvis der nogen der kan hj_lpe mig med at f_ den dokumenterede v_gt for Volvo 240GL sedan fra 1987 vil jeg blive meget glad.<br>mvh Mogens</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 22-10-2014 08:48)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Egenv_gten afh_nger af modellen og m_ngden af udstyr. <br>Der findes kun 2 tilg_ngelige typegodkendelser til Volvo 240.<br><br>Den ene er g_ldende for Volvo 244 _rgang 1991 med angivet egenv_gt p_ 1225 kg for B200 og 1250 kg for B230.<br>Den anden er g_ldende for Volvo 245 _rgang 1991 med angivet egenv_gt p_ 1275 kg for B200 og 1300 kg for B230.<br><br>Hilsen Christian<br><br>P.S.: Nu ved jeg godt, at Jens Peter Jensen straks vil fare i bl_khuset og endnu engang pr_ve at overbevise mig om, at typerne 244 og 245 ikke findes i _rgang 1991. Men det st_r alts_ i typegodkendelserne, som VOLVO har s_gt om og f_et udstedt af Trafikstyrelsen onsdag 6. marts 1991.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Mogens Kischinovsky, 22-10-2014 09:02)</em></u></strong></font></li><br><font face=Verdana>Hej Christian. Tak for svaret, men hvordan finder jeg s_ egenv_gten p_ mit eksemplar fra 1987?<br>Mvh<br>Mogens</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Mogens Kischinovsky, 22-10-2014 09:11)</em></u></strong></font></li><br><font face=Verdana>Jeg kan tilf_je, at jeg i motorregistret har fundet en identisk Volvo fra samme _rgang med en egenv_gt registreret som 1225 kg-<br>Mvh<br>Mogens</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Mogens Kischinovsky, 22-10-2014 11:47)</em></u></strong></font></li><br><font face=Verdana>Problemet er l_st. Volvo har bekr_ftet, at bilens egenv_gt er som jeg formodede. Der m_ v_re sket en fejl i forbindelse med registreringen i motorregistret.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 22-10-2014 08:48)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Egenv_gten afh_nger af modellen og m_ngden af udstyr. <br>Der findes kun 2 tilg_ngelige typegodkendelser til Volvo 240.<br><br>Den ene er g_ldende for Volvo 244 _rgang 1991 med angivet egenv_gt p_ 1225 kg for B200 og 1250 kg for B230.<br>Den anden er g_ldende for Volvo 245 _rgang 1991 med angivet egenv_gt p_ 1275 kg for B200 og 1300 kg for B230.<br><br>Hilsen Christian<br><br>P.S.: Nu ved jeg godt, at Jens Peter Jensen straks vil fare i bl_khuset og endnu engang pr_ve at overbevise mig om, at typerne 244 og 245 ikke findes i _rgang 1991. Men det st_r alts_ i typegodkendelserne, som VOLVO har s_gt om og f_et udstedt af Trafikstyrelsen onsdag 6. marts 1991.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Mogens Kischinovsky, 22-10-2014 09:02)</em></u></strong></font></li><br><font face=Verdana>Hej Christian. Tak for svaret, men hvordan finder jeg s_ egenv_gten p_ mit eksemplar fra 1987?<br>Mvh<br>Mogens</font><br><li><font face=Verdana><strong><u>Re: - <em>(Mogens Kischinovsky, 22-10-2014 09:11)</em></u></strong></font></li><br><font face=Verdana>Jeg kan tilf_je, at jeg i motorregistret har fundet en identisk Volvo fra samme _rgang med en egenv_gt registreret som 1225 kg-<br>Mvh<br>Mogens</font><br><li><font face=Verdana><strong><u>Re: - <em>(Mogens Kischinovsky, 22-10-2014 11:47)</em></u></strong></font></li><br><font face=Verdana>Problemet er l_st. Volvo har bekr_ftet, at bilens egenv_gt er som jeg formodede. Der m_ v_re sket en fejl i forbindelse med registreringen i motorregistret.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

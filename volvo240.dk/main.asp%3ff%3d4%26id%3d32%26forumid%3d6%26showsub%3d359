@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="Søg" name="B1">
       </form>
     </td>
   </tr>
@@ -194,8 +194,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=6"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=6&amp;MessageId=32"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=6&MessageId=32"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -216,16 +216,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-09-2002&nbsp; 10:48</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-09-2002 10:48</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Fint indl&#230;g om originale contra uoriginale dele til Volvo. <br>Jeg kan se p&#229; billederne af din egen bil at du k&#248;rer p&#229; UORIGINALE f&#230;lge. Volvo har jo strenge krav til styrke og holdbarhed, og det g&#230;lder ogs&#229; deres alu-f&#230;lge.<br>Du er jo tilh&#230;nger af brugen af originale dele, s&#229; hvordan kan det v&#230;re du k&#248;rer p&#229; UORIGINALE f&#230;lge ?<br>Hvad er din erfaring med UORIGINALE f&#230;lge ?<br><br>mvh<br><br>Jes</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Fint indlæg om originale contra uoriginale dele til Volvo. <br>Jeg kan se på billederne af din egen bil at du kører på UORIGINALE fælge. Volvo har jo strenge krav til styrke og holdbarhed, og det gælder også deres alu-fælge.<br>Du er jo tilhænger af brugen af originale dele, så hvordan kan det være du kører på UORIGINALE fælge ?<br>Hvad er din erfaring med UORIGINALE fælge ?<br><br>mvh<br><br>Jes</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=32&ForumID=6&Showsub=452'>Re: Reservedele</a> <em>(Hans Martin Lotzfeldt, 23-05-2003 11:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=32&ForumID=6&Showsub=361'>Re: Reservedele</a> <em>(Morten, 26-04-2003 17:20)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=32&ForumID=6&Showsub=359'>Re: Reservedele</a> <em>(Jan Lassen, 26-04-2003 15:32)</em></strong></font></li><br><font face=Verdana>Hvorvidt Volvo selv fremstiller deres f&#230;lg eller ej, skal jeg lade v&#230;re usagt, - jeg ved det ikke. Men en ting ved jeg, og det er at man skal v&#230;re kritisk ved k&#248;b af f&#230;lge. Bare fordi at hullerne passer p&#229; Volvo'en, er jo ikke ensbetydende med at f&#230;lgen er bygget til at sidde p&#229; en Volvo, og dermed er det ikke sikkert at f&#230;lgende overholder de normer som der er sat for at bremserne f&#229;r den n&#248;dvendige ventilation. <br>Det er nok sj&#230;ldent at man i Danmark er udsat for at nedk&#248;lingen af bremserne er utilstr&#230;kkelig, uanset valg af f&#230;lg. Men jeg vil n&#248;dig k&#248;re p&#229; ferie - med campingvogn, til et bjergrigt omr&#229;de, hvor jeg ikke er sikker p&#229; at den f&#230;lg der sidder p&#229; bilen kan skabe den n&#248;dvendige k&#248;ling.<br>En andet sted hvor jeg heller ikke vil spare, er oliefiltret. Der findes et utal af oliefiltre p&#229; markedet, men de er ikke alle lige gode. Uanset hvad jeg har pr&#248;vet, er jeg altid vendt tilbage til de filtre jeg kan k&#248;be hos Volvo, da disse er de eneste der giver de rette olieflow i motoren. Det jeg normalt har oplevet er, at olietrykket er steget, som regel mellem en halv og en hel bar, hvilket som regel skyldes at gennemstr&#248;mningen i filteret ikke er tilstr&#230;kkelig stor. En gang har jeg v&#230;ret ude for at trykket steg s&#229; meget at motoren begyndte at presse olien ud igennem pakd&#229;serne. En anden ting er at ved at k&#248;re med et &quot;rigtigt&quot; filter, er olietemperaturen som regel omkring 15 grader lavere ved k&#248;rsel p&#229; motorvej, og da jeg dagligt k&#248;rer omkring 90 km p&#229; motorvej, er det ret v&#230;sentligt for netop min motor.<br>Men ingen regler uden undtagelser, og jeg har ingen problemer med at k&#248;be uoriginalt, n&#229;r det drejer sig om dele som f.eks. t&#230;ndingsdele, forhjulslejer m.m. da disse mange gange kan k&#248;bes til en fjerdedel af hvad Volvo tager for dem, og uden at der er nogen n&#230;vnev&#230;rdig forskel i levetiden p&#229; stumperne.<br><br>Jan Lassen<br>244 DL &#180;83 - 490.000 km</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=32&ForumID=6&Showsub=358'>Re: Reservedele</a> <em>(Morten, 26-04-2003 01:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=32&ForumID=6&Showsub=33'>Re: Reservedele</a> <em>(Finn Kruse, 21-09-2002 15:12)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=32&ForumID=6&Showsub=452'>Re: Reservedele</a> <em>(Hans Martin Lotzfeldt, 23-05-2003 11:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=32&ForumID=6&Showsub=361'>Re: Reservedele</a> <em>(Morten, 26-04-2003 17:20)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=32&ForumID=6&Showsub=359'>Re: Reservedele</a> <em>(Jan Lassen, 26-04-2003 15:32)</em></strong></font></li><br><font face=Verdana>Hvorvidt Volvo selv fremstiller deres fælg eller ej, skal jeg lade være usagt, - jeg ved det ikke. Men en ting ved jeg, og det er at man skal være kritisk ved køb af fælge. Bare fordi at hullerne passer på Volvo'en, er jo ikke ensbetydende med at fælgen er bygget til at sidde på en Volvo, og dermed er det ikke sikkert at fælgende overholder de normer som der er sat for at bremserne får den nødvendige ventilation. <br>Det er nok sjældent at man i Danmark er udsat for at nedkølingen af bremserne er utilstrækkelig, uanset valg af fælg. Men jeg vil nødig køre på ferie - med campingvogn, til et bjergrigt område, hvor jeg ikke er sikker på at den fælg der sidder på bilen kan skabe den nødvendige køling.<br>En andet sted hvor jeg heller ikke vil spare, er oliefiltret. Der findes et utal af oliefiltre på markedet, men de er ikke alle lige gode. Uanset hvad jeg har prøvet, er jeg altid vendt tilbage til de filtre jeg kan købe hos Volvo, da disse er de eneste der giver de rette olieflow i motoren. Det jeg normalt har oplevet er, at olietrykket er steget, som regel mellem en halv og en hel bar, hvilket som regel skyldes at gennemstrømningen i filteret ikke er tilstrækkelig stor. En gang har jeg været ude for at trykket steg så meget at motoren begyndte at presse olien ud igennem pakdåserne. En anden ting er at ved at køre med et "rigtigt" filter, er olietemperaturen som regel omkring 15 grader lavere ved kørsel på motorvej, og da jeg dagligt kører omkring 90 km på motorvej, er det ret væsentligt for netop min motor.<br>Men ingen regler uden undtagelser, og jeg har ingen problemer med at købe uoriginalt, når det drejer sig om dele som f.eks. tændingsdele, forhjulslejer m.m. da disse mange gange kan købes til en fjerdedel af hvad Volvo tager for dem, og uden at der er nogen nævneværdig forskel i levetiden på stumperne.<br><br>Jan Lassen<br>244 DL &#180;83 - 490.000 km</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=32&ForumID=6&Showsub=358'>Re: Reservedele</a> <em>(Morten, 26-04-2003 01:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=32&ForumID=6&Showsub=33'>Re: Reservedele</a> <em>(Finn Kruse, 21-09-2002 15:12)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -244,7 +244,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -253,9 +253,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">4</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">4</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

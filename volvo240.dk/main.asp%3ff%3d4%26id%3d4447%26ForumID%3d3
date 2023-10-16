@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -222,7 +222,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">23-09-2011&nbsp; 21:48</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">23-09-2011 21:48</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Alle jeg s_ger en 240 st car synet og i ok stand helst _rgang 90 til 93, til nogen af mine venner, budget max 14.000 kr og jeg ved godt dette ikke er det rigtige sted men jeg kunne ikke f_ k_b/salg siden til at virke den kom op med fejl<br>mvh <br>Anders</font></td>
@@ -233,7 +233,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 23-09-2011 22:32)</em></u></strong></font></li><br><font face=Verdana>Pr_v og kikke under k_b og salg eller p_ DBA, GogG, det skulle ikke v_re umuligt at finde, nu kan jeg ikke se, hvor i landet du/I bor<br>fortsat god weekend<br>Tommy</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 26-09-2011 10:00)</em></u></strong></font></li><br><font face=Verdana>hej nu ved jeg hvor du bor, men her er en ogden er nusynet<br><a href="http://www.dba.dk/volvo-240-23-gl-stcar-1992/id-77836068" target="_blank">http://www.dba.dk/volvo-240-23-gl-stcar-1992/id-77836068</a>/<br>vh</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(kasper juul paulsen, 26-09-2011 19:51)</em></u></strong></font></li><br><font face=Verdana>jeg har en der er billigere den er g_et gennem syn i februar eneste anm_rkning var at foruden skulle skiftes. den er ikke k_n har buler, men k_rer godt...<br><br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Anders Lindgaard Hansen, 26-09-2011 20:28)</em></u></strong></font></li><br><font face=Verdana>Hej Tommy<br>Ja den ser meget godt ud og prisen er som s_dan ok kan m_ske handles lidt ned den har jo et par km p_ bagen men ellers flot ud fra billederne og skulle det g_ galt kan jeg nok finde en motor her i jylland :-)<br>Anders<br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 23-09-2011 22:32)</em></u></strong></font></li><br><font face=Verdana>Pr_v og kikke under k_b og salg eller p_ DBA, GogG, det skulle ikke v_re umuligt at finde, nu kan jeg ikke se, hvor i landet du/I bor<br>fortsat god weekend<br>Tommy</font><br><li><font face=Verdana><strong><u>Re: - <em>(Tommy Hansen, 26-09-2011 10:00)</em></u></strong></font></li><br><font face=Verdana>hej nu ved jeg hvor du bor, men her er en ogden er nusynet<br><a href="http://www.dba.dk/volvo-240-23-gl-stcar-1992/id-77836068" target="_blank">http://www.dba.dk/volvo-240-23-gl-stcar-1992/id-77836068</a>/<br>vh</font><br><li><font face=Verdana><strong><u>Re: - <em>(kasper juul paulsen, 26-09-2011 19:51)</em></u></strong></font></li><br><font face=Verdana>jeg har en der er billigere den er g_et gennem syn i februar eneste anm_rkning var at foruden skulle skiftes. den er ikke k_n har buler, men k_rer godt...<br><br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Anders Lindgaard Hansen, 26-09-2011 20:28)</em></u></strong></font></li><br><font face=Verdana>Hej Tommy<br>Ja den ser meget godt ud og prisen er som s_dan ok kan m_ske handles lidt ned den har jo et par km p_ bagen men ellers flot ud fra billederne og skulle det g_ galt kan jeg nok finde en motor her i jylland :-)<br>Anders<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -242,7 +242,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -266,7 +266,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=2836"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2836"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-02-2005&nbsp; 22:25</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-02-2005 22:25</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Her til morgen gik min toppakning sig en tur, den finest hvid farve.<br>mit spørgsmål er: er det stræk bolte der holder topstykket eller kan de bruges igen ?<br><br>Mvh<br>Henning</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Her til morgen gik min toppakning sig en tur, den finest hvid farve.<br>mit spÃ¸rgsmÃ¥l er: er det strÃ¦k bolte der holder topstykket eller kan de bruges igen ?<br><br>Mvh<br>Henning</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2836&ForumID=1&Showsub=2867'>Re: Toppakning.....puf...B21ET</a> <em>(Morten Vig, 13-02-2005 13:39)</em></strong></font></li><br><font face=Verdana>Det er stadig ikke strækbolte der ikke kan genbruges. Denne type findes ikke i en 240 motor.<br>Bare fordi man spænder dem med et lavt moment, og derefter gradspænder, gør dem ikke til strækbolte,.<br>Men det er et forsøg fra fabrikkens side at få boltene spændt optimalt første gang uanset om de er ordentlig renset, eller der er brugt den rigtige olie.<br>Og derfor ingen efterspænding. <br>Den moderne type bolt kan genbruges op til 5 gange eller til den bliver for lang, det sidst nævnte er det vigtigste, men Haynes nævner intet om maks længden.<br>En stræk bolt er pr diffinikation en bolt der bliver spændt så hårdt at metallet har nået flydegrænsen, ved første tilspænding, og kan derfor ikke genbruges, da den er strukket så langt at den ikke kan genskabe sin originale længde i fri luft.<br><br>MVH<br><br>Morten<br></font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2836&ForumID=1&Showsub=2866'>Re: Toppakning.....puf...B21ET</a> <em>(Henning, 13-02-2005 13:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2836&ForumID=1&Showsub=2855'>Re: Toppakning.....puf...B21ET</a> <em>(Morten Vig, 12-02-2005 21:08)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2836&ForumID=1&Showsub=2842'>Re: Toppakning.....puf...B21ET</a> <em>(Thomas jensen, 11-02-2005 18:00)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2836&ForumID=1&Showsub=2867'>Re: Toppakning.....puf...B21ET</a> <em>(Morten Vig, 13-02-2005 13:39)</em></strong></font></li><br><font face=Verdana>Det er stadig ikke strÃ¦kbolte der ikke kan genbruges. Denne type findes ikke i en 240 motor.<br>Bare fordi man spÃ¦nder dem med et lavt moment, og derefter gradspÃ¦nder, gÃ¸r dem ikke til strÃ¦kbolte,.<br>Men det er et forsÃ¸g fra fabrikkens side at fÃ¥ boltene spÃ¦ndt optimalt fÃ¸rste gang uanset om de er ordentlig renset, eller der er brugt den rigtige olie.<br>Og derfor ingen efterspÃ¦nding. <br>Den moderne type bolt kan genbruges op til 5 gange eller til den bliver for lang, det sidst nÃ¦vnte er det vigtigste, men Haynes nÃ¦vner intet om maks lÃ¦ngden.<br>En strÃ¦k bolt er pr diffinikation en bolt der bliver spÃ¦ndt sÃ¥ hÃ¥rdt at metallet har nÃ¥et flydegrÃ¦nsen, ved fÃ¸rste tilspÃ¦nding, og kan derfor ikke genbruges, da den er strukket sÃ¥ langt at den ikke kan genskabe sin originale lÃ¦ngde i fri luft.<br><br>MVH<br><br>Morten<br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2836&ForumID=1&Showsub=2866'>Re: Toppakning.....puf...B21ET</a> <em>(Henning, 13-02-2005 13:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2836&ForumID=1&Showsub=2855'>Re: Toppakning.....puf...B21ET</a> <em>(Morten Vig, 12-02-2005 21:08)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2836&ForumID=1&Showsub=2842'>Re: Toppakning.....puf...B21ET</a> <em>(Thomas jensen, 11-02-2005 18:00)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">9</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">9</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

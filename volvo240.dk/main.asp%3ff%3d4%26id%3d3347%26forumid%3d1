@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S¯g" name="B1">&nbsp;
+        <input type="submit" value="S√∏g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=3347"><font face="Verdana">Besvar indlÊg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=3347"><font face="Verdana">Besvar indl√¶g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Viscosebl&#230;serproblemer</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Viscosebl√¶serproblemer</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-05-2005&nbsp; 20:34</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-05-2005 20:34</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Kan man justere en blÊser til at virke noget f¯r?  Min gÂr f¯rst i gang lige f¯r det hele koger, og jeg har automatgear m. oliek¯ler i k¯leren, og en campingvogn pÂ 1200 kg, sÂ engang imellem sidder jeg pÂ nÂle op af Ejer Bauneh¯j og inde i byerne. Holder jeg mig under "kogepunktet"? Min olie i gearkassen har jeg fÂet gennemkogt en gang. Da gik gassen af Gertrud, men da "gurgleriet - kogeriet" holdt op, sÂ gi det igen fremad over stok og sten, for fremad det vil de gamle Volvoer uanset.<br>Er der en, der har et rÂd eller een med garanti OK blÊser? <br><br>VolvoprÊsten i Hjarup<br><br>Niels Peder</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Kan man justere en bl√¶ser til at virke noget f√∏r?  Min g√•r f√∏rst i gang lige f√∏r det hele koger, og jeg har automatgear m. oliek√∏ler i k√∏leren, og en campingvogn p√• 1200 kg, s√• engang imellem sidder jeg p√• n√•le op af Ejer Bauneh√∏j og inde i byerne. Holder jeg mig under "kogepunktet"? Min olie i gearkassen har jeg f√•et gennemkogt en gang. Da gik gassen af Gertrud, men da "gurgleriet - kogeriet" holdt op, s√• gi det igen fremad over stok og sten, for fremad det vil de gamle Volvoer uanset.<br>Er der en, der har et r√•d eller een med garanti OK bl√¶ser? <br><br>Volvopr√¶sten i Hjarup<br><br>Niels Peder</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3381'>Re: Viscosebl&#230;serproblemer</a> <em>(Morten Vig, 08-05-2005 18:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3379'>Re: Viscosebl&#230;serproblemer</a> <em>(michael jensen, 08-05-2005 18:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3375'>Re: Viscosebl&#230;serproblemer</a> <em>(Morten Vig, 08-05-2005 16:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3373'>Re: Viscosebl&#230;serproblemer</a> <em>(Emil J, 08-05-2005 13:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3372'>Re: Viscosebl&#230;serproblemer</a> <em>(michael jensen, 08-05-2005 13:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3371'>Re: Viscosebl&#230;serproblemer</a> <em>(Morten Vig, 08-05-2005 13:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3370'>Re: Viscosebl&#230;serproblemer</a> <em>(michael jensen, 08-05-2005 10:11)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3368'>Re: Viscosebl&#230;serproblemer</a> <em>(Morten Vig, 08-05-2005 07:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3364'>Re: Viscosebl&#230;serproblemer</a> <em>(Jens Peter Jensen, 07-05-2005 21:00)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3351'>Re: Viscosebl&#230;serproblemer</a> <em>(Niels Peder Nielsen, 06-05-2005 21:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3348'>Re: Viscosebl&#230;serproblemer</a> <em>(michael jensen, 06-05-2005 21:00)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3381'>Re: Viscosebl√¶serproblemer</a> <em>(Morten Vig, 08-05-2005 18:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3379'>Re: Viscosebl√¶serproblemer</a> <em>(michael jensen, 08-05-2005 18:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3375'>Re: Viscosebl√¶serproblemer</a> <em>(Morten Vig, 08-05-2005 16:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3373'>Re: Viscosebl√¶serproblemer</a> <em>(Emil J, 08-05-2005 13:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3372'>Re: Viscosebl√¶serproblemer</a> <em>(michael jensen, 08-05-2005 13:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3371'>Re: Viscosebl√¶serproblemer</a> <em>(Morten Vig, 08-05-2005 13:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3370'>Re: Viscosebl√¶serproblemer</a> <em>(michael jensen, 08-05-2005 10:11)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3368'>Re: Viscosebl√¶serproblemer</a> <em>(Morten Vig, 08-05-2005 07:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3364'>Re: Viscosebl√¶serproblemer</a> <em>(Jens Peter Jensen, 07-05-2005 21:00)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3351'>Re: Viscosebl√¶serproblemer</a> <em>(Niels Peder Nielsen, 06-05-2005 21:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3347&ForumID=1&Showsub=3348'>Re: Viscosebl√¶serproblemer</a> <em>(michael jensen, 06-05-2005 21:00)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf¯j til foretrukne">F¯j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf√∏j til foretrukne">F√∏j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">48</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">48</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=328"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=328"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>KM-t&#230;ller + trip, k&#248;re ikke ??</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>KM-tÃ¦ller + trip, kÃ¸re ikke ??</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-04-2003&nbsp; 16:21</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-04-2003 16:21</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Jeg er den lykkelige ejer af en Vilvo 245 fra 89, men den driller lidt.... desværre.... :-)<br><br>Der var fejl i en del pære og løse forbindelser, hvilket medførte at "lampefejl" blinkede eller lyste næsten konstant.<br>Det er ordnet nu, og alt er helt i orden. :-)<br><br>Så kom jeg til næste problem, nemlig at der ikke var en eneste pære i instrumenteringen (udover advarselslamperne) der fungerede.<br><br>Jeg tænkte at det var potmetret til sænkning af lysstyrken der var defekt, men nej, det fungerede fint, og ser nyt ud.<br><br>Så tog jeg instrumentbrættet ud, og målte på lamperne, og rigtig nok, så er de brændt over.... Nå, men da det er helligdag, kan jeg ikke få fat i nogle nye, så jeg satte det hele sammen igen, og jeg har afprøvet alt, men km- og trip-tællerne køre ikke mere, spedometret køre dog fint.<br>(Det er vel ikke nødvendigt at sige at det er elektronisk ??, det er det sikkert på alle modellerne af den årgang....)<br>Hvad kan der mon være gået galt ??<br>Jeg får heller ikke lov til at montere den rød/hvide ledning bag på instrumentbrættet (den til lyssænkning) i dobbelt-spaden, der sker et eller andet, der får spedometert til at slå ud, hvis jeg prøver...<br><br>Jeg vil blive meget glad for at få lidt hjælp med at løse dette, men instrumentet er jo sikkert brændt af ??<br><br>Mvh.<br>Peter</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Jeg er den lykkelige ejer af en Vilvo 245 fra 89, men den driller lidt.... desvÃ¦rre.... :-)<br><br>Der var fejl i en del pÃ¦re og lÃ¸se forbindelser, hvilket medfÃ¸rte at "lampefejl" blinkede eller lyste nÃ¦sten konstant.<br>Det er ordnet nu, og alt er helt i orden. :-)<br><br>SÃ¥ kom jeg til nÃ¦ste problem, nemlig at der ikke var en eneste pÃ¦re i instrumenteringen (udover advarselslamperne) der fungerede.<br><br>Jeg tÃ¦nkte at det var potmetret til sÃ¦nkning af lysstyrken der var defekt, men nej, det fungerede fint, og ser nyt ud.<br><br>SÃ¥ tog jeg instrumentbrÃ¦ttet ud, og mÃ¥lte pÃ¥ lamperne, og rigtig nok, sÃ¥ er de brÃ¦ndt over.... NÃ¥, men da det er helligdag, kan jeg ikke fÃ¥ fat i nogle nye, sÃ¥ jeg satte det hele sammen igen, og jeg har afprÃ¸vet alt, men km- og trip-tÃ¦llerne kÃ¸re ikke mere, spedometret kÃ¸re dog fint.<br>(Det er vel ikke nÃ¸dvendigt at sige at det er elektronisk ??, det er det sikkert pÃ¥ alle modellerne af den Ã¥rgang....)<br>Hvad kan der mon vÃ¦re gÃ¥et galt ??<br>Jeg fÃ¥r heller ikke lov til at montere den rÃ¸d/hvide ledning bag pÃ¥ instrumentbrÃ¦ttet (den til lyssÃ¦nkning) i dobbelt-spaden, der sker et eller andet, der fÃ¥r spedometert til at slÃ¥ ud, hvis jeg prÃ¸ver...<br><br>Jeg vil blive meget glad for at fÃ¥ lidt hjÃ¦lp med at lÃ¸se dette, men instrumentet er jo sikkert brÃ¦ndt af ??<br><br>Mvh.<br>Peter</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=328&ForumID=2&Showsub=331'>Re: KM-t&#230;ller + trip, k&#248;re ikke ??</a> <em>(Peter, 18-04-2003 17:49)</em></strong></font></li><br><font face=Verdana>Tak for info....<br>Ja det ser ud som om du har ret i at det var en omdrejningstæller-ledning jeg havde fået fat i.... :-(<br><br>Så nu er tælleren desværre død, det er en IC der hedder ITT UAF 2115, og det sjove er egentlig at spedometret stadig fungere som det skal, men det gør trip- og KM- tælleren ikke.....<br><br>Nå jeg må til at lede efter sådan en IC, for så er det jo forhåbentlig bare at skifte den.... ;-)<br><br>Mvh.<br>Peter</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=328&ForumID=2&Showsub=329'>Re: KM-t&#230;ller + trip, k&#248;re ikke ??</a> <em>(Jes, 18-04-2003 16:44)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=328&ForumID=2&Showsub=331'>Re: KM-tÃ¦ller + trip, kÃ¸re ikke ??</a> <em>(Peter, 18-04-2003 17:49)</em></strong></font></li><br><font face=Verdana>Tak for info....<br>Ja det ser ud som om du har ret i at det var en omdrejningstÃ¦ller-ledning jeg havde fÃ¥et fat i.... :-(<br><br>SÃ¥ nu er tÃ¦lleren desvÃ¦rre dÃ¸d, det er en IC der hedder ITT UAF 2115, og det sjove er egentlig at spedometret stadig fungere som det skal, men det gÃ¸r trip- og KM- tÃ¦lleren ikke.....<br><br>NÃ¥ jeg mÃ¥ til at lede efter sÃ¥dan en IC, for sÃ¥ er det jo forhÃ¥bentlig bare at skifte den.... ;-)<br><br>Mvh.<br>Peter</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=328&ForumID=2&Showsub=329'>Re: KM-tÃ¦ller + trip, kÃ¸re ikke ??</a> <em>(Jes, 18-04-2003 16:44)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">47</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">47</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

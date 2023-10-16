@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-06-2015&nbsp; 19:02</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-06-2015 19:02</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Goddag alle !<br><br>Jeg har en Volvo 240 STC 1993 med B230FD motor.  Den har ikke koldstart dysse i indspr_jtningssystemet..<br>Den har i lang tid f_et for meget benzin ved koldstart, ingen tvivl om det. P_ en tur i Jylland m_tte er v_rksted tr_kke den i gang for at f_ den startet. Der var ved den lejlighed flere fejlkoder som jeg ikke husker nu. Vi kom hjem, det er det vigtigste.<br><br>N_r jeg starter den kold f_r den stadig for meget benzin de f_rste par minutter. Typisk for meget benzin lyd, samt lidt r_g ud af udst_dningen. Derefter k_rer motoren fint. Har k_rt p_ arbejde med den og k_rt sm_ture uden problemer. Har brugt en tank benzin ca.<br><br>Den s_tter ingen fejlkoder, og k_rer 12 Km. pr. liter ved blandet k_rsel. Jeg har monteret ny Lambda sonde, og installeret en kendt god luftmasse m_ler. Temperaturf_leren for indspr_jtningen er Ohm m_lt oppe fra computeren og ud gennem temperatur sensoren og v_rdien er normal for motorens temperatur.<br><br>Desv_rre ingen _ndring. Den f_r stadig for meget benzin n_r den er kold.<br><br>Hvad  skal jeg g_re, nogle gode ideer ?<br><br>Med venlig Volvo hilsen<br>Steen<br>Frederikssund<br></font></td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

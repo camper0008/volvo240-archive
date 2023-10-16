@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=2848"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=2848"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-02-2005&nbsp; 19:27</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-02-2005 19:27</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg en sådan bil.<br><br>Motoren sætter ud, og jeg har så fundet ud af følgende fra en engelsk haynes bog.<br>----------<br>* PLEASE READ THIS FIRST *<br><br>The following general procedures are to be used if driveability problems are encountered after power loss or battery has been disconnected. These procedures may provide an aid in eliminating these problems.<br><br>To reduce the possibility of complaints, after any service which requires battery power to be disconnected, vehicle should be road tested.<br><br>COMPUTER RELEARN PROCEDURES<br><br>Vehicles equipped with engine or transmission computers may require a relearn procedure after vehicle battery is disconnected.<br>Many vehicle computers memorize and store vehicle operation patterns<br>for optimum driveability and performance. When vehicle battery is disconnected, this memory is lost. The computer will use default data until new data from each key start is stored. As computer memorizes vehicle operation for each new key start, driveability is restored.<br>Vehicle computers may memorize vehicles operation patterns for 40 of more key starts.<br><br>Customers often complain of driveability problems during relearn stage because vehicle acts differently then before being serviced. Depending on type and make of vehicle and how it is equipped, the following complaints (driveability problems) may exist:<br><br>Harsh Or Poor Shift Quality<br>*<br>Rough Or Unstable Idle<br>* <br>Hesitation Or Stumble<br>* <br>Rich Or Lean Running<br>* <br>Poor Fuel Mileage <br>These symptoms and complaints should disappear after a number of drive cycles have been memorized. To reduce the possibility of complaints, after any service which requires battery power to be disconnected, vehicle should be road tested. If a specific relearn procedure is not available, the following procedure may be used:<br><br>Automatic Transmission<br>* <br>Set parking brake, start engine in "P" or "N" position.  Warm-up vehicle to normal operating temperature or until cooling fan cycles.<br>* <br>Allow vehicle to idle for one minute in "N" position. Select "D" and allow engine to idle for one minute.<br>* <br>Accelerate at normal throttle position (20-50%) until vehicle shifts into top gear.<br>* <br>Cruise at light to medium throttle.<br>* <br>Decelerate to a stop, allowing vehicle to downshift, and use brakes normally.<br>* <br>Process may be repeated as necessary.<br>Manual Transmission<br>* <br>Place transmission in Neutral position.<br>* <br>Ensure emergency brake has been set and all accessories are turned off.<br>* <br>Start engine and bring to normal operating temperature.<br>* <br>Allow vehicle to idle in Neutral for one minute.<br>* <br>Initial relearn is complete: process will be completed during normal driving. <br>Some manufacturers identify a specific relearn procedure which will help establish suitable driveability during relearn stage.<br>These procedures are especially important if vehicle is equipped with and electronically controlled automatic transmission or transaxle. Always complete procedure before returning vehicle to customer.<br>----------<br><br>Hvordan gøres det på denne volvo ?<br><br>Det er med manual gear.<br><br>Jeg har skiftet kobling og derefter er det som om at motoren sætter ud. Har  checket alt. Svinghjulet sidder korrekt, tændrør har det godt, alle tændrør er med, strømfordeleren har det godt.<br><br>Motoren er af type F.<br><br>Hjælp ønskes...<br><br>:)</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg en sÃ¥dan bil.<br><br>Motoren sÃ¦tter ud, og jeg har sÃ¥ fundet ud af fÃ¸lgende fra en engelsk haynes bog.<br>----------<br>* PLEASE READ THIS FIRST *<br><br>The following general procedures are to be used if driveability problems are encountered after power loss or battery has been disconnected. These procedures may provide an aid in eliminating these problems.<br><br>To reduce the possibility of complaints, after any service which requires battery power to be disconnected, vehicle should be road tested.<br><br>COMPUTER RELEARN PROCEDURES<br><br>Vehicles equipped with engine or transmission computers may require a relearn procedure after vehicle battery is disconnected.<br>Many vehicle computers memorize and store vehicle operation patterns<br>for optimum driveability and performance. When vehicle battery is disconnected, this memory is lost. The computer will use default data until new data from each key start is stored. As computer memorizes vehicle operation for each new key start, driveability is restored.<br>Vehicle computers may memorize vehicles operation patterns for 40 of more key starts.<br><br>Customers often complain of driveability problems during relearn stage because vehicle acts differently then before being serviced. Depending on type and make of vehicle and how it is equipped, the following complaints (driveability problems) may exist:<br><br>Harsh Or Poor Shift Quality<br>*<br>Rough Or Unstable Idle<br>* <br>Hesitation Or Stumble<br>* <br>Rich Or Lean Running<br>* <br>Poor Fuel Mileage <br>These symptoms and complaints should disappear after a number of drive cycles have been memorized. To reduce the possibility of complaints, after any service which requires battery power to be disconnected, vehicle should be road tested. If a specific relearn procedure is not available, the following procedure may be used:<br><br>Automatic Transmission<br>* <br>Set parking brake, start engine in "P" or "N" position.  Warm-up vehicle to normal operating temperature or until cooling fan cycles.<br>* <br>Allow vehicle to idle for one minute in "N" position. Select "D" and allow engine to idle for one minute.<br>* <br>Accelerate at normal throttle position (20-50%) until vehicle shifts into top gear.<br>* <br>Cruise at light to medium throttle.<br>* <br>Decelerate to a stop, allowing vehicle to downshift, and use brakes normally.<br>* <br>Process may be repeated as necessary.<br>Manual Transmission<br>* <br>Place transmission in Neutral position.<br>* <br>Ensure emergency brake has been set and all accessories are turned off.<br>* <br>Start engine and bring to normal operating temperature.<br>* <br>Allow vehicle to idle in Neutral for one minute.<br>* <br>Initial relearn is complete: process will be completed during normal driving. <br>Some manufacturers identify a specific relearn procedure which will help establish suitable driveability during relearn stage.<br>These procedures are especially important if vehicle is equipped with and electronically controlled automatic transmission or transaxle. Always complete procedure before returning vehicle to customer.<br>----------<br><br>Hvordan gÃ¸res det pÃ¥ denne volvo ?<br><br>Det er med manual gear.<br><br>Jeg har skiftet kobling og derefter er det som om at motoren sÃ¦tter ud. Har  checket alt. Svinghjulet sidder korrekt, tÃ¦ndrÃ¸r har det godt, alle tÃ¦ndrÃ¸r er med, strÃ¸mfordeleren har det godt.<br><br>Motoren er af type F.<br><br>HjÃ¦lp Ã¸nskes...<br><br>:)</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2848&ForumID=2&Showsub=2879'>Re: Volvo 240, 2.3i CAT fra 1993</a> <em>(David Dollas, 14-02-2005 09:32)</em></strong></font></li><br><font face=Verdana>Har du så en ide til hvordan jeg måler den sensor... Men jeg har virkelig være "sød" ved den, ved afmontering og montering...<br><br></font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2848&ForumID=2&Showsub=2869'>Re: Volvo 240, 2.3i CAT fra 1993</a> <em>(Morten Vig, 13-02-2005 15:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2848&ForumID=2&Showsub=2868'>Re: Volvo 240, 2.3i CAT fra 1993</a> <em>(David Dollas, 13-02-2005 14:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2848&ForumID=2&Showsub=2860'>Re: Volvo 240, 2.3i CAT fra 1993</a> <em>(Ren&#233; &#216;stergaard, 13-02-2005 09:48)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2848&ForumID=2&Showsub=2879'>Re: Volvo 240, 2.3i CAT fra 1993</a> <em>(David Dollas, 14-02-2005 09:32)</em></strong></font></li><br><font face=Verdana>Har du sÃ¥ en ide til hvordan jeg mÃ¥ler den sensor... Men jeg har virkelig vÃ¦re "sÃ¸d" ved den, ved afmontering og montering...<br><br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2848&ForumID=2&Showsub=2869'>Re: Volvo 240, 2.3i CAT fra 1993</a> <em>(Morten Vig, 13-02-2005 15:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2848&ForumID=2&Showsub=2868'>Re: Volvo 240, 2.3i CAT fra 1993</a> <em>(David Dollas, 13-02-2005 14:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2848&ForumID=2&Showsub=2860'>Re: Volvo 240, 2.3i CAT fra 1993</a> <em>(Ren&#233; Ã˜stergaard, 13-02-2005 09:48)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">100</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">100</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

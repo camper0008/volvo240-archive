@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=2354"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2354"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>B230K motor d&#248;d hver gang efter pr&#230;cist 20km!?</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>B230K motor død hver gang efter præcist 20km!?</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-11-2004&nbsp; 08:40</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-11-2004 08:40</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har lige totalrenoveret en 245-87 med den knapt s� gode B230K motor, alts� den med 631 topstykket og dobbeltfaldstr�mskarburator.<br><br>Bilens motor er stort set ur�rt, bortset fra visse sliddele er skiftet(tandrem,strammer etc).<br><br>Den opf�rer sig mildt sagt lidt besynderligt. Starter fint, k�rer fint, holder en meget lav CO(under1%) med pulsair tilsluttet.<br><br>Den k�rer dog kun omkring 7,6km/liter v. normal k�rsel, heraf en del landevej/motorvej, s� den b�r kunne komme v�sentligt h�jere op.<br><br>Hvad der er meget mere belastende er at den d�r for hver 20km k�rsel.Den kan lige sniges til at k�re knapt 30km, hvis man k�rer med et �g under speederfoden.<br>Bilen stopper gradvist med at tr�kke, og taber n�rmest pusten fuldst�ndigt indtil den g�r ist�. S� kan man fors�ge at starte den liges� tosset man vil uden resultat i ca. 2-3minutter, hvorefter den lystigt starter og k�rer videre soom om intet var h�ndt. Venter man t�lmodigt de 2-3min. s� starter den glad i f�rste hug.<br><br>Der er ikke indikationer p� at den drukner. Ser n�rmest ud som om sv�mmerhuset gradvist t�mmes, men det passer ikke helt godt med at den bare starter i f�rste hug hvis man venter 2-3minutter. Man kan ikke tvinge den igang p� starteren f�r der er g�et lidt tid.<br><br>Men det f�les pr�cist som om den g�r t�r, og den motor har jo bendix t�nidngen med bankesensor,mapsensor og jeg skal gi dig, s� jeg tvivler st�rkt p� at det er et t�ndingsproblem.<br><br>Nogen der har et godt tip til en ellers erfaren volvomand??<br>Evt lidt info om hvad der er normal forbrug p� den aktuelle motor?</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2475'>Re: B230K motor d&#248;d hver gang efter pr&#230;cist 20km!?</a> <em>(Lasse P., 07-12-2004 12:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2376'>Re: B230K motor d&#248;d hver gang efter pr&#230;cist 20km!?</a> <em>(Kim Poulsen, 10-11-2004 20:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2364'>Re: B230K motor d&#248;d hver gang efter pr&#230;cist 20km!?</a> <em>(Kim, 08-11-2004 10:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2363'>Re: B230K motor d&#248;d hver gang efter pr&#230;cist 20km!?</a> <em>(rasmus, 07-11-2004 18:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2360'>Re: B230K motor d&#248;d hver gang efter pr&#230;cist 20km!?</a> <em>(jan nielsen, 06-11-2004 11:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2359'>Re: B230K motor d&#248;d hver gang efter pr&#230;cist 20km!?</a> <em>(HenrikM, 06-11-2004 10:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2358'>Re: B230K motor d&#248;d hver gang efter pr&#230;cist 20km!?</a> <em>(jes, 06-11-2004 10:11)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2357'>Re: B230K motor d&#248;d hver gang efter pr&#230;cist 20km!?</a> <em>(HenrikM, 06-11-2004 09:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2355'>Re: B230K motor d&#248;d hver gang efter pr&#230;cist 20km!?</a> <em>(Jes, 06-11-2004 08:49)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Din beskrivelse er typisk for en B 230K motor med slidt karburator. Jeg har oplevet "f�nomenet" nogen gange. Du kan v�lge at renovere karburatoren, koster ca. 1800,- i dele eller udskifte karburator og t�ndingsanl�gget til det gammelkendte Pierburg CD 175 karburator og elektronisk Bosch t�nding. Anl�gget skal du f� fra en B 230A motor. Jeg har i alle tilf�lde valgt den sidste l�sning, og har kun gode erfaringer med det. <br>En B 230K  motor, som er i orden, k�rer faktisk op til 12-13 km/l. Ved daglig k�rsel med koldstarter m.v. skal man regne med 10-11 km/l.<br><br>mvh<br><br>Jes</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2475'>Re: B230K motor død hver gang efter præcist 20km!?</a> <em>(Lasse P., 07-12-2004 12:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2376'>Re: B230K motor død hver gang efter præcist 20km!?</a> <em>(Kim Poulsen, 10-11-2004 20:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2364'>Re: B230K motor død hver gang efter præcist 20km!?</a> <em>(Kim, 08-11-2004 10:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2363'>Re: B230K motor død hver gang efter præcist 20km!?</a> <em>(rasmus, 07-11-2004 18:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2360'>Re: B230K motor død hver gang efter præcist 20km!?</a> <em>(jan nielsen, 06-11-2004 11:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2359'>Re: B230K motor død hver gang efter præcist 20km!?</a> <em>(HenrikM, 06-11-2004 10:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2358'>Re: B230K motor død hver gang efter præcist 20km!?</a> <em>(jes, 06-11-2004 10:11)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2357'>Re: B230K motor død hver gang efter præcist 20km!?</a> <em>(HenrikM, 06-11-2004 09:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2354&ForumID=1&Showsub=2355'>Re: B230K motor død hver gang efter præcist 20km!?</a> <em>(Jes, 06-11-2004 08:49)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Din beskrivelse er typisk for en B 230K motor med slidt karburator. Jeg har oplevet "f�nomenet" nogen gange. Du kan v�lge at renovere karburatoren, koster ca. 1800,- i dele eller udskifte karburator og t�ndingsanl�gget til det gammelkendte Pierburg CD 175 karburator og elektronisk Bosch t�nding. Anl�gget skal du f� fra en B 230A motor. Jeg har i alle tilf�lde valgt den sidste l�sning, og har kun gode erfaringer med det. <br>En B 230K  motor, som er i orden, k�rer faktisk op til 12-13 km/l. Ved daglig k�rsel med koldstarter m.v. skal man regne med 10-11 km/l.<br><br>mvh<br><br>Jes</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">48</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">48</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

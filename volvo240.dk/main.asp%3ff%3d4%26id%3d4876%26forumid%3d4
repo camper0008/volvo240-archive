@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">23-02-2014&nbsp; 21:47</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">23-02-2014 21:47</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er der nogen der ved hvor jeg kan k_be de orange forreste st_dd_mpere til GLT og Turbo modellen?</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 24-02-2014 17:41)</em></u></strong></font></li><br><font face=Verdana>M_ske ved <a href="http://www.spare-parts.dk" target="_blank">www.spare-parts.dk</a> <br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 24-02-2014 18:44)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>De orange d_mpere er udg_et og har v_ret det i flere _r.<br>Jeg har dog et komplet s_t liggende, som aldrig har v_ret monteret.<br>Hold _je med K_b & Salg i n_rmeste fremtid. For der kommer de sikkert snart :-)<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 24-02-2014 19:31)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Nemlig Christian<br>Jeg har faktisk 2 s_t brugte liggende, som ser ud som nye, s_ der er muligheder Poul.<br>Nu skal jeg lige se Christians pris p_ hans nye inden jeg s_tter pris p_ mine.<br>MVH J.P.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Poul Rasmussen, 24-02-2014 21:46)</em></u></strong></font></li><br><font face=Verdana>Jeg har talt med S_ren hos spareparts idag. Han har ikke de originale, men m_ske noget der passer. Hvis der er en af jer, der vil s_lge de originale, er jeg klart interesseret, for det haster. Bilen er skilt ad lige pt.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Poul Rasmussen, 26-02-2014 08:17)</em></u></strong></font></li><br><font face=Verdana>N_h. Det m_ blive en anden god gang. Jeg har ikke tid til at vente. Bilen bliver samlet idag .</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Poul Rasmussen, 28-02-2014 16:20)</em></u></strong></font></li><br><font face=Verdana>Hmm... hvis Christian og Jens Peter, snart er f_rdige med at votere priser, vil jeg meget gerne k_be et s_t st_dd_mpere. Mvh Poul</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 28-02-2014 17:52)</em></u></strong></font></li><br><font face=Verdana>Hej Poul<br>Jamen, s_ f_r du en melding herfra, en "tusse" + fragt, for et s_t, (2 stk.)<br>MVH J.P.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Poul Rasmussen, 28-02-2014 18:15)</em></u></strong></font></li><br><font face=Verdana>Det er for s_ hvor fint nok. Jeg skal bare lige v_re sikker p_ at det er de rigtige. Det skal v_re den type der IKKE er "lukket af i bunden" dvs n_r man ser p_ dem, nede fra, kan man se en m_trik! Det m_ ikke v_re den type der er lukkede og afrundede i bunden.<br>Mvh Poul</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 28-02-2014 20:41)</em></u></strong></font></li><br><font face=Verdana>Hej Poul<br>De har en m_trik i bunden, men de hviler p_ den ring ude i kanten, som sidder i fjederbenet.<br>MVH J.P.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 24-02-2014 17:41)</em></u></strong></font></li><br><font face=Verdana>M_ske ved <a href="http://www.spare-parts.dk" target="_blank">www.spare-parts.dk</a> <br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 24-02-2014 18:44)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>De orange d_mpere er udg_et og har v_ret det i flere _r.<br>Jeg har dog et komplet s_t liggende, som aldrig har v_ret monteret.<br>Hold _je med K_b & Salg i n_rmeste fremtid. For der kommer de sikkert snart :-)<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 24-02-2014 19:31)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Nemlig Christian<br>Jeg har faktisk 2 s_t brugte liggende, som ser ud som nye, s_ der er muligheder Poul.<br>Nu skal jeg lige se Christians pris p_ hans nye inden jeg s_tter pris p_ mine.<br>MVH J.P.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Poul Rasmussen, 24-02-2014 21:46)</em></u></strong></font></li><br><font face=Verdana>Jeg har talt med S_ren hos spareparts idag. Han har ikke de originale, men m_ske noget der passer. Hvis der er en af jer, der vil s_lge de originale, er jeg klart interesseret, for det haster. Bilen er skilt ad lige pt.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Poul Rasmussen, 26-02-2014 08:17)</em></u></strong></font></li><br><font face=Verdana>N_h. Det m_ blive en anden god gang. Jeg har ikke tid til at vente. Bilen bliver samlet idag .</font><br><li><font face=Verdana><strong><u>Re: - <em>(Poul Rasmussen, 28-02-2014 16:20)</em></u></strong></font></li><br><font face=Verdana>Hmm... hvis Christian og Jens Peter, snart er f_rdige med at votere priser, vil jeg meget gerne k_be et s_t st_dd_mpere. Mvh Poul</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 28-02-2014 17:52)</em></u></strong></font></li><br><font face=Verdana>Hej Poul<br>Jamen, s_ f_r du en melding herfra, en "tusse" + fragt, for et s_t, (2 stk.)<br>MVH J.P.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Poul Rasmussen, 28-02-2014 18:15)</em></u></strong></font></li><br><font face=Verdana>Det er for s_ hvor fint nok. Jeg skal bare lige v_re sikker p_ at det er de rigtige. Det skal v_re den type der IKKE er "lukket af i bunden" dvs n_r man ser p_ dem, nede fra, kan man se en m_trik! Det m_ ikke v_re den type der er lukkede og afrundede i bunden.<br>Mvh Poul</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 28-02-2014 20:41)</em></u></strong></font></li><br><font face=Verdana>Hej Poul<br>De har en m_trik i bunden, men de hviler p_ den ring ude i kanten, som sidder i fjederbenet.<br>MVH J.P.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=406"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=406"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-05-2003&nbsp; 10:25</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-05-2003 10:25</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hei, jeg har nettopp kjøpt en Volvo 240 92'mod. av en ambasade i Norge. Den hadde bare kjørt 60.000 km. Den har en 230F motor og automat.<br><br>Spørsmål.<br><br>1. Går det ann å ettermontere Aircondidion i denne - ex. fra en annen volvo?<br><br>2. ER det noen som har erfaring med å forlenge eller flytte den skinnen som fremsetene glider på - mer plass til benene?<br><br>3. Hvilken teknikk bruker dere til å skifte automatoljen - helt.<br><br>mvh<br>Tor</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hei, jeg har nettopp kjÃ¸pt en Volvo 240 92'mod. av en ambasade i Norge. Den hadde bare kjÃ¸rt 60.000 km. Den har en 230F motor og automat.<br><br>SpÃ¸rsmÃ¥l.<br><br>1. GÃ¥r det ann Ã¥ ettermontere Aircondidion i denne - ex. fra en annen volvo?<br><br>2. ER det noen som har erfaring med Ã¥ forlenge eller flytte den skinnen som fremsetene glider pÃ¥ - mer plass til benene?<br><br>3. Hvilken teknikk bruker dere til Ã¥ skifte automatoljen - helt.<br><br>mvh<br>Tor</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=406&ForumID=2&Showsub=416'>Re: AC   m.m</a> <em>(Finn Kruse, 10-05-2003 01:44)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=406&ForumID=2&Showsub=407'>Re: AC   m.m</a> <em>(Lars Vestman, 09-05-2003 12:04)</em></strong></font></li><br><font face=Verdana>Hej Tor<br><br>Jeg kan ikke besvare dine to første spørgsmål, men det sidste kan du læse om her:<br><br>www3.bc.sympatico.ca/Volvo_Books/faqtrans.html<br><br>(Det er af uvisse årsager ikke muligt at "copy/paste" i dette forum, så du må skrive hele adressen ned og selv taste den ind)<br><br>Venligst,<br>Lars Vestman - 245 GL aut. ´85</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=406&ForumID=2&Showsub=416'>Re: AC   m.m</a> <em>(Finn Kruse, 10-05-2003 01:44)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=406&ForumID=2&Showsub=407'>Re: AC   m.m</a> <em>(Lars Vestman, 09-05-2003 12:04)</em></strong></font></li><br><font face=Verdana>Hej Tor<br><br>Jeg kan ikke besvare dine to fÃ¸rste spÃ¸rgsmÃ¥l, men det sidste kan du lÃ¦se om her:<br><br>www3.bc.sympatico.ca/Volvo_Books/faqtrans.html<br><br>(Det er af uvisse Ã¥rsager ikke muligt at "copy/paste" i dette forum, sÃ¥ du mÃ¥ skrive hele adressen ned og selv taste den ind)<br><br>Venligst,<br>Lars Vestman - 245 GL aut. ´85</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -215,7 +215,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Per J&#248;rgensen</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Per Jørgensen</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-09-2006&nbsp; 14:15</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-09-2006 14:15</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er der nogen der ved hvad de koster, eller skal jeg henvende mig hos volvo p� mandag?</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 24-09-2006 15:19)</em></u></strong></font></li><br><font face=Verdana>spurgte for nogen tid siden hos en volvo forhandler og fik den potente pris af over 600 kr, og jeg kan ikke huske om det var med eller uden moms :o( men sp�rg for en sikkerhedskyld. det er dog ikke en billig m�de at �ndre udseendet bagfra. desv�rre<br><br>Junker</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Per J&#248;rgensen, 24-09-2006 15:45)</em></u></strong></font></li><br><font face=Verdana>Okay, takker<br><br>Per</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Allan J. Kokspang, 24-09-2006 23:33)</em></u></strong></font></li><br><font face=Verdana>Jeg mener de koster omkring 800 plus moms hos volvo.<br>Jeg vil dog lige advare dem, der vil investere i dem, man skal have begge drivaksler af for at montere dem, og de org. hjulbolte sider rigtig godt fast p� ankerpladen.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 24-09-2006 23:46)</em></u></strong></font></li><br><font face=Verdana>Hvis det er bagi du mener,s� ska akslerne da ikke af f�rst det gjorde jeg ikke p� min</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(morten schuster, 25-09-2006 08:31)</em></u></strong></font></li><br><font face=Verdana>Jeg har k�bt mine hos scandinavien spareparts, sat dem p� uden at tage axlerne af, men der findes kun til bagp�, s� man k�ber to s�t, og f�r fr�set lidt ud i midten s� det ene s�t passer til foran.<br>hilsen Morten</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(thomas skaaning, 25-09-2006 17:39)</em></u></strong></font></li><br><font face=Verdana>Jeg syntes faktisk der er billigt for s�dan et s�t der bare passer. det bliver da dyrer hvis man skal have en til at fremstille nogle, og s� skal man have fundet nogle bolte.<br>Det er lidt forskelligt om man kan f� boltene i med akslerne p� ved ikke hvorfor, p� min orig. turbo med 1031 bagt�j kunne man ikke, men et andet ukendt bagt�j kunne man godt.<br><br>Thomas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(morten malle, 25-09-2006 20:24)</em></u></strong></font></li><br><font face=Verdana>Et originalt s�t inkl. bolte koster 1670,- inkl. moms hos Bilia. Heraf udg�r boltene omkring 600,- <br><br>F�s formodentligt billigere i Sverige, men s� skal man jo lige derover...<br><br>Vedr�rende omfanget af arbejdet, s� skal skiverne og pladerne bagved af. Og h�ndbremsen skal justeres.<br><br>Venligst,<br>Morten</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Allan J. Kokspang, 25-09-2006 21:49)</em></u></strong></font></li><br><font face=Verdana>Et org. 40 mm. spacers�t, koster hos spareparts i Stenl�se, 882 kr. ex moms.<br><br>SPORVIDDEFOR�GER BAG<br><br>Model	�rgang	Type		                Volvo nr.		S�t pris <br>240	1975-	Bruges bl.a. til alu-f�lge<br>		l�ngde p� gevind 45mm		8360083	                 882,00<br>Kan ogs� bruges til at for�ge sporvidden foran p� volvo 240<br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 24-09-2006 15:19)</em></u></strong></font></li><br><font face=Verdana>spurgte for nogen tid siden hos en volvo forhandler og fik den potente pris af over 600 kr, og jeg kan ikke huske om det var med eller uden moms :o( men sp�rg for en sikkerhedskyld. det er dog ikke en billig m�de at �ndre udseendet bagfra. desv�rre<br><br>Junker</font><br><li><font face=Verdana><strong><u>Re: - <em>(Per Jørgensen, 24-09-2006 15:45)</em></u></strong></font></li><br><font face=Verdana>Okay, takker<br><br>Per</font><br><li><font face=Verdana><strong><u>Re: - <em>(Allan J. Kokspang, 24-09-2006 23:33)</em></u></strong></font></li><br><font face=Verdana>Jeg mener de koster omkring 800 plus moms hos volvo.<br>Jeg vil dog lige advare dem, der vil investere i dem, man skal have begge drivaksler af for at montere dem, og de org. hjulbolte sider rigtig godt fast p� ankerpladen.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 24-09-2006 23:46)</em></u></strong></font></li><br><font face=Verdana>Hvis det er bagi du mener,s� ska akslerne da ikke af f�rst det gjorde jeg ikke p� min</font><br><li><font face=Verdana><strong><u>Re: - <em>(morten schuster, 25-09-2006 08:31)</em></u></strong></font></li><br><font face=Verdana>Jeg har k�bt mine hos scandinavien spareparts, sat dem p� uden at tage axlerne af, men der findes kun til bagp�, s� man k�ber to s�t, og f�r fr�set lidt ud i midten s� det ene s�t passer til foran.<br>hilsen Morten</font><br><li><font face=Verdana><strong><u>Re: - <em>(thomas skaaning, 25-09-2006 17:39)</em></u></strong></font></li><br><font face=Verdana>Jeg syntes faktisk der er billigt for s�dan et s�t der bare passer. det bliver da dyrer hvis man skal have en til at fremstille nogle, og s� skal man have fundet nogle bolte.<br>Det er lidt forskelligt om man kan f� boltene i med akslerne p� ved ikke hvorfor, p� min orig. turbo med 1031 bagt�j kunne man ikke, men et andet ukendt bagt�j kunne man godt.<br><br>Thomas</font><br><li><font face=Verdana><strong><u>Re: - <em>(morten malle, 25-09-2006 20:24)</em></u></strong></font></li><br><font face=Verdana>Et originalt s�t inkl. bolte koster 1670,- inkl. moms hos Bilia. Heraf udg�r boltene omkring 600,- <br><br>F�s formodentligt billigere i Sverige, men s� skal man jo lige derover...<br><br>Vedr�rende omfanget af arbejdet, s� skal skiverne og pladerne bagved af. Og h�ndbremsen skal justeres.<br><br>Venligst,<br>Morten</font><br><li><font face=Verdana><strong><u>Re: - <em>(Allan J. Kokspang, 25-09-2006 21:49)</em></u></strong></font></li><br><font face=Verdana>Et org. 40 mm. spacers�t, koster hos spareparts i Stenl�se, 882 kr. ex moms.<br><br>SPORVIDDEFOR�GER BAG<br><br>Model	�rgang	Type		                Volvo nr.		S�t pris <br>240	1975-	Bruges bl.a. til alu-f�lge<br>		l�ngde p� gevind 45mm		8360083	                 882,00<br>Kan ogs� bruges til at for�ge sporvidden foran p� volvo 240<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -264,9 +264,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">9</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">9</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

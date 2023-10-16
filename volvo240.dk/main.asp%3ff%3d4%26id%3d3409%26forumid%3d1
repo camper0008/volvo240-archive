@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=3409"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=3409"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,10 +224,10 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-05-2005&nbsp; 12:43</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-05-2005 12:43</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er der nogen der har kommentarer til nedenstående:<br><br>Volvo 244 GL, aut. gear (1980)<br><br>Fejl<br>•	Går ud i koldt vejr ved start, når den sættes i ”D”. Kan i øvrigt kun være i gang i ”D” med meget lidt choke uden at drukne. Problemet er selvfølgelig normalt hos ældre biler med aotomatgear, med graden af det kan måske hænge sammen med nedenstående.<br><br>•	Går engang imellem ud, når den er varm og holder stille i ”D”. Kan herefter godt starte, men går ud når man sætter den i ”D” eller ”R”. Virker som om den drukner. Kan køre igen efter 10 min. og adskillige forsøg.<br><br>•	Går ud når man holder stille i ”D” efter at man har kørt langt (fx. ca. 100 km. på motorvej) Starter herefter uden problemer.<br><br>Årsager, muligheder (mine gæt)<br>•	Utætheder i systemet, fx i pakninger eller slanger<br>•	Tilsmudsede filtre, dyser ved karburator og eller benzinpumpe<br>•	Benzinpumpe på vej til at stå af<br><br>Jeg tvivler på, at det har noget med automatgearet at gøre eftersom det ikke viser sygdomstegn ellers.<br><br>Venlig hilsen<br><br>Peter Testmann<br></font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er der nogen der har kommentarer til nedenstÃ¥ende:<br><br>Volvo 244 GL, aut. gear (1980)<br><br>Fejl<br>•	GÃ¥r ud i koldt vejr ved start, nÃ¥r den sÃ¦ttes i ”D”. Kan i Ã¸vrigt kun vÃ¦re i gang i ”D” med meget lidt choke uden at drukne. Problemet er selvfÃ¸lgelig normalt hos Ã¦ldre biler med aotomatgear, med graden af det kan mÃ¥ske hÃ¦nge sammen med nedenstÃ¥ende.<br><br>•	GÃ¥r engang imellem ud, nÃ¥r den er varm og holder stille i ”D”. Kan herefter godt starte, men gÃ¥r ud nÃ¥r man sÃ¦tter den i ”D” eller ”R”. Virker som om den drukner. Kan kÃ¸re igen efter 10 min. og adskillige forsÃ¸g.<br><br>•	GÃ¥r ud nÃ¥r man holder stille i ”D” efter at man har kÃ¸rt langt (fx. ca. 100 km. pÃ¥ motorvej) Starter herefter uden problemer.<br><br>Ã…rsager, muligheder (mine gÃ¦t)<br>•	UtÃ¦theder i systemet, fx i pakninger eller slanger<br>•	Tilsmudsede filtre, dyser ved karburator og eller benzinpumpe<br>•	Benzinpumpe pÃ¥ vej til at stÃ¥ af<br><br>Jeg tvivler pÃ¥, at det har noget med automatgearet at gÃ¸re eftersom det ikke viser sygdomstegn ellers.<br><br>Venlig hilsen<br><br>Peter Testmann<br></font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">49</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

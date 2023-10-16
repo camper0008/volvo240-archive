@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=2235"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=2235"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-09-2004&nbsp; 22:07</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-09-2004 22:07</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Selv om min 244 har kr�vet en del vedligeholdelse og reparationer, er det nu alligevel lidt vemodigt, at jeg har skilt mig af med den. Selvom det er en gammel konstruktion, og at den designm�ssigt ligner en mursten, er den stadigv�k dejlig at k�re i. 453.000 km havde motor og gearkasse k�rt da jeg solgte den......... Hold Dem til Volvo, den holder til Dem. Det er jeg ikke i tvivl om.<br>Hvorfor solgte jeg den?......... Den var for dyr at k�re i. Benzinpriserne er jo steget lidt her p� det sidste :-(<br><br>Hvilket transportmiddel har man s� k�bt?......... en Toyota Yaris 1.0 s�m�nd. En latterlig lille bil, som kan k�re 18 km/l, dobbelt s� langt som Volvo�en. Det er s� ogs� den eneste fordel der er v�rd at n�vne.<br>S�h.... farvel Volvo, h�ber vi ses igen. <br><br>PS. Jeg drejer stadig hovedet efter en 240, n�r jeg ser dem i trafikken. Som regel ser jeg kun bagenden ;-)<br><br>Mvh<br>Thomas Petersen</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2251'>Re: Farvel Volvo</a> <em>(michael nordahn, 25-09-2004 09:04)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2247'>Re: Farvel Volvo</a> <em>(Kent, 24-09-2004 09:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2245'>Re: Farvel Volvo</a> <em>(bjarne g, 23-09-2004 19:48)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2242'>Re: Farvel Volvo</a> <em>(Johan &#197;rman, 23-09-2004 14:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2239'>Re: Farvel Volvo</a> <em>(Christian Fisker, 23-09-2004 10:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2237'>Re: Farvel Volvo</a> <em>(Michael Jensen, 23-09-2004 10:04)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2236'>Re: Farvel Volvo</a> <em>(Emil J, 21-09-2004 23:47)</em></strong></font></li><br><font face=Verdana>Hejsa.<br>N�sten synd du solgte din bil. Men som du selv n�vner: s� er de u�konomiske n�r man skal bare skal komme billigt frem. <br>Benzinen har lige v�ret nede p� 7.54 kr pr.l (blyfri 95) nede ved mig. Ved ikke rigtigt om der er startet en ny priskrig p� sydsj�lland. Men jeg klager ikke. :)<br>H�ber du v�lger at f� en 240 igen. Eller en anden Volvo. Indtil da �nsker jeg dig god forn�jelse med din nye bil. En Yaris er da ogs� en bil. <br><br>M.v.h<br><br>Emil J.<br><br>244 GL �rgang 85, B230A, AW71 & 315.000 km p� uret.<br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2251'>Re: Farvel Volvo</a> <em>(michael nordahn, 25-09-2004 09:04)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2247'>Re: Farvel Volvo</a> <em>(Kent, 24-09-2004 09:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2245'>Re: Farvel Volvo</a> <em>(bjarne g, 23-09-2004 19:48)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2242'>Re: Farvel Volvo</a> <em>(Johan Årman, 23-09-2004 14:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2239'>Re: Farvel Volvo</a> <em>(Christian Fisker, 23-09-2004 10:31)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2237'>Re: Farvel Volvo</a> <em>(Michael Jensen, 23-09-2004 10:04)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2235&ForumID=4&Showsub=2236'>Re: Farvel Volvo</a> <em>(Emil J, 21-09-2004 23:47)</em></strong></font></li><br><font face=Verdana>Hejsa.<br>N�sten synd du solgte din bil. Men som du selv n�vner: s� er de u�konomiske n�r man skal bare skal komme billigt frem. <br>Benzinen har lige v�ret nede p� 7.54 kr pr.l (blyfri 95) nede ved mig. Ved ikke rigtigt om der er startet en ny priskrig p� sydsj�lland. Men jeg klager ikke. :)<br>H�ber du v�lger at f� en 240 igen. Eller en anden Volvo. Indtil da �nsker jeg dig god forn�jelse med din nye bil. En Yaris er da ogs� en bil. <br><br>M.v.h<br><br>Emil J.<br><br>244 GL �rgang 85, B230A, AW71 & 315.000 km p� uret.<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">55</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">55</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

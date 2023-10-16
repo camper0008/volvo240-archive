@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -153,7 +153,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">S&#248;ren</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Søren</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-08-2015&nbsp; 20:50</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-08-2015 20:50</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg er _n af dem, der ikke selv reparerer.<br>Min 245 taber olie fra servostyringen, n_r motoren k_rer. Ikke n_r den ikke k_rer.<br>Er der nogen, der har lyst til at kigge forbi og se om "vi" kan rette fejlen? Jeg har ikke kigget efter ut_theden endnu, men kan m_ske kigge imorgen.<br>D_kker gerne dine omkostninger inden for en rimelig gr_nse. Ikke k_rsel langvejs fra.<br>Hilsen<br>S_ren, Kastelsvej 9, K_benhavn _. Tlf 2824 8149. Mail <a href="mailto:soren1704@gmail.com">soren1704@gmail.com</a></font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob Nielsen, 18-08-2015 21:13)</em></u></strong></font></li><br><font face=Verdana>Hej S_ren,<br><br>Har b_de haft 240 og 940&#39;ere med samme symptomer og i alle tilf_lde var _rsagen defekte tandst_nger, s_ husk at tjekke manchetterne ved tandstang/styrst_nger for l_kage.<br><br>Hilsen Jacob</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren, 19-08-2015 21:57)</em></u></strong></font></li><br><font face=Verdana>Tak Jacob!<br>Idag har jeg kigget mere ned i motorrummet. Fra servooliebeholderen g_r en slange ned mod styret_jet. D_r hvor slangen er koblet sammen med en stang eller et r_r (ca. 20 cm fra beholderen), er der oliedr_ber ovenp_ samlingen. Helt nede i bunden af motorrummet (ca. 20-30 cm) under samlingen ligger en stor olies_. S_ du har vist ret, selvom ut_theden m_ske er lidt h_jere oppe end du troede.<br>Det kan vel ikke koste s_ meget i dele, men selvf_lgelig skal mekanikeren have en timel_n.<br>Flere gode r_d?<br>Tak for svaret!<br><br>S_ren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 19-08-2015 22:53)</em></u></strong></font></li><br><font face=Verdana>Goddag<br><br>Find ud af hvor din l_k er. Er der et t_ret r_r, eller er ut_theden i selve tandstangs enheden. Det g_r du ved tage bundpladen af under motoren og tjekke r_rene for t_ring og ut_thed. Derefter l_snes manchetterne og der ses om olien kommer ud af tandstangs enheden.<br>N_, men du laver det jo ikke selv. S_ dette skriv er jo overfl_digt.<br><br>Mvh<br>Steen <br>Frederikssund</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren, 20-08-2015 18:20)</em></u></strong></font></li><br><font face=Verdana>Hej Steen<br>Tak for svar!<br>Hyggeligt at h_re fra Fr.sund. D_r boede jeg mine f_rste 30 _r.<br>Hvis du kan se mit svar til Jacob, har jeg indkredset ut_theden.<br>Imorgen ser v_rkstedet p_ det.<br><br>S_ren</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob Nielsen, 18-08-2015 21:13)</em></u></strong></font></li><br><font face=Verdana>Hej S_ren,<br><br>Har b_de haft 240 og 940&#39;ere med samme symptomer og i alle tilf_lde var _rsagen defekte tandst_nger, s_ husk at tjekke manchetterne ved tandstang/styrst_nger for l_kage.<br><br>Hilsen Jacob</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren, 19-08-2015 21:57)</em></u></strong></font></li><br><font face=Verdana>Tak Jacob!<br>Idag har jeg kigget mere ned i motorrummet. Fra servooliebeholderen g_r en slange ned mod styret_jet. D_r hvor slangen er koblet sammen med en stang eller et r_r (ca. 20 cm fra beholderen), er der oliedr_ber ovenp_ samlingen. Helt nede i bunden af motorrummet (ca. 20-30 cm) under samlingen ligger en stor olies_. S_ du har vist ret, selvom ut_theden m_ske er lidt h_jere oppe end du troede.<br>Det kan vel ikke koste s_ meget i dele, men selvf_lgelig skal mekanikeren have en timel_n.<br>Flere gode r_d?<br>Tak for svaret!<br><br>S_ren</font><br><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 19-08-2015 22:53)</em></u></strong></font></li><br><font face=Verdana>Goddag<br><br>Find ud af hvor din l_k er. Er der et t_ret r_r, eller er ut_theden i selve tandstangs enheden. Det g_r du ved tage bundpladen af under motoren og tjekke r_rene for t_ring og ut_thed. Derefter l_snes manchetterne og der ses om olien kommer ud af tandstangs enheden.<br>N_, men du laver det jo ikke selv. S_ dette skriv er jo overfl_digt.<br><br>Mvh<br>Steen <br>Frederikssund</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren, 20-08-2015 18:20)</em></u></strong></font></li><br><font face=Verdana>Hej Steen<br>Tak for svar!<br>Hyggeligt at h_re fra Fr.sund. D_r boede jeg mine f_rste 30 _r.<br>Hvis du kan se mit svar til Jacob, har jeg indkredset ut_theden.<br>Imorgen ser v_rkstedet p_ det.<br><br>S_ren</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

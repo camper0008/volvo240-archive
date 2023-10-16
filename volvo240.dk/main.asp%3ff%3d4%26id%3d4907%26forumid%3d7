@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-05-2014&nbsp; 11:14</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-05-2014 11:14</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Er ved at give min 740 Gl, &#39;89, B230F, abs, uden multilink, 229.000 km den store tur inden syn.<br><br>Bremsekaliberne bag p_ er g_et hen og blevet et problem. <br><br>1. Jeg kan ikke f_ dem af. Boltene der holder dem er umulige at f_ af. (Bilen er ikke p_ lift, ved ikke om det hj_lper noget at komme i h_jden).<br>M_/kan man varme dem af n_r nu der er bremsev_dske mm. involveret?<br><br>2. Der er rust p_ skiverne - er det et sikkert tegn p_ at stemplerne i kaliberne ikke virker? Skal der nye kalibere p_ eller kan et reparationss_t g_re det?<br><br>3. Skal kaliberen splittes helt ad for at man kan montere et reparationss_t?<br><br>4. H_ndbremsekablet er sprunget - helt oppe ved selve h_ndbremsen - det er vel en indikation af at kaliberne bag p_ er rustet sammen?<br><br>vh Henrik</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Bj&#248;rn Kooper, 11-05-2014 22:02)</em></u></strong></font></li><br><font face=Verdana>Jeg ville skifte alt: Kalibre, klodser, skiver, h_ndbremsebakker og -kabler, og selvf_lgelig nyt bremsev_ske, tjeck ogs_ bremseslangerne bag, nu du er i gang. Hvis det er meget rustent, skal (kobber)bremser_rene m_ske skiftes ved bagakselen.Brug varme, n_r det alligevel skal kasseres, ellers f_r du det ikke l_s.Jeg gjorde det sidste efter_r til synet, og n_r man ikke kan f_ det l_s, m_ man g_ l_ngere og l_ngere frem og skifte til nyt. God arbejdslyst!<br>mvh Bj_rn</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Bj&#248;rn Kooper, 11-05-2014 22:04)</em></u></strong></font></li><br><font face=Verdana>Og glem det med reparationss_t! du bruger meget tid og besv_r med de delvist rustede kaliperstempler, k_b nyt!<br>Bj_rn</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Henrik S, 12-05-2014 10:30)</em></u></strong></font></li><br><font face=Verdana>Bj_rn> Nu har jeg sovet p_ det og kigget p_ tingene igen - og g_r som du foresl_r. Nye(re) kalibre/skiver/klodser mm p_ i begge sider. <br>Jeg f_r en proff til at g_re det da jeg ikke har varme eller lift selv og det g_r det nemmere at lufte bremserne ud.<br><br>Tak!<br><br>/Henrik</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Bjørn Kooper, 11-05-2014 22:02)</em></u></strong></font></li><br><font face=Verdana>Jeg ville skifte alt: Kalibre, klodser, skiver, h_ndbremsebakker og -kabler, og selvf_lgelig nyt bremsev_ske, tjeck ogs_ bremseslangerne bag, nu du er i gang. Hvis det er meget rustent, skal (kobber)bremser_rene m_ske skiftes ved bagakselen.Brug varme, n_r det alligevel skal kasseres, ellers f_r du det ikke l_s.Jeg gjorde det sidste efter_r til synet, og n_r man ikke kan f_ det l_s, m_ man g_ l_ngere og l_ngere frem og skifte til nyt. God arbejdslyst!<br>mvh Bj_rn</font><br><li><font face=Verdana><strong><u>Re: - <em>(Bjørn Kooper, 11-05-2014 22:04)</em></u></strong></font></li><br><font face=Verdana>Og glem det med reparationss_t! du bruger meget tid og besv_r med de delvist rustede kaliperstempler, k_b nyt!<br>Bj_rn</font><br><li><font face=Verdana><strong><u>Re: - <em>(Henrik S, 12-05-2014 10:30)</em></u></strong></font></li><br><font face=Verdana>Bj_rn> Nu har jeg sovet p_ det og kigget p_ tingene igen - og g_r som du foresl_r. Nye(re) kalibre/skiver/klodser mm p_ i begge sider. <br>Jeg f_r en proff til at g_re det da jeg ikke har varme eller lift selv og det g_r det nemmere at lufte bremserne ud.<br><br>Tak!<br><br>/Henrik</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

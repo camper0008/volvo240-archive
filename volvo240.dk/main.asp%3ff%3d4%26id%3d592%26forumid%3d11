@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-06-2004&nbsp; 00:30</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-06-2004 00:30</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har et problem med min kones 240 fra 85. N_r den er varm kan jeg ikke rigtig slukke den. Den "k_rer" videre, selv efter at den er slukket, og kan ogs_ finde p_ at "l_be bagl_ns" i motoren!<br>Er det en defekt magnetventil i manifolden? eller hvad?<br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Ren&#233; &#216;stergaard, 20-06-2004 04:08)</em></u></strong></font></li><br><font face=Verdana>Lyder mere som om den eftert_nder... K_r til din mekaniker, og f_ stillet CO-v_rdien...</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Niels Peder Nielsen, 24-06-2004 13:42)</em></u></strong></font></li><br><font face=Verdana>Jeg har l_st problemet. Jeg havde justeret tomgangsskruen for langt ned for at den gi_ den langsomme omdrejninger nok i tomgang. Derved satte jeg magnetventilen ud af kraft.<br>Jeg har fundet en anden stilling p_ tomgangen ved at b_je b_jlen til karburatorens anslagspunkt (tomgang).</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Ren&#233; Østergaard, 20-06-2004 04:08)</em></u></strong></font></li><br><font face=Verdana>Lyder mere som om den eftert_nder... K_r til din mekaniker, og f_ stillet CO-v_rdien...</font><br><li><font face=Verdana><strong><u>Re: - <em>(Niels Peder Nielsen, 24-06-2004 13:42)</em></u></strong></font></li><br><font face=Verdana>Jeg har l_st problemet. Jeg havde justeret tomgangsskruen for langt ned for at den gi_ den langsomme omdrejninger nok i tomgang. Derved satte jeg magnetventilen ud af kraft.<br>Jeg har fundet en anden stilling p_ tomgangen ved at b_je b_jlen til karburatorens anslagspunkt (tomgang).</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">14</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">14</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

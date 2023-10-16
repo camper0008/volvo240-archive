@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-06-2013&nbsp; 12:54</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-06-2013 12:54</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hey<br><br>Jeg er blevet smask forelsket i en Volvo 740. Men jeg kender ikke vanvittig meget til den (eller Volvo generalt).<br>Jeg h_rer og l_ser tit de ikke er til at sl_ ihjel. S_ det er jo fedt.<br><br>I kan se den her<br><a href="http://www.dba.dk/volvo-740-20-stcar-1990-km/id-502244407" target="_blank">http://www.dba.dk/volvo-740-20-stcar-1990-km/id-502244407</a>/<br><br>S_dan til hverdagsbrug (minimum 20km) og en tur til Jylland fra K_benhavn et par gange om _ret, kunne den klarer det i nogle _r?<br>Jeg har googlet den lidt om benzin _konomi, men jeg synes jeg f_r nogle ret forskellige tal. 10km/l til hverdags k_relse, er det helt forkert. <br><br>Jeg ved man aldrig kan v_re 100&#37; sikker p_ den slags, men hvis vi nu satser p_ den er bare nogenlunde stand. Er den s_ dyr i reparationer? Og er der noget i ved med en hvis sikkerhed jeg kommer til at skifte j_vnligt. Har l_ste kuglelejer i styret_jet er et svagt punkt? <br><br>Kan man finde en dygtig Volvo mekaniker i K_benhavn omegn som ikke river pengne i ud lommen p_ dig? Jeg har pr_vet en enkelt gang at f_ en k_mpe regning som viste sig ikke at v_re n_dvendig :-S<br><br>P_ forh_nd tak</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 10-06-2013 13:20)</em></u></strong></font></li><br><font face=Verdana>Til den pris kan du f_ en 900 serie p_ 2.3L og indspr_jtning.<br>900 serien har lige f_et ryttet ud i de sidste b_rnesydomme i forhold til 700 serien, ellers er det samme bil.<br>Desuden ville jeg g_ efter en turbo model.<br>feks. denne: <a href="http://www.dba.dk/volvo-940-23-classic-stcar/id-91798630" target="_blank">http://www.dba.dk/volvo-940-23-classic-stcar/id-91798630</a>/<br><br>MVH Pede</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 10-06-2013 14:17)</em></u></strong></font></li><br><font face=Verdana>Hej Peter<br><br>Har du set KM-tallet til forskel-?<br><br>Hvorfor vil du v_lge en Turbo Model, ( Rent Interesse, da jeg lidt senere ogs_ vil have en 940 af de sidste.<br>mvh<br>S_ren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 10-06-2013 18:22)</em></u></strong></font></li><br><font face=Verdana>Hej S_ren<br>Km tallet er det jeg er mindst bekymret for, de k_re til verdens ende, og skulle det ske, s_ koster en ny maskine under 5000 kr.<br>Jeg ville v_lge en turbo model fordi den for det f_rste tr_kker bedre med sit st_rre moment og fordi den har en bedre benzin _konomi, hvis man k_re den p_nt. Og s_ er de ekstra heste da sjovt at have, men s_ er _konomin ogs_ v_k hvis man bruger dem.<br>Desuden er der mere udstyr i de nyere, og selv Classic modellen fik turbo i 1995.<br>Dog lavtryks turbo.<br>Jeg har selv en classic fra 1994 med over 400.000 p_ t_lleren og den g_r og lyder stadig som en ny maskine.<br>Og bruger ikke olie.<br>Men jeg skifter ogs_ meget tit. :-)<br>Den er s_ lidt sl_v syntes jeg, s_ der ligger et FX s_t der snart skal p_.<br><br>Mvh Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 11-06-2013 22:46)</em></u></strong></font></li><br><font face=Verdana>Jeg stemmer i med Peters forslag om ALTID at v_lge en turbo. Det er samme st_rke motor, bare med s_nket kompressionsforhold. I _vrigt er hverken h_j eller lavtryks turbomodellerne designet til nogensinde at v_re pressede. <br>Grunde til at v_lge en 900 fremfor en 700:<br>700 har f_r ca 1990 gammeldags motorstyring og tyndre plejlst_nger. Desuden f_r B230 motoren undersm_ring af krumtap/plejlst_nger i ca 1993. <br>Den eneste grund til at v_lge en 700 skal v_re at man bedst kan lide det "gode gamle" design.<br>I _vrigt er der nul forskel p_ br_ndstof_konomi med eller uden turbo. ( hvis man k_rer normalt alts_... ) og diverse sliddele er de samme.<br>I _vrigt i _vrigt: den ABSOLUT eneste forskel p_ lavtryksturbo med 135 hk og h_jtryksturbo med 165 er ladetrykket. Dvs at man med en manuel boostcontroller fra Ebay ( 20$ ) uden videre kan h_ve ladetrykket til de 0.6 bare som h_jtryksudgaven k_rer med. Vel at m_rke uden at man risikerer noget som helst.<br>Km ville jeg heller ikke t_nke p_. hvis en kompressionsm_ling siger ok, s_ er det ligemeget hvad blokken har k_rt. min nuv_rende har rundet 350.000. intet at se eller m_rke. Min forrige B230 havde rundet 470.000... perfekt kompression og intet at m_rke eller se.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 10-06-2013 13:20)</em></u></strong></font></li><br><font face=Verdana>Til den pris kan du f_ en 900 serie p_ 2.3L og indspr_jtning.<br>900 serien har lige f_et ryttet ud i de sidste b_rnesydomme i forhold til 700 serien, ellers er det samme bil.<br>Desuden ville jeg g_ efter en turbo model.<br>feks. denne: <a href="http://www.dba.dk/volvo-940-23-classic-stcar/id-91798630" target="_blank">http://www.dba.dk/volvo-940-23-classic-stcar/id-91798630</a>/<br><br>MVH Pede</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren Frydendahl Krab, 10-06-2013 14:17)</em></u></strong></font></li><br><font face=Verdana>Hej Peter<br><br>Har du set KM-tallet til forskel-?<br><br>Hvorfor vil du v_lge en Turbo Model, ( Rent Interesse, da jeg lidt senere ogs_ vil have en 940 af de sidste.<br>mvh<br>S_ren</font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 10-06-2013 18:22)</em></u></strong></font></li><br><font face=Verdana>Hej S_ren<br>Km tallet er det jeg er mindst bekymret for, de k_re til verdens ende, og skulle det ske, s_ koster en ny maskine under 5000 kr.<br>Jeg ville v_lge en turbo model fordi den for det f_rste tr_kker bedre med sit st_rre moment og fordi den har en bedre benzin _konomi, hvis man k_re den p_nt. Og s_ er de ekstra heste da sjovt at have, men s_ er _konomin ogs_ v_k hvis man bruger dem.<br>Desuden er der mere udstyr i de nyere, og selv Classic modellen fik turbo i 1995.<br>Dog lavtryks turbo.<br>Jeg har selv en classic fra 1994 med over 400.000 p_ t_lleren og den g_r og lyder stadig som en ny maskine.<br>Og bruger ikke olie.<br>Men jeg skifter ogs_ meget tit. :-)<br>Den er s_ lidt sl_v syntes jeg, s_ der ligger et FX s_t der snart skal p_.<br><br>Mvh Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 11-06-2013 22:46)</em></u></strong></font></li><br><font face=Verdana>Jeg stemmer i med Peters forslag om ALTID at v_lge en turbo. Det er samme st_rke motor, bare med s_nket kompressionsforhold. I _vrigt er hverken h_j eller lavtryks turbomodellerne designet til nogensinde at v_re pressede. <br>Grunde til at v_lge en 900 fremfor en 700:<br>700 har f_r ca 1990 gammeldags motorstyring og tyndre plejlst_nger. Desuden f_r B230 motoren undersm_ring af krumtap/plejlst_nger i ca 1993. <br>Den eneste grund til at v_lge en 700 skal v_re at man bedst kan lide det "gode gamle" design.<br>I _vrigt er der nul forskel p_ br_ndstof_konomi med eller uden turbo. ( hvis man k_rer normalt alts_... ) og diverse sliddele er de samme.<br>I _vrigt i _vrigt: den ABSOLUT eneste forskel p_ lavtryksturbo med 135 hk og h_jtryksturbo med 165 er ladetrykket. Dvs at man med en manuel boostcontroller fra Ebay ( 20$ ) uden videre kan h_ve ladetrykket til de 0.6 bare som h_jtryksudgaven k_rer med. Vel at m_rke uden at man risikerer noget som helst.<br>Km ville jeg heller ikke t_nke p_. hvis en kompressionsm_ling siger ok, s_ er det ligemeget hvad blokken har k_rt. min nuv_rende har rundet 350.000. intet at se eller m_rke. Min forrige B230 havde rundet 470.000... perfekt kompression og intet at m_rke eller se.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

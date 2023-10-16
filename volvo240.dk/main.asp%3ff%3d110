@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Udskiftning af Midterleje</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Udskiftning af Midterleje</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -137,11 +137,11 @@ document.onmousedown=click;
           <th width="700" align="left">Der findes to str. midterleje afh_ngig af 
           kardanens tykkelse. S_ m_l kardanens tykkelse inden du k_ber nyt leje.
           <br>
-          Kardanakslen findes&nbsp;i to tykkelser med diameter 44,5 mm og 50,8 mm. 
+          Kardanakslen findesi to tykkelser med diameter 44,5 mm og 50,8 mm. 
           Det er diameteren p_ den forreste del som m_les.</th>
         </tr>
         <tr>
-          <th width="50" colspan="2">&nbsp;</th>
+          <th width="50" colspan="2"></th>
           <th width="700" align="left">Hovedregelen er at alle B 23 og B 230 har 
           den tykke kardanaksel (_ 50,8 mm).</th>
         </tr>
@@ -155,25 +155,25 @@ document.onmousedown=click;
           </td>
         </tr>
         <tr>
-          <td width="750" colspan="3">&nbsp;<br>
-&nbsp;</td>
+          <td width="750" colspan="3"><br>
+</td>
         </tr>
         <tr>
           <td width="50" align="right" valign="top">1.</td>
-          <td width="5" align="right" valign="top">&nbsp;</td>
+          <td width="5" align="right" valign="top"></td>
           <td width="700">Kardanen afmonteres. Det g_res i ved flancerne i begge 
           ender (1 og 2 p_ fig. 1), samt oph_nget i midten.</td>
         </tr>
         <tr>
           <td width="50" align="right" valign="top">2.</td>
-          <td width="5" align="right" valign="top">&nbsp;</td>
+          <td width="5" align="right" valign="top"></td>
           <td width="700">P_ _87 og fremefter er den forreste flance erstattet 
           af en hardy-skive. Den er monteret med gennemg_ende bolte, s_ 
           afmontering er tilsvarende ved flance.</td>
         </tr>
         <tr>
           <td width="50" align="right" valign="top">3.</td>
-          <td width="5" align="right" valign="top">&nbsp;</td>
+          <td width="5" align="right" valign="top"></td>
           <td width="700">Kardanakslen adskilles midtp_ ved at tr_kke den fra 
           hinanden.<br>
           Forinden adskillelse m_rkes op p_ de to dele, s_ den 
@@ -181,19 +181,19 @@ document.onmousedown=click;
         </tr>
         <tr>
           <td width="50" align="right" valign="top">4.</td>
-          <td width="5" align="right" valign="top">&nbsp;</td>
+          <td width="5" align="right" valign="top"></td>
           <td width="700">Det gamle midterleje (3 p_ fig. 1) bankes af og det nye presses p_.<br>
           V_r n_je med at lejet sidder lige for ikke at f_ ubalance i kardanen.</td>
         </tr>
         <tr>
-          <td width="50" align="right" valign="top">&nbsp;5. </td>
-          <td width="5" align="right" valign="top">&nbsp;</td>
+          <td width="50" align="right" valign="top">5. </td>
+          <td width="5" align="right" valign="top"></td>
           <td width="700">Skift ogs_ gummioph_ng til midterleje hvis det er 
           revnet eller defekt p_ anden m_de</td>
         </tr>
         <tr>
           <td width="50" align="right" valign="top">6.</td>
-          <td width="5" align="right" valign="top">&nbsp;</td>
+          <td width="5" align="right" valign="top"></td>
           <td width="700">Kardanen samles igen og monteres.</td>
         </tr>
         </table>
@@ -224,7 +224,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

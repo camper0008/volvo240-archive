@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=1705"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1705"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">22-04-2004&nbsp; 22:36</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">22-04-2004 22:36</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvotosser :-)<br><br>Som nybagt volvo ejer, og f�rste gangs bilejer, er det ikke sm�ting man skal holde �je med. S� efter at have siddet og hyggel�st her p� forum til aften, faldt jeg over en der skrev at der SKULLE v�re precis 1 cm under gevindet med olie i karburatoren. Jeg har lige checket oliestanden p� min "nye" volvo 245 model 85 med b23a og pierburg 175cd. Der var circa � cm oile der l� og sjaskede rundt nede p� bunden. <br><br>S� kommer 64000 kroners sp�rgsm�lene:<br><br>1 Hvilken olie skal jeg komme p� ?<br>2 Kan den lave oliestand have noget at g�re med at bilen bruger afsindige m�ngder benzin ?<br>3 Er der noget der kan v�re g�et i stykker pga manglende olie ?<br>4 Er der andet jeg skal v�re opm�rksom p� ?<br><br>Mvh<br>Eik Madsen</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1715'>Re: Manglende olie i Pierburg 175CD</a> <em>(Johan &#197;rman, 23-04-2004 20:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1708'>Re: Manglende olie i Pierburg 175CD</a> <em>(Emil J, 23-04-2004 00:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1707'>Re: Manglende olie i Pierburg 175CD</a> <em>(Eik Madsen, 22-04-2004 23:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1706'>Re: Manglende olie i Pierburg 175CD</a> <em>(Eik Madsen, 22-04-2004 23:33)</em></strong></font></li><br><font face=Verdana>Efter yderligere inspektion opdagede jeg at luft-filteret lugter af benzin, er det normalt ? Samt at en slange var revet helt over. Slangen sad tilsluttet lige under choker-"benet", og f�rte op til en T fordeler i bilens venstre side oppe ved vindues rammen.. Jeg aner ikke hvad det var for en slange, men den var heldigvis til at sk�re til og tilslutte igen.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1715'>Re: Manglende olie i Pierburg 175CD</a> <em>(Johan Årman, 23-04-2004 20:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1708'>Re: Manglende olie i Pierburg 175CD</a> <em>(Emil J, 23-04-2004 00:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1707'>Re: Manglende olie i Pierburg 175CD</a> <em>(Eik Madsen, 22-04-2004 23:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1706'>Re: Manglende olie i Pierburg 175CD</a> <em>(Eik Madsen, 22-04-2004 23:33)</em></strong></font></li><br><font face=Verdana>Efter yderligere inspektion opdagede jeg at luft-filteret lugter af benzin, er det normalt ? Samt at en slange var revet helt over. Slangen sad tilsluttet lige under choker-"benet", og f�rte op til en T fordeler i bilens venstre side oppe ved vindues rammen.. Jeg aner ikke hvad det var for en slange, men den var heldigvis til at sk�re til og tilslutte igen.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">54</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">54</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

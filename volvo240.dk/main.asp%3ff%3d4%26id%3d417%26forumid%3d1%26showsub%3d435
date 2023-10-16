@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=417"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=417"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Temperaturm&#229;ler</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Temperaturmåler</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-05-2003&nbsp; 16:22</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-05-2003 16:22</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har udskiftet min k_ler da den gamle var lidt ut_t, men<br>med den nye k_ler g_r temperaturviseren noget over midten, f_r<br>udskiftningen gik den aldrig h_jere op end ca. midten.<br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=417&ForumID=1&Showsub=435'>Re: Temperaturm&#229;ler</a> <em>(Michael Jensen, 14-05-2003 23:48)</em></strong></font></li><br><font face=Verdana>Hej Finn<br>Er netop hjemkommet fra Sverige (Vimmerby)<br>Det var en original Volvo k_ler k_bt brugt hos en hugger. Vi skulle en tur til Sverige her i mandags og det var det eneste sted hvor jeg kunne finde en k_ler i weekenden og efter pr_vek_rsel blev motoren for varm. PANIK!!!!!<br>Kl 19.00 s_ndag d.11/5 fik jeg en spritny k_ler takket v_re Peter<br>Petersen fra Fa. Brdr. Petersen i Sdr. Omme som reddede vores Sverigstur. Nu er f_leren hvor den var f_r.<br>Morale: K_b ALDRIG en brugt k_ler medmindre i har god tid til at<br>teste den.</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=417&ForumID=1&Showsub=426'>Re: Temperaturm&#229;ler</a> <em>(Finn Kruse, 13-05-2003 00:16)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=417&ForumID=1&Showsub=435'>Re: Temperaturmåler</a> <em>(Michael Jensen, 14-05-2003 23:48)</em></strong></font></li><br><font face=Verdana>Hej Finn<br>Er netop hjemkommet fra Sverige (Vimmerby)<br>Det var en original Volvo k_ler k_bt brugt hos en hugger. Vi skulle en tur til Sverige her i mandags og det var det eneste sted hvor jeg kunne finde en k_ler i weekenden og efter pr_vek_rsel blev motoren for varm. PANIK!!!!!<br>Kl 19.00 s_ndag d.11/5 fik jeg en spritny k_ler takket v_re Peter<br>Petersen fra Fa. Brdr. Petersen i Sdr. Omme som reddede vores Sverigstur. Nu er f_leren hvor den var f_r.<br>Morale: K_b ALDRIG en brugt k_ler medmindre i har god tid til at<br>teste den.</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=417&ForumID=1&Showsub=426'>Re: Temperaturmåler</a> <em>(Finn Kruse, 13-05-2003 00:16)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">52</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">52</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

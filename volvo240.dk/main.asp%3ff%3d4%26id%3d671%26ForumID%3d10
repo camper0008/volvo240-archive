@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-09-2004&nbsp; 11:13</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-09-2004 11:13</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br>Jeg skal have bil nr. 2 (har allerede en 240 stc fra '89) og vil gerne h_re jeres r_d til hvad jeg skal k_be.<br><br>Den skal v_re s_ billig som mulig.<br>Den skal v_re driftsikker. <br>Den skal v_re sikker at k_re i.<br><br>Men den beh_ver ikke at v_re kandidat til Miss Volvo 240.<br><br>Jeg har derfor overvejet en gulplade bil (som alt andet lige giver mulighed for en bedre bil til samme penge) eller en fra f_r 80 (som kan forsikres billigt gennem nordisk veteran forsikring)<br><br>Er der nogen, der har nogle meninger om hvad man skal v_lge (evt. en kombination _ guleplade fra f_r 80)<br><br>P_ forh_nd tak, Malnitz</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 09-09-2004 22:00)</em></u></strong></font></li><br><font face=Verdana>Krav 2 og 3: <br>For at starte med de to sidste krav du stiller, kr_ves det, at den Volvo 240 du har i tankerne, er velholdt og, at du forts_tter med at vedligeholde den.<br><br>Krav 1: Du f_r i de fleste tilf_lde det du betaler for. <br>Hvis den ikke skal vinde diverse sk_nhedskonkurencer, kan du sagtens f_ en bil med diverse sk_nhedspletter billigere, end hvis disse f_rst skal repareres.<br><br>M_ske skal du ogs_ overveje om det skal v_re diesel, hvis du har et stort k_rselsforbrug. Den koster kr. 5760,-/_r. i v_gtafgift<br><br>Om den skal v_re p_ gule eller hvide plader er op til dig. P_ gule plader koster den kr. 2710,-/_r i v_gtafgift n_r den anvendes til privat brug. Hvis den tilmed er med dieselmotor er v_gtafgiften kr. 3420,-/_r.<br><br>(De anf_rte priser er set p_ Told & Skat hjemmeside og er g_ldende i 2004)<br><br><br>Mvh<br>Finn Kruse</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 09-09-2004 22:00)</em></u></strong></font></li><br><font face=Verdana>Krav 2 og 3: <br>For at starte med de to sidste krav du stiller, kr_ves det, at den Volvo 240 du har i tankerne, er velholdt og, at du forts_tter med at vedligeholde den.<br><br>Krav 1: Du f_r i de fleste tilf_lde det du betaler for. <br>Hvis den ikke skal vinde diverse sk_nhedskonkurencer, kan du sagtens f_ en bil med diverse sk_nhedspletter billigere, end hvis disse f_rst skal repareres.<br><br>M_ske skal du ogs_ overveje om det skal v_re diesel, hvis du har et stort k_rselsforbrug. Den koster kr. 5760,-/_r. i v_gtafgift<br><br>Om den skal v_re p_ gule eller hvide plader er op til dig. P_ gule plader koster den kr. 2710,-/_r i v_gtafgift n_r den anvendes til privat brug. Hvis den tilmed er med dieselmotor er v_gtafgiften kr. 3420,-/_r.<br><br>(De anf_rte priser er set p_ Told & Skat hjemmeside og er g_ldende i 2004)<br><br><br>Mvh<br>Finn Kruse</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">39</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">39</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

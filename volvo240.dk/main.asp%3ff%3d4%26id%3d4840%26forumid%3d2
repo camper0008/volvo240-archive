@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-11-2013&nbsp; 23:24</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-11-2013 23:24</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvo folk.<br>jeg har lidt problemer med mine bagbremser,, der er kommet nye skiver og klodser og kaliberne fungerer,, n_r jeg bremser virker det som bilen hakker lidt i bagt_jet og det f_les som om den ikke bremser rigtigt bagtil,,</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 11-11-2013 22:56)</em></u></strong></font></li><br><font face=Verdana>Hej Tommy<br>For at hj_lpe dig lidt, s_ vil jeg lige sige til dig, at n_r man ikke fort_ller hvilken Volvo model og _rgang det drejer sig om, s_ skal du heller ikke regne med at f_ noget svar p_ dit sp_rgsm_l.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 13-11-2013 01:00)</em></u></strong></font></li><br><font face=Verdana>Hvad er sp_rgsm_let egentlig??</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Skovlund Christiansen, 13-11-2013 13:46)</em></u></strong></font></li><br><font face=Verdana>Er de luftet ordenligt ud?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 13-11-2013 22:32)</em></u></strong></font></li><br><font face=Verdana>Er der nogen synderlig forskel p_ bremserne p_ 240/740/940/850?<br> Pointen er at der vel g_lder de samme regler... :-) <br>Jeg t_nker ogs_ mangelfuld udluftnings i den ene side, m_ske kombineret med et par d_rlige b_sninger i bagt_jet: rusken ved nedbremsning.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(tommy iversen, 20-12-2013 20:33)</em></u></strong></font></li><br><font face=Verdana>Undskyld.. hvis jeg udtrykte mig lidt d_rligt,,, min volvo 240 b230a fra 85 bremser igen fint, det var slangen fra bremse forst_rker til indsugning der var fl_kket, kostede en del blod sved og t_rer inden jeg<br> faldt over det,,,,,</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 11-11-2013 22:56)</em></u></strong></font></li><br><font face=Verdana>Hej Tommy<br>For at hj_lpe dig lidt, s_ vil jeg lige sige til dig, at n_r man ikke fort_ller hvilken Volvo model og _rgang det drejer sig om, s_ skal du heller ikke regne med at f_ noget svar p_ dit sp_rgsm_l.<br>MVH Jens Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 13-11-2013 01:00)</em></u></strong></font></li><br><font face=Verdana>Hvad er sp_rgsm_let egentlig??</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Skovlund Christiansen, 13-11-2013 13:46)</em></u></strong></font></li><br><font face=Verdana>Er de luftet ordenligt ud?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 13-11-2013 22:32)</em></u></strong></font></li><br><font face=Verdana>Er der nogen synderlig forskel p_ bremserne p_ 240/740/940/850?<br> Pointen er at der vel g_lder de samme regler... :-) <br>Jeg t_nker ogs_ mangelfuld udluftnings i den ene side, m_ske kombineret med et par d_rlige b_sninger i bagt_jet: rusken ved nedbremsning.</font><br><li><font face=Verdana><strong><u>Re: - <em>(tommy iversen, 20-12-2013 20:33)</em></u></strong></font></li><br><font face=Verdana>Undskyld.. hvis jeg udtrykte mig lidt d_rligt,,, min volvo 240 b230a fra 85 bremser igen fint, det var slangen fra bremse forst_rker til indsugning der var fl_kket, kostede en del blod sved og t_rer inden jeg<br> faldt over det,,,,,</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

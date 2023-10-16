@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-05-2015&nbsp; 12:59</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-05-2015 12:59</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br><br>Volvo 240, stc, 230fd, 1992.<br><br>Jeg vil gerne have skiftet mit analoge ur og min analoge temperaturm_ler ud med et vakuummeter og et voltmeter.<br><br>Jeg har begge instrumenter, men mangler vacuumslange og ledning.<br><br>Mit sp_rgsm_l:<br><br>I spare-partskataloget kan jeg se, at de forskellige voltmetre alle g_r til 1988. Betyder det at man slet ikke kan f_ et voltmeter til at virke i en 240 fra 1992? <br><br>Og mht. vacuummeter? er det ikke blot en slange der skal monteres?<br><br><br>Mvh,<br>Jonas</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jonas, 25-05-2015 08:46)</em></u></strong></font></li><br><font face=Verdana>Hov, fejl fra mig. Voltmetrene skiller i 1988 - udg_r ikke.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 25-05-2015 17:06)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas, vacuummeter har plus og minus og vakumslange fra indsugning til instrumentet. Voltmeter er nemmt at montere hvis det er et Volvo eller VDO, du kan tag plus fra sikkeringsskinne. Du m_ gerne komme forbi og se hvordan jeg har gjord.<br>Mvh, Antonio</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 26-05-2015 08:57)</em></u></strong></font></li><br><font face=Verdana>Hej Antonio,<br><br>Jeg mente nok at kunne huske, at du havde en del instrumenter i din 240:) <br><br>Jeg har flere steder p_ nettet l_st, at der burde v_re et hul med geving i indsugningsmanifolden, hvor man kan s_tte en vacuumslange til. Den kan jeg ikke finde, s_ m_ske jeg lige kommer forbi og ser en dag! <br><br>Mvh,<br>Jonas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 27-05-2015 20:46)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas, ok, kom bare du!!</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jonas, 25-05-2015 08:46)</em></u></strong></font></li><br><font face=Verdana>Hov, fejl fra mig. Voltmetrene skiller i 1988 - udg_r ikke.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 25-05-2015 17:06)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas, vacuummeter har plus og minus og vakumslange fra indsugning til instrumentet. Voltmeter er nemmt at montere hvis det er et Volvo eller VDO, du kan tag plus fra sikkeringsskinne. Du m_ gerne komme forbi og se hvordan jeg har gjord.<br>Mvh, Antonio</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jonas, 26-05-2015 08:57)</em></u></strong></font></li><br><font face=Verdana>Hej Antonio,<br><br>Jeg mente nok at kunne huske, at du havde en del instrumenter i din 240:) <br><br>Jeg har flere steder p_ nettet l_st, at der burde v_re et hul med geving i indsugningsmanifolden, hvor man kan s_tte en vacuumslange til. Den kan jeg ikke finde, s_ m_ske jeg lige kommer forbi og ser en dag! <br><br>Mvh,<br>Jonas</font><br><li><font face=Verdana><strong><u>Re: - <em>(Antonio Geyer, 27-05-2015 20:46)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas, ok, kom bare du!!</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

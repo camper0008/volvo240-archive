@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-12-2013&nbsp; 17:39</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-12-2013 17:39</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Nogen her der kender et sted hvor jeg kan f_ skiftet forrude p_ Volvo245 1992 - et godt tilbud?</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 29-12-2013 20:45)</em></u></strong></font></li><br><font face=Verdana>Jysk Autoglas ny forrude pris 2150,-kr</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 04-01-2014 13:55)</em></u></strong></font></li><br><font face=Verdana>ja ok, du henviser til en NY - men mente nu om her er nogen der har/kan skifte en evt brugt for mig?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 04-01-2014 16:29)</em></u></strong></font></li><br><font face=Verdana>Hvor i landet? :-)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 04-01-2014 18:20)</em></u></strong></font></li><br><font face=Verdana>Nordjylland</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 04-01-2014 22:14)</em></u></strong></font></li><br><font face=Verdana>Mulighed i _rhus-omr_det. Ring p_ 51843504 hvis du har lyst</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 29-12-2013 20:45)</em></u></strong></font></li><br><font face=Verdana>Jysk Autoglas ny forrude pris 2150,-kr</font><br><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 04-01-2014 13:55)</em></u></strong></font></li><br><font face=Verdana>ja ok, du henviser til en NY - men mente nu om her er nogen der har/kan skifte en evt brugt for mig?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 04-01-2014 16:29)</em></u></strong></font></li><br><font face=Verdana>Hvor i landet? :-)</font><br><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 04-01-2014 18:20)</em></u></strong></font></li><br><font face=Verdana>Nordjylland</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 04-01-2014 22:14)</em></u></strong></font></li><br><font face=Verdana>Mulighed i _rhus-omr_det. Ring p_ 51843504 hvis du har lyst</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Volvo F_lge</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Volvo F_lge</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -151,7 +151,7 @@ document.onmousedown=click;
               </tr>
               <tr>
                 <td width="50%">
-      	240/260&nbsp;&nbsp; 75-</td>
+      	240/260 75-</td>
                 <td width="50%"> 6820 001-3</td>
               </tr>
               <tr>
@@ -165,7 +165,7 @@ document.onmousedown=click;
               </tr>
             </table>
             <p>
-            &nbsp;Offset: 20 mm<br>
+            Offset: 20 mm<br>
             Anbefalet d_kst_relse:<br>
             205/55 R16</p>
           </td>
@@ -177,7 +177,7 @@ document.onmousedown=click;
               </tr>
               <tr>
                 <td width="50%">
-      	240/260&nbsp;&nbsp; 75-</td>
+      	240/260 75-</td>
                 <td width="50%"> 9134 007-5</td>
               </tr>
               <tr>
@@ -191,7 +191,7 @@ document.onmousedown=click;
             </table>
             <p>
             Offset: 20 mm<br>
-            Anbefalet d_kst_relse:&nbsp;<br>
+            Anbefalet d_kst_relse:<br>
  185/65 R15, 195/60 R15,<br>
             195/65 R15, 205/60 R15</p>
           </td>
@@ -204,7 +204,7 @@ document.onmousedown=click;
               </tr>
               <tr>
                 <td width="50%">
-      	240/260&nbsp;&nbsp; 75-</td>
+      	240/260 75-</td>
                 <td width="50%"> 9166 445-8</td>
               </tr>
               <tr>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         </tr>
         <tr>
           <td width="33%" valign="top">
-            <h3>Virgo- 6 x 15&quot;</h3>
+            <h3>Virgo- 6 x 15"</h3>
             <table border="0" cellpadding="0" cellspacing="0" width="100%">
               <tr>
                 <td width="100%" colspan="2">
@@ -242,7 +242,7 @@ document.onmousedown=click;
               </tr>
               <tr>
                 <td width="50%">
-      	240/260&nbsp;&nbsp; 75-</td>
+      	240/260 75-</td>
                 <td width="50%"> 1127 867-7</td>
               </tr>
               <tr>
@@ -257,7 +257,7 @@ document.onmousedown=click;
               </tr>
               <tr>
                 <td width="100%" colspan="2">
-            + Forkromede hjulm_trikker&nbsp;
+            + Forkromede hjulm_trikker
                 </td>
               </tr>
               <tr>
@@ -283,7 +283,7 @@ document.onmousedown=click;
               </tr>
               <tr>
                 <td width="50%">
-      	240/260&nbsp;&nbsp; 75-</td>
+      	240/260 75-</td>
                 <td width="50%"> 3529 180-6</td>
               </tr>
               <tr>
@@ -310,7 +310,7 @@ document.onmousedown=click;
               </tr>
               <tr>
                 <td width="100%" colspan="2">
-      	240/260&nbsp;&nbsp; 75-86, poleret</td>
+      	240/260 75-86, poleret</td>
               </tr>
               <tr>
                 <td width="50%">
@@ -320,7 +320,7 @@ document.onmousedown=click;
               </tr>
               <tr>
                 <td width="100%" colspan="2">
-      	240/260&nbsp;&nbsp; 87-    lakkeret</td>
+      	240/260 87-    lakkeret</td>
               </tr>
               <tr>
                 <td width="50%">
@@ -340,7 +340,7 @@ document.onmousedown=click;
               </tr>
               <tr>
                 <td width="100%" colspan="2">
-            + F_lgkapsel (lille - ej vist)&nbsp;</td>
+            + F_lgkapsel (lille - ej vist)</td>
               </tr>
               <tr>
                 <td width="50%">
@@ -382,7 +382,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

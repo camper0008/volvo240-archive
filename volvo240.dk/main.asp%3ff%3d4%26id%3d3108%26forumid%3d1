@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=3108"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=3108"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,10 +224,10 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-03-2005&nbsp; 21:49</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-03-2005 21:49</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Vi har en Volvo 240 med en B230E motor i.....<br>Den har pt. gået omkring 400.000 km, men køre ellers perfekt, og bruger hværken olie el.lign.<br><br>For 4 uger siden gik bilen ud et par gange under kørslen og sidste gang kunne den ikke starte og blev trukket ud til Volvo som skiftede et "sluttrin" (noget der sider ude bag forlygten i venstre side og som har med tændingen at gøre... (fik vi at vide)<br><br>Nå men det nye problem er opstået her i weekenden hvor vi var ude og køre, da vi havde holdt stille i vel ca. 1,5 time, ville bilen ikke starte igen.<br>Den kørte fint på starteren, og jeg prøvede om der var gnist, og det var der også. Efter yderligere ca. 1 time startede bilen igen uden problemer og kørte herefter fint i et par dage.....<br><br>Så idag opstår samme problem igen, jeg køre en tur, holder stille i ca. 20 min og kan herefter ikke starte.<br>Jeg får trukket bilen hjem og efter ca. en time starter bilen igen uden problemer, og køre fint.<br><br>Kan det mon være det der "sluttrin" der driller igen ??<br><br>Det skal siges at jeg har sat en ny alu-slange på luftintaget som kommer fra udstødningen her i weekenden (inden at problemerne startede), men jeg kan næsten ikke tro at det kan være det, eller kan det ??<br><br>Når den ikke starter, så er den helt død, der er ikke det mindste tegn på at den vil starte (ingen skyde, banke, prutte lyde), kun selve starteren køre.<br><br>Det skal også siges at den kun har gjort dette to gange, og at det selvfølgelig ret sikkert er svært at lede efter en periodisk fejl....<br><br>Vi ser andre med lign. problemer her på siden, men vi kan ikke se nogen løsning på problemet desværre......<br><br>Mvh.<br>Helle og Peter</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Vi har en Volvo 240 med en B230E motor i.....<br>Den har pt. gÃ¥et omkring 400.000 km, men kÃ¸re ellers perfekt, og bruger hvÃ¦rken olie el.lign.<br><br>For 4 uger siden gik bilen ud et par gange under kÃ¸rslen og sidste gang kunne den ikke starte og blev trukket ud til Volvo som skiftede et "sluttrin" (noget der sider ude bag forlygten i venstre side og som har med tÃ¦ndingen at gÃ¸re... (fik vi at vide)<br><br>NÃ¥ men det nye problem er opstÃ¥et her i weekenden hvor vi var ude og kÃ¸re, da vi havde holdt stille i vel ca. 1,5 time, ville bilen ikke starte igen.<br>Den kÃ¸rte fint pÃ¥ starteren, og jeg prÃ¸vede om der var gnist, og det var der ogsÃ¥. Efter yderligere ca. 1 time startede bilen igen uden problemer og kÃ¸rte herefter fint i et par dage.....<br><br>SÃ¥ idag opstÃ¥r samme problem igen, jeg kÃ¸re en tur, holder stille i ca. 20 min og kan herefter ikke starte.<br>Jeg fÃ¥r trukket bilen hjem og efter ca. en time starter bilen igen uden problemer, og kÃ¸re fint.<br><br>Kan det mon vÃ¦re det der "sluttrin" der driller igen ??<br><br>Det skal siges at jeg har sat en ny alu-slange pÃ¥ luftintaget som kommer fra udstÃ¸dningen her i weekenden (inden at problemerne startede), men jeg kan nÃ¦sten ikke tro at det kan vÃ¦re det, eller kan det ??<br><br>NÃ¥r den ikke starter, sÃ¥ er den helt dÃ¸d, der er ikke det mindste tegn pÃ¥ at den vil starte (ingen skyde, banke, prutte lyde), kun selve starteren kÃ¸re.<br><br>Det skal ogsÃ¥ siges at den kun har gjort dette to gange, og at det selvfÃ¸lgelig ret sikkert er svÃ¦rt at lede efter en periodisk fejl....<br><br>Vi ser andre med lign. problemer her pÃ¥ siden, men vi kan ikke se nogen lÃ¸sning pÃ¥ problemet desvÃ¦rre......<br><br>Mvh.<br>Helle og Peter</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">51</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">51</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

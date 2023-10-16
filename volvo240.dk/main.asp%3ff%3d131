@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Diverse billeder</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Diverse billeder</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -149,21 +149,21 @@ document.onmousedown=click;
   </tr>
   <tr>
     <td width="225" align="center" valign="top">(5) - Volvo 245 med parket gulv</td>
-    <td width="225" align="center" valign="top">(6) - T_ndr_rskabel fra en Volvo 855.<br>En gnaver med hang til r_gummi som smager af &quot;vildt dyr&quot;.</a></td>
+    <td width="225" align="center" valign="top">(6) - T_ndr_rskabel fra en Volvo 855.<br>En gnaver med hang til r_gummi som smager af "vildt dyr".</a></td>
     <td width="225" align="center" valign="top">(7) - Bagagerum med angivelse af hvor Service Label sidder placeret (gr_n cirkel).<br>R_d cirkel viser placering af forpumpe i benzintanken</td>
-    <td width="225" align="center" valign="top">(8) - Denne bremseskive blev udskiftet fra en Volvo 240 - 1980 som: &quot;bremser lidt underligt!&quot;.</td>
+    <td width="225" align="center" valign="top">(8) - Denne bremseskive blev udskiftet fra en Volvo 240 - 1980 som: "bremser lidt underligt!".</td>
   </tr>
   <tr>
     <td width="225" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/div_09.jpg','','height=663,width=425,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/diverse/images/div_09t.jpg"></A></td>
     <td width="225" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/div_10.jpg','','height=390,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="0" src="/diverse/images/div_10t.jpg"></A></td>
-    <td width="225" align="center">&nbsp;</td>
-    <td width="225" align="center">&nbsp;</td>
+    <td width="225" align="center"></td>
+    <td width="225" align="center"></td>
   </tr>
   <tr>
     <td width="225" align="center" valign="top">(9) - Udskiftning af kabinelys</td>
     <td width="225" align="center" valign="top">(10) - _T_ring_ i p_fyldningsr_ret (aluminium) bag sp_ndeb_ndet (jern). Korrosion som f_lge heraf.</td>
-    <td width="225" align="center">&nbsp;</td>
-    <td width="225" align="center">&nbsp;</td>
+    <td width="225" align="center"></td>
+    <td width="225" align="center"></td>
   </tr>
 </table>
 
@@ -191,7 +191,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

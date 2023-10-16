@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=286"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=286"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Montagevejledning for rulle-seler til ekstras&#230;de (</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Montagevejledning for rulle-seler til ekstrasæde (</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-04-2003&nbsp; 20:15</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">04-04-2003 20:15</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Vi har f�et fat i det der bagudvendte bags�de til vores Volvo 245.<br>Det er med rulle-seler og vi har k�bt det fra en ophugger.<br>N�, men vi fandt meget nemt ud af at montere selve s�det, og det er er da<br>fint nok, men vi er i tvivl om precis hvor/hvordan man skal montere selerne.<br>Der m� skulle laves nogle huller i bilen (3 i hver side), s� de kan<br>monteres, men precis hvor skal de laves ??<br>Eller er hullerne der allerede, hvis man kikker grundigt nok ??<br>Hullerne til selerne oppe i taget, tror vi ogs� godt vi ved hvor er, for det m� vel v�re der hvor "varegitret" engang har v�ret monteret i loftet. (?)<br>(Hullerne til montering af selve s�det var for �vrigt allerede forberedt fra Volvo(?) i bunden<br>af bilen)<br><br>Hvis du har en montagevejledning eller en Volvo 245 med rulle-selerne monteret, s� vil vi blive meget glade for at se hvor de er monteret, evt.<br>som digital-billede eller scannet fra montagevejledningen.<br>En link til et sted hvor der er en vejledning kan ogs� fint bruges. :-)<br><br>Vi har kikket p� http://www.volvo240.dk/main.asp?f=83, men der er det et system uden rulleseler der er billede af, og det er ikke nemt p� den stregtegning at se hvor de enkelte dele skal skrues fast, derudover er der et punkt mere i systemet med rullesele. :-)<br><br>Mvh.<br>Helle Olsen</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=286&ForumID=2&Showsub=3922'>Re: Montagevejledning for rulle-seler til ekstras&#230;de (</a> <em>(Jesper B, 02-08-2005 15:20)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=286&ForumID=2&Showsub=290'>Re: Montagevejledning for rulle-seler til ekstras&#230;de (</a> <em>(Jes, 05-04-2003 21:18)</em></strong></font></li><br><font face=Verdana>Hej igen<br><br>Det er korrekt at det beslag, der kan k�re l�st skal monteres i loftet. faktisk er det selen der k�rer, n�r beslaget bliver fikseret.<br>Det for enden, og jeg formoder det er ved l�sebeslaget og svarer til pos. 36,37,38,39,41 p� tegningen, skal placeres nederst indvendig p� hjulkassen. Det er der hvor hjulkasse-bekl�dningen og bundbekl�dningen st�der sammen ude i siden. Der skal bores et hjul til bolten. Udvendigt skal forankringen i hjulkassen forst�rkes med beslaget pos. 41.<br>Skulle du have flere spm., s� skriv endelig.<br><br>mvh<br><br>Jes</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=286&ForumID=2&Showsub=289'>Re: Montagevejledning for rulle-seler til ekstras&#230;de (</a> <em>(Helle Olsen, 05-04-2003 10:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=286&ForumID=2&Showsub=287'>Re: Montagevejledning for rulle-seler til ekstras&#230;de (</a> <em>(Jes, 04-04-2003 22:55)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=286&ForumID=2&Showsub=3922'>Re: Montagevejledning for rulle-seler til ekstrasæde (</a> <em>(Jesper B, 02-08-2005 15:20)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=286&ForumID=2&Showsub=290'>Re: Montagevejledning for rulle-seler til ekstrasæde (</a> <em>(Jes, 05-04-2003 21:18)</em></strong></font></li><br><font face=Verdana>Hej igen<br><br>Det er korrekt at det beslag, der kan k�re l�st skal monteres i loftet. faktisk er det selen der k�rer, n�r beslaget bliver fikseret.<br>Det for enden, og jeg formoder det er ved l�sebeslaget og svarer til pos. 36,37,38,39,41 p� tegningen, skal placeres nederst indvendig p� hjulkassen. Det er der hvor hjulkasse-bekl�dningen og bundbekl�dningen st�der sammen ude i siden. Der skal bores et hjul til bolten. Udvendigt skal forankringen i hjulkassen forst�rkes med beslaget pos. 41.<br>Skulle du have flere spm., s� skriv endelig.<br><br>mvh<br><br>Jes</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=286&ForumID=2&Showsub=289'>Re: Montagevejledning for rulle-seler til ekstrasæde (</a> <em>(Helle Olsen, 05-04-2003 10:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=286&ForumID=2&Showsub=287'>Re: Montagevejledning for rulle-seler til ekstrasæde (</a> <em>(Jes, 04-04-2003 22:55)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">42</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">42</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -154,9 +154,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0">
   <thead>
   <tr>
-    <td height="23">&nbsp;</td>
-    <td height="23">&nbsp;</td>
-    <td height="23">&nbsp;</td>
+    <td height="23"></td>
+    <td height="23"></td>
+    <td height="23"></td>
   </tr>
   </thead>
   <thead>  
@@ -164,11 +164,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Tilmeld Volvo 200</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Tilmeld Volvo 200</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -193,33 +193,33 @@ document.onmousedown=click;
 <table border="0" cellpadding="0" cellspacing="0" width="760" align="center">
   <tr>
     <td>
-      <h2>Tilføj din/dine Volvo 200 til Volvo 240 Registeret</h2>
-      <p>For at tilføje din Volvo 200 til registeret, skal du sende en e-mail
+      <h2>TilfÃ¸j din/dine Volvo 200 til Volvo 240 Registeret</h2>
+      <p>For at tilfÃ¸je din Volvo 200 til registeret, skal du sende en e-mail
       til <a href="mailto:240reg@volvo240.dk?subject=Volvo 240 Register">240reg@volvo240.dk</a>
-      med følgende oplysninger:</p>
+      med fÃ¸lgende oplysninger:</p>
       <ul>
-        <li>4 eller 8 billeder. Gerne 4-5 udvendige samt interiør, motorrum og
+        <li>4 eller 8 billeder. Gerne 4-5 udvendige samt interiÃ¸r, motorrum og
           bagagerum.<br>Billeder er ikke et krav.
         </li>
         <li>Navn, adresse, postnr og by.</li>
-        <li>Oplysninger fra registreringsattesten som vist på <A href="/240reg/images/240-reg-01.jpg" onclick="window.open( '/240reg/images/240-reg-01.jpg','','height=637,width=820,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false">fig 1</A>.
-          (De med grøn markerede felter)</li>
+        <li>Oplysninger fra registreringsattesten som vist pÃ¥ <A href="/240reg/images/240-reg-01.jpg" onclick="window.open( '/240reg/images/240-reg-01.jpg','','height=637,width=820,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false">fig 1</A>.
+          (De med grÃ¸n markerede felter)</li>
         <li>
-      Oplysninger fra ID-pladen. Placering som vist på <A href="/240reg/images/240-reg-02.jpg" onclick="window.open( '/240reg/images/240-reg-02.jpg','','height=250,width=584,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false">fig 2</A>.
-      (De med grøn markerede felter)</li>
+      Oplysninger fra ID-pladen. Placering som vist pÃ¥ <A href="/240reg/images/240-reg-02.jpg" onclick="window.open( '/240reg/images/240-reg-02.jpg','','height=250,width=584,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false">fig 2</A>.
+      (De med grÃ¸n markerede felter)</li>
       </ul>
-      <p>På billederne bliver registreringsnummeret slettet, med mindre du
-      skriver, at du ikke ønsker dem slettet.</p>
+      <p>PÃ¥ billederne bliver registreringsnummeret slettet, med mindre du
+      skriver, at du ikke Ã¸nsker dem slettet.</p>
       <p align="center"><b>Kun indregistrerede biler bliver optaget i registeret.</b>
       <hr>
       <form method="POST" action="/240reg/noreg.asp">
         <p>Hvis du IKKE vil tilmelde din Volvo 200 til registeret, 
-        vil det hjælpe mig meget, hvis du herunder vil skrive hvorfor.</p>
+        vil det hjÃ¦lpe mig meget, hvis du herunder vil skrive hvorfor.</p>
         <p><textarea rows="9" name="S1" cols="51"></textarea><br>
         <input type="submit" value="Send" name="B1">
         <input type="reset" value="Nulstil" name="B2"></p>
       </form>
-      <p align="left">&nbsp;</td>
+      <p align="left"></td>
   </tr>
 </table>
 <hr align="center">
@@ -229,7 +229,7 @@ document.onmousedown=click;
   <tr> 
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="Volvo 240 Startside">Startside</a> 
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','Volvo 240')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','Volvo 240')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -238,9 +238,9 @@ document.onmousedown=click;
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0">
 <thead>
   <tr> 
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;<!-- 1,214,724 Visitors since 3rd September 2001 --></span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"><!-- 1,214,724 Visitors since 3rd September 2001 --></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

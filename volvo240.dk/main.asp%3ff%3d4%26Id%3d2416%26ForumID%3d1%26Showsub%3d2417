@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=2416"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2416"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Motor &quot;mister pusten&quot;</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Motor "mister pusten"</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">22-11-2004&nbsp; 18:57</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">22-11-2004 18:57</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvovenner.<br><br>Forleden spurgte jeg en hj�lp p� denne fine side. Jeg fik ogs� hj�lp, og tak for det. Herren der hjalp mig p� vej spurgte om det var en 230A motor der er i min Volvo, og det er det rigtig nok.<br><br>Min motor er forsynet med en pierburg kaburator! Er det denne type kaburator hvori der er en udskiftelig membran?<br><br>Jeg kan se at det sidder et slags stempel i karburatoren. Dette stempel ser noget "fedtet" ud. Mit luftfilter har v�ret d�rligt, og derfor er der suget en del fedtet slam ind i karburatoren. Nu er der s� sat nyt luftfilter i, og det overfladiske fedt er fjernet, men der er jo nok stadig noget ved dette stempel/spj�ld.<br><br>Er der nogen der har erfaring med at stoppet luftfilter/d�rlig membran kan f� motoren til at miste pusten?<br><br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2416&ForumID=1&Showsub=2419'>Re: Motor &quot;mister pusten&quot;</a> <em>(Jesper Munksgaard, 22-11-2004 22:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2416&ForumID=1&Showsub=2418'>Re: Motor &quot;mister pusten&quot;</a> <em>(Emil J, 22-11-2004 21:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2416&ForumID=1&Showsub=2417'>Re: Motor &quot;mister pusten&quot;</a> <em>(Johan &#197;rman, 22-11-2004 20:01)</em></strong></font></li><br><font face=Verdana>Hej. Din motor, en B230A er forsynet med en Pierburg 175 karburator. Den kan godt drille og skal temmelig ofte justeres, men hvis du hele tiden holder olien oppe i rigtigt niveau (til m�rket lige under gevindet, hvor l�get er skruet i) er det en rigtig god karburator. Det er en god ide at skille den ad og rense den, det kan jo aldrig skade. Hvis membranen, der sidder under klokken p� karburatoren, er hullet, s� mister motoren kraften. n�r der g�r rigtig hul i den, kan du ikke k�re mere end 40 km/t. Tag den ud og se den op mod lyset. Hvis der er hul, s� skift den. Den koster ikke alverden.<br><br>God forn�jelse.<br><br>Johan �rman</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2416&ForumID=1&Showsub=2419'>Re: Motor "mister pusten"</a> <em>(Jesper Munksgaard, 22-11-2004 22:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2416&ForumID=1&Showsub=2418'>Re: Motor "mister pusten"</a> <em>(Emil J, 22-11-2004 21:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2416&ForumID=1&Showsub=2417'>Re: Motor "mister pusten"</a> <em>(Johan Årman, 22-11-2004 20:01)</em></strong></font></li><br><font face=Verdana>Hej. Din motor, en B230A er forsynet med en Pierburg 175 karburator. Den kan godt drille og skal temmelig ofte justeres, men hvis du hele tiden holder olien oppe i rigtigt niveau (til m�rket lige under gevindet, hvor l�get er skruet i) er det en rigtig god karburator. Det er en god ide at skille den ad og rense den, det kan jo aldrig skade. Hvis membranen, der sidder under klokken p� karburatoren, er hullet, s� mister motoren kraften. n�r der g�r rigtig hul i den, kan du ikke k�re mere end 40 km/t. Tag den ud og se den op mod lyset. Hvis der er hul, s� skift den. Den koster ikke alverden.<br><br>God forn�jelse.<br><br>Johan �rman</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">48</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">48</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

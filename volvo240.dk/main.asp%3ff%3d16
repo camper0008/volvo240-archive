@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;VIN Nummer</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">VIN Nummer</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -134,7 +134,7 @@ document.onmousedown=click;
   <tr>
     <td>
       <p align="left">Identifikationspladen er placeret p_ h_jre indersk_rm.</p>
-      <p align="left">Flyt musen over et felt p_ Identifikations Pladen for at se feltets betydning.&nbsp;Der er ogs_ link til en side med feltets betydning.&nbsp;</p>
+      <p align="left">Flyt musen over et felt p_ Identifikations Pladen for at se feltets betydning.Der er ogs_ link til en side med feltets betydning.</p>
       <p align="left">Placeringen af koderne i h_jreside, g_lder for _rgangene op til og med 1989.</p>
 
 <p align="center"><map name="idplate1">
@@ -156,7 +156,7 @@ document.onmousedown=click;
 
 
 
-VIN best_r af 17 cifre. Ikke anvendte tegn erstattes med &quot;Z&quot;.<p>F_lgende
+VIN best_r af 17 cifre. Ikke anvendte tegn erstattes med "Z".<p>F_lgende
 er en beskrivelse af de enkelte cifre:</p>
 
 <TABLE border="1">
@@ -215,7 +215,7 @@ er en beskrivelse af de enkelte cifre:</p>
           <TD bgcolor="#990033" width="15" align="center" style="color: #FFFFFF; font-weight: bold">Y</TD>
           <TD bgcolor="#990033" width="15" align="center" style="color: #FFFFFF; font-weight: bold">V</TD>
           <TD bgcolor="#990033" width="15" align="center" style="color: #FFFFFF; font-weight: bold">1</TD>
-          <TD bgcolor="#990033" style="color: #FFFFFF; font-weight: bold">&nbsp;Volvo</TD>
+          <TD bgcolor="#990033" style="color: #FFFFFF; font-weight: bold">Volvo</TD>
         </TR>
       </TABLE>
     </TD>
@@ -274,18 +274,18 @@ er en beskrivelse af de enkelte cifre:</p>
           <TD width="15" align="center">2</TD>
           <TD width="15" align="center">4</TD>
           <TD width="15" align="center">2</TD>
-          <TD>&nbsp;2 - d_rs</TD></TR>
+          <TD>2 - d_rs</TD></TR>
         <TR>
           <TD bgcolor="#990033" width="15" align="center" style="color: #FFFFFF; font-weight: bold">2</TD>
           <TD bgcolor="#990033" width="15" align="center" style="color: #FFFFFF; font-weight: bold">4</TD>
           <TD bgcolor="#990033" width="15" align="center" style="color: #FFFFFF; font-weight: bold">4</TD>
-          <TD bgcolor="#990033" style="color: #FFFFFF; font-weight: bold">&nbsp;4 - d_rs</TD>
+          <TD bgcolor="#990033" style="color: #FFFFFF; font-weight: bold">4 - d_rs</TD>
         </TR>
         <TR>
           <TD width="15" align="center">2</TD>
           <TD width="15" align="center">4</TD>
           <TD width="15" align="center">5</TD>
-          <TD>&nbsp;Station car</TD>
+          <TD>Station car</TD>
         </TR>
       </TABLE>
     </TD>
@@ -341,103 +341,103 @@ er en beskrivelse af de enkelte cifre:</p>
        <b>Ciffer 7,8:</b></h4>
        <p>
        <font size="2">Dette tal kan v_re p_ _t ciffer, og i s_ fald vil ciffer
-       8 v_re &quot;Z&quot;.</font>
+       8 v_re "Z".</font>
        </p>
       <TABLE border="1" cellspacing="0" width="100%">
         <TR>
           <TD width="15" align="center">1</TD>
-          <TD width="15" align="center">&nbsp;</TD>
-          <TD>&nbsp;B17</TD>
+          <TD width="15" align="center"></TD>
+          <TD>B17</TD>
         </TR>
         <TR>
           <TD width="15" align="center">2</TD>
-          <TD width="15" align="center">&nbsp;</TD>
-          <TD>&nbsp;B19</TD>
+          <TD width="15" align="center"></TD>
+          <TD>B19</TD>
         </TR>
         <TR>
           <TD width="15" align="center">4</TD>
-          <TD width="15" align="center" >&nbsp;</TD>
-          <TD>&nbsp;B21</TD>
+          <TD width="15" align="center" ></TD>
+          <TD>B21</TD>
         </TR>
         <TR>
           <TD width="15" align="center">1</TD>
           <TD width="15" align="center">1</TD>
-          <TD>&nbsp;B17A</TD>
+          <TD>B17A</TD>
         </TR>
         <TR>
           <TD width="15" align="center">2</TD>
           <TD width="15" align="center">1</TD>
-          <TD>&nbsp;B19A</TD>
+          <TD>B19A</TD>
         </TR>
         <TR>
           <TD width="15" align="center">2</TD>
           <TD width="15" align="center">3</TD>
-          <TD>&nbsp;B200K</TD>
+          <TD>B200K</TD>
         </TR>
         <TR>
           <TD width="15" align="center">2</TD>
           <TD width="15" align="center">4</TD>
-          <TD>&nbsp;B19E (fra 1977 - 1984)</TD>
+          <TD>B19E (fra 1977 - 1984)</TD>
         </TR>
         <TR>
           <TD width="15" align="center">2</TD>
           <TD width="15" align="center">4</TD>
-          <TD>&nbsp;B200E (fra 1985 til 1990)</TD>
+          <TD>B200E (fra 1985 til 1990)</TD>
         </TR>
         <TR>
           <TD width="15" align="center">2</TD>
           <TD width="15" align="center">7</TD>
-          <TD>&nbsp;B200F</TD>
+          <TD>B200F</TD>
         </TR>
         <TR>
           <TD width="15" align="center">4</TD>
           <TD width="15" align="center">1</TD>
-          <TD>&nbsp;B21A</TD>
+          <TD>B21A</TD>
         </TR>
         <TR>
           <TD width="15" align="center">4</TD>
           <TD width="15" align="center">4</TD>
-          <TD>&nbsp;B21E</TD>
+          <TD>B21E</TD>
         </TR>
         <TR>
           <TD width="15" align="center">4</TD>
           <TD width="15" align="center">6</TD>
-          <TD>&nbsp;B21ET</TD>
+          <TD>B21ET</TD>
         </TR>
         <TR>
           <TD width="15" align="center">7</TD>
           <TD width="15" align="center">7</TD>
-          <TD>&nbsp;D24</TD>
+          <TD>D24</TD>
         </TR>
         <TR>
           <TD bgcolor="#990033" width="15" align="center" style="color: #FFFFFF; font-weight: bold">8</TD>
           <TD bgcolor="#990033" width="15" align="center" style="color: #FFFFFF; font-weight: bold">1</TD>
-          <TD bgcolor="#990033" style="color: #FFFFFF; font-weight: bold">&nbsp;B23A/B230A</TD>
+          <TD bgcolor="#990033" style="color: #FFFFFF; font-weight: bold">B23A/B230A</TD>
         </TR>
         <TR>
           <TD width="15" align="center">8</TD>
           <TD width="15" align="center">3</TD>
-          <TD>&nbsp;B230K (1987 - 1989)</TD>
+          <TD>B230K (1987 - 1989)</TD>
         </TR>
         <TR>
           <TD width="15" align="center">8</TD>
           <TD width="15" align="center">3</TD>
-          <TD>&nbsp;B230FD (1990 - 1993)</TD>
+          <TD>B230FD (1990 - 1993)</TD>
         </TR>
         <TR>
           <TD width="15" align="center">8</TD>
           <TD width="15" align="center">4</TD>
-          <TD>&nbsp;B23E/B230E</TD>
+          <TD>B23E/B230E</TD>
         </TR>
         <TR>
           <TD width="15" align="center">8</TD>
           <TD width="15" align="center">5</TD>
-          <TD>&nbsp;B230FX</TD>
+          <TD>B230FX</TD>
         </TR>
         <TR>
           <TD width="15" align="center">8</TD>
           <TD width="15" align="center">8</TD>
-          <TD>&nbsp;B230F</TD>
+          <TD>B230F</TD>
         </TR>
       </TABLE>
       <font size="2">
@@ -501,27 +501,27 @@ er en beskrivelse af de enkelte cifre:</p>
       <TABLE border="1" cellspacing="0" width="100%">
         <TR>
           <TD width="15" align="center">1</TD>
-          <TD>&nbsp;M45, manuel 4-trins.</TD>
+          <TD>M45, manuel 4-trins.</TD>
         </TR>
         <TR>
           <TD width="15" align="center">2</TD>
-          <TD>&nbsp;M46, manuel 4-trins + el-overgear.</TD>
+          <TD>M46, manuel 4-trins + el-overgear.</TD>
         </TR>
         <TR>
           <TD width="15" bgcolor="#990033" align="center" style="color: #FFFFFF; font-weight: bold">3</TD>
-          <TD bgcolor="#990033" style="color: #FFFFFF; font-weight: bold">&nbsp;M47, manuel 5-trins.</TD>
+          <TD bgcolor="#990033" style="color: #FFFFFF; font-weight: bold">M47, manuel 5-trins.</TD>
         </TR>
         <TR>
           <TD width="15" align="center">6</TD>
-          <TD>&nbsp;M40, manuel 4-trins.</TD>
+          <TD>M40, manuel 4-trins.</TD>
         </TR>
         <TR>
           <TD width="15" align="center">7</TD>
-          <TD>&nbsp;AW70/71, automatisk 4-trins (4. trin = el-overgear).</TD>
+          <TD>AW70/71, automatisk 4-trins (4. trin = el-overgear).</TD>
         </TR>
         <TR>
           <TD width="15" align="center">8</TD>
-          <TD>&nbsp;BW35/55, automatisk 3-trins.</TD>
+          <TD>BW35/55, automatisk 3-trins.</TD>
         </TR>
       </TABLE>
     </TD>
@@ -579,61 +579,61 @@ er en beskrivelse af de enkelte cifre:</p>
       <TABLE border="1" cellspacing="0" width="100%">
         <TR>
           <TD width="15" align="center">B</TD>
-          <TD>&nbsp;1975</TD></TR>
+          <TD>1975</TD></TR>
         <TR>
           <TD width="15" align="center">E</TD>
-          <TD>&nbsp;1976</TD></TR>
+          <TD>1976</TD></TR>
         <TR>
           <TD width="15" align="center">H</TD>
-          <TD>&nbsp;1977</TD></TR>
+          <TD>1977</TD></TR>
         <TR>
           <TD width="15" align="center">L</TD>
-          <TD>&nbsp;1978</TD></TR>
+          <TD>1978</TD></TR>
         <TR>
           <TD width="15" align="center">M</TD>
-          <TD>&nbsp;1979</TD></TR>
+          <TD>1979</TD></TR>
         <TR>
           <TD width="15" align="center">A</TD>
-          <TD>&nbsp;1980</TD></TR>
+          <TD>1980</TD></TR>
         <TR>
           <TD width="15" align="center">B</TD>
-          <TD>&nbsp;1981</TD></TR>
+          <TD>1981</TD></TR>
         <TR>
           <TD width="15" align="center">C</TD>
-          <TD>&nbsp;1982</TD></TR>
+          <TD>1982</TD></TR>
         <TR>
           <TD width="15" align="center">D</TD>
-          <TD>&nbsp;1983</TD></TR>
+          <TD>1983</TD></TR>
         <TR>
           <TD bgcolor="#990033" width="15" align="center" style="color: #FFFFFF; font-weight: bold">E</TD>
-          <TD bgcolor="#990033" style="color: #FFFFFF; font-weight: bold">&nbsp;1984</TD></TR>
+          <TD bgcolor="#990033" style="color: #FFFFFF; font-weight: bold">1984</TD></TR>
         <TR>
           <TD width="15" align="center">F</TD>
-          <TD>&nbsp;1985</TD></TR>
+          <TD>1985</TD></TR>
         <TR>
           <TD width="15" align="center">G</TD>
-          <TD>&nbsp;1986</TD></TR>
+          <TD>1986</TD></TR>
         <TR>
           <TD width="15" align="center">H</TD>
-          <TD>&nbsp;1987</TD></TR>
+          <TD>1987</TD></TR>
         <TR>
           <TD width="15" align="center">J</TD>
-          <TD>&nbsp;1988</TD></TR>
+          <TD>1988</TD></TR>
         <TR>
           <TD width="15" align="center">K</TD>
-          <TD>&nbsp;1989</TD></TR>
+          <TD>1989</TD></TR>
         <TR>
           <TD width="15" align="center">L</TD>
-          <TD>&nbsp;1990</TD></TR>
+          <TD>1990</TD></TR>
         <TR>
           <TD width="15" align="center">M</TD>
-          <TD>&nbsp;1991</TD></TR>
+          <TD>1991</TD></TR>
         <TR>
           <TD width="15" align="center">N</TD>
-          <TD>&nbsp;1992</TD></TR>
+          <TD>1992</TD></TR>
         <TR>
           <TD width="15" align="center">P</TD>
-          <TD>&nbsp;1993</TD></TR>
+          <TD>1993</TD></TR>
       </TABLE>
     </TD>
   </TR>
@@ -689,43 +689,43 @@ er en beskrivelse af de enkelte cifre:</p>
       <TABLE border="1" cellspacing="0" width="100%">
         <TR>
           <TD width="15" align="center">0</TD>
-          <TD>&nbsp;Sverige</TD>
+          <TD>Sverige</TD>
         </TR>
         <TR>
           <TD bgcolor="#990033" width="15" align="center" style="color: #FFFFFF; font-weight: bold">1</TD>
-          <TD bgcolor="#990033" style="color: #FFFFFF; font-weight: bold">&nbsp;Sverige (G_teborg)</TD>
+          <TD bgcolor="#990033" style="color: #FFFFFF; font-weight: bold">Sverige (G_teborg)</TD>
         </TR>
         <TR>
           <TD width="15" align="center">2</TD>
-          <TD>&nbsp;Belgien (Gent)</TD>
+          <TD>Belgien (Gent)</TD>
         </TR>
         <TR>
           <TD width="15" align="center">3</TD>
-          <TD>&nbsp;Canada</TD>
+          <TD>Canada</TD>
         </TR>
         <TR>
           <TD width="15" align="center">4</TD>
-          <TD>&nbsp;Thailand</TD>
+          <TD>Thailand</TD>
         </TR>
         <TR>
           <TD width="15" align="center">5</TD>
-          <TD>&nbsp;Malaysia</TD>
+          <TD>Malaysia</TD>
         </TR>
         <TR>
           <TD width="15" align="center">6</TD>
-          <TD>&nbsp;Australien</TD>
+          <TD>Australien</TD>
         </TR>
         <TR>
           <TD width="15" align="center">7</TD>
-          <TD>&nbsp;Indonesien</TD>
+          <TD>Indonesien</TD>
         </TR>
         <TR>
-          <TD width="15" align="center">&nbsp;</TD>
-          <TD>&nbsp;Singapore</TD>
+          <TD width="15" align="center"></TD>
+          <TD>Singapore</TD>
         </TR>
         <TR>
-          <TD width="15" align="center">&nbsp;</TD>
-          <TD>&nbsp;Italien</TD>
+          <TD width="15" align="center"></TD>
+          <TD>Italien</TD>
         </TR>
       </TABLE>
     </TD>
@@ -789,7 +789,7 @@ VIN-nummeret i det viste eksempel fort_ller, at der er tale om en <b><i>Volvo</i
 <b><i>244</i></b> med en motor af type B23/<b><i>B23A</i></b> og med en <b><i>M47, manuel
 5-trins gearkasse</i></b>. Den er fra <i> <b>1984</b></i>, produceret i <b><i>Sverige</i></b>
 og p_ registreringsattesten vil der som chassis-nr sandsynligvis st_ <b><i>25828</i></b>.
-<br>&nbsp;<br>
+<br><br>
 
 
     </td>
@@ -814,7 +814,7 @@ og p_ registreringsattesten vil der som chassis-nr sandsynligvis st_ <b><i>25828
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

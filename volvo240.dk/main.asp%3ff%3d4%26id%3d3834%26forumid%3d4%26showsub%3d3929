@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,8 +203,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=3834"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=3834"><font face="Verdana">Besvar indl_g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -213,7 +213,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Overvejer k&#248;b af 740 stc. turbo, hj&#230;lp!</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Overvejer køb af 740 stc. turbo, hjælp!</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -225,7 +225,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">16-07-2005&nbsp; 14:00</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">16-07-2005 14:00</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej!<br><br>S_ er det min tur til at stille et sp_rgsm_l i dette forum. Jeg har p_ nuv_rende tidspunkt en Volvo 240 Stc. fra 1987 B230 K (236 000 km) der bare er i orden!! Men jeg har en fork_rlighed for 740 modellen.<br><br>Nu har jeg set en 740 turbo intercooler stc. fra 1986 (ca. 226 000 km) med injection og overgear til salg ved min mekaniker. Hvad skal jeg v_re opm_rksom p_ hvis jeg k_ber den. Er overgear skr_beligt? Det er specielt -injection- jeg leder efter da jeg er lidt tr_t af sidde og hive i en choker.<br><br>Er den voldson u_konimisk sammenlignet med min Volvo 240 DL STC. (jeg k_rer ret p_nt) Jeg mener ikke at det er s_ slemt med _konomien, n_r det er injection sammenlignet med kabourator med turbo!!??<br><br>Jeg h_ber at I kan give mig nogle gode r_d.<br><br>P_ forh_nd tak!<br><br>Jakob, Odense</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3834&ForumID=4&Showsub=3935'>Re: Overvejer k&#248;b af 740 stc. turbo, hj&#230;lp!</a> <em>(Jesper Johansen, 05-08-2005 15:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3834&ForumID=4&Showsub=3934'>Re: Overvejer k&#248;b af 740 stc. turbo, hj&#230;lp!</a> <em>(Jes, 05-08-2005 13:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3834&ForumID=4&Showsub=3933'>Re: Overvejer k&#248;b af 740 stc. turbo, hj&#230;lp!</a> <em>(Jakob Jensen, 05-08-2005 11:59)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3834&ForumID=4&Showsub=3929'>Re: Overvejer k&#248;b af 740 stc. turbo, hj&#230;lp!</a> <em>(michael nordahn, 03-08-2005 23:03)</em></strong></font></li><br><font face=Verdana>B-230 ET/FT motoren er normalt meget slidst_rk, og k_re problemfrit, HVIS den passes p_....<br>Har lagt en ETer fra 740 serien over i min 240 "jeg har en svaghed for den serie" og den har nu k_rt ca. 500000 (1/2 million) og indspr_jtet funker stadig.<br>Jeg k_re _rligt ca 30000km sommer/vinter, og holder vel godt 8.5 p_ en liter 95 blyfri.<br>Motoren er fra en 88er 744 turbo intercooler, og hedder B-230ET 182hk..... B-230FTeren har lidt f_re hk, men er ogs_ en brav maskine...<br><br>K_v du den bare.....</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3834&ForumID=4&Showsub=3935'>Re: Overvejer køb af 740 stc. turbo, hjælp!</a> <em>(Jesper Johansen, 05-08-2005 15:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3834&ForumID=4&Showsub=3934'>Re: Overvejer køb af 740 stc. turbo, hjælp!</a> <em>(Jes, 05-08-2005 13:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3834&ForumID=4&Showsub=3933'>Re: Overvejer køb af 740 stc. turbo, hjælp!</a> <em>(Jakob Jensen, 05-08-2005 11:59)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3834&ForumID=4&Showsub=3929'>Re: Overvejer køb af 740 stc. turbo, hjælp!</a> <em>(michael nordahn, 03-08-2005 23:03)</em></strong></font></li><br><font face=Verdana>B-230 ET/FT motoren er normalt meget slidst_rk, og k_re problemfrit, HVIS den passes p_....<br>Har lagt en ETer fra 740 serien over i min 240 "jeg har en svaghed for den serie" og den har nu k_rt ca. 500000 (1/2 million) og indspr_jtet funker stadig.<br>Jeg k_re _rligt ca 30000km sommer/vinter, og holder vel godt 8.5 p_ en liter 95 blyfri.<br>Motoren er fra en 88er 744 turbo intercooler, og hedder B-230ET 182hk..... B-230FTeren har lidt f_re hk, men er ogs_ en brav maskine...<br><br>K_v du den bare.....</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">45</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">45</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

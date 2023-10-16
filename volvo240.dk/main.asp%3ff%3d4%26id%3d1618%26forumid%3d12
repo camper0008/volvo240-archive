@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-05-2006&nbsp; 00:00</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">08-05-2006 00:00</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Vi har en 850 k�rer i menigheden (1998) og hans maskine kan ikke rigtig "arbejde" som f�r. Den kan ikke ta� mere end ca 4000 omdrejninger og "arbejder" slet ikke nok. G�r ved max omdrejninger (4000) uj�vn og kan lugte af benzin. En mekaniker siger, at det er katalysatoren, der dog kun har g�et 170.000 km. Kan det passe? Jeg mener det er noget med motorstyringen. Har nogen et bud?<br><br>Volvopr�sten i  Hjarup, der dog k�rer 240</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(nec, 08-05-2006 07:44)</em></u></strong></font></li><br><font face=Verdana>er der fejllampe t�ndt?? evt hvilken code. det kunne tyde p� luftmassem�ler der er defekt.( benzinlugt )de ca 4000 rpm tyder dog mest p� en defekt katalysator. det kan v�re en f�lgeskade af defekt luftmassem�ler.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(thomas, 08-05-2006 09:43)</em></u></strong></font></li><br><font face=Verdana>det er din katalysator som stopper dit udst�dningsr�r... det sker fordi indmaden i katalysatoren g�r i stykker i klumper...</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Frost, 12-06-2006 20:24)</em></u></strong></font></li><br><font face=Verdana>Min GLT'er g�r ogs� kun 4000 rpm, men det s� ogs� i 4. gear AW-42 ;) Det passer med 180 km/t, er det egentlig normalt ?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Niels Peder Nielsen, 14-06-2006 09:14)</em></u></strong></font></li><br><font face=Verdana>Problemet er l�st. Det var katalysatoren, men han fik monteret en discountudgave, der nu bevirker, at den lyder som en Kadett med sportsudst�dning og med nogle indvendige lydresonanser, s� det har de egnt. bitterlig fortrudt, selv om den igen har f�et "det s�dvanlige skud i kanonen". Hvad g�r I andre? S�tter i originalt p� igen?. Hans mekaniker sagde, at der skulle en planslibning til osv, og at det ville l�be op i ca. 10.000 kr., og s� valgte han 3000 krs l�sningen!<br>Volvopr�sten</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(nec, 08-05-2006 07:44)</em></u></strong></font></li><br><font face=Verdana>er der fejllampe t�ndt?? evt hvilken code. det kunne tyde p� luftmassem�ler der er defekt.( benzinlugt )de ca 4000 rpm tyder dog mest p� en defekt katalysator. det kan v�re en f�lgeskade af defekt luftmassem�ler.</font><br><li><font face=Verdana><strong><u>Re: - <em>(thomas, 08-05-2006 09:43)</em></u></strong></font></li><br><font face=Verdana>det er din katalysator som stopper dit udst�dningsr�r... det sker fordi indmaden i katalysatoren g�r i stykker i klumper...</font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Frost, 12-06-2006 20:24)</em></u></strong></font></li><br><font face=Verdana>Min GLT'er g�r ogs� kun 4000 rpm, men det s� ogs� i 4. gear AW-42 ;) Det passer med 180 km/t, er det egentlig normalt ?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Niels Peder Nielsen, 14-06-2006 09:14)</em></u></strong></font></li><br><font face=Verdana>Problemet er l�st. Det var katalysatoren, men han fik monteret en discountudgave, der nu bevirker, at den lyder som en Kadett med sportsudst�dning og med nogle indvendige lydresonanser, s� det har de egnt. bitterlig fortrudt, selv om den igen har f�et "det s�dvanlige skud i kanonen". Hvad g�r I andre? S�tter i originalt p� igen?. Hans mekaniker sagde, at der skulle en planslibning til osv, og at det ville l�be op i ca. 10.000 kr., og s� valgte han 3000 krs l�sningen!<br>Volvopr�sten</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -264,9 +264,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">11</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">11</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

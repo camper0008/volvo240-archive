@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-02-2014&nbsp; 01:39</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-02-2014 01:39</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej jeg g_r med den tossede ide&#39; da jeg har set det p_ en enkelt eller 2 Volvo 240, hvor de alm. lys i baglygter er splittet til hver side. Istedet for de er samlet ind mod nummerplade 2 p_ stribe.<br><br>-Hvad skal der evt. G_res for at det kan lade sig g_re???<br><br>Der g_r jo kun en ledning til alm. Lys pr. Baglygte.<br>-Man kan jo godt skille stikket og bytte rundt p_ ledningerne, MEN vil helst ikke _del_gge det org. Ledningsnet.<br><br>Data: Volvo 240, 82&#39; (6)lamper i baglygterne de store, som vi kender dem p_ de nyere.</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 21-02-2014 12:17)</em></u></strong></font></li><br><font face=Verdana>Det er en god ide :-) Jeg gjorde selv det for et par _r siden at jeg pillede den midterste p_re i baglygten ud og k_rte med t_gelys t_ndt altid. Kun fordi det ser federe ud. Jeg syntes at have set det mange gange i film, s_ jeg tror at det amerikanske marked har lidt anderledes lys i lygterne. Jeg er ikke elektriker, men jeg kunne godt finde p_ bare at s_tte ledningen fra den midterste k_relampe over p_ den yderste til t_gelys.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 21-02-2014 12:18)</em></u></strong></font></li><br><font face=Verdana>vr_vl, jeg kunne gdot finde p_ at splejse en ledning fra k_relyset over p_ t_gelyset ( og fjerne ledningen til t_gelyset ). ledningen ser det samme forbrug, s_ det burde ikke betyde noget som helst.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 23-02-2014 00:49)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Hvorfor ikke bare Baglys + T_gebaglys i den samme.<br>Hvis du tager bremselys fra Stc, ved ikke om det er det samme p_ sedan, og lige limer en ekstra stik p_, s_ har du baglys og kan alligevel t_nde for t_gelyset.<br>Jeg har haft flere stc med 2 baglys i hver side Den ene sad s_ oppe i t_gelyset, med 21/5 p_re i<br>mvh<br>S_ren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lars Rasmussen, 25-02-2014 18:53)</em></u></strong></font></li><br><font face=Verdana>Hej S_ren.<br><br>Kan du ikke uddybe n_rmere hvordan du lavede det p_ st.car?<br><br>Alts_ det praktiske med at f_ det til at passe i lygten..<br>Der skal jo anden fatning til?<br><br>Lars</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 21-02-2014 12:17)</em></u></strong></font></li><br><font face=Verdana>Det er en god ide :-) Jeg gjorde selv det for et par _r siden at jeg pillede den midterste p_re i baglygten ud og k_rte med t_gelys t_ndt altid. Kun fordi det ser federe ud. Jeg syntes at have set det mange gange i film, s_ jeg tror at det amerikanske marked har lidt anderledes lys i lygterne. Jeg er ikke elektriker, men jeg kunne godt finde p_ bare at s_tte ledningen fra den midterste k_relampe over p_ den yderste til t_gelys.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 21-02-2014 12:18)</em></u></strong></font></li><br><font face=Verdana>vr_vl, jeg kunne gdot finde p_ at splejse en ledning fra k_relyset over p_ t_gelyset ( og fjerne ledningen til t_gelyset ). ledningen ser det samme forbrug, s_ det burde ikke betyde noget som helst.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren Frydendahl Krab, 23-02-2014 00:49)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Hvorfor ikke bare Baglys + T_gebaglys i den samme.<br>Hvis du tager bremselys fra Stc, ved ikke om det er det samme p_ sedan, og lige limer en ekstra stik p_, s_ har du baglys og kan alligevel t_nde for t_gelyset.<br>Jeg har haft flere stc med 2 baglys i hver side Den ene sad s_ oppe i t_gelyset, med 21/5 p_re i<br>mvh<br>S_ren</font><br><li><font face=Verdana><strong><u>Re: - <em>(Lars Rasmussen, 25-02-2014 18:53)</em></u></strong></font></li><br><font face=Verdana>Hej S_ren.<br><br>Kan du ikke uddybe n_rmere hvordan du lavede det p_ st.car?<br><br>Alts_ det praktiske med at f_ det til at passe i lygten..<br>Der skal jo anden fatning til?<br><br>Lars</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

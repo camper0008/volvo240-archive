@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-06-2014&nbsp; 23:07</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-06-2014 23:07</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej allesammen. Jeg har for nyligt k_bt en volvo 240 GL fra 1985 og i bagagerummet er der noget der har vagt min nysgerrighed og det er de to gummislanger. Min viden om biler er i forvejen begr_nset s_ jeg m_ ha hj_lp af profferne.<br><br>P_ forh_nd tak. Brian<br><br><a href="http://[URL=http://s1339.photobucket.com/user/Dynamit_Harry/media/Bagagerum_zps2b29ec06.png.html][IMG]http://i1339.photobucket.com/albums/o705/Dynamit_Harry/Bagagerum_zps2b29ec06.png" target="_blank">[URL=http://s1339.photobucket.com/user/Dynamit_Harry/media/Bagagerum_zps2b29ec06.png.html][IMG]http://i1339.photobucket.com/albums/o705/Dynamit_Harry/Bagagerum_zps2b29ec06.png</a>[/IMG][/URL]</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Brian Andersen, 07-06-2014 23:09)</em></u></strong></font></li><br><font face=Verdana>_hh ved ikke hvad der sker for linket.<br><br><a href="http://i1339.photobucket.com/albums/o705/Dynamit_Harry/Bagagerum_zps2b29ec06.png" target="_blank">http://i1339.photobucket.com/albums/o705/Dynamit_Harry/Bagagerum_zps2b29ec06.png</a></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(David Cray, 08-06-2014 11:37)</em></u></strong></font></li><br><font face=Verdana>Hej Brian<br>Det er dr_nslanger, som findes p_ sedan-modellen, som g_r oppe fra bagruden og ned i vangerne nedenunder.<br>Jeg kan regne ud, at du ikke har et soltag i din model, da der ellers ville have v_ret et ekstra s_t slanger. Disse ville komme oppe fra soltaget/taget og samles med de to andre inden de g_r ned i vangen.<br><br>MVH David Cray</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Brian Andersen, 08-06-2014 14:40)</em></u></strong></font></li><br><font face=Verdana>Tusind tak for svaret David :) Har ikke lige set det f_r.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Brian Andersen, 07-06-2014 23:09)</em></u></strong></font></li><br><font face=Verdana>_hh ved ikke hvad der sker for linket.<br><br><a href="http://i1339.photobucket.com/albums/o705/Dynamit_Harry/Bagagerum_zps2b29ec06.png" target="_blank">http://i1339.photobucket.com/albums/o705/Dynamit_Harry/Bagagerum_zps2b29ec06.png</a></font><br><li><font face=Verdana><strong><u>Re: - <em>(David Cray, 08-06-2014 11:37)</em></u></strong></font></li><br><font face=Verdana>Hej Brian<br>Det er dr_nslanger, som findes p_ sedan-modellen, som g_r oppe fra bagruden og ned i vangerne nedenunder.<br>Jeg kan regne ud, at du ikke har et soltag i din model, da der ellers ville have v_ret et ekstra s_t slanger. Disse ville komme oppe fra soltaget/taget og samles med de to andre inden de g_r ned i vangen.<br><br>MVH David Cray</font><br><li><font face=Verdana><strong><u>Re: - <em>(Brian Andersen, 08-06-2014 14:40)</em></u></strong></font></li><br><font face=Verdana>Tusind tak for svaret David :) Har ikke lige set det f_r.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

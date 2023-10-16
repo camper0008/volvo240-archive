@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,13 +198,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Motor </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Motor, Gearkasse og Bagtøj. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Motor, Gearkasse og BagtÃ¸j. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=610"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=610"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-07-2003&nbsp; 19:27</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-07-2003 19:27</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa ...<br><br>Jeg ville lige hører jer ad .... <br>ved en af jer om der blev lavet B21A motorer med "flow system"? eller kom flow systemet kun på B230 fra '86 or frem?<br><br>MVH<br>Philip</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa ...<br><br>Jeg ville lige hÃ¸rer jer ad .... <br>ved en af jer om der blev lavet B21A motorer med "flow system"? eller kom flow systemet kun pÃ¥ B230 fra '86 or frem?<br><br>MVH<br>Philip</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=634'>Re: B21A</a> <em>(Jes, 15-07-2003 10:11)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Hvis du vil være sikker så skal du rette henvendelse skriftlig til Told og skat og beskrive nøje hvad du vil.<br>Jeg har, de gange jeg har gjort det, blot kørt bilen til syn ved Statens Bilinspektion. Dette også fordi jeg ikke var i tvivl, da jeg havde sat mig ind i reglerne.<br>Praksis hos Statens Bilinspektion er, at såfremt de er i tvivl om en evt. ombygning/ændring vil udløse fornyet afgiftbetaling, så henvises bilen og dens ejer til Told og Skat. Bilen kan så ikke godkendes før der foreligger en afgørelse fra Told og Skat.<br>Personligt så mener jeg du gør dig alt for mange unødige bekymringer. <br><br>Og jeg har altid haft ventilerede skiver monteret på de biler jeg har lavet. Det sikrer en bedre køling af bremserne ved højfartsnedbremsninger samt bedre sikkerhed for at skiverne ikke bliver for varme og fader, bliver skæve o.s.v.<br><br>mvh<br><br>Jes</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=631'>Re: B21A</a> <em>(Philip, 14-07-2003 12:01)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=619'>Re: B21A</a> <em>(Jes, 12-07-2003 13:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=618'>Re: B21A</a> <em>(Philip, 12-07-2003 11:39)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=616'>Re: B21A</a> <em>(Jes, 12-07-2003 11:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=615'>Re: B21A</a> <em>(Jes, 12-07-2003 11:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=614'>Re: B21A</a> <em>(Philip, 12-07-2003 09:44)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=613'>Re: B21A</a> <em>(Jes, 12-07-2003 09:20)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=634'>Re: B21A</a> <em>(Jes, 15-07-2003 10:11)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Hvis du vil vÃ¦re sikker sÃ¥ skal du rette henvendelse skriftlig til Told og skat og beskrive nÃ¸je hvad du vil.<br>Jeg har, de gange jeg har gjort det, blot kÃ¸rt bilen til syn ved Statens Bilinspektion. Dette ogsÃ¥ fordi jeg ikke var i tvivl, da jeg havde sat mig ind i reglerne.<br>Praksis hos Statens Bilinspektion er, at sÃ¥fremt de er i tvivl om en evt. ombygning/Ã¦ndring vil udlÃ¸se fornyet afgiftbetaling, sÃ¥ henvises bilen og dens ejer til Told og Skat. Bilen kan sÃ¥ ikke godkendes fÃ¸r der foreligger en afgÃ¸relse fra Told og Skat.<br>Personligt sÃ¥ mener jeg du gÃ¸r dig alt for mange unÃ¸dige bekymringer. <br><br>Og jeg har altid haft ventilerede skiver monteret pÃ¥ de biler jeg har lavet. Det sikrer en bedre kÃ¸ling af bremserne ved hÃ¸jfartsnedbremsninger samt bedre sikkerhed for at skiverne ikke bliver for varme og fader, bliver skÃ¦ve o.s.v.<br><br>mvh<br><br>Jes</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=631'>Re: B21A</a> <em>(Philip, 14-07-2003 12:01)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=619'>Re: B21A</a> <em>(Jes, 12-07-2003 13:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=618'>Re: B21A</a> <em>(Philip, 12-07-2003 11:39)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=616'>Re: B21A</a> <em>(Jes, 12-07-2003 11:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=615'>Re: B21A</a> <em>(Jes, 12-07-2003 11:14)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=614'>Re: B21A</a> <em>(Philip, 12-07-2003 09:44)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=610&ForumID=1&Showsub=613'>Re: B21A</a> <em>(Jes, 12-07-2003 09:20)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

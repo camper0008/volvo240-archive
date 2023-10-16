@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S¯g" name="B1">&nbsp;
+        <input type="submit" value="S√∏g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=4131"><font face="Verdana">Besvar indlÊg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=4131"><font face="Verdana">Besvar indl√¶g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Motor oph&#230;ng</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Motor oph√¶ng</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-09-2005&nbsp; 20:39</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-09-2005 20:39</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><br>Hejsa. Min nu 22 Âr gamle volvo k¯rer sk¯nt. Den har lige fÂet 4 nye dÊk pÂ og ruller som aldrig f¯r :-)  <br><br>MEN....  Jeg syntes motoren ryster en del. Den stÂr fint i tomgang og tÊnding. Men hvis jeg tager fat i motoren kan jeg rokke den en del. NÂr jeg kigger ned af siden pÂ motoren mens jeg tager fat i den kan jeg pÂ den ene side (den side hvor karburator sider (B230A)) se at ophÊnget til tider slipper sit fÊstne! Er der nogen der har oplevet det samme? Er det en udskiftning af motorophÊng?</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><br>Hejsa. Min nu 22 √•r gamle volvo k√∏rer sk√∏nt. Den har lige f√•et 4 nye d√¶k p√• og ruller som aldrig f√∏r :-)  <br><br>MEN....  Jeg syntes motoren ryster en del. Den st√•r fint i tomgang og t√¶nding. Men hvis jeg tager fat i motoren kan jeg rokke den en del. N√•r jeg kigger ned af siden p√• motoren mens jeg tager fat i den kan jeg p√• den ene side (den side hvor karburator sider (B230A)) se at oph√¶nget til tider slipper sit f√¶stne! Er der nogen der har oplevet det samme? Er det en udskiftning af motoroph√¶ng?</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4195'>Re: Motor oph&#230;ng</a> <em>(michael jensen, 26-09-2005 21:06)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4194'>Re: Motor oph&#230;ng</a> <em>(Jesper Munksgaard, 26-09-2005 18:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4193'>Re: Motor oph&#230;ng</a> <em>(Tor Eckhoff, 26-09-2005 16:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4191'>Re: Motor oph&#230;ng</a> <em>(michael jensen, 25-09-2005 20:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4190'>Re: Motor oph&#230;ng</a> <em>(Jesper Munksgaard, 25-09-2005 19:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4189'>Re: Motor oph&#230;ng</a> <em>(Emil J, 25-09-2005 13:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4187'>Re: Motor oph&#230;ng</a> <em>(Jesper Munksgaaard, 25-09-2005 11:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4184'>Re: Motor oph&#230;ng</a> <em>(Thomas Jensen, 24-09-2005 22:53)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4149'>Re: Motor oph&#230;ng</a> <em>(malnitz, 21-09-2005 08:45)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4145'>Re: Motor oph&#230;ng</a> <em>(Thomas Jensen, 20-09-2005 13:03)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4141'>Re: Motor oph&#230;ng</a> <em>(kent, 20-09-2005 09:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4139'>Re: Motor oph&#230;ng</a> <em>(nec., 20-09-2005 09:22)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4133'>Re: Motor oph&#230;ng</a> <em>(johan &#197;rman, 19-09-2005 22:00)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4132'>Re: Motor oph&#230;ng</a> <em>(Dennis Carlsen, 19-09-2005 21:36)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4195'>Re: Motor oph√¶ng</a> <em>(michael jensen, 26-09-2005 21:06)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4194'>Re: Motor oph√¶ng</a> <em>(Jesper Munksgaard, 26-09-2005 18:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4193'>Re: Motor oph√¶ng</a> <em>(Tor Eckhoff, 26-09-2005 16:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4191'>Re: Motor oph√¶ng</a> <em>(michael jensen, 25-09-2005 20:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4190'>Re: Motor oph√¶ng</a> <em>(Jesper Munksgaard, 25-09-2005 19:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4189'>Re: Motor oph√¶ng</a> <em>(Emil J, 25-09-2005 13:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4187'>Re: Motor oph√¶ng</a> <em>(Jesper Munksgaaard, 25-09-2005 11:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4184'>Re: Motor oph√¶ng</a> <em>(Thomas Jensen, 24-09-2005 22:53)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4149'>Re: Motor oph√¶ng</a> <em>(malnitz, 21-09-2005 08:45)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4145'>Re: Motor oph√¶ng</a> <em>(Thomas Jensen, 20-09-2005 13:03)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4141'>Re: Motor oph√¶ng</a> <em>(kent, 20-09-2005 09:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4139'>Re: Motor oph√¶ng</a> <em>(nec., 20-09-2005 09:22)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4133'>Re: Motor oph√¶ng</a> <em>(johan √Örman, 19-09-2005 22:00)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=4131&ForumID=1&Showsub=4132'>Re: Motor oph√¶ng</a> <em>(Dennis Carlsen, 19-09-2005 21:36)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf¯j til foretrukne">F¯j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf√∏j til foretrukne">F√∏j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">48</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">48</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,13 +198,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spørgsmål om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske spÃ¸rgsmÃ¥l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&amp;MessageId=375"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=375"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-05-2003&nbsp; 21:32</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-05-2003 21:32</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har fået fat på et par instrumenter :olietryksmåler,<br>olietemperatur,og en temperaturmåler som måler temp udenfor.<br>er der et sted hvor man (måske her) kan få fat i et diagram til disse<br>målere.<br>venlig hilsen Karsten</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har fÃ¥et fat pÃ¥ et par instrumenter :olietryksmÃ¥ler,<br>olietemperatur,og en temperaturmÃ¥ler som mÃ¥ler temp udenfor.<br>er der et sted hvor man (mÃ¥ske her) kan fÃ¥ fat i et diagram til disse<br>mÃ¥lere.<br>venlig hilsen Karsten</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=375&ForumID=2&Showsub=383'>Re: Instrumenter</a> <em>(Jan Lassen, 04-05-2003 02:31)</em></strong></font></li><br><font face=Verdana>Hej Karste,<br><br>Jeg kan ikke klare dem alle, men her er hvordan du installerer olietryksmåleren:<br><br>Hvis du har det originale ledningssæt, er der et stik der passer bag på instrumentet, med 4 ledninger rød/blå - grøn -  og 2 sorte. Derudover skal der være en grå ledning.<br><br>Stikket monteres på instrumentet, og den løse sorte ledning der kommer fra stikket monteres på en af holderne til lyset i instrumentet, og den grå ledning monteres, på benet ved siden af.<br><br>Herefter gør du som følger:<br><br>Tilslut den sorte ledning til midterkonsollens jordforbindelsesskrue.<br><br>Ledningsnettets grå ledning, tilsluttes til den brune ledning til belysningen i midterkonsollen.<br><br>Træk den rød/blå ledning frem til sikringsboksen, og tilslut den til sikring 13.<br><br>Træk den grønne ledning sammen med bilens eget ledningsnet, frem langs motoren, og under remskiven, frem til giveren.<br><br>Tilslut den grønne ledning til stiften mærket "G".<br><br>Tilslut bilens egen ledning til stiften mærket "WK".<br><br>Dette ifølge Volvo's monteringsanvisning fra 1981.<br><br>Princippet er det samme for olietemperaturmåleren, bortset fra at du her trækker ledningen frem til bundproppen, og tilslutter den til den føler der sidder der.<br><br>MvH<br><br>Jan Lassen</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=375&ForumID=2&Showsub=383'>Re: Instrumenter</a> <em>(Jan Lassen, 04-05-2003 02:31)</em></strong></font></li><br><font face=Verdana>Hej Karste,<br><br>Jeg kan ikke klare dem alle, men her er hvordan du installerer olietryksmÃ¥leren:<br><br>Hvis du har det originale ledningssÃ¦t, er der et stik der passer bag pÃ¥ instrumentet, med 4 ledninger rÃ¸d/blÃ¥ - grÃ¸n -  og 2 sorte. Derudover skal der vÃ¦re en grÃ¥ ledning.<br><br>Stikket monteres pÃ¥ instrumentet, og den lÃ¸se sorte ledning der kommer fra stikket monteres pÃ¥ en af holderne til lyset i instrumentet, og den grÃ¥ ledning monteres, pÃ¥ benet ved siden af.<br><br>Herefter gÃ¸r du som fÃ¸lger:<br><br>Tilslut den sorte ledning til midterkonsollens jordforbindelsesskrue.<br><br>Ledningsnettets grÃ¥ ledning, tilsluttes til den brune ledning til belysningen i midterkonsollen.<br><br>TrÃ¦k den rÃ¸d/blÃ¥ ledning frem til sikringsboksen, og tilslut den til sikring 13.<br><br>TrÃ¦k den grÃ¸nne ledning sammen med bilens eget ledningsnet, frem langs motoren, og under remskiven, frem til giveren.<br><br>Tilslut den grÃ¸nne ledning til stiften mÃ¦rket "G".<br><br>Tilslut bilens egen ledning til stiften mÃ¦rket "WK".<br><br>Dette ifÃ¸lge Volvo's monteringsanvisning fra 1981.<br><br>Princippet er det samme for olietemperaturmÃ¥leren, bortset fra at du her trÃ¦kker ledningen frem til bundproppen, og tilslutter den til den fÃ¸ler der sidder der.<br><br>MvH<br><br>Jan Lassen</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">4</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">4</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

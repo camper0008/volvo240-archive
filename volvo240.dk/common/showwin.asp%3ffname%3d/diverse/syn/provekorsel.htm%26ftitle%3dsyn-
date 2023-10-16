@@ -11,7 +11,7 @@
 <html>
 
 <head>
-<title>Synet -> Prøvekørsel</title>
+<title>Synet -> PrÃ¸vekÃ¸rsel</title>
 </head>
 
 <body bgcolor="#f0f0f0">
@@ -21,23 +21,23 @@
 <table width="590" border=1 align="center">
 <thead>
   <tr>
-    <td colspan="2" width="588">Prøvekørsel</td>
+    <td colspan="2" width="588">PrÃ¸vekÃ¸rsel</td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <th width="150" valign="top" align="left">Bremseprøve</th>
+    <th width="150" valign="top" align="left">BremseprÃ¸ve</th>
     <td width="810">
     <ul>
-      <li>Synsmedarbejderen foretager en bremseprøve under prøvekørslen. Hvis 
-        bremseprøven giver anledning til en udskridning, er dette tegn på en 
-        forkert fordeling af bremsekræfterne.</li>
-      <li>Bilen skal under normale forhold altid blokere forhjulene først. 
-        Sker det modsatte, at baghjulene blokerer først, vil bilen sandsynligvis 
+      <li>Synsmedarbejderen foretager en bremseprÃ¸ve under prÃ¸vekÃ¸rslen. Hvis 
+        bremseprÃ¸ven giver anledning til en udskridning, er dette tegn pÃ¥ en 
+        forkert fordeling af bremsekrÃ¦fterne.</li>
+      <li>Bilen skal under normale forhold altid blokere forhjulene fÃ¸rst. 
+        Sker det modsatte, at baghjulene blokerer fÃ¸rst, vil bilen sandsynligvis 
         skride ud til en af siderne.</li>
-      <li>Fejlen kan opstå hvis de forreste bremseskiver er tilsmudsede eller 
-        angrebet af rust. På biler med en lastafhængig bremseventil, kan fejlen 
-        ofte henføres til forkert justering eller manglende funktion.</li>
+      <li>Fejlen kan opstÃ¥ hvis de forreste bremseskiver er tilsmudsede eller 
+        angrebet af rust. PÃ¥ biler med en lastafhÃ¦ngig bremseventil, kan fejlen 
+        ofte henfÃ¸res til forkert justering eller manglende funktion.</li>
     </ul>
     </td>
   </tr>
@@ -45,8 +45,8 @@
     <th width="150" valign="top" align="left">Styreapparat</th>
     <td width="810">
     <ul>
-      <li>Prøvekørslen har til formål at vise, om styretøjet kan betjenes let, 
-        sikkert og hurtigt. Eventuelle trægheder i hjulophæng eller 
+      <li>PrÃ¸vekÃ¸rslen har til formÃ¥l at vise, om styretÃ¸jet kan betjenes let, 
+        sikkert og hurtigt. Eventuelle trÃ¦gheder i hjulophÃ¦ng eller 
         styreforbindelser vil kunne bevirke, at bilen ikke retter op efter et 
         sving.</li>
     </ul>

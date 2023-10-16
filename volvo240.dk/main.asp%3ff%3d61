@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;240 VIC Nummer</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">240 VIC Nummer</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -135,7 +135,7 @@ document.onmousedown=click;
   <tr>
     <td>
       <p align="left">Service pladen er placeret i bagagerummet. <A href="" onclick="window.open( '/common/showpic.asp?pname=/240info/svclabel/images/place.gif','','height=260,width=522,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false">Se her for placering</A>.</p>
-      <p align="left">Flyt musen over et felt p_ Service pladen for at se feltets betydning.&nbsp;Der er ogs_ link til en side med feltets betydning.&nbsp;</p>
+      <p align="left">Flyt musen over et felt p_ Service pladen for at se feltets betydning.Der er ogs_ link til en side med feltets betydning.</p>
       <p align="center">
       <map name="FPMap0">
         <area href="/main.asp?f=61" shape="rect" coords="10, 10, 585, 32" alt=" VIC - Vehicle Identification Code ">
@@ -179,7 +179,7 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="18">12</td>
       </tr>
       <tr>
-        <td width="41">&nbsp;</td>
+        <td width="41"></td>
         <td width="9" style="color: #FFFFFF" bgcolor="#800000">2</td>
         <td width="9" style="color: #FFFFFF" bgcolor="#800000">4</td>
         <td width="9">4</td>
@@ -190,8 +190,8 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="9">1</td>
         <td width="9">3</td>
         <td width="18">7</td>
-        <td width="18">&nbsp;</td>
-        <td width="18">&nbsp;</td>
+        <td width="18"></td>
+        <td width="18"></td>
       </tr>
     </table>
     </td>
@@ -201,12 +201,12 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
       <tr>
         <td align="middle" width="15" style="color: #FFFFFF" bgcolor="#800000">2</td>
         <td align="middle" width="15" style="color: #FFFFFF" bgcolor="#800000">4</td>
-        <td style="color: #FFFFFF" bgcolor="#800000">&nbsp;240 (242/244/245)</td>
+        <td style="color: #FFFFFF" bgcolor="#800000">240 (242/244/245)</td>
       </tr>
       <tr>
         <td align="middle" width="15">2</td>
         <td align="middle" width="15">6</td>
-        <td>&nbsp;260 (262/264/265)</td>
+        <td>260 (262/264/265)</td>
       </tr>
     </table>
     </td>
@@ -231,7 +231,7 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="18">12</td>
       </tr>
       <tr>
-        <td width="41">&nbsp;</td>
+        <td width="41"></td>
         <td width="9">2</td>
         <td width="9">4</td>
         <td width="9" style="color: #FFFFFF" bgcolor="#800000">4</td>
@@ -242,8 +242,8 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="9">1</td>
         <td width="9">3</td>
         <td width="18">7</td>
-        <td width="18">&nbsp;</td>
-        <td width="18">&nbsp;</td>
+        <td width="18"></td>
+        <td width="18"></td>
       </tr>
     </table>
     </td>
@@ -252,15 +252,15 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
     <table cellSpacing="0" width="100%" border="1">
       <tr>
         <td align="middle" width="15">2</td>
-        <td>&nbsp;2 - d_rs</td>
+        <td>2 - d_rs</td>
       </tr>
       <tr>
         <td align="middle" width="15" style="color: #FFFFFF" bgcolor="#800000">4</td>
-        <td style="color: #FFFFFF" bgcolor="#800000">&nbsp;4 - d_rs</td>
+        <td style="color: #FFFFFF" bgcolor="#800000">4 - d_rs</td>
       </tr>
       <tr>
         <td align="middle" width="15">5</td>
-        <td>&nbsp;5 - d_rs</td>
+        <td>5 - d_rs</td>
       </tr>
     </table>
     </td>
@@ -285,7 +285,7 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="18">12</td>
       </tr>
       <tr>
-        <td width="41">&nbsp;</td>
+        <td width="41"></td>
         <td width="9">2</td>
         <td width="9">4</td>
         <td width="9">4</td>
@@ -296,8 +296,8 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="9">1</td>
         <td width="9">3</td>
         <td width="18">7</td>
-        <td width="18">&nbsp;</td>
-        <td width="18">&nbsp;</td>
+        <td width="18"></td>
+        <td width="18"></td>
       </tr>
     </table>
     </td>
@@ -307,153 +307,153 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
       <tr>
         <td align="middle" width="15">1</td>
         <td align="middle" width="15">1</td>
-        <td>&nbsp;B17A</td>
+        <td>B17A</td>
       </tr>
       <tr>
         <td align="middle" width="15">2</td>
         <td align="middle" width="15">1</td>
-        <td>&nbsp;B19A</td>
+        <td>B19A</td>
       </tr>
       <tr>
         <td align="middle" width="15">2</td>
         <td align="middle" width="15">4</td>
-        <td>&nbsp;B19E</td>
+        <td>B19E</td>
       </tr>
       <tr>
         <td align="middle" width="15">2</td>
         <td align="middle" width="15">6</td>
-        <td>&nbsp;B19E</td>
+        <td>B19E</td>
       </tr>
       <tr>
         <td align="middle" width="15">3</td>
         <td align="middle" width="15">7</td>
-        <td>&nbsp;D20</td>
+        <td>D20</td>
       </tr>
       <tr>
         <td align="middle" width="15">4</td>
         <td align="middle" width="15">1</td>
-        <td>&nbsp;B21A</td>
+        <td>B21A</td>
       </tr>
       <tr>
         <td align="middle" width="15">4</td>
         <td align="middle" width="15">4</td>
-        <td>&nbsp;B21E</td>
+        <td>B21E</td>
       </tr>
       <tr>
         <td align="middle" width="15">4</td>
         <td align="middle" width="15">5</td>
-        <td>&nbsp;B21F</td>
+        <td>B21F</td>
       </tr>
       <tr>
         <td align="middle" width="15">4</td>
         <td align="middle" width="15">6</td>
-        <td>&nbsp;B21ET</td>
+        <td>B21ET</td>
       </tr>
       <tr>
         <td align="middle" width="15">4</td>
         <td align="middle" width="15">7</td>
-        <td>&nbsp;B21FT</td>
+        <td>B21FT</td>
       </tr>
       <tr>
         <td align="middle" width="15">4</td>
         <td align="middle" width="15">8</td>
-        <td>&nbsp;B21LH Jet</td>
+        <td>B21LH Jet</td>
       </tr>
       <tr>
         <td align="middle" width="15">4</td>
         <td align="middle" width="15">9</td>
-        <td>&nbsp;B21F MPG&nbsp; (1981)<br>
-        &nbsp;B21F K jet (1982)</td>
+        <td>B21F MPG (1981)<br>
+        B21F K jet (1982)</td>
       </tr>
       <tr>
         <td align="middle" width="15">6</td>
         <td align="middle" width="15">1</td>
-        <td>&nbsp;B27A</td>
+        <td>B27A</td>
       </tr>
       <tr>
         <td align="middle" width="15">6</td>
         <td align="middle" width="15">2</td>
-        <td>&nbsp;B28A</td>
+        <td>B28A</td>
       </tr>
       <tr>
         <td align="middle" width="15">6</td>
         <td align="middle" width="15">4</td>
-        <td>&nbsp;B27E</td>
+        <td>B27E</td>
       </tr>
       <tr>
         <td align="middle" width="15">6</td>
         <td align="middle" width="15">5</td>
-        <td>&nbsp;B27F</td>
+        <td>B27F</td>
       </tr>
       <tr>
         <td align="middle" width="15">6</td>
         <td align="middle" width="15">8</td>
-        <td>&nbsp;B28E</td>
+        <td>B28E</td>
       </tr>
       <tr>
         <td align="middle" width="15">6</td>
         <td align="middle" width="15">9</td>
-        <td>&nbsp;B28F</td>
+        <td>B28F</td>
       </tr>
       <tr>
         <td align="middle" width="15">7</td>
         <td align="middle" width="15">4</td>
-        <td>&nbsp;D24 TIC w/EGR</td>
+        <td>D24 TIC w/EGR</td>
       </tr>
       <tr>
         <td align="middle" width="15">7</td>
         <td align="middle" width="15">5</td>
-        <td>&nbsp;D24 TIC w/o EGR</td>
+        <td>D24 TIC w/o EGR</td>
       </tr>
       <tr>
         <td align="middle" width="15">7</td>
         <td align="middle" width="15">6</td>
-        <td>&nbsp;D24T</td>
+        <td>D24T</td>
       </tr>
       <tr>
         <td align="middle" width="15">7</td>
         <td align="middle" width="15">7</td>
-        <td>&nbsp;D24 (81-84)</td>
+        <td>D24 (81-84)</td>
       </tr>
       <tr>
         <td align="middle" width="15">8</td>
         <td align="middle" width="15">0</td>
-        <td>&nbsp;B230G</td>
+        <td>B230G</td>
       </tr>
       <tr>
         <td align="middle" width="15">8</td>
         <td align="middle" width="15">1</td>
-        <td>&nbsp;B23A</td>
+        <td>B23A</td>
       </tr>
       <tr>
         <td align="middle" width="15">8</td>
         <td align="middle" width="15">2</td>
-        <td>&nbsp;B230GT, B230FD</td>
+        <td>B230GT, B230FD</td>
       </tr>
       <tr>
         <td align="middle" width="15">8</td>
         <td align="middle" width="15">3</td>
-        <td>&nbsp;<font face="Arial">B230K</font></td>
+        <td><font face="Arial">B230K</font></td>
       </tr>
       <tr>
         <td align="middle" width="15" style="color: #FFFFFF" bgcolor="#800000">8</td>
         <td align="middle" width="15" style="color: #FFFFFF" bgcolor="#800000">4</td>
-        <td style="color: #FFFFFF" bgcolor="#800000">&nbsp;B23E/B230E</td>
+        <td style="color: #FFFFFF" bgcolor="#800000">B23E/B230E</td>
       </tr>
       <tr>
         <td align="middle" width="15">8</td>
         <td align="middle" width="15">5</td>
-        <td>&nbsp;B230FB</td>
+        <td>B230FB</td>
       </tr>
       <tr>
         <td align="middle" width="15">8</td>
         <td align="middle" width="15">8</td>
-        <td>&nbsp;B23F (83-84)</td>
+        <td>B23F (83-84)</td>
       </tr>
       <tr>
         <td align="middle" width="15">8</td>
         <td align="middle" width="15">8</td>
-        <td>&nbsp;B230F (85-)</td>
+        <td>B230F (85-)</td>
       </tr>
     </table>
     </td>
@@ -478,7 +478,7 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="18">12</td>
       </tr>
       <tr>
-        <td width="41">&nbsp;</td>
+        <td width="41"></td>
         <td width="9">2</td>
         <td width="9">4</td>
         <td width="9">4</td>
@@ -489,8 +489,8 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="9">1</td>
         <td width="9">3</td>
         <td width="18">7</td>
-        <td width="18">&nbsp;</td>
-        <td width="18">&nbsp;</td>
+        <td width="18"></td>
+        <td width="18"></td>
       </tr>
     </table>
     </td>
@@ -500,32 +500,32 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
       <tr>
         <td align="middle" width="15" style="color: #FFFFFF" bgcolor="#800000">0</td>
         <td align="middle" width="15" style="color: #FFFFFF" bgcolor="#800000">2</td>
-        <td style="color: #FFFFFF" bgcolor="#800000">&nbsp;DL = De Luxe</td>
+        <td style="color: #FFFFFF" bgcolor="#800000">DL = De Luxe</td>
       </tr>
       <tr>
         <td align="middle" width="15">0</td>
         <td align="middle" width="15">3</td>
-        <td>&nbsp;GL = Grand Luxe</td>
+        <td>GL = Grand Luxe</td>
       </tr>
       <tr>
         <td align="middle" width="15">0</td>
         <td align="middle" width="15">4</td>
-        <td>&nbsp;GLE = Grand Luxe Executive</td>
+        <td>GLE = Grand Luxe Executive</td>
       </tr>
       <tr>
         <td align="middle" width="15">0</td>
         <td align="middle" width="15">5</td>
-        <td>&nbsp;GT = Grand Touring</td>
+        <td>GT = Grand Touring</td>
       </tr>
       <tr>
         <td align="middle" width="15">0</td>
         <td align="middle" width="15">6</td>
-        <td>&nbsp;GLT = Grand Luxe Touring</td>
+        <td>GLT = Grand Luxe Touring</td>
       </tr>
       <tr>
         <td align="middle" width="15">0</td>
         <td align="middle" width="15">7</td>
-        <td>&nbsp;VAN</td>
+        <td>VAN</td>
       </tr>
     </table>
     </td>
@@ -550,7 +550,7 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="18">12</td>
       </tr>
       <tr>
-        <td width="41">&nbsp;</td>
+        <td width="41"></td>
         <td width="9">2</td>
         <td width="9">4</td>
         <td width="9">4</td>
@@ -561,8 +561,8 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="9" style="color: #FFFFFF" bgcolor="#800000">1</td>
         <td width="9">3</td>
         <td width="18">7</td>
-        <td width="18">&nbsp;</td>
-        <td width="18">&nbsp;</td>
+        <td width="18"></td>
+        <td width="18"></td>
       </tr>
     </table>
     </td>
@@ -571,11 +571,11 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
     <table cellSpacing="0" width="100%" border="1">
       <tr>
         <td style="color: #FFFFFF" align="middle" width="15" bgcolor="#800000">1</td>
-        <td style="color: #FFFFFF" bgcolor="#800000">&nbsp;Uden soltag</td>
+        <td style="color: #FFFFFF" bgcolor="#800000">Uden soltag</td>
       </tr>
       <tr>
         <td align="middle" width="15">2</td>
-        <td>&nbsp;Med soltag</td>
+        <td>Med soltag</td>
       </tr>
     </table>
     </td>
@@ -600,7 +600,7 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="18">12</td>
       </tr>
       <tr>
-        <td width="41">&nbsp;</td>
+        <td width="41"></td>
         <td width="9">2</td>
         <td width="9">4</td>
         <td width="9">4</td>
@@ -611,8 +611,8 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="9">1</td>
         <td width="9" style="color: #FFFFFF" bgcolor="#800000">3</td>
         <td width="18">7</td>
-        <td width="18">&nbsp;</td>
-        <td width="18">&nbsp;</td>
+        <td width="18"></td>
+        <td width="18"></td>
       </tr>
     </table>
     </td>
@@ -621,27 +621,27 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
     <table cellSpacing="0" width="100%" border="1">
       <tr>
         <td align="middle" width="15">1</td>
-        <td>&nbsp;M45, manuel 4-trins.</td>
+        <td>M45, manuel 4-trins.</td>
       </tr>
       <tr>
         <td align="middle" width="15">2</td>
-        <td>&nbsp;M46, manuel 4-trins + el-overgear.</td>
+        <td>M46, manuel 4-trins + el-overgear.</td>
       </tr>
       <tr>
         <td style="color: #FFFFFF" align="middle" width="15" bgcolor="#800000">3</td>
-        <td style="color: #FFFFFF" bgcolor="#800000">&nbsp;M47, manuel 5-trins.</td>
+        <td style="color: #FFFFFF" bgcolor="#800000">M47, manuel 5-trins.</td>
       </tr>
       <tr>
         <td align="middle" width="15">6</td>
-        <td>&nbsp;M40, manuel 4-trins.</td>
+        <td>M40, manuel 4-trins.</td>
       </tr>
       <tr>
         <td align="middle" width="15">7</td>
-        <td>&nbsp;AW70/71, automatisk 4-trins (4. trin = el-overgear).</td>
+        <td>AW70/71, automatisk 4-trins (4. trin = el-overgear).</td>
       </tr>
       <tr>
         <td align="middle" width="15">8</td>
-        <td>&nbsp;BW35/55, automatisk 3-trins.</td>
+        <td>BW35/55, automatisk 3-trins.</td>
       </tr>
     </table>
     </td>
@@ -666,7 +666,7 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="18">12</td>
       </tr>
       <tr>
-        <td width="41">&nbsp;</td>
+        <td width="41"></td>
         <td width="9">2</td>
         <td width="9">4</td>
         <td width="9">4</td>
@@ -677,8 +677,8 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
         <td width="9">1</td>
         <td width="9">3</td>
         <td width="18" bgcolor="#800000" style="color: #FFFFFF">7</td>
-        <td width="18">&nbsp;</td>
-        <td width="18">&nbsp;</td>
+        <td width="18"></td>
+        <td width="18"></td>
       </tr>
     </table>
     </td>
@@ -687,7 +687,7 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
     <table cellSpacing="0" width="100%" border="1">
       <tr>
         <td align="middle" width="15" style="color: #FFFFFF" bgcolor="#800000">1</td>
-        <td style="color: #FFFFFF" bgcolor="#800000">&nbsp;Venstre styret</td>
+        <td style="color: #FFFFFF" bgcolor="#800000">Venstre styret</td>
       </tr>
       <tr>
         <td align="middle" width="15">2</td>
@@ -722,7 +722,7 @@ F_lgende er en beskrivelse af de enkelte cifre:</p>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-08-2003&nbsp; 11:26</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-08-2003 11:26</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Nye topm�trikker til mine originale Volvo Alu-turbinef�lge (Volvo 245-1988)koster 57 kr./stk. hos Volvo DK, s� det bliver lidt kosbart for 20 nye stk.<br>De gamle er sp�ndt ovale i den yderste del af hullerne og sp�nder helt vildt ved montering.<br>Findes der akceptable alternative l�sninger, f.eks. i form af uoriginale topm�trikker eller kan de gamle sk�res op med en snittap.<br>Hvilket gevind er der tale om ?<br><br></font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Michael Jensen, 29-08-2003 21:43)</em></u></strong></font></li><br><font face=Verdana>Gevindene p� hjulm�trikkerne er 1/2UNF.<br>Jeg har selv samme problem idet jeg havde en sk�v f�lg og jeg k�bte<br>4Tunaverken aluf�lge.<br><br>Firmaet BILTEMA s�lger forkromede topm�trikker til Volvo, men de er<br>lavet forkert idet hullet der er boret er for stort, hvilket <br>bevirker at m�trikkerne er meget l�se i gevindet.<br>Jeg vil p� det kraftigste frar�de at man benytter disse m�trikker.<br>Hvad koster m�trikkerne evt. hos en forhandler i Sverige?</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Michael Jensen, 29-08-2003 21:43)</em></u></strong></font></li><br><font face=Verdana>Gevindene p� hjulm�trikkerne er 1/2UNF.<br>Jeg har selv samme problem idet jeg havde en sk�v f�lg og jeg k�bte<br>4Tunaverken aluf�lge.<br><br>Firmaet BILTEMA s�lger forkromede topm�trikker til Volvo, men de er<br>lavet forkert idet hullet der er boret er for stort, hvilket <br>bevirker at m�trikkerne er meget l�se i gevindet.<br>Jeg vil p� det kraftigste frar�de at man benytter disse m�trikker.<br>Hvad koster m�trikkerne evt. hos en forhandler i Sverige?</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">25</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">25</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

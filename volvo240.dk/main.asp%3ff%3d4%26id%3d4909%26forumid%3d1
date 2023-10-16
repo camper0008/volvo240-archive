@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-05-2014&nbsp; 02:10</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-05-2014 02:10</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">har sat og s_gt p_ liv og l_s men uden s_rlig meget held.<br>er igang med at bygge en b230FT+ op fra bunden<br>Mit sp_rgsm_l er s_ hvordan ser jeg forskel p_ de forskellige topstykker.<br>Motoren blev k_rt ind til 531HK sidste sommer men da turboen r_g kunne jeg lige s_ godt hive motoren ud og renovere den helt og har 2 ekstra ft blokke st_ende men alle 3 toppe ser forskellige ud kan det passe?</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 12-05-2014 13:27)</em></u></strong></font></li><br><font face=Verdana>Der sidder et st_benummer mellem cylinder 2 og 3 p_ udst_dningssiden. <br>p_ nyere motorer st_r der 530 eller 531. Langt de fleste er 530. <br>Der er mig bekendt absolut ingen forskel p_ portene og kammeret p_ 530-toppe mellem F og FT motorer. Eneste forskel er at udst_dningsventilerne er sodium-fyldte. Til moderat tryk og varme kan der sagtens k_res med almindelige ventiler.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(jalle, 13-05-2014 11:06)</em></u></strong></font></li><br><font face=Verdana>Tak for svaret Jacob :) p_ min gamle top er nummeret slebet v_k men p_ de to andre st_r der 530 og 531. <br>Den gamle top klarede 1.4 bar.. vi regner med at den renoverede motor gerne skulle yde mere end den gjorde f_r men regner ikke med h_jere tryk. St_rste udfordring bliver nok om knasterne holder. &#59;)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 13-05-2014 21:34)</em></u></strong></font></li><br><font face=Verdana>Hej Jalle<br><br>Det kan godt ske, at det er bare er mig, som er dum. Men hvad mener du egentlig med det du skriver?<br>"Den gamle top klarede 1.4 bar". Hvad skulle det sked med topstykket, hvis trykket var h_jere? Tror du det spr_nger i luften pga. trykket?<br>"St_rste udfordring bliver nok om knasterne holder". Tror du knasterne p_ knastakslen hopper af, hvis trykket var h_jere?<br><br>Jeg er tror, at den st_rste bekymring burde v_re, om stempler, plejlst_ngerne og toppakning kan holde. For jeg har endnu aldrig h_rt om, at knasterne p_ knastakslen pludselig skulle forsvinde eller topstykket eksplodere grundet h_jt ladetryk.<br><br>Men som sagt. Jeg kan ske at v_re dum.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 15-05-2014 06:32)</em></u></strong></font></li><br><font face=Verdana>Jeg g_r ud fra at du ikke selv har st_et bag at bygge motoren... :-) 531 heste fra en 2.3 liters 4-benet er ekstremt meget. Enhver top kan klare 2 bar hvis man har lyst. Tryk er i sidste ende bare et sp_rgsm_l om modstand:-)<br>Den top der sidder p_ nu m_ v_re portet helt op til s_lvpapirs-tynde v_gge. <br>Jeg ville nok ogs_ bekymre mig mere for om toppakningen holder eller om motoren stikker et ben ud. :-) <br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 21-05-2014 09:45)</em></u></strong></font></li><br><font face=Verdana>Mon ikke han bare har skrevet forkert 531hk og et topstykke der har nummer 531, s_ mon ikke det er en tanketorsk?<br><br>mvh Pede</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 21-05-2014 10:47)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Ja det er ogs_ en mulighed. S_ vil jeg da undskylde mig lidt barske udmelding i forrige indl_g.<br>Jeg har s_ l_rt noget nyt i dag. Man kan simpelthen afl_se motorens effekt p_ topstykket lige over nr. 2 t_ndr_r.<br>1000531 m_ s_ v_re 531 hk og 1000 Nm i drejningsmoment eller er jeg helt galt p_ den?<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 23-05-2014 19:18)</em></u></strong></font></li><br><font face=Verdana>n_ for d_len da.... anede ikke at det er ilde set at stille dumme sp_rgsm_l herinde  hehehe selv ved jeg ikke meget om motorer, og stiller mange damme og naive sp_rgsm_l... For regner med at dem der er dygtige p_ det felt svarer :-) <br>Men underholdende l_sning :-D<br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 12-05-2014 13:27)</em></u></strong></font></li><br><font face=Verdana>Der sidder et st_benummer mellem cylinder 2 og 3 p_ udst_dningssiden. <br>p_ nyere motorer st_r der 530 eller 531. Langt de fleste er 530. <br>Der er mig bekendt absolut ingen forskel p_ portene og kammeret p_ 530-toppe mellem F og FT motorer. Eneste forskel er at udst_dningsventilerne er sodium-fyldte. Til moderat tryk og varme kan der sagtens k_res med almindelige ventiler.</font><br><li><font face=Verdana><strong><u>Re: - <em>(jalle, 13-05-2014 11:06)</em></u></strong></font></li><br><font face=Verdana>Tak for svaret Jacob :) p_ min gamle top er nummeret slebet v_k men p_ de to andre st_r der 530 og 531. <br>Den gamle top klarede 1.4 bar.. vi regner med at den renoverede motor gerne skulle yde mere end den gjorde f_r men regner ikke med h_jere tryk. St_rste udfordring bliver nok om knasterne holder. &#59;)</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 13-05-2014 21:34)</em></u></strong></font></li><br><font face=Verdana>Hej Jalle<br><br>Det kan godt ske, at det er bare er mig, som er dum. Men hvad mener du egentlig med det du skriver?<br>"Den gamle top klarede 1.4 bar". Hvad skulle det sked med topstykket, hvis trykket var h_jere? Tror du det spr_nger i luften pga. trykket?<br>"St_rste udfordring bliver nok om knasterne holder". Tror du knasterne p_ knastakslen hopper af, hvis trykket var h_jere?<br><br>Jeg er tror, at den st_rste bekymring burde v_re, om stempler, plejlst_ngerne og toppakning kan holde. For jeg har endnu aldrig h_rt om, at knasterne p_ knastakslen pludselig skulle forsvinde eller topstykket eksplodere grundet h_jt ladetryk.<br><br>Men som sagt. Jeg kan ske at v_re dum.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 15-05-2014 06:32)</em></u></strong></font></li><br><font face=Verdana>Jeg g_r ud fra at du ikke selv har st_et bag at bygge motoren... :-) 531 heste fra en 2.3 liters 4-benet er ekstremt meget. Enhver top kan klare 2 bar hvis man har lyst. Tryk er i sidste ende bare et sp_rgsm_l om modstand:-)<br>Den top der sidder p_ nu m_ v_re portet helt op til s_lvpapirs-tynde v_gge. <br>Jeg ville nok ogs_ bekymre mig mere for om toppakningen holder eller om motoren stikker et ben ud. :-) <br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 21-05-2014 09:45)</em></u></strong></font></li><br><font face=Verdana>Mon ikke han bare har skrevet forkert 531hk og et topstykke der har nummer 531, s_ mon ikke det er en tanketorsk?<br><br>mvh Pede</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 21-05-2014 10:47)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Ja det er ogs_ en mulighed. S_ vil jeg da undskylde mig lidt barske udmelding i forrige indl_g.<br>Jeg har s_ l_rt noget nyt i dag. Man kan simpelthen afl_se motorens effekt p_ topstykket lige over nr. 2 t_ndr_r.<br>1000531 m_ s_ v_re 531 hk og 1000 Nm i drejningsmoment eller er jeg helt galt p_ den?<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 23-05-2014 19:18)</em></u></strong></font></li><br><font face=Verdana>n_ for d_len da.... anede ikke at det er ilde set at stille dumme sp_rgsm_l herinde  hehehe selv ved jeg ikke meget om motorer, og stiller mange damme og naive sp_rgsm_l... For regner med at dem der er dygtige p_ det felt svarer :-) <br>Men underholdende l_sning :-D<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

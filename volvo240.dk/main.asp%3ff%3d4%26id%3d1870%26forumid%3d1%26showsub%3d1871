@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=1870"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1870"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Benzin &#248;konomi</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Benzin Ã¸konomi</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">31-05-2004&nbsp; 23:59</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">31-05-2004 23:59</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Har en 240 fra 87 med 230f motor .Den går ca 8 km på literen ved blandet kørsel,den har en sund motorgang og bruger ikke olie,men den skal presses noget for at køre 110 på motorvej i 5. gear og foretrækker helst at blive sat i 4. ved bakkerne.Vil gerne have den til at gå længere, og lidt og mindre anstrengt. Jeg vil sætte el blæser på den i første omgang. Men har en 230at til at stå og spekulerer på at montere den, da den nok vil trække mindere anstrengt pgra. turboens hjælp,og mere økønomisk.<br>På forhånd tak</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Har en 240 fra 87 med 230f motor .Den gÃ¥r ca 8 km pÃ¥ literen ved blandet kÃ¸rsel,den har en sund motorgang og bruger ikke olie,men den skal presses noget for at kÃ¸re 110 pÃ¥ motorvej i 5. gear og foretrÃ¦kker helst at blive sat i 4. ved bakkerne.Vil gerne have den til at gÃ¥ lÃ¦ngere, og lidt og mindre anstrengt. Jeg vil sÃ¦tte el blÃ¦ser pÃ¥ den i fÃ¸rste omgang. Men har en 230at til at stÃ¥ og spekulerer pÃ¥ at montere den, da den nok vil trÃ¦kke mindere anstrengt pgra. turboens hjÃ¦lp,og mere Ã¸kÃ¸nomisk.<br>PÃ¥ forhÃ¥nd tak</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=2117'>Re: Benzin &#248;konomi</a> <em>(Carsten Svane, 22-08-2004 12:45)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1937'>Re: Benzin &#248;konomi</a> <em>(Martin, 20-06-2004 19:35)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1894'>Re: Benzin &#248;konomi</a> <em>(carsten svane, 07-06-2004 20:11)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1882'>Re: Benzin &#248;konomi</a> <em>(becker, 04-06-2004 11:11)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1881'>Re: Benzin &#248;konomi</a> <em>(Anders, 03-06-2004 21:29)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1878'>Re: Benzin &#248;konomi</a> <em>(Becker, 03-06-2004 15:24)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1876'>Re: Benzin &#248;konomi</a> <em>(Anders, 02-06-2004 21:19)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1875'>Re: Benzin &#248;konomi</a> <em>(Jes, 02-06-2004 10:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1874'>Re: Benzin &#248;konomi</a> <em>(Emil J, 01-06-2004 22:08)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1873'>Re: Benzin &#248;konomi</a> <em>(Martin Nielsen, 01-06-2004 21:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1871'>Re: Benzin &#248;konomi</a> <em>(Jes, 01-06-2004 19:07)</em></strong></font></li><br><font face=Verdana>Hej<br><br>For at sige det mildt: Der er noget helt galt med din motorstyring. Sådan en F-motor skal gerne gå min. 10 km/l og rask væk trække op ad alle bakker i 5.gear.<br>Det tyder på en defekt luftmassemåler, så den kører i nødprogram. Eller en slidt lambdasonde, som også får den til at køre i nødprogram. Alternativt kan det være en tilstoppet katalysator (indmaden løs, og sidder som en prop).<br>Få en mekaniker til at udlæse fejlkoder og måle spændingen på hhv. luftmasemåler og lambdasonde.<br><br>mvh<br><br>Jes</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=2117'>Re: Benzin Ã¸konomi</a> <em>(Carsten Svane, 22-08-2004 12:45)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1937'>Re: Benzin Ã¸konomi</a> <em>(Martin, 20-06-2004 19:35)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1894'>Re: Benzin Ã¸konomi</a> <em>(carsten svane, 07-06-2004 20:11)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1882'>Re: Benzin Ã¸konomi</a> <em>(becker, 04-06-2004 11:11)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1881'>Re: Benzin Ã¸konomi</a> <em>(Anders, 03-06-2004 21:29)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1878'>Re: Benzin Ã¸konomi</a> <em>(Becker, 03-06-2004 15:24)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1876'>Re: Benzin Ã¸konomi</a> <em>(Anders, 02-06-2004 21:19)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1875'>Re: Benzin Ã¸konomi</a> <em>(Jes, 02-06-2004 10:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1874'>Re: Benzin Ã¸konomi</a> <em>(Emil J, 01-06-2004 22:08)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1873'>Re: Benzin Ã¸konomi</a> <em>(Martin Nielsen, 01-06-2004 21:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1870&ForumID=1&Showsub=1871'>Re: Benzin Ã¸konomi</a> <em>(Jes, 01-06-2004 19:07)</em></strong></font></li><br><font face=Verdana>Hej<br><br>For at sige det mildt: Der er noget helt galt med din motorstyring. SÃ¥dan en F-motor skal gerne gÃ¥ min. 10 km/l og rask vÃ¦k trÃ¦kke op ad alle bakker i 5.gear.<br>Det tyder pÃ¥ en defekt luftmassemÃ¥ler, sÃ¥ den kÃ¸rer i nÃ¸dprogram. Eller en slidt lambdasonde, som ogsÃ¥ fÃ¥r den til at kÃ¸re i nÃ¸dprogram. Alternativt kan det vÃ¦re en tilstoppet katalysator (indmaden lÃ¸s, og sidder som en prop).<br>FÃ¥ en mekaniker til at udlÃ¦se fejlkoder og mÃ¥le spÃ¦ndingen pÃ¥ hhv. luftmasemÃ¥ler og lambdasonde.<br><br>mvh<br><br>Jes</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">34</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">34</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

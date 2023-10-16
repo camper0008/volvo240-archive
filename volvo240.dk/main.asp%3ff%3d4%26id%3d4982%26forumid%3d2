@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-03-2015&nbsp; 20:22</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-03-2015 20:22</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Ejer af 240 stc _rgang &#39;91, hvor den ene p_re eller hvad der sidder i instrumentbordet med speedometer, tankm_ler, ur, blinklys mm er g_et.<br><br>Hvordan skiftes det? Skal man have heller boksen ud eller er der en nem vej til at udskifte dette?<br><br>/Ulrik</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 13-03-2015 07:36)</em></u></strong></font></li><br><font face=Verdana>Goddag<br>Man tager den gamle p_re ud og s_tter en ny i.<br>Og, til dit sp_rgsm_l nr. 2 man stikker h_nden op bag "boksen" som du kalder den og skifter p_ren.<br><br>Steen <br>Frederikssund</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 13-03-2015 17:02)</em></u></strong></font></li><br><font face=Verdana>Du beh_ver ikke tage det ud for at skifte p_rer men som Steen siger kan det g_res bagfra eller nedefra. P_rerne sidder i en fatning som sikkert er sort og den er nem at finde n_r man lyser med en lygte derop. Det burde v_re en nem operation at foretage. <br>Mvh Kent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ulrik Lassen, 13-03-2015 19:47)</em></u></strong></font></li><br><font face=Verdana>Tak for input - lige dem jeg gerne ville have inden jeg skal g_re bilen for_rs klar.<br><br>God weekend.<br>/ Ulrik</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 13-03-2015 07:36)</em></u></strong></font></li><br><font face=Verdana>Goddag<br>Man tager den gamle p_re ud og s_tter en ny i.<br>Og, til dit sp_rgsm_l nr. 2 man stikker h_nden op bag "boksen" som du kalder den og skifter p_ren.<br><br>Steen <br>Frederikssund</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 13-03-2015 17:02)</em></u></strong></font></li><br><font face=Verdana>Du beh_ver ikke tage det ud for at skifte p_rer men som Steen siger kan det g_res bagfra eller nedefra. P_rerne sidder i en fatning som sikkert er sort og den er nem at finde n_r man lyser med en lygte derop. Det burde v_re en nem operation at foretage. <br>Mvh Kent</font><br><li><font face=Verdana><strong><u>Re: - <em>(Ulrik Lassen, 13-03-2015 19:47)</em></u></strong></font></li><br><font face=Verdana>Tak for input - lige dem jeg gerne ville have inden jeg skal g_re bilen for_rs klar.<br><br>God weekend.<br>/ Ulrik</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

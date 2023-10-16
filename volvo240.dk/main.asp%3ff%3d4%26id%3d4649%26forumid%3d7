@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-08-2012&nbsp; 22:41</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-08-2012 22:41</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">hej min volvo 740 B23F injection volder problemer. Den for ingen benzin. pumperne sender godtnok benzin frem. men jeg har afmonteret dyserne og de _bner ikke. eller dvs ved nogle start fors_g _bner de men langt de fleste gange g_r de ikke. f_leren p_ svinghjulet er skiftet. generator er skiftet. br_ndstoffilter + begge pumper er skiftet. lodningerne p_ br_ndstofrel_ ser fine ud, men jeg tvangst_nder pumperne ellers starter de ikke stabilt..  kan det passe at str_mfordeleren kan p_virke dysserne??? det sidste nye er at den sender fejlkode 144 dvs defekt map/maf sensor, men der har v_ret problemer inden den sendte den kode, og kan det v_re for at dysserne ikke sidder i motoren at den tror at sensoren er defekt. hvad kan ellers p_virke _bning af dysserne?</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 07-08-2012 23:08)</em></u></strong></font></li><br><font face=Verdana>Hejsa.<br><br>Da du ikke n_vner _rgang p_ din vogn, tager jeg udgangspunkt i LH 2.4. <br><br>Den s_tter nok MAF sensor fejlkoden pga. du har afmonteret dyserne. Ved at der pludselig er 4 gabende huller i indsugningsmanifolden, s_ vil den ikke suge rigtigt igennem massem_leren. <br><br>Det lyder godt nok lidt mystisk at dyserne kan _bne lidt nogle gange, og ellers ikke. <br><br>Dyserne f_r batteri + fra et rel_ som er styret af motorstyringen. Ben 9 p_ LH boksen sender en plus ud som f_r rel_et til at klappe. Og de 12v fra batteriet sendes videre til _t ben p_ hver dyse. N_r motorstyringen registrerer at motoren drejer rundt, aktiverer den dyserne med et "stelsignal" fra ben 18 fra LH boksen.<br><br>- Ved t_nding p_, skal du kunne m_le batterisp_nding (12v) i det ene stikben i dysestikket<br>- Er det egentlig gnist, n_r der roteres p_ starteren?<br><br>Kredsl_bet til dyserne er meget simpelt. S_ tvivler p_ at der kan v_re noget s_rligt galt der. Udover rel_et, som du s_ selv n_vner ser fint ud.<br><br>Mvh. Dennis</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 08-08-2012 09:52)</em></u></strong></font></li><br><font face=Verdana>"lodningerne p_ br_ndstofrel_ ser fine ud"<br>Har du pr_vet at skifte det?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 13-08-2012 21:03)</em></u></strong></font></li><br><font face=Verdana>Hvad s_, har du f_et liv i vognen?<br><br>Mvh. Dennis</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 07-08-2012 23:08)</em></u></strong></font></li><br><font face=Verdana>Hejsa.<br><br>Da du ikke n_vner _rgang p_ din vogn, tager jeg udgangspunkt i LH 2.4. <br><br>Den s_tter nok MAF sensor fejlkoden pga. du har afmonteret dyserne. Ved at der pludselig er 4 gabende huller i indsugningsmanifolden, s_ vil den ikke suge rigtigt igennem massem_leren. <br><br>Det lyder godt nok lidt mystisk at dyserne kan _bne lidt nogle gange, og ellers ikke. <br><br>Dyserne f_r batteri + fra et rel_ som er styret af motorstyringen. Ben 9 p_ LH boksen sender en plus ud som f_r rel_et til at klappe. Og de 12v fra batteriet sendes videre til _t ben p_ hver dyse. N_r motorstyringen registrerer at motoren drejer rundt, aktiverer den dyserne med et "stelsignal" fra ben 18 fra LH boksen.<br><br>- Ved t_nding p_, skal du kunne m_le batterisp_nding (12v) i det ene stikben i dysestikket<br>- Er det egentlig gnist, n_r der roteres p_ starteren?<br><br>Kredsl_bet til dyserne er meget simpelt. S_ tvivler p_ at der kan v_re noget s_rligt galt der. Udover rel_et, som du s_ selv n_vner ser fint ud.<br><br>Mvh. Dennis</font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 08-08-2012 09:52)</em></u></strong></font></li><br><font face=Verdana>"lodningerne p_ br_ndstofrel_ ser fine ud"<br>Har du pr_vet at skifte det?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Dennis Carlsen, 13-08-2012 21:03)</em></u></strong></font></li><br><font face=Verdana>Hvad s_, har du f_et liv i vognen?<br><br>Mvh. Dennis</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

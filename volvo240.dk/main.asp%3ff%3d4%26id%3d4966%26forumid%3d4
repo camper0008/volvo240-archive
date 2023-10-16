@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-12-2014&nbsp; 10:34</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-12-2014 10:34</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">De brugere herinde,som kun benytter fornavne ell. efternavne, vil ikke blive besvaret ell. behandlet p_ volvo240dk. fra min side.<br>Alle herinde har tilmeldt sig med deres fulde navn,efternavn osv.<br><br>_rsagen er at n_r man kun skriver fornavn,kan man ikke v_re sikker p_ det den samme person man skriver til ell. fra i de forskelige indl_g.<br><br>God jul....<br>mvh Elo Christensen.<br><br></font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 14-12-2014 11:42)</em></u></strong></font></li><br><font face=Verdana>N_ n_, s_ lad du da bare v_re med det. :-) <br>Forummet overlever nok selvom du n_gter at hj_lpe folk, fordi de ikke har det rigtige brugernavn.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 14-12-2014 21:08)</em></u></strong></font></li><br><font face=Verdana>Sjovt indl_g. For hvordan kan man i det hele taget v_re sikker p_, at det navn, som folk skriver, er deres rigtige navn?<br><br>Mvh Naitsirhc Reksif</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 14-12-2014 22:18)</em></u></strong></font></li><br><font face=Verdana>Hva nu hvis jeg kun leger at jeg hedder Jacob... Blows your mind!</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 15-12-2014 23:51)</em></u></strong></font></li><br><font face=Verdana>At du v_lger ikke at vil skrive tilbage p_ nogle som kun skriver deres fornavn er overhovedet ikke relevant for mig. Jeg hj_lper gerne hvis jeg kan og s_ er jeg total ligeglad med hvor personen kommer fra/religion/hudfarve/k_n osv osv men kan jeg assistere s_ g_r jeg det gerne og give et r_d koster ingenting.<br>Hvis man skal holde de her efterh_nden gamle biler bare lidt i live s_ m_ man hj_lpe hvor man kan.<br><br>Mvh Kent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 17-12-2014 19:50)</em></u></strong></font></li><br><font face=Verdana>aha? hilsen Hr. For Navn<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jeppe Halkier Hansen, 22-12-2014 18:03)</em></u></strong></font></li><br><font face=Verdana>H_rt, Hr. Skovsen!</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 14-12-2014 11:42)</em></u></strong></font></li><br><font face=Verdana>N_ n_, s_ lad du da bare v_re med det. :-) <br>Forummet overlever nok selvom du n_gter at hj_lpe folk, fordi de ikke har det rigtige brugernavn.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 14-12-2014 21:08)</em></u></strong></font></li><br><font face=Verdana>Sjovt indl_g. For hvordan kan man i det hele taget v_re sikker p_, at det navn, som folk skriver, er deres rigtige navn?<br><br>Mvh Naitsirhc Reksif</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jacob, 14-12-2014 22:18)</em></u></strong></font></li><br><font face=Verdana>Hva nu hvis jeg kun leger at jeg hedder Jacob... Blows your mind!</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 15-12-2014 23:51)</em></u></strong></font></li><br><font face=Verdana>At du v_lger ikke at vil skrive tilbage p_ nogle som kun skriver deres fornavn er overhovedet ikke relevant for mig. Jeg hj_lper gerne hvis jeg kan og s_ er jeg total ligeglad med hvor personen kommer fra/religion/hudfarve/k_n osv osv men kan jeg assistere s_ g_r jeg det gerne og give et r_d koster ingenting.<br>Hvis man skal holde de her efterh_nden gamle biler bare lidt i live s_ m_ man hj_lpe hvor man kan.<br><br>Mvh Kent</font><br><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 17-12-2014 19:50)</em></u></strong></font></li><br><font face=Verdana>aha? hilsen Hr. For Navn<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Jeppe Halkier Hansen, 22-12-2014 18:03)</em></u></strong></font></li><br><font face=Verdana>H_rt, Hr. Skovsen!</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

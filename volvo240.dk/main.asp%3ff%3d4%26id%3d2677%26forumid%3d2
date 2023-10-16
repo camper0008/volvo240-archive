@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-02-2008&nbsp; 00:25</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-02-2008 00:25</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">davs.. har endelig fundet en servostang der var til at betale. T�nke at mixe den sammen med en ut�t stang jeg har liggende. Tage mufferne og de inderste kugleled samt stang.. Har f�et yderste kugle af s� jeg kan f� mufferne af den gamle.. men kan simpelthen ikke f� den inderste kugle af. M�ske mangler jeg bare noget tungere v�rkt�j, men hvis der er nogen med et fif er jeg �ben.</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 01-02-2008 10:42)</em></u></strong></font></li><br><font face=Verdana>Hej Sven<br>Den inderste kugle p� styrestangen (der er KUN �n kugle, den i den anden ende er en styrekugle, som sidder p� fjederbenet) er l�st, med en l�se-skive, der lige skal tappes op med en hammer og en lille mejsel,derefter s�tter du blot en passende r�rtand p� huset til kuglen og drejer imod uret, s� kommer den af.<br>Ved montering af styrestang, HUSK!!! at l�se igen efter dig.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Sven, 02-02-2008 21:02)</em></u></strong></font></li><br><font face=Verdana>mange tak JP.. godt jeg ikke brugte vold s� :-)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Sven, 04-02-2008 21:54)</em></u></strong></font></li><br><font face=Verdana>hmm.. er ikke sikker p� det er det rigtige jeg g�r. Det jeg ser som l�seskiven er en del af huset til kuglen som er bukket lidt indad.. ellers synes jeg ikke der er noget som ligner. Skal den s� bukkes ud eller hvad??</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 04-02-2008 23:17)</em></u></strong></font></li><br><font face=Verdana>Hej Sven<br>S�, bruger du blot VOLD, s� skal skiven nok �bne sig af sig selv, for skues af den kan den.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Sven, 05-02-2008 16:39)</em></u></strong></font></li><br><font face=Verdana>ok JP.. tror jeg har f�et den bukket lidt ud, men mangler en r�rtang eller to til at komme videre. M�ske venter jeg med at skifte til stangen sidder p� bilen, synes det er sv�rt at f� ordenlig fat og har ikke et skruestik der egner sig til det.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 01-02-2008 10:42)</em></u></strong></font></li><br><font face=Verdana>Hej Sven<br>Den inderste kugle p� styrestangen (der er KUN �n kugle, den i den anden ende er en styrekugle, som sidder p� fjederbenet) er l�st, med en l�se-skive, der lige skal tappes op med en hammer og en lille mejsel,derefter s�tter du blot en passende r�rtand p� huset til kuglen og drejer imod uret, s� kommer den af.<br>Ved montering af styrestang, HUSK!!! at l�se igen efter dig.<br>MVH Jens Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Sven, 02-02-2008 21:02)</em></u></strong></font></li><br><font face=Verdana>mange tak JP.. godt jeg ikke brugte vold s� :-)</font><br><li><font face=Verdana><strong><u>Re: - <em>(Sven, 04-02-2008 21:54)</em></u></strong></font></li><br><font face=Verdana>hmm.. er ikke sikker p� det er det rigtige jeg g�r. Det jeg ser som l�seskiven er en del af huset til kuglen som er bukket lidt indad.. ellers synes jeg ikke der er noget som ligner. Skal den s� bukkes ud eller hvad??</font><br><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 04-02-2008 23:17)</em></u></strong></font></li><br><font face=Verdana>Hej Sven<br>S�, bruger du blot VOLD, s� skal skiven nok �bne sig af sig selv, for skues af den kan den.<br>MVH Jens Peter</font><br><li><font face=Verdana><strong><u>Re: - <em>(Sven, 05-02-2008 16:39)</em></u></strong></font></li><br><font face=Verdana>ok JP.. tror jeg har f�et den bukket lidt ud, men mangler en r�rtang eller to til at komme videre. M�ske venter jeg med at skifte til stangen sidder p� bilen, synes det er sv�rt at f� ordenlig fat og har ikke et skruestik der egner sig til det.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -243,7 +243,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -265,9 +265,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

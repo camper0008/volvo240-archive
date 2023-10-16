@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Kalender 2004</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Kalender 2004</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -174,27 +174,27 @@ document.onmousedown=click;
         <tr>
           <td width="150"><i><font color="#008000">5. juni</font></i></td>
           <td width="300"><i><font color="#008000">Ganl_se Hill Climb </font></i></td>
-          <td width="100">&nbsp;</td>
+          <td width="100"></td>
         </tr>
         <tr>
           <td width="150">27. juni</td>
           <td width="300">Rold Skov Bakkel_b </td>
-          <td width="100">&nbsp;</td>
+          <td width="100"></td>
         </tr>
         <tr>
           <td width="150">1. aug.</td>
           <td width="300">Munkebjerg Hill Climb </td>
-          <td width="100">&nbsp;</td>
+          <td width="100"></td>
         </tr>
         <tr>
           <td width="150">29. aug.</td>
           <td width="300">Det Fynske Bakkel_b </td>
-          <td width="100">&nbsp;</td>
+          <td width="100"></td>
         </tr>
         <tr>
-          <td width="150">&nbsp;</td>
-          <td width="300">&nbsp;</td>
-          <td width="100">&nbsp;</td>
+          <td width="150"></td>
+          <td width="300"></td>
+          <td width="100"></td>
         </tr>
       </table>
       <table border="1" cellpadding="5" cellspacing="1" width="550" align="center">
@@ -204,22 +204,22 @@ document.onmousedown=click;
         <tr>
           <td width="150"><i><font color="#008000">24. april</font></i></td>
           <td width="300"><i><font color="#008000">KTI - Test af biler inden s_sonen fra kl.08.00 til kl.12.00 M_detid 07.30 til Teknisk kontrol.</font></i></td>
-          <td width="100">&nbsp;</td>
+          <td width="100"></td>
         </tr>
         <tr>
           <td width="150">25.april</td>
           <td width="300">Ring Djursland - Tr_ning. Arr.: DMKA</td>
-          <td width="100">&nbsp;</td>
+          <td width="100"></td>
         </tr>
         <tr>
           <td width="150">8. maj</td>
           <td width="300">Esbjerg Havn - Sprinttr_ning for indregistrerede biler. Arr.: Bramming Motor Klub</td>
-          <td width="100">&nbsp;</td>
+          <td width="100"></td>
         </tr>
         <tr>
           <td width="150"><i><font color="#008000">11-12. sept.</font></i></td>
           <td width="300"><i><font color="#008000">KTI, Roskilde - Opvisning, alle klasser</font></i></td>
-        <td width="100">&nbsp;</td>
+        <td width="100"></td>
         </tr>
       </table>
       <center>F_lg med p_ <a href='/links/redirect.asp?goto=16' Alt='Historisk Motor Sport' target='_blank'>Historisk Motor Sport</a> hjemmeside, hvor der I ugen op til l_bene vil komme till_gsregler til de enkelte l_b.</center>
@@ -250,7 +250,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

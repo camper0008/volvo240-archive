@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -197,13 +197,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spørge andre Volvo-ejere tilråds om alt vedrørende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spÃ¸rge andre Volvo-ejere tilrÃ¥ds om alt vedrÃ¸rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&amp;MessageId=135"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=135"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -212,7 +212,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>rustbeskyttelse / r&#229;d og vejledning ?</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>rustbeskyttelse / rÃ¥d og vejledning ?</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -224,10 +224,10 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">30-12-2002&nbsp; 17:01</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">30-12-2002 17:01</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle sammen.<br><br>Nu har jeg endelig fået taget mig sammen til ( igen ) at splitte min volvo ad. Som sædvanlig, fandt jeg vand i bunden, og en hektisk jagt efter hulle osv, er nu begyndt. Jeg har nu følgende spørgsmål : <br><br>1. Nogen der kan anbefale en rustbeskyttende maling til indvendig brug i bunden af bilen <br><br>2. Nogen specielle fremgangsmåder ved maling - f.eks, først rustprimer, dernæst lakering <br><br>3. Specielle steder hvor 240 serien tager vand ind ( udover samlingerne ved A stolpe og de forskellige gummigennemføringer - der efter min mening ikke er lavet specielt overbevisende. <br><br>Min mistanke går på forruden og så to huller jeg fandt i dag. Jo.... Noget sealer til de svejsninger jeg til min rædsel opdagede var lavet ( ikke specielt pæne ) Stort mellemrum mellem svejsningerne, ikke tilpasset plade.... Det virker som om dem der i sin tid lavede det har haft travlt, har lidt gået og funderet over om det bedst kan svare sig at bore svejsningerne ud igen, og så lave det hele om, og købe nye bundplader foran og bagi.<br><br>Nå, glæder mig til at høre jeres meninger / råd. <br><br>Med venlig hilsen.<br>Sebastian Neumann<br><br>Ps : skriv endelig hvis i har brug for flere detaljer om hvor der er svejset, hvor der er hul og så videre</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle sammen.<br><br>Nu har jeg endelig fÃ¥et taget mig sammen til ( igen ) at splitte min volvo ad. Som sÃ¦dvanlig, fandt jeg vand i bunden, og en hektisk jagt efter hulle osv, er nu begyndt. Jeg har nu fÃ¸lgende spÃ¸rgsmÃ¥l : <br><br>1. Nogen der kan anbefale en rustbeskyttende maling til indvendig brug i bunden af bilen <br><br>2. Nogen specielle fremgangsmÃ¥der ved maling - f.eks, fÃ¸rst rustprimer, dernÃ¦st lakering <br><br>3. Specielle steder hvor 240 serien tager vand ind ( udover samlingerne ved A stolpe og de forskellige gummigennemfÃ¸ringer - der efter min mening ikke er lavet specielt overbevisende. <br><br>Min mistanke gÃ¥r pÃ¥ forruden og sÃ¥ to huller jeg fandt i dag. Jo.... Noget sealer til de svejsninger jeg til min rÃ¦dsel opdagede var lavet ( ikke specielt pÃ¦ne ) Stort mellemrum mellem svejsningerne, ikke tilpasset plade.... Det virker som om dem der i sin tid lavede det har haft travlt, har lidt gÃ¥et og funderet over om det bedst kan svare sig at bore svejsningerne ud igen, og sÃ¥ lave det hele om, og kÃ¸be nye bundplader foran og bagi.<br><br>NÃ¥, glÃ¦der mig til at hÃ¸re jeres meninger / rÃ¥d. <br><br>Med venlig hilsen.<br>Sebastian Neumann<br><br>Ps : skriv endelig hvis i har brug for flere detaljer om hvor der er svejset, hvor der er hul og sÃ¥ videre</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">8</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

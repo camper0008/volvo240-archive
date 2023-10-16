@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Volvo 200 Diesel</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Volvo 200 Diesel</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -240,13 +240,13 @@ document.onmousedown=click;
 		tilmed visker og vasker p_ bagruden.) Forlygtevisker og -vasker. 
 		Halogenlamper. Automatisk k_relys. Automatiske baklygter. 
 		Nakkebeskyttere og rulleseler p_ forstolene. P_ bags_det to rulleseler 
-		og en hoftesele. El opvarmet f_rerstol. &quot;High impact&quot; lamelglas i 
+		og en hoftesele. El opvarmet f_rerstol. "High impact" lamelglas i 
 		forruden. Polstrede solsk_rme. Udvendige sidespejle med indvendig 
 		regulering. Bl_ndfrit bakspejl af sikkerhedstype. B_rnel_s p_ bagd_re. 
 		Bugserkrog for og bag.</td>
 	</tr>
 	<tr>
-		<td width="100%" colspan="2">&nbsp;</td>
+		<td width="100%" colspan="2"></td>
 	</tr>
 	<tr>
 		<th width="100%" colspan="2" align="left">Motor:</th>
@@ -282,7 +282,7 @@ document.onmousedown=click;
 	</tr>
 	<tr>
 		<th width="24%" align="left">Sm_rresystem</th>
-		<th width="867" align="left">&nbsp;</th>
+		<th width="867" align="left"></th>
 	</tr>
 	<tr>
 		<td width="24%">Volumen</td>
@@ -290,7 +290,7 @@ document.onmousedown=click;
 	</tr>
 	<tr>
 		<th width="24%" align="left">K_lesystem</th>
-		<th width="867" align="left">&nbsp;</th>
+		<th width="867" align="left"></th>
 	</tr>
 	<tr>
 		<td width="24%">Frostbeskyttet og lukket</td>
@@ -298,7 +298,7 @@ document.onmousedown=click;
 	</tr>
 	<tr>
 		<th width="24%" align="left">Elsystem</th>
-		<th width="867" align="left">&nbsp;</th>
+		<th width="867" align="left"></th>
 	</tr>
 	<tr>
 		<td width="24%">Batteri</td>
@@ -314,7 +314,7 @@ document.onmousedown=click;
 	</tr>
 	<tr>
 		<th width="24%" align="left">Transmission</th>
-		<th width="867" align="left">&nbsp;</th>
+		<th width="867" align="left"></th>
 	</tr>
 	<tr>
 		<td width="24%">Manuel gearkasse</td>
@@ -327,7 +327,7 @@ document.onmousedown=click;
 	</tr>
 	<tr>
 		<th width="24%" align="left">Br_ndstoftank</th>
-		<th width="867" align="left">&nbsp;</th>
+		<th width="867" align="left"></th>
 	</tr>
 	<tr>
 		<td width="24%">Sikkerhedsplaceret v. bagaksel</td>
@@ -335,7 +335,7 @@ document.onmousedown=click;
 	</tr>
 	<tr>
 		<th width="24%" align="left">Styret_j</th>
-		<th width="867" align="left">&nbsp;</th>
+		<th width="867" align="left"></th>
 	</tr>
 	<tr>
 		<td width="24%">Delt rataksel af sikkerhedstype</td>
@@ -353,7 +353,7 @@ document.onmousedown=click;
 	</tr>
 	<tr>
 		<th width="24%" align="left">Hjuloph_ng</th>
-		<th width="867" align="left">&nbsp;</th>
+		<th width="867" align="left"></th>
 	</tr>
 	<tr>
 		<td width="24%">Forhjul</td>
@@ -365,7 +365,7 @@ document.onmousedown=click;
 	</tr>
 	<tr>
 		<th width="24%" align="left">Bremser</th>
-		<th width="867" align="left">&nbsp;</th>
+		<th width="867" align="left"></th>
 	</tr>
 	<tr>
 		<td width="24%">Forhjul/baghjul</td>
@@ -373,7 +373,7 @@ document.onmousedown=click;
 	</tr>
 	<tr>
 		<th width="24%" align="left">Bagagerum -244</th>
-		<th width="867" align="left">&nbsp;</th>
+		<th width="867" align="left"></th>
 	</tr>
 	<tr>
 		<td width="24%">Volumen </td>
@@ -385,7 +385,7 @@ document.onmousedown=click;
 	</tr>
 	<tr>
 		<th width="24%" align="left">Lastrum -245</th>
-		<th width="867" align="left">&nbsp;</th>
+		<th width="867" align="left"></th>
 	</tr>
 	<tr>
 		<td width="24%">Med rejst bags_de</td>
@@ -404,8 +404,8 @@ document.onmousedown=click;
 		<td width="867">maks. bredde 1160 mm</td>
 	</tr>
 	<tr>
-		<td width="24%">&nbsp;</td>
-		<td width="867">&nbsp;</td>
+		<td width="24%"></td>
+		<td width="867"></td>
 	</tr>
 </table>
 
@@ -436,7 +436,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

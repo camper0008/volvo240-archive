@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;G_r det selv_</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">G_r det selv_</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -133,57 +133,57 @@ document.onmousedown=click;
     <td>
       <table border="0" width="760" id="AutoNumber1" align="center">
         <tr>
-          <th width="50" colspan="2" valign="top">&nbsp;</th>
-          <th width="700" align="left">&nbsp;</th>
+          <th width="50" colspan="2" valign="top"></th>
+          <th width="700" align="left"></th>
         </tr>
         <tr>
-          <th width="50" colspan="2">&nbsp;</th>
-          <th width="700" align="left">&nbsp;</th>
+          <th width="50" colspan="2"></th>
+          <th width="700" align="left"></th>
         </tr>
         <tr>
           <td width="750" colspan="3">I mange tilf_lde, kan man spare en del 
-          penge ved at udf_re noget &quot;G_r det selv - arbejde&quot; p_ sin bil.<p>P_ 
+          penge ved at udf_re noget "G_r det selv - arbejde" p_ sin bil.<p>P_ 
           disse sider, vises hvordan de enkelte arbejder udf_res, men er du 
           usikker p_ om det er noget du selv vil/kan udf_re, s_ henvend dig til 
           din Volvo mekaniker.</td>
         </tr>
         <tr>
           <td width="750" colspan="3" align="center">
-            &nbsp;</td>
+            </td>
           </td>
         </tr>
         <tr>
-          <td width="750" colspan="3">&nbsp;</td>
+          <td width="750" colspan="3"></td>
         </tr>
         <tr>
-          <td width="50" align="right" valign="top">&nbsp;</td>
-          <td width="5" align="right" valign="top">&nbsp;</td>
-          <td width="700">&nbsp;</td>
+          <td width="50" align="right" valign="top"></td>
+          <td width="5" align="right" valign="top"></td>
+          <td width="700"></td>
         </tr>
         <tr>
-          <td width="50" align="right" valign="top">&nbsp;</td>
-          <td width="5" align="right" valign="top">&nbsp;</td>
-          <td width="700">&nbsp;</td>
+          <td width="50" align="right" valign="top"></td>
+          <td width="5" align="right" valign="top"></td>
+          <td width="700"></td>
         </tr>
         <tr>
-          <td width="50" align="right" valign="top">&nbsp;</td>
-          <td width="5" align="right" valign="top">&nbsp;</td>
-          <td width="700">&nbsp;</td>
+          <td width="50" align="right" valign="top"></td>
+          <td width="5" align="right" valign="top"></td>
+          <td width="700"></td>
         </tr>
         <tr>
-          <td width="50" align="right" valign="top">&nbsp;</td>
-          <td width="5" align="right" valign="top">&nbsp;</td>
-          <td width="700">&nbsp;</td>
+          <td width="50" align="right" valign="top"></td>
+          <td width="5" align="right" valign="top"></td>
+          <td width="700"></td>
         </tr>
         <tr>
-          <td width="50" align="right" valign="top">&nbsp;</td>
-          <td width="5" align="right" valign="top">&nbsp;</td>
-          <td width="700">&nbsp;</td>
+          <td width="50" align="right" valign="top"></td>
+          <td width="5" align="right" valign="top"></td>
+          <td width="700"></td>
         </tr>
         <tr>
-          <td width="50" align="right" valign="top">&nbsp;</td>
-          <td width="5" align="right" valign="top">&nbsp;</td>
-          <td width="700">&nbsp;</td>
+          <td width="50" align="right" valign="top"></td>
+          <td width="5" align="right" valign="top"></td>
+          <td width="700"></td>
         </tr>
         </table>
     </td>
@@ -212,7 +212,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

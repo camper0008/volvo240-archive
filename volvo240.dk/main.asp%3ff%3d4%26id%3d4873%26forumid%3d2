@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -153,7 +153,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">S&#248;ren Frydendahl Krab</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Søren Frydendahl Krab</font></td>
       </tr>
       <!-- tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-02-2014&nbsp; 21:46</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-02-2014 21:46</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej, har lige et tidspress problem, inden konen skal p_ arbejde i morgen tidlig.<br>Generatorlampen lyser med halv lysstyrke, men n_r jeg _ger omdrejningerne, lyser den kraftigere. men det er u_ndret, hvis man t_nder og slukker lyset p_ bilen.<br>Har skiftet laderel_.<br>Hvad g_r jeg<br><br>mvh<br>S_ren</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 20-02-2014 23:36)</em></u></strong></font></li><br><font face=Verdana>Goddag<br>Tag et multimeter / voltmeter og m_l sp_ndingen over batteriet ca. 12 Volt.<br>Start motoren og nu skal sp_ndingen stige til 14 volt.<br>Hvis den ikke g_r det er generatoren defekt.<br>Et formelt lade-rel_ findes ikke p_ din bil. Denne funktion er indbygget i generatoren.<br>Som altid skal kabler og forbindelser v_re i orden.<br>Mvh<br>Steen <br>Frederikssund</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Stig B, 21-02-2014 15:41)</em></u></strong></font></li><br><font face=Verdana>P_ min 740 230 1990 model kan man skifte kul rel_ samlet, sidder med ca. 2 skruer p_ generator, det er en enhed. S_ren i Stenl_se havde det til rimelig pris, nyt.<br><br>Go`hils<br>Stig.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 21-02-2014 22:49)</em></u></strong></font></li><br><font face=Verdana>Lyder som en d_rlig forbindelse, enten plus eller stel.<br>Eller ogs_ kan det v_re en diode der er br_ndt af i diodebroen.<br><br>Mvh Pede</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 23-02-2014 00:38)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Laderel_ er skiftet, og ja den med kul.<br>Sp_nding ligger p_ 13,9 volt, og Batteri er OK.<br>Har lige f_et at vide, at det kan v_re en ledning fra generator, der skal give besked til lampen at denne ledning kunne v_re defekt, Men sidder der en s_dan p_ min 740/90<br>Bilen starter frisk og der er fuld lys p_ det hele.<br>Og ja det virker som om lampen ikke kan registrere at den lader.<br>mvh<br>S_ren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 23-02-2014 00:40)</em></u></strong></font></li><br><font face=Verdana>Hej Peter<br>Den diode, hvor sidder den og kan man teste/skifte den.<br>mvh<br>S_ren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 23-02-2014 17:10)</em></u></strong></font></li><br><font face=Verdana>Diodebroen sidder inde i selve generatoren. Men jeg tror ikke det er den hvis du har 13,9 volt som lade sp_nding.<br>Der sker det at du har 12 volt p_ lampen oppe i instrumentbordet, den f_r s_ stel igennem generatoren s_ den lyser.<br>N_r generatoren s_ lader f_r den 12 volt der hvor den f_r havde stel og lampen slukker.<br>Hvis lampen gl_der har du alts_ ikke lige meget "12 volt" p_ begge sider af lampen.<br>S_ tjek ledningen til ladelampen, som du selv har l_st.<br>Og led efter en d_rlig forbindelse eller d_rlig stel eller lign.<br><br>Mvh Pede</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 23-02-2014 17:13)</em></u></strong></font></li><br><font face=Verdana>Du kan ogs_ tjekke om forbindelse til lampen er i orden oppe i instrumentet.<br>De har jo ry for at have d_rlige forbindelser.<br><br>Mvh Pede</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 23-02-2014 21:02)</em></u></strong></font></li><br><font face=Verdana>Hej,det var noget i generator, er ellers 3_r gammel Bosch, m_lte noget med ensretter p_ der hvor den lille ledning g_r p_. M_ler p_sken og stel og den lyser, ogs_ n_r man vender stikke p_ m_leap.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 23-02-2014 21:02)</em></u></strong></font></li><br><font face=Verdana>Hej,det var noget i generator, er ellers 3_r gammel Bosch, m_lte noget med ensretter p_ der hvor den lille ledning g_r p_. M_ler p_sken og stel og den lyser, ogs_ n_r man vender stikke p_ m_leap.</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 20-02-2014 23:36)</em></u></strong></font></li><br><font face=Verdana>Goddag<br>Tag et multimeter / voltmeter og m_l sp_ndingen over batteriet ca. 12 Volt.<br>Start motoren og nu skal sp_ndingen stige til 14 volt.<br>Hvis den ikke g_r det er generatoren defekt.<br>Et formelt lade-rel_ findes ikke p_ din bil. Denne funktion er indbygget i generatoren.<br>Som altid skal kabler og forbindelser v_re i orden.<br>Mvh<br>Steen <br>Frederikssund</font><br><li><font face=Verdana><strong><u>Re: - <em>(Stig B, 21-02-2014 15:41)</em></u></strong></font></li><br><font face=Verdana>P_ min 740 230 1990 model kan man skifte kul rel_ samlet, sidder med ca. 2 skruer p_ generator, det er en enhed. S_ren i Stenl_se havde det til rimelig pris, nyt.<br><br>Go`hils<br>Stig.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 21-02-2014 22:49)</em></u></strong></font></li><br><font face=Verdana>Lyder som en d_rlig forbindelse, enten plus eller stel.<br>Eller ogs_ kan det v_re en diode der er br_ndt af i diodebroen.<br><br>Mvh Pede</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren Frydendahl Krab, 23-02-2014 00:38)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Laderel_ er skiftet, og ja den med kul.<br>Sp_nding ligger p_ 13,9 volt, og Batteri er OK.<br>Har lige f_et at vide, at det kan v_re en ledning fra generator, der skal give besked til lampen at denne ledning kunne v_re defekt, Men sidder der en s_dan p_ min 740/90<br>Bilen starter frisk og der er fuld lys p_ det hele.<br>Og ja det virker som om lampen ikke kan registrere at den lader.<br>mvh<br>S_ren</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren Frydendahl Krab, 23-02-2014 00:40)</em></u></strong></font></li><br><font face=Verdana>Hej Peter<br>Den diode, hvor sidder den og kan man teste/skifte den.<br>mvh<br>S_ren</font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 23-02-2014 17:10)</em></u></strong></font></li><br><font face=Verdana>Diodebroen sidder inde i selve generatoren. Men jeg tror ikke det er den hvis du har 13,9 volt som lade sp_nding.<br>Der sker det at du har 12 volt p_ lampen oppe i instrumentbordet, den f_r s_ stel igennem generatoren s_ den lyser.<br>N_r generatoren s_ lader f_r den 12 volt der hvor den f_r havde stel og lampen slukker.<br>Hvis lampen gl_der har du alts_ ikke lige meget "12 volt" p_ begge sider af lampen.<br>S_ tjek ledningen til ladelampen, som du selv har l_st.<br>Og led efter en d_rlig forbindelse eller d_rlig stel eller lign.<br><br>Mvh Pede</font><br><li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 23-02-2014 17:13)</em></u></strong></font></li><br><font face=Verdana>Du kan ogs_ tjekke om forbindelse til lampen er i orden oppe i instrumentet.<br>De har jo ry for at have d_rlige forbindelser.<br><br>Mvh Pede</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren Frydendahl Krab, 23-02-2014 21:02)</em></u></strong></font></li><br><font face=Verdana>Hej,det var noget i generator, er ellers 3_r gammel Bosch, m_lte noget med ensretter p_ der hvor den lille ledning g_r p_. M_ler p_sken og stel og den lyser, ogs_ n_r man vender stikke p_ m_leap.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Søren Frydendahl Krab, 23-02-2014 21:02)</em></u></strong></font></li><br><font face=Verdana>Hej,det var noget i generator, er ellers 3_r gammel Bosch, m_lte noget med ensretter p_ der hvor den lille ledning g_r p_. M_ler p_sken og stel og den lyser, ogs_ n_r man vender stikke p_ m_leap.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

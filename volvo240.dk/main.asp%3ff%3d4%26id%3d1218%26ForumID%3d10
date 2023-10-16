@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">&nbsp;
+        <input type="submit" value="S�g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-10-2005&nbsp; 07:52</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-10-2005 07:52</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hallo<br><br>Jeg er ejer af en Volvo 240 st. car fra 89, med en B200F motor. Jeg skal til at skife st�dd�mper, generator, vandpumpe mv. p� den og kunne i den forbindelse godt t�nke mig en mekanikerbog, s� jeg er sikker p� at jeg g�r rigtigt igang. <br>Hvor kan man anskaffe sig en s�danne henne?<br><br>Mvh Ulrik.</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Johan &#197;rman, 24-10-2005 09:32)</em></u></strong></font></li><br><font face=Verdana>Hej. H�be en s�kaldt Haynes-bog. Det er en komplet beskrivelse af n�sten alle reparationer man m�tte komme ud for. Ogs� dem, man aldrig selv ville give sig i kast med. Den er meget p�dagogisk og bestemt for s�vel nybegyndere som eksperter...<br><br>Den er udgivet af det engelske forlag Haynes og findes p� s�vel engelsk som svensk. <br><br>Der findes selvf�lgelig ogs� originale reparationsh�ndb�ger fra Volvo, men de er nok til en helt anden pris... Jeg har aldrig gidet unders�ge det, da jeg er mere end tilfreds med min Haynes. <br>God forn�jelse.<br><br>Johan �rman</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Erling, 24-10-2005 09:34)</em></u></strong></font></li><br><font face=Verdana>Den man lettest kan finne hos bokhandlerne i Skandinavia er vel Haynes-boken. Den finnes i alle fall p� svensk og engelsk. Men dersom du vil ha den beste, bestiller du "Bentley-bibelen" fra en av de internasjonale nettbokhandlerne (31,47 USD hos amazon.com, 27,90 UKP fra amazon.co.uk). Verdt hver krone. <br><br>Bentley Publishers:<br>Volvo 240 Service Manual 1983-93, 572 sider, ISBN 0837602858<br><br>Haynes:<br>G�r det sj�lv handbok Volvo 240, 304 sider, ISBN 1-85960-207-X<br><br>Erling<br>http://home.no.net/ebrox</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 24-10-2005 09:39)</em></u></strong></font></li><br><font face=Verdana>Du kan pr�ve hos <a href="http://www.kosters.dk/" target="_blank">K�sters Motorboghandel</a> i Randers. Der er stor sandsynlighed for at de kan hj�lpe dig med b�ger til Volvo 200 Serien.<br>De plejer gerne at skaffe det de ikke har. <br><br>mvh<br>Finn Kruse</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Johan Årman, 24-10-2005 09:32)</em></u></strong></font></li><br><font face=Verdana>Hej. H�be en s�kaldt Haynes-bog. Det er en komplet beskrivelse af n�sten alle reparationer man m�tte komme ud for. Ogs� dem, man aldrig selv ville give sig i kast med. Den er meget p�dagogisk og bestemt for s�vel nybegyndere som eksperter...<br><br>Den er udgivet af det engelske forlag Haynes og findes p� s�vel engelsk som svensk. <br><br>Der findes selvf�lgelig ogs� originale reparationsh�ndb�ger fra Volvo, men de er nok til en helt anden pris... Jeg har aldrig gidet unders�ge det, da jeg er mere end tilfreds med min Haynes. <br>God forn�jelse.<br><br>Johan �rman</font><br><li><font face=Verdana><strong><u>Re: - <em>(Erling, 24-10-2005 09:34)</em></u></strong></font></li><br><font face=Verdana>Den man lettest kan finne hos bokhandlerne i Skandinavia er vel Haynes-boken. Den finnes i alle fall p� svensk og engelsk. Men dersom du vil ha den beste, bestiller du "Bentley-bibelen" fra en av de internasjonale nettbokhandlerne (31,47 USD hos amazon.com, 27,90 UKP fra amazon.co.uk). Verdt hver krone. <br><br>Bentley Publishers:<br>Volvo 240 Service Manual 1983-93, 572 sider, ISBN 0837602858<br><br>Haynes:<br>G�r det sj�lv handbok Volvo 240, 304 sider, ISBN 1-85960-207-X<br><br>Erling<br>http://home.no.net/ebrox</font><br><li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 24-10-2005 09:39)</em></u></strong></font></li><br><font face=Verdana>Du kan pr�ve hos <a href="http://www.kosters.dk/" target="_blank">K�sters Motorboghandel</a> i Randers. Der er stor sandsynlighed for at de kan hj�lpe dig med b�ger til Volvo 200 Serien.<br>De plejer gerne at skaffe det de ikke har. <br><br>mvh<br>Finn Kruse</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">46</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">46</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

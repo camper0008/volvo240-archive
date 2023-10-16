@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,13 +198,13 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Motor </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Motor, Gearkasse og Bagtøj. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Motor, Gearkasse og BagtÃ¸j. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=671"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=671"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -217,7 +217,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Johan &#197;rman</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Johan Ã…rman</font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
@@ -225,16 +225,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-07-2003&nbsp; 20:52</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-07-2003 20:52</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej volvofans.<br><br>Jeg lurer lidt på at skifte min M47 gearkasse ud med en automat. Er det en håblös(skriver på svensk computer)opgave? Bilen er en 244GL fra 1985 med B230A motor. Skal der en olieköler på, og passer kardanen? Og hvilken gearkasse bör jeg välge? AW 70 eller AW71? Mange spörgsmål, men jeg er sikker på, at der sidder nogle kloge volvo-hoveder derude...<br><br>Johan Årman</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej volvofans.<br><br>Jeg lurer lidt pÃ¥ at skifte min M47 gearkasse ud med en automat. Er det en hÃ¥blös(skriver pÃ¥ svensk computer)opgave? Bilen er en 244GL fra 1985 med B230A motor. Skal der en olieköler pÃ¥, og passer kardanen? Og hvilken gearkasse bör jeg välge? AW 70 eller AW71? Mange spörgsmÃ¥l, men jeg er sikker pÃ¥, at der sidder nogle kloge volvo-hoveder derude...<br><br>Johan Ã…rman</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=671&ForumID=1&Showsub=672'>Re: skift fra M47 til automat</a> <em>(Jes, 24-07-2003 21:40)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Volvo 240 serien er ret nem at ændre fra manuel til automat-gear og vice versa.<br>I dit tilfælde hvor du vil gå fra manuel til automatik skal du klart vælge AW 71 gearkassen, idet den har lock-up i overgearet. Da din er en ´85 model og AW 71 først kom på 240-serien i ´85 skal du finde en gearkasse fra den årgang, idet det er eneste årgang med kabeldrev til speedometer. Finder du en gearkasse, som er fra ´86 eller nyere skal du også have bagtøjet med, idet der er elektronisk speedometerdrev, som er placeret i bagtøjet.<br>Derudover skal du bruge følgende til ændringen: Startkrans inkl. det lille styr, som sidder i krunmtappen på motoren(svinghjul skal udskiftes med startkrans), kardan, bremsepedal (den er jo noget bredere), ledningsnet til OD-relæ, køler med oliekøler, rør mellem køler og gearkasse, samt selvfølgelig diverse beslag, bolte m.m.<br>Derudover er det ret vigtigt at du får fat i en gearkasse, hvor converter og gearkasse IKKE har været adskilt, idet risikoen for utætheder øges markant.<br>Så nr. 1 er selv at deltage i afmonteringen på donorbil.<br>Arbejdstid til udskiftning ca. 6-8 timer for en Gør-det-selv mand.<br>God arbejdslyst<br><br>mvh<br><br>Jes Hebsgaard</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=671&ForumID=1&Showsub=672'>Re: skift fra M47 til automat</a> <em>(Jes, 24-07-2003 21:40)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Volvo 240 serien er ret nem at Ã¦ndre fra manuel til automat-gear og vice versa.<br>I dit tilfÃ¦lde hvor du vil gÃ¥ fra manuel til automatik skal du klart vÃ¦lge AW 71 gearkassen, idet den har lock-up i overgearet. Da din er en ´85 model og AW 71 fÃ¸rst kom pÃ¥ 240-serien i ´85 skal du finde en gearkasse fra den Ã¥rgang, idet det er eneste Ã¥rgang med kabeldrev til speedometer. Finder du en gearkasse, som er fra ´86 eller nyere skal du ogsÃ¥ have bagtÃ¸jet med, idet der er elektronisk speedometerdrev, som er placeret i bagtÃ¸jet.<br>Derudover skal du bruge fÃ¸lgende til Ã¦ndringen: Startkrans inkl. det lille styr, som sidder i krunmtappen pÃ¥ motoren(svinghjul skal udskiftes med startkrans), kardan, bremsepedal (den er jo noget bredere), ledningsnet til OD-relÃ¦, kÃ¸ler med oliekÃ¸ler, rÃ¸r mellem kÃ¸ler og gearkasse, samt selvfÃ¸lgelig diverse beslag, bolte m.m.<br>Derudover er det ret vigtigt at du fÃ¥r fat i en gearkasse, hvor converter og gearkasse IKKE har vÃ¦ret adskilt, idet risikoen for utÃ¦theder Ã¸ges markant.<br>SÃ¥ nr. 1 er selv at deltage i afmonteringen pÃ¥ donorbil.<br>Arbejdstid til udskiftning ca. 6-8 timer for en GÃ¸r-det-selv mand.<br>God arbejdslyst<br><br>mvh<br><br>Jes Hebsgaard</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -262,9 +262,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">10</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">10</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

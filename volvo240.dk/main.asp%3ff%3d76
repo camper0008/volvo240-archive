@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;F_lge</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">F_lge</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -137,7 +137,7 @@ document.onmousedown=click;
 <p align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/240info/technic/wheel/images/240_wheel_01.jpg&palt=F_lgens m_l og dimensioner','','height=510,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="1" src="/240info/technic/wheel/images/240_wheel_01t.gif" width="128" height="96"></A></p>
 
 <h2>Offset (indpresningsdybden)</h2>
-<p>F_lgens offset&nbsp; er afstanden fra f_lgens monteringsflade til den
+<p>F_lgens offset er afstanden fra f_lgens monteringsflade til den
 lodrette centerlinie. Med en positiv ET er f_lgen bredere mod gaden med st_rre
 sporvidde til f_lge. Med en negativ ET er den bredere mod indersiden med mindre
 sporvidde til f_lge</p>
@@ -145,11 +145,11 @@ sporvidde til f_lge</p>
 <br>
 <b>ET</b> stammer fra det tyske ord <b>Einpre_tiefe</b>.
 </p>
-<p>&nbsp;</p>
+<p></p>
 
 <h2>Bolt m_nster</h2>
 
-&nbsp;
+
 <table border="0" cellpadding="0" cellspacing="0" width="893">
   <tr>
     <td width="158" align="left" valign="top">
@@ -166,7 +166,7 @@ F_lgboltene skal strammes til 110 Nm.</td>
   </tr>
 </table>
 
-<p>&nbsp;</p>
+<p></p>
 
 <table border="1" cellpadding="5" cellspacing="0" width="700" align="center">
   <tr>
@@ -178,20 +178,20 @@ F_lgboltene skal strammes til 110 Nm.</td>
   </tr>
 </table>
 
-<p>&nbsp;</p>
+<p></p>
 
 <h2>_ndring af f_lgst_rrelse</h2>
 
 
 <p>Ved at _ndre p_ d_k og f_lg kombinationen, _ges f_lgens diameter og
 h_jden p_ d_kprofilen mindskes.<br>
-Denne _ndring giver som oftest bedre ydelse og et bedre &quot;look&quot;.</p>
+Denne _ndring giver som oftest bedre ydelse og et bedre "look".</p>
 <p>Men v_r opm_rksom p_, at hjulets samlede omkreds kun m_ _ndres med +/-
 5% i forhold til den omkreds som bilen blev typegodkendt med.<br>
-Dette er for at sikre korrekt speedometer og &quot;anti-lock braking&quot; system kalibrering
+Dette er for at sikre korrekt speedometer og "anti-lock braking" system kalibrering
 og uforandret br_ndstofforbrug.</p>
 
-<p>&nbsp;</p>
+<p></p>
 
 
 <h2>Vedligeholdelse</h2>
@@ -199,7 +199,7 @@ og uforandret br_ndstofforbrug.</p>
 <p>Det er vigtig at holde f_lgene rene hele tiden. Bremserne vil varme f_lgene
 op og denne varme kan for_rsage at skidt og bremsest_v br_nder sig fast p_
 f_lgene. Sker det, er der ikke meget at g_re end sandbl_sning, maling og lakering
-af f_lgene.&nbsp; Beskyt din investering og hold f_lgene rene.</p>
+af f_lgene. Beskyt din investering og hold f_lgene rene.</p>
 
 
 <p><b>Her er nogle tips til at holde f_lgene rene.</b><br>
@@ -212,7 +212,7 @@ Reng_r f_lgene mens de er kolde. Varme kan _ndre s_bens egenskaber og f_ den til
 Reng_r kun et hjul af gangen. Herved undg_s at s_ben t_rre ind i f_lgen.<br>
 N_r f_lgene er rene og t_rre, giv dem et tyndt lag bl_d voks.</p>
 
-<p>&nbsp;</p>
+<p></p>
 
 <h2>Centerhullet</h2>
 
@@ -225,7 +225,7 @@ kan monteres forsvarligt.<br>
 <i>Det frar_des at anvende disse f_lge. Anvend kun originale Volvo f_lge,
 som er lavet og passer perfekt til Volvo 200 serien.</i></p>
 
-<p>&nbsp;</p>
+<p></p>
 
 <h2>Tilsp_nding</h2>
 
@@ -239,8 +239,8 @@ Begge dele er til skade og kan for_rsage, at f_lgen bliver sk_v.</p>
 <h2>Letmetal versus St_l</h2>
 
 
-<p>En af de store forskelle mellem letmetal og st_lf_lge er deres&nbsp;styrke
-og holdbarhed. De fleste &quot;high-performance&quot; f_lge er lavet af en
+<p>En af de store forskelle mellem letmetal og st_lf_lge er deresstyrke
+og holdbarhed. De fleste "high-performance" f_lge er lavet af en
 legering af aluminium og andre metaller. Ved at anvende letmetal f_lge,
 forbedres ikke kun bilens udseende, men ogs_ bilens ydelse. Den ekstra styrke
 giver b_de l_ngere levetid og et mere effektivt d_kslid - positivt ment.
@@ -251,7 +251,7 @@ effektiv nedbremsning.
 </p>
 
 
-<p>&nbsp;
+<p>
 
 
 </p>
@@ -352,7 +352,7 @@ st_rkere end ved lavtryks st_bning.<br>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

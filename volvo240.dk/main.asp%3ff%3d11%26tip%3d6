@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Tips & Tricks</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Tips & Tricks</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -136,7 +136,7 @@ document.onmousedown=click;
   <td colspan='2'><br>
   Besv_rlig _bning af d_ren fra b_de inde- og ude fra, kan skyldes mangel p_ sm_ring.<br>Anvend fedt som egner sig til lave temperaturer.
   <br>
-&nbsp;</td>
+</td>
   </tr>
   <tr>
   <td valign='top'>
@@ -155,7 +155,7 @@ document.onmousedown=click;
           <h3>3. Sm_r delene med lav-temperatur fedt.</h3>
           <p>Sm_r herefter med fedt i passende m_ngde p_ de steder som er markeret med (A) 
           ved pilene.<br>
-              &nbsp;</p>
+              </p>
           <h3>4. Genmonter l_sen</h3>
           <p>S_t yderpladen p_ igen og check at mekanismen fungerer som den skal.</td>
   <td valign='top'><img src='/240info/images/lock_03.gif'></td>
@@ -184,7 +184,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

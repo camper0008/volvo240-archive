@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">25-03-2014&nbsp; 19:54</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">25-03-2014 19:54</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Jeg s_ lige et opslag p_ en anden hjemmeside om Volvo, at der henvises til en artikel her fra siden:<br><a href="http://www.volvo240.dk/main.asp?f=194" target="_blank">http://www.volvo240.dk/main.asp?f=194</a><br><br>Bare for at f_ stillet min nysgerrighed, er der s_ nogen, som ved, hvordan bilen s_ ud i _rene efter reparationen?<br>Og om bilen evt. stadig er rullende?<br><br>Mvh Christian</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 01-04-2014 10:45)</em></u></strong></font></li><br><font face=Verdana>Hej Christian<br><br>Den ser ud til at v_re aktiv p_ forsikringen stadig. Jeg fik lige set et billede af hvor pladerne ikke er sl_ret. Den har dumpet et par gange til syn ogs_ pga rust og defekte bremser_r. S_ de har ikke v_ret HELT efter den hvis du sp_rger mig. :-)<br><br>Men det kunne v_re sk_gt at se hvor den var havnet henne i dag. :-)<br><br>MVH<br><br>Emil<br><br></font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 01-04-2014 10:45)</em></u></strong></font></li><br><font face=Verdana>Hej Christian<br><br>Den ser ud til at v_re aktiv p_ forsikringen stadig. Jeg fik lige set et billede af hvor pladerne ikke er sl_ret. Den har dumpet et par gange til syn ogs_ pga rust og defekte bremser_r. S_ de har ikke v_ret HELT efter den hvis du sp_rger mig. :-)<br><br>Men det kunne v_re sk_gt at se hvor den var havnet henne i dag. :-)<br><br>MVH<br><br>Emil<br><br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

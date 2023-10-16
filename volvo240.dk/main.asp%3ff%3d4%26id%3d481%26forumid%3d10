@@ -160,11 +160,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -223,7 +223,7 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-03-2004&nbsp; 20:54</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-03-2004 20:54</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle sammen, jeg vil s_men bare h_re om der er ved at v_re truffet en beslutning om HVOR OG HVORN_R, for s_dan som jeg kan forst_ det s_ skal der nok blive opbakning/fremm_de nok.<br>S_ jeg h_ber at der snart kan komme en FAST dato og sted.<br>Ogs_ s_ vi herhjemme kan f_ planlagt lidt osv.<br>P_ forh_nd tak<br>Max Tellisen</font></td>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Lars Vestman, 15-03-2004 23:51)</em></u></strong></font></li><br><font face=Verdana>Hej Max<br><br>Ja, det blev den 22/5 p_ Fyn et eller andet sted, men n_rmere er vi ikke kommet.<br><br>Min mailbox har v_ret tavs som graven, p_ n_r to forslag om beliggenheder p_ Fyn, men den enes mail virker ikke (Flemming VolvoAndersen?). Jeg havde forestillet mig, at der m_ske var et par 240-ejere p_ Fyn som kunne tage sig af forh_re sig nogle steder de m_ske kendte, og s_ komme med en udmelding/forslag/beslutning her i forummet? Det er jo ikke mig der bestemmer, men vil selvf_lgelig gerne koordinere som en slags ordstyrer.<br><br>Nok kastede jeg selv forslaget i ringen, men jeg synes nu det kniber en del med entusiasmen. Jeg vil gerne g_re meget af det selv, men er noget oph_ngt p.t. pga. synkront salg af een lejlighed og gennemgribende istands_ttelse af en anden...<br><br>Jeg skal nok sprede ordet, og s_rge for omtale p_ www.volvoentusiasterne.dk samt alle andre steder jeg kan slippe afsted med det.<br>http://www.carlab.dk/shop/ (en side med s_rdeles "smart" bilgejl), har en tilsyneladende enkel og billig m_de man kunne reklamere for tr_ffet p_ - nemlig nummerpladerammer med valgfri tekst. Der kunne st_ "Volvo 240-tr_f 22/5-04 se www.volvo240.dk" el.lign.<br><br>Mulighederne er mange, ogs_ mht. om lokaliteten tillader, at der m_ sl_es sm_ boder op. M_ske Jes kunne f_ ryddet lidt ud fra lageret? Spare-parts.dk er jo umiddelbart med p_ den, s_fremt vi har 100% fast dato og sted.<br><br>Kom frisk, folkens!<br><br>- Lars Vestman</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Benny Juul, 19-03-2004 08:34)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Mht. stedet har jeg l_st i gamle indl_g, "under lilleb_ltsbroen" kunne v_re en mulighed, jeg g_r ud fra der menes Strib, det stykke der ligger lige under og til h_jre for broen n_r man kommer fra Sj_llandssiden er kommunalt (Middelfart kommune), jeg har v_ret der i forbindelse med noget drageflyvning i samarbejde med Strib Idr_tsefterskole, det burde vel v_re muligt at f_ en tilladelse fra kommunen til afholdelse af tr_f der.<br><br>Benny<br>Volvo 760 GLE</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Ren&#233; &#216;stergaard, 21-03-2004 14:52)</em></u></strong></font></li><br><font face=Verdana>Jeg foresl_r at en som er lokalt bekendt, og endnu bedre; Bor i Middelfart giver kommunen et kald, og h_rer om det er noget som kan lade sig g_re. Personligt kender jeg ikke stedet tilstr_kkeligt til at kunne anmode kommunen om en tilladelse, men jeg har i de gamle topics set, at der ihvertfald er 1 som er bosat i eller omkring Middelfart..(?) Kunne vedkommende ikke give sig til kende, og evt. g_re os alle den tjeneste at forh_re sig hos kommunen? ;)<br><br>P_ forh_nd tak... :D</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Lars Vestman, 15-03-2004 23:51)</em></u></strong></font></li><br><font face=Verdana>Hej Max<br><br>Ja, det blev den 22/5 p_ Fyn et eller andet sted, men n_rmere er vi ikke kommet.<br><br>Min mailbox har v_ret tavs som graven, p_ n_r to forslag om beliggenheder p_ Fyn, men den enes mail virker ikke (Flemming VolvoAndersen?). Jeg havde forestillet mig, at der m_ske var et par 240-ejere p_ Fyn som kunne tage sig af forh_re sig nogle steder de m_ske kendte, og s_ komme med en udmelding/forslag/beslutning her i forummet? Det er jo ikke mig der bestemmer, men vil selvf_lgelig gerne koordinere som en slags ordstyrer.<br><br>Nok kastede jeg selv forslaget i ringen, men jeg synes nu det kniber en del med entusiasmen. Jeg vil gerne g_re meget af det selv, men er noget oph_ngt p.t. pga. synkront salg af een lejlighed og gennemgribende istands_ttelse af en anden...<br><br>Jeg skal nok sprede ordet, og s_rge for omtale p_ www.volvoentusiasterne.dk samt alle andre steder jeg kan slippe afsted med det.<br>http://www.carlab.dk/shop/ (en side med s_rdeles "smart" bilgejl), har en tilsyneladende enkel og billig m_de man kunne reklamere for tr_ffet p_ - nemlig nummerpladerammer med valgfri tekst. Der kunne st_ "Volvo 240-tr_f 22/5-04 se www.volvo240.dk" el.lign.<br><br>Mulighederne er mange, ogs_ mht. om lokaliteten tillader, at der m_ sl_es sm_ boder op. M_ske Jes kunne f_ ryddet lidt ud fra lageret? Spare-parts.dk er jo umiddelbart med p_ den, s_fremt vi har 100% fast dato og sted.<br><br>Kom frisk, folkens!<br><br>- Lars Vestman</font><br><li><font face=Verdana><strong><u>Re: - <em>(Benny Juul, 19-03-2004 08:34)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Mht. stedet har jeg l_st i gamle indl_g, "under lilleb_ltsbroen" kunne v_re en mulighed, jeg g_r ud fra der menes Strib, det stykke der ligger lige under og til h_jre for broen n_r man kommer fra Sj_llandssiden er kommunalt (Middelfart kommune), jeg har v_ret der i forbindelse med noget drageflyvning i samarbejde med Strib Idr_tsefterskole, det burde vel v_re muligt at f_ en tilladelse fra kommunen til afholdelse af tr_f der.<br><br>Benny<br>Volvo 760 GLE</font><br><li><font face=Verdana><strong><u>Re: - <em>(Ren&#233; Østergaard, 21-03-2004 14:52)</em></u></strong></font></li><br><font face=Verdana>Jeg foresl_r at en som er lokalt bekendt, og endnu bedre; Bor i Middelfart giver kommunen et kald, og h_rer om det er noget som kan lade sig g_re. Personligt kender jeg ikke stedet tilstr_kkeligt til at kunne anmode kommunen om en tilladelse, men jeg har i de gamle topics set, at der ihvertfald er 1 som er bosat i eller omkring Middelfart..(?) Kunne vedkommende ikke give sig til kende, og evt. g_re os alle den tjeneste at forh_re sig hos kommunen? ;)<br><br>P_ forh_nd tak... :D</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -263,9 +263,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">34</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">34</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

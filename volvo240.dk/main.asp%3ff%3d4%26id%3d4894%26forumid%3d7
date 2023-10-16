@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S_g" name="B1">&nbsp;
+        <input type="submit" value="S_g" name="B1">
       </form>
     </td>
   </tr>
@@ -161,7 +161,7 @@ document.onmousedown=click;
       </tr -->
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-04-2014&nbsp; 19:42</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-04-2014 19:42</font></td>
       </tr>
       <tr>
         <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">I min Volvo 740 fra 1988 er der pludseligt kommet en lang revne i bagruden.Fra overkant ned til f_rste varmetr_d.<br><br>Bagruden er elopvarmet med p_limet stoplygte.<br>En foresp_rgsel p_ AutoRuden i Holte om prisen gav mig et chok.<br>Kr. 5100 plus moms for en ny rude monteret.<br><br>Findes der "brugte" bagruder p_ marked?<br>Kan revnedannelsen eventuel "stoppes"?<br>Hilsen<br>Willi</font></td>
@@ -172,7 +172,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Stig B, 13-04-2014 13:10)</em></u></strong></font></li><br><font face=Verdana>Er 4 ell. 5 d_rs.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(willi stelzer, 13-04-2014 21:48)</em></u></strong></font></li><br><font face=Verdana>Det er en sedan , 4 d_re</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 13-04-2014 23:51)</em></u></strong></font></li><br><font face=Verdana>Et autoophug burde kunne hj_lpe dig til en billigere l_sning eller evt pr_v at sp_rg de forskellige volvoklubber om de kender nogen der kan hj_lpe dig.<br>Hvis du er p_ facebook er der ogs_ grupper med volvo der og m_ske kan det v_re nemmere for dig at finde hj_lp via den vej.<br><br>mvh Kent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 14-04-2014 10:48)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>En latterlig pris. Med andre ord kunne de bare have sagt: G_ med dig, vi gider ikke lave din gamle bil. :-)<br><br>Hvad de forskellige firmaer der k_re rundt og montere frontruder? F.eks Carglass? <br><br>Om ikke andet: Ned til en hugger. Jeg mener de piller ruder ud. <br><br>MVH<br><br>Emil</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 14-04-2014 11:14)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Jeg ved ikke om prisen ligefrem er latterlig.<br>For salget af nye bagruder kommer jo slet ikke op p_ samme omfang, som salget af nye forruder.<br>Jeg har selv for ca. 5 _r siden f_et monteret en ny bagrude i min Volvo 940 stc. og der var prisen det dobbelte af, hvad jeg et halv _r efter, gav for at f_ en ny forruden monteret.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Stig B, 15-04-2014 00:50)</em></u></strong></font></li><br><font face=Verdana>S_ren i Stenl_se har haft en, kan v_re han har ruden?<br><br><a href="mailto:volvodele@spare-parts.dk">volvodele@spare-parts.dk</a><br><br>Go` hils` Stig.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(willi stelzer, 15-04-2014 20:51)</em></u></strong></font></li><br><font face=Verdana>jeg har mailed til S_ren i Stenl_se.<br>Han holder nok p_skeferie.<br>Jeg venter til efter P_ske om han svarer, ellers m_ jeg s_ge videre.<br>hilsen<br>Willi</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Stig B, 15-04-2014 22:01)</em></u></strong></font></li><br><font face=Verdana>Du kan osse pr_ve:<br><br><a href="mailto:sg@spare-parts.dk">sg@spare-parts.dk</a> <br><br>ell. telf. 47173791, men der ER travlt.<br><br>Go`hils`og p_ske <br><br>Stig.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(willi stelzer, 07-05-2014 20:36)</em></u></strong></font></li><br><font face=Verdana>Jeg har fundet en brugt bagrude til min Volvo740 hos en autoophugger.<br>Nu kommer sp_rgsm_let: Hvem kan montere den brugte rude?<br>Kan jeg f_r nogle henvisninger?<br>Er de firmaer som reklamerer med at skifte bilruder interesseret i overhoved at s_tte en brugt bagrude i min bil?<br>Revnen i bagruden er opst_et fordi der har dannet sig en rustplet, som er svulmet op, i den _vre ruderamme.<br>Der er en pynteramme indlagt i gummikanten. Hvordan stater man og hvor, for at fjerne pynterammen s_ ruden kan fril_gges.<br>N_r ruden er fri for pynterammen forventer jeg at kunne eliminere rustpletten.<br>Ert det, at skifte en bagrude et "g_r det selv job"?<br>Hilsen<br>Willi</font><br>&nbsp;</ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Stig B, 13-04-2014 13:10)</em></u></strong></font></li><br><font face=Verdana>Er 4 ell. 5 d_rs.</font><br><li><font face=Verdana><strong><u>Re: - <em>(willi stelzer, 13-04-2014 21:48)</em></u></strong></font></li><br><font face=Verdana>Det er en sedan , 4 d_re</font><br><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 13-04-2014 23:51)</em></u></strong></font></li><br><font face=Verdana>Et autoophug burde kunne hj_lpe dig til en billigere l_sning eller evt pr_v at sp_rg de forskellige volvoklubber om de kender nogen der kan hj_lpe dig.<br>Hvis du er p_ facebook er der ogs_ grupper med volvo der og m_ske kan det v_re nemmere for dig at finde hj_lp via den vej.<br><br>mvh Kent</font><br><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 14-04-2014 10:48)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>En latterlig pris. Med andre ord kunne de bare have sagt: G_ med dig, vi gider ikke lave din gamle bil. :-)<br><br>Hvad de forskellige firmaer der k_re rundt og montere frontruder? F.eks Carglass? <br><br>Om ikke andet: Ned til en hugger. Jeg mener de piller ruder ud. <br><br>MVH<br><br>Emil</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 14-04-2014 11:14)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Jeg ved ikke om prisen ligefrem er latterlig.<br>For salget af nye bagruder kommer jo slet ikke op p_ samme omfang, som salget af nye forruder.<br>Jeg har selv for ca. 5 _r siden f_et monteret en ny bagrude i min Volvo 940 stc. og der var prisen det dobbelte af, hvad jeg et halv _r efter, gav for at f_ en ny forruden monteret.<br><br>Mvh Christian</font><br><li><font face=Verdana><strong><u>Re: - <em>(Stig B, 15-04-2014 00:50)</em></u></strong></font></li><br><font face=Verdana>S_ren i Stenl_se har haft en, kan v_re han har ruden?<br><br><a href="mailto:volvodele@spare-parts.dk">volvodele@spare-parts.dk</a><br><br>Go` hils` Stig.</font><br><li><font face=Verdana><strong><u>Re: - <em>(willi stelzer, 15-04-2014 20:51)</em></u></strong></font></li><br><font face=Verdana>jeg har mailed til S_ren i Stenl_se.<br>Han holder nok p_skeferie.<br>Jeg venter til efter P_ske om han svarer, ellers m_ jeg s_ge videre.<br>hilsen<br>Willi</font><br><li><font face=Verdana><strong><u>Re: - <em>(Stig B, 15-04-2014 22:01)</em></u></strong></font></li><br><font face=Verdana>Du kan osse pr_ve:<br><br><a href="mailto:sg@spare-parts.dk">sg@spare-parts.dk</a> <br><br>ell. telf. 47173791, men der ER travlt.<br><br>Go`hils`og p_ske <br><br>Stig.</font><br><li><font face=Verdana><strong><u>Re: - <em>(willi stelzer, 07-05-2014 20:36)</em></u></strong></font></li><br><font face=Verdana>Jeg har fundet en brugt bagrude til min Volvo740 hos en autoophugger.<br>Nu kommer sp_rgsm_let: Hvem kan montere den brugte rude?<br>Kan jeg f_r nogle henvisninger?<br>Er de firmaer som reklamerer med at skifte bilruder interesseret i overhoved at s_tte en brugt bagrude i min bil?<br>Revnen i bagruden er opst_et fordi der har dannet sig en rustplet, som er svulmet op, i den _vre ruderamme.<br>Der er en pynteramme indlagt i gummikanten. Hvordan stater man og hvor, for at fjerne pynterammen s_ ruden kan fril_gges.<br>N_r ruden er fri for pynterammen forventer jeg at kunne eliminere rustpletten.<br>Ert det, at skifte en bagrude et "g_r det selv job"?<br>Hilsen<br>Willi</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -181,7 +181,7 @@ document.onmousedown=click;
 </table>
 
 
-&nbsp;
+
 
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright _ 2002-2013 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

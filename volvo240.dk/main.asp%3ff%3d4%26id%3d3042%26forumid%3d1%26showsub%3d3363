@@ -159,11 +159,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Forum</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="Søg" name="B1">&nbsp;
+        <input type="submit" value="SÃ¸g" name="B1">
       </form>
     </td>
   </tr>
@@ -202,8 +202,8 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&amp;MessageId=3042"><font face="Verdana">Besvar indlæg</font></a><font face="Verdana"><br>
-        &nbsp; </font></strong></li>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=3042"><font face="Verdana">Besvar indlÃ¦g</font></a><font face="Verdana"><br>
+         </font></strong></li>
     </ul>
     </td>
   </tr>
@@ -224,16 +224,16 @@ document.onmousedown=click;
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">16-03-2005&nbsp; 11:53</font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">16-03-2005 11:53</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">jeg har en b230 fra 1985. jeg er ved at skifte hovedlejer. På hovedleje nr. 3 sidder der 2 halvmåner (tryklejer)ved siden af hovedlejet. Mit spørgsmål er om der også skal sidde to tryklejer på overfaldet. Jeg kan ikke huske at der sad nogen, og jeg kan ikke se det nogen steder.<br><br>hilsen Morten</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">jeg har en b230 fra 1985. jeg er ved at skifte hovedlejer. PÃ¥ hovedleje nr. 3 sidder der 2 halvmÃ¥ner (tryklejer)ved siden af hovedlejet. Mit spÃ¸rgsmÃ¥l er om der ogsÃ¥ skal sidde to tryklejer pÃ¥ overfaldet. Jeg kan ikke huske at der sad nogen, og jeg kan ikke se det nogen steder.<br><br>hilsen Morten</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3042&ForumID=1&Showsub=3363'>Re: trykleje</a> <em>(Peter, 07-05-2005 18:32)</em></strong></font></li><br><font face=Verdana>Hej.<br>Jeg er ved samme reperation som Morten, og har samme problem.<br>Jeg har købt de 2 slørlejer "halvmåner" v. Volvo og de er en lille smule forskellige. Det ene har en tynd ende hvor den anden er lidt tykkere. De skal sidde med den blanke side ind imod hinanden ifølge Volvo reperationsmanualen.<br>Jeg gik ud fra at de skulle sidde i blokken (på siden af #3 hovedleje), og der kunne de da også sidde.<br>Problemet var bare at det ene slørleje sad fint imens det andet rokkede frem og tilbage når jeg drejede krumtappen frem og tilbage. Det så ikke rigtigt ud.<br>Endnu mere forvirrende er det når der i Volvo reperationsmanualen står at man først skal lægge krumtappen i, og dernæst slørlejerne. Jeg kan ikke få dem i når jeg har lagt krumtappen i først!<br>I korte træk: "Hvordan skal de sidde?".<br>Håber der er nogen der har prøvet det før.<br><br>Mvh.<br>Peter</font><br>&nbsp;<li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3042&ForumID=1&Showsub=3319'>Re: trykleje</a> <em>(Ren&#233; &#216;stergaard, 04-05-2005 22:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3042&ForumID=1&Showsub=3316'>Re: trykleje</a> <em>(Tommy Hansen, 04-05-2005 18:36)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3042&ForumID=1&Showsub=3363'>Re: trykleje</a> <em>(Peter, 07-05-2005 18:32)</em></strong></font></li><br><font face=Verdana>Hej.<br>Jeg er ved samme reperation som Morten, og har samme problem.<br>Jeg har kÃ¸bt de 2 slÃ¸rlejer "halvmÃ¥ner" v. Volvo og de er en lille smule forskellige. Det ene har en tynd ende hvor den anden er lidt tykkere. De skal sidde med den blanke side ind imod hinanden ifÃ¸lge Volvo reperationsmanualen.<br>Jeg gik ud fra at de skulle sidde i blokken (pÃ¥ siden af #3 hovedleje), og der kunne de da ogsÃ¥ sidde.<br>Problemet var bare at det ene slÃ¸rleje sad fint imens det andet rokkede frem og tilbage nÃ¥r jeg drejede krumtappen frem og tilbage. Det sÃ¥ ikke rigtigt ud.<br>Endnu mere forvirrende er det nÃ¥r der i Volvo reperationsmanualen stÃ¥r at man fÃ¸rst skal lÃ¦gge krumtappen i, og dernÃ¦st slÃ¸rlejerne. Jeg kan ikke fÃ¥ dem i nÃ¥r jeg har lagt krumtappen i fÃ¸rst!<br>I korte trÃ¦k: "Hvordan skal de sidde?".<br>HÃ¥ber der er nogen der har prÃ¸vet det fÃ¸r.<br><br>Mvh.<br>Peter</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3042&ForumID=1&Showsub=3319'>Re: trykleje</a> <em>(Ren&#233; Ã˜stergaard, 04-05-2005 22:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3042&ForumID=1&Showsub=3316'>Re: trykleje</a> <em>(Tommy Hansen, 04-05-2005 18:36)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -252,7 +252,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="TilfÃ¸j til foretrukne">FÃ¸j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>
@@ -261,9 +261,9 @@ document.onmousedown=click;
 <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
 <thead>
   <tr>
-    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="35%"><span class="text" style="font-size: 9px;"></span></td>
     <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2003 by volvo240.dk</span></td>
-    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">27</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">27</font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>
 </table>

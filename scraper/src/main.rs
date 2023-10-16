@@ -1,4 +1,5 @@
 use rayon::prelude::*;
+use regex::{Captures, Regex};
 use scraper::{Html, Selector};
 use serde::Serialize;
 use sqlx::SqlitePool;
@@ -20,6 +21,65 @@ struct Post {
     initial_content: String,
     reply_content: Option<String>,
     corrected: bool,
+}
+
+fn parse_sub_reply_content(post: &mut Post, reply_content: &str) {
+    let re = Regex::new(r"Re: .*? \((?<author>.*?), (?<date>\d{2}-\d{2}-\d{4} \d{2}:\d{2})\)")
+        .expect("should compile successfully");
+    let mut last_look = 0;
+    let mut last_match: Option<Captures<'_>> = re.captures_at(reply_content, last_look);
+    loop {
+        let match_info: Option<Captures<'_>> = re.captures_at(reply_content, last_look);
+        match match_info {
+            Some(ref item) => {
+                let full_match = item.get(0).expect("match 0 should always exist");
+                if full_match.start() == last_look {
+                    last_look = full_match.end();
+                    continue;
+                }
+                if post.post_id == 2836 {
+                    println!("{}->{}", last_look, full_match.start());
+                }
+                if let Some(info) = last_match {
+                    match info.name("author") {
+                        Some(author) => {
+                            post.author = reply_content[author.range()].to_string();
+                            if post.post_id == 2836 {
+                                println!("{}", post.author);
+                            }
+                        }
+                        None => (),
+                    }
+                    match info.name("date") {
+                        Some(date) => post.date = reply_content[date.range()].to_string(),
+                        None => (),
+                    }
+                    post.reply_content = Some(re.replace_all(reply_content, "").to_string());
+                    break;
+                }
+            }
+            None => {
+                if let Some(info) = last_match {
+                    match info.name("author") {
+                        Some(author) => post.author = reply_content[author.range()].to_string(),
+                        None => (),
+                    }
+                    match info.name("date") {
+                        Some(date) => post.date = reply_content[date.range()].to_string(),
+                        None => (),
+                    }
+                    post.reply_content = Some(re.replace_all(reply_content, "").to_string());
+                }
+                break;
+            }
+        }
+        last_look = if let Some(ref info) = match_info {
+            info.get(0).expect("match 0 should always exist").end()
+        } else {
+            unreachable!("should always break after None case");
+        };
+        last_match = match_info;
+    }
 }
 
 fn recurse(path: impl AsRef<Path>) -> Vec<PathBuf> {
@@ -141,9 +201,14 @@ fn process_file(path: &str) -> Result<Option<Post>, String> {
             .trim()
             .to_string(),
     );
+
     if post.reply_content.as_ref().is_some_and(|c| c.is_empty()) {
         post.reply_content = None;
     };
+
+    if let Some(reply_content) = post.reply_content.clone() {
+        parse_sub_reply_content(&mut post, &reply_content);
+    }
 
     post.corrected = !post.title.contains("#{INVALID_CHAR}#")
         && !post.author.contains("#{INVALID_CHAR}#")

@@ -120,7 +120,7 @@ func getMainPost(db *sql.DB, forum int, id int) (Post, error) {
 }
 
 func getSubPosts(db *sql.DB, forum int, id int) ([]Post, error) {
-	query, err := db.Query("SELECT DISTINCT sub_id, reply_content FROM post WHERE forum_id=? AND post_id=? AND sub_id IS NOT NULL", forum, id)
+	query, err := db.Query("SELECT author, date, sub_id, reply_content FROM post WHERE forum_id=? AND post_id=? AND sub_id IS NOT NULL", forum, id)
 	if err != nil {
 		return nil, err
 	}
@@ -128,7 +128,7 @@ func getSubPosts(db *sql.DB, forum int, id int) ([]Post, error) {
 	sub_posts := make([]Post, 0)
 	for query.Next() {
 		var sub_post Post
-		err = query.Scan(&sub_post.SubId, &sub_post.ReplyContent)
+		err = query.Scan(&sub_post.Author, &sub_post.Date, &sub_post.SubId, &sub_post.ReplyContent)
 		if err != nil {
 			return nil, err
 		}

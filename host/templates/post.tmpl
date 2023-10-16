@@ -4,13 +4,13 @@
     </h1>
     <span>{{ .Post.Author }} • {{ .Post.Date }}</span>
     <p class="text-post">{{ .Post.InitialContent }}</p>
-    {{ if not .Post.ReplyContent }}
+    {{ if and (not .SubPosts) .Post.ReplyContent.Valid }}
         <hr>
-        <p class="text-post">{{ .Post.ReplyContent }}</p>
+        <p class="text-post">{{ .Post.ReplyContent.String }}</p>
     {{ end }}
     {{ range .SubPosts }}
         <hr>
-        <span class="dev-info">#{{ .SubId }}</span>
-        <p class="text-post">{{ .ReplyContent }}</p>
+        <span class="dev-info">#{{ .SubId }}</span> <span>{{ .Author }} • {{ .Date }}</span>
+        <p class="text-post">{{ .ReplyContent.String }}</p>
     {{ end }}
 {{ end }}

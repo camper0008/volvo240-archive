@@ -48,10 +48,10 @@ type Post struct {
 	SubId          int
 	Title          string
 	Author         string
-	Email          string
+	Email          sql.NullString
 	Date           string
 	InitialContent string
-	ReplyContent   string
+	ReplyContent   sql.NullString
 	Corrected      bool
 }
 

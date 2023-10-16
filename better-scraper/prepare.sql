@@ -8,6 +8,6 @@ CREATE TABLE post (
     email TEXT,
     date TEXT NOT NULL,
     initial_content TEXT NOT NULL,
-    reply_content TEXT NOT NULL,
+    reply_content TEXT,
     corrected INT NOT NULL
 );

@@ -18,7 +18,7 @@ struct Post {
     email: Option<String>,
     date: String,
     initial_content: String,
-    reply_content: String,
+    reply_content: Option<String>,
     corrected: bool,
 }
 
@@ -133,18 +133,30 @@ fn process_file(path: &str) -> Result<Option<Post>, String> {
         .strip_prefix("Svar:")
         .ok_or_else(|| path.to_string() + ": reply header didn't have 'Svar:' prefix")?;
 
-    post.reply_content = next_row_element(&mut rows, path, ": no reply_content")?;
+    post.reply_content = Some(
+        rows.next()
+            .ok_or_else(|| path.to_string() + ": no reply_content")?
+            .text()
+            .fold(String::new(), |acc, text| acc + text)
+            .trim()
+            .to_string(),
+    );
+    if post.reply_content.as_ref().is_some_and(|c| c.is_empty()) {
+        post.reply_content = None;
+    };
 
     post.corrected = !post.title.contains("#{INVALID_CHAR}#")
         && !post.author.contains("#{INVALID_CHAR}#")
         && !post.date.contains("#{INVALID_CHAR}#")
         && !post.initial_content.contains("#{INVALID_CHAR}#")
-        && !post.reply_content.contains("#{INVALID_CHAR}#")
+        && !post
+            .reply_content
+            .as_ref()
+            .is_some_and(|v| v.contains("#{INVALID_CHAR}#") || v.contains("_"))
         && !post.title.contains("_")
         && !post.author.contains("_")
         && !post.date.contains("_")
-        && !post.initial_content.contains("_")
-        && !post.reply_content.contains("_");
+        && !post.initial_content.contains("_");
 
     Ok(Some(post))
 }

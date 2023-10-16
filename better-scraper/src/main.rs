@@ -67,7 +67,13 @@ fn process_file(path: &str) -> Result<Option<Post>, String> {
         return Ok(None);
     }
 
-    let query = "https://volvo240.dk/".to_string() + &path.replace("%26amp;", "&");
+    let query = &path
+        .replace("%26amp;", "&")
+        .replace("%3f", "?")
+        .replace("%3d", "=")
+        .replace("%26", "&")
+        .replace("../", "https://")
+        .to_lowercase();
     let query = query.parse::<Url>().unwrap();
     let query = query.query_pairs();
 
@@ -78,6 +84,8 @@ fn process_file(path: &str) -> Result<Option<Post>, String> {
             "forumid" => post.forum_id = value.parse().unwrap(),
             "id" => post.post_id = value.parse().unwrap(),
             "showsub" => post.sub_id = Some(value.parse().unwrap()),
+            "f" if value != "4" => return Ok(None),
+            "f" => {}
             key => return Err(format!("unrecognized key {key}")),
         }
     }
@@ -98,17 +106,45 @@ fn process_file(path: &str) -> Result<Option<Post>, String> {
     let row_selector = Selector::parse("tr").expect("selector should be valid");
 
     let mut rows = post_element.select(&row_selector);
-    post.title = next_row_element(&mut rows, path, ": no title")?;
-    post.author = next_row_element(&mut rows, path, ": no author")?;
+    post.title = next_row_element(&mut rows, path, ": no title")?
+        .strip_prefix("Emne:")
+        .ok_or_else(|| path.to_string() + ": title didn't have 'Emne:' prefix")?
+        .to_string();
+    post.author = next_row_element(&mut rows, path, ": no author")?
+        .strip_prefix("Navn:")
+        .ok_or_else(|| path.to_string() + ": author didn't have 'Navn:' prefix")?
+        .to_string();
     let email_or_date = next_row_element(&mut rows, path, ": no email_or_date")?;
     if email_or_date.starts_with("E-mail:") {
-        post.email = Some(email_or_date);
-        post.date = next_row_element(&mut rows, path, ": no date")?;
+        post.email = Some(email_or_date.strip_prefix("E-mail:").unwrap().to_string());
+        post.date = next_row_element(&mut rows, path, ": no date")?
+            .strip_prefix("Dato:")
+            .ok_or_else(|| path.to_string() + ": date didn't have 'Dato:' prefix")?
+            .to_string();
     } else {
-        post.date = email_or_date;
+        post.date = email_or_date
+            .strip_prefix("Dato:")
+            .ok_or_else(|| path.to_string() + ": date didn't have 'Dato:' prefix")?
+            .to_string();
     }
     post.initial_content = next_row_element(&mut rows, path, ": no initial_content")?;
+
+    next_row_element(&mut rows, path, ": no reply header")?
+        .strip_prefix("Svar:")
+        .ok_or_else(|| path.to_string() + ": reply header didn't have 'Svar:' prefix")?;
+
     post.reply_content = next_row_element(&mut rows, path, ": no reply_content")?;
+
+    post.corrected = !post.title.contains("#{INVALID_CHAR}#")
+        && !post.author.contains("#{INVALID_CHAR}#")
+        && !post.date.contains("#{INVALID_CHAR}#")
+        && !post.initial_content.contains("#{INVALID_CHAR}#")
+        && !post.reply_content.contains("#{INVALID_CHAR}#")
+        && !post.title.contains("_")
+        && !post.author.contains("_")
+        && !post.date.contains("_")
+        && !post.initial_content.contains("_")
+        && !post.reply_content.contains("_");
 
     Ok(Some(post))
 }

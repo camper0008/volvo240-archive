@@ -255,7 +255,7 @@ document.onmousedown=click;
       <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="600" align="center">
         <tr>
           <th width="59" align="left">Navn:</th>
-          <td width="541">Pontus M�rth</td>
+          <td width="541">Pontus Mörth</td>
         </tr>
         <tr>
           <th width="59" align="left">Født:</th>

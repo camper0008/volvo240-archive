@@ -262,7 +262,7 @@ document.onmousedown=click;
   </tr>
   <tr>
     <td align="right"><font color="#808080">12</font></td>
-    <td><font color="#808080">Team Citroën Racing Ahead</font></td>
+    <td><font color="#808080">Team CitroÃ«n Racing Ahead</font></td>
     <td align="right"><font color="#808080">37</font></td>
   </tr>
   <tr>
@@ -366,7 +366,7 @@ document.onmousedown=click;
   </tr>
   <tr>
     <td align="right" bgcolor="#0000FF"><font color="#FFFFFF">13</font></td>
-    <td bgcolor="#0000FF"><font color="#FFFFFF">Pontus Mörth</font></td>
+    <td bgcolor="#0000FF"><font color="#FFFFFF">Pontus MÃ¶rth</font></td>
     <td align="right" bgcolor="#0000FF"><font color="#FFFFFF">67</font></td>
   </tr>
   <tr>
@@ -396,7 +396,7 @@ document.onmousedown=click;
   </tr>
   <tr>
     <td align="right"></td>
-    <td><font color="#808080">Michael Schröter</font></td>
+    <td><font color="#808080">Michael SchrÃ¶ter</font></td>
     <td align="right"><font color="#808080">36</font></td>
   </tr>
   <tr>

@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske sp�rgsm�l om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=2735"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=2735"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-01-2005 17:45</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har v�ret s� heldig at overtage min far�s historiske volvo 244 gle, fra 79`.<br>Men dog er der nogen sm�ting, eller rettere sagt mange ting, der skal laves p� den.<br><br>Mit f�rste projekt er at jeg skal have en ny varme-bl�ser i, da den der sidder i den nu, er defekt.<br><br>Jeg er ikke helt blank vedr. teknik p� biler, s� jeg har t�nkt mig at smide et nyt instrument br�t i, for at modernisere den lidt,<br><br>S� mit sp�rgsm�l, er ..... Hvor "nyt" instrumentering, kan man tillade sig at l�gge i den, uden at man skal hen og svejse alt for meget....<br><br>Til orientering, skal n�vnes at denne model er udstyret med air condition.</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har v#{INVALID_CHAR}#ret s#{INVALID_CHAR}# heldig at overtage min far#{INVALID_CHAR}#s historiske volvo 244 gle, fra 79`.<br>Men dog er der nogen sm#{INVALID_CHAR}#ting, eller rettere sagt mange ting, der skal laves p#{INVALID_CHAR}# den.<br><br>Mit f#{INVALID_CHAR}#rste projekt er at jeg skal have en ny varme-bl#{INVALID_CHAR}#ser i, da den der sidder i den nu, er defekt.<br><br>Jeg er ikke helt blank vedr. teknik p#{INVALID_CHAR}# biler, s#{INVALID_CHAR}# jeg har t#{INVALID_CHAR}#nkt mig at smide et nyt instrument br#{INVALID_CHAR}#t i, for at modernisere den lidt,<br><br>S#{INVALID_CHAR}# mit sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l, er ..... Hvor "nyt" instrumentering, kan man tillade sig at l#{INVALID_CHAR}#gge i den, uden at man skal hen og svejse alt for meget....<br><br>Til orientering, skal n#{INVALID_CHAR}#vnes at denne model er udstyret med air condition.</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2735&ForumID=2&Showsub=2760'>Re: Nyt instrument bræt</a> <em>(Johan Årman, 24-01-2005 12:42)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2735&ForumID=2&Showsub=2754'>Re: Nyt instrument bræt</a> <em>(Kent, 22-01-2005 22:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2735&ForumID=2&Showsub=2745'>Re: Nyt instrument bræt</a> <em>(Jimmi Holst Nielsen, 20-01-2005 19:52)</em></strong></font></li><br><font face=Verdana>Jo tak Jes, men det jeg mere fisker efter, er om man kan tage et instrument-bord fra eks. 740 el. lign, jeg er klar over at der er nogen problemer i forhold til midterkonsollen, og at man n�dvendigvis m� til at skifte s�der ud...</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2735&ForumID=2&Showsub=2744'>Re: Nyt instrument bræt</a> <em>(Jes, 20-01-2005 14:12)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2735&ForumID=2&Showsub=2760'>Re: Nyt instrument bræt</a> <em>(Johan Årman, 24-01-2005 12:42)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2735&ForumID=2&Showsub=2754'>Re: Nyt instrument bræt</a> <em>(Kent, 22-01-2005 22:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2735&ForumID=2&Showsub=2745'>Re: Nyt instrument bræt</a> <em>(Jimmi Holst Nielsen, 20-01-2005 19:52)</em></strong></font></li><br><font face=Verdana>Jo tak Jes, men det jeg mere fisker efter, er om man kan tage et instrument-bord fra eks. 740 el. lign, jeg er klar over at der er nogen problemer i forhold til midterkonsollen, og at man n#{INVALID_CHAR}#dvendigvis m#{INVALID_CHAR}# til at skifte s#{INVALID_CHAR}#der ud...</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2735&ForumID=2&Showsub=2744'>Re: Nyt instrument bræt</a> <em>(Jes, 20-01-2005 14:12)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

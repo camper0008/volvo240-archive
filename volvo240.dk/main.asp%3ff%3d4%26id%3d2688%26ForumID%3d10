@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -226,7 +226,7 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-02-2008 23:19</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Er der nogle der har erfaringer med BW og AW automatgearkasserne som kan sige lidt om holdbarhed mm - jeg har pt en B23A med en AW og k�ber m�ske en bil med B21E og BW</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Er der nogle der har erfaringer med BW og AW automatgearkasserne som kan sige lidt om holdbarhed mm - jeg har pt en B23A med en AW og k#{INVALID_CHAR}#ber m#{INVALID_CHAR}#ske en bil med B21E og BW</font></td>
       </tr>
       <tr>
 
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Rasmataz, 07-02-2008 10:09)</em></u></strong></font></li><br><font face=Verdana>Ville man kunne montere en AW71L p� en B21A motor fra 1978 ?<br>Gearingen i kasserne og bagt�jerne er jo n�sten de samme, men passer aksler og boltm�nstre sammen eller er det en umulig konvertering?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Johan Jargil Årman, 07-02-2008 10:17)</em></u></strong></font></li><br><font face=Verdana>Hej.<br><br>Konverteringen er ikke umulig. <br><br>I �vrigt er BW55-kassen lige s� st�rk som AW71-kassen. Der er bare ikke noget overdrive.<br><br>Venlig hilsen <br><br>Johan �rman</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Rasmataz, 07-02-2008 10:09)</em></u></strong></font></li><br><font face=Verdana>Ville man kunne montere en AW71L p#{INVALID_CHAR}# en B21A motor fra 1978 ?<br>Gearingen i kasserne og bagt#{INVALID_CHAR}#jerne er jo n#{INVALID_CHAR}#sten de samme, men passer aksler og boltm#{INVALID_CHAR}#nstre sammen eller er det en umulig konvertering?</font><br><li><font face=Verdana><strong><u>Re: - <em>(Johan Jargil Årman, 07-02-2008 10:17)</em></u></strong></font></li><br><font face=Verdana>Hej.<br><br>Konverteringen er ikke umulig. <br><br>I #{INVALID_CHAR}#vrigt er BW55-kassen lige s#{INVALID_CHAR}# st#{INVALID_CHAR}#rk som AW71-kassen. Der er bare ikke noget overdrive.<br><br>Venlig hilsen <br><br>Johan #{INVALID_CHAR}#rman</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -255,7 +255,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a>
       &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
     </td>
   </tr>

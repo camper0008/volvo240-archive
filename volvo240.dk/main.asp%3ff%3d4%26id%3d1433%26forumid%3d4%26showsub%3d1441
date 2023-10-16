@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1433"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1433"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">26-02-2004 23:18</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej. I sommer importerede jeg en 240 5 d�rs fra 1987 med B230K og AW 71 gear fra Sverige. Den har k�rt 314.000 km nu og k�rer som en dr�m, jeg er meget glad for den, men.. den er helt forf�rdelig t�rstig. N�r jeg l�ser her p� sitet at nogen k�rer 10-11 km p� literen i deres 240 er jeg ved og d�ne!! Jeg k�rer den p�n, allerh�jst 34-3500 O/m n�r det g�r hurtigst ved motorvejs acc. men alligevel k�rer den kun 300 km p� en fuld tank ved blandet k�rsel, ved rent byk�rsel 260-270 km, 400 hvis der er tale om rent motorvejsk�rsel. Det synes jeg er for galt. Jeg har ogs� en 240 Turbo fra 84' (imp. fra Tyskland) og den k�rer omkring 230-250km p� en fuld tank ved blandet k�rsel. Jeg er k�mpefan af 240 serien men det er ved at v�re en for dyr hobby!! Hvad kan jeg g�re, jeg k�rer dem jo ikke h�rdt. Lige et till�gs-sp�rgsm�l: i alle de instuktionsb�ger jeg har om 240 serien st�r der at br�ndstoftanken rummer 60 liter, mens jeg aldrig selv har kunne presse mere end 45-46 liter i tanken?!!! Venligst KL.</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej. I sommer importerede jeg en 240 5 d#{INVALID_CHAR}#rs fra 1987 med B230K og AW 71 gear fra Sverige. Den har k#{INVALID_CHAR}#rt 314.000 km nu og k#{INVALID_CHAR}#rer som en dr#{INVALID_CHAR}#m, jeg er meget glad for den, men.. den er helt forf#{INVALID_CHAR}#rdelig t#{INVALID_CHAR}#rstig. N#{INVALID_CHAR}#r jeg l#{INVALID_CHAR}#ser her p#{INVALID_CHAR}# sitet at nogen k#{INVALID_CHAR}#rer 10-11 km p#{INVALID_CHAR}# literen i deres 240 er jeg ved og d#{INVALID_CHAR}#ne!! Jeg k#{INVALID_CHAR}#rer den p#{INVALID_CHAR}#n, allerh#{INVALID_CHAR}#jst 34-3500 O/m n#{INVALID_CHAR}#r det g#{INVALID_CHAR}#r hurtigst ved motorvejs acc. men alligevel k#{INVALID_CHAR}#rer den kun 300 km p#{INVALID_CHAR}# en fuld tank ved blandet k#{INVALID_CHAR}#rsel, ved rent byk#{INVALID_CHAR}#rsel 260-270 km, 400 hvis der er tale om rent motorvejsk#{INVALID_CHAR}#rsel. Det synes jeg er for galt. Jeg har ogs#{INVALID_CHAR}# en 240 Turbo fra 84' (imp. fra Tyskland) og den k#{INVALID_CHAR}#rer omkring 230-250km p#{INVALID_CHAR}# en fuld tank ved blandet k#{INVALID_CHAR}#rsel. Jeg er k#{INVALID_CHAR}#mpefan af 240 serien men det er ved at v#{INVALID_CHAR}#re en for dyr hobby!! Hvad kan jeg g#{INVALID_CHAR}#re, jeg k#{INVALID_CHAR}#rer dem jo ikke h#{INVALID_CHAR}#rdt. Lige et till#{INVALID_CHAR}#gs-sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l: i alle de instuktionsb#{INVALID_CHAR}#ger jeg har om 240 serien st#{INVALID_CHAR}#r der at br#{INVALID_CHAR}#ndstoftanken rummer 60 liter, mens jeg aldrig selv har kunne presse mere end 45-46 liter i tanken?!!! Venligst KL.</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1433&ForumID=4&Showsub=1442'>Re: 240 (5) 87' Bensinøkonomi</a> <em>(Kim Løvenskjold, 28-02-2004 14:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1433&ForumID=4&Showsub=1441'>Re: 240 (5) 87' Bensinøkonomi</a> <em>(Birger Møller Rex, 27-02-2004 17:23)</em></strong></font></li><br><font face=Verdana>Du siger du kun k�rer omkring 400 km p� en tankfuld. det havde v�ret bedre, om du havde skrevet, hvor mange liter, du bruger p� de 400 km. Hvis du stopper tankningen, n�r pistolen selv sl�r fra, kan det godt v�re, du tror, tanken ikke kan rumme mere. Men pr�v at efterfylde.<br>K�rer selv en 240 DL st.c. �rg. 87. Nuv�rende km.stand er 303.000. P� vej hjem fra sidste ferie i Frankrig bilen godt l�sset med 3 personer og en masse bagage, motorvejsfart p� mellem 120 og 130 havde jeg k�rt 529 km siden sidste tankning og t�nkte, at jeg hellere m�tte fylde op. Kunne kun tanke knap 40 liter. Det gav et forbrug p� over 13 km pr. l.<br>Det daglige forbrug ligger om sommeren p� mellem 10 og 11 km pr. l og om vinteren mellem 9 og 10 km pr. l.<br>Ud over at f� justeret din karburator, et rent luftfilter og gode t�ndr�r kunne problemet med den forslugne Volvo v�re h�ngende bremser eller forkert sporing.<br>Mange volvohilsner<br>Birger M�ller Rex</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1433&ForumID=4&Showsub=1440'>Re: 240 (5) 87' Bensinøkonomi</a> <em>(Rasmus Sixhøj Christensen, 27-02-2004 15:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1433&ForumID=4&Showsub=1438'>Re: 240 (5) 87' Bensinøkonomi</a> <em>(Emil J, 27-02-2004 10:20)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1433&ForumID=4&Showsub=1442'>Re: 240 (5) 87' Bensinøkonomi</a> <em>(Kim Løvenskjold, 28-02-2004 14:05)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1433&ForumID=4&Showsub=1441'>Re: 240 (5) 87' Bensinøkonomi</a> <em>(Birger Møller Rex, 27-02-2004 17:23)</em></strong></font></li><br><font face=Verdana>Du siger du kun k#{INVALID_CHAR}#rer omkring 400 km p#{INVALID_CHAR}# en tankfuld. det havde v#{INVALID_CHAR}#ret bedre, om du havde skrevet, hvor mange liter, du bruger p#{INVALID_CHAR}# de 400 km. Hvis du stopper tankningen, n#{INVALID_CHAR}#r pistolen selv sl#{INVALID_CHAR}#r fra, kan det godt v#{INVALID_CHAR}#re, du tror, tanken ikke kan rumme mere. Men pr#{INVALID_CHAR}#v at efterfylde.<br>K#{INVALID_CHAR}#rer selv en 240 DL st.c. #{INVALID_CHAR}#rg. 87. Nuv#{INVALID_CHAR}#rende km.stand er 303.000. P#{INVALID_CHAR}# vej hjem fra sidste ferie i Frankrig bilen godt l#{INVALID_CHAR}#sset med 3 personer og en masse bagage, motorvejsfart p#{INVALID_CHAR}# mellem 120 og 130 havde jeg k#{INVALID_CHAR}#rt 529 km siden sidste tankning og t#{INVALID_CHAR}#nkte, at jeg hellere m#{INVALID_CHAR}#tte fylde op. Kunne kun tanke knap 40 liter. Det gav et forbrug p#{INVALID_CHAR}# over 13 km pr. l.<br>Det daglige forbrug ligger om sommeren p#{INVALID_CHAR}# mellem 10 og 11 km pr. l og om vinteren mellem 9 og 10 km pr. l.<br>Ud over at f#{INVALID_CHAR}# justeret din karburator, et rent luftfilter og gode t#{INVALID_CHAR}#ndr#{INVALID_CHAR}#r kunne problemet med den forslugne Volvo v#{INVALID_CHAR}#re h#{INVALID_CHAR}#ngende bremser eller forkert sporing.<br>Mange volvohilsner<br>Birger M#{INVALID_CHAR}#ller Rex</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1433&ForumID=4&Showsub=1440'>Re: 240 (5) 87' Bensinøkonomi</a> <em>(Rasmus Sixhøj Christensen, 27-02-2004 15:10)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1433&ForumID=4&Showsub=1438'>Re: 240 (5) 87' Bensinøkonomi</a> <em>(Emil J, 27-02-2004 10:20)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

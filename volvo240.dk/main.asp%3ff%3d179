@@ -80,7 +80,7 @@ document.write('<' + 'script language="javascript" type="text/javascript" src="'
 
 <script type="text/javascript" language="JavaScript">
 <!--
-var message="Copyright � 2002-2013 by volvo240.dk";
+var message="Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk";
 function click(e) {
 	if (document.all) {
 		if (event.button == 2) {
@@ -116,7 +116,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -144,19 +144,19 @@ document.onmousedown=click;
   <tr>
     <td>
 
-<p>Jyllandsringen den 11. og 12. juni 2005.<p>Til min store gl�de var Anders 
-Byriel tilbage i k�redragt for, som g�stek�rer, at k�re i en Renault Megane 
+<p>Jyllandsringen den 11. og 12. juni 2005.<p>Til min store gl#{INVALID_CHAR}#de var Anders 
+Byriel tilbage i k#{INVALID_CHAR}#redragt for, som g#{INVALID_CHAR}#stek#{INVALID_CHAR}#rer, at k#{INVALID_CHAR}#re i en Renault Megane 
 Coupe med en dieselmotor. 
 <h2>DTC</h2>
 <p>Nu var den nye motor lagt i Volvo S60'eren. Og undervognen var blevet optimeret.<br>
-Under tidtagningen om l�rdagen, havde Jason et lille uheld, da han k�rte over er curb og 
-rev bundkaret i stykker. Men det kunne ikke afholde teamet fra at f� bilen klar 
-til s�ndagens race. Og race var der lagt op til. For Jason havde f�et k�rt sig 
-til en plads i Super Pole, selvom tidtagningen ellers b�d p� et kraftigt regnvejr 
-med b�de hagl og torden. Regn i s� store m�ngder, at tidtagningen m�tte stoppes, 
-da det var helt uforsvarligt at forts�tte. Men Jason kom i Super Pole som nummer 
-10. Det gav grund til optimisme og det var med gl�de og store forventninger jeg 
-kom til Jyllandsringen s�ndag formiddag.</p>
+Under tidtagningen om l#{INVALID_CHAR}#rdagen, havde Jason et lille uheld, da han k#{INVALID_CHAR}#rte over er curb og 
+rev bundkaret i stykker. Men det kunne ikke afholde teamet fra at f#{INVALID_CHAR}# bilen klar 
+til s#{INVALID_CHAR}#ndagens race. Og race var der lagt op til. For Jason havde f#{INVALID_CHAR}#et k#{INVALID_CHAR}#rt sig 
+til en plads i Super Pole, selvom tidtagningen ellers b#{INVALID_CHAR}#d p#{INVALID_CHAR}# et kraftigt regnvejr 
+med b#{INVALID_CHAR}#de hagl og torden. Regn i s#{INVALID_CHAR}# store m#{INVALID_CHAR}#ngder, at tidtagningen m#{INVALID_CHAR}#tte stoppes, 
+da det var helt uforsvarligt at forts#{INVALID_CHAR}#tte. Men Jason kom i Super Pole som nummer 
+10. Det gav grund til optimisme og det var med gl#{INVALID_CHAR}#de og store forventninger jeg 
+kom til Jyllandsringen s#{INVALID_CHAR}#ndag formiddag.</p>
 
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
@@ -172,15 +172,15 @@ Th: - nu med ny motor. </p>
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-dtc03w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-dtc03t.jpg" width="128" height="85"></a></td>
     <td>                                                                                                                                                                                                                                                                                                
-<p>Tv: Volvo raceren i �sende regn.<br>                                                                                                                                                                                                                                                                 
+<p>Tv: Volvo raceren i #{INVALID_CHAR}#sende regn.<br>                                                                                                                                                                                                                                                                 
 Th: Jyllandsringen under vand! </p>                                                                                                                                                                                                                                                                     
     </td>                                                                                                                                                                                                                                                                                               
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-dtc04w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-dtc04t.jpg" width="128" height="85"></a></td>
   </tr>
 </table>
 
-<h3>S�ndag:</h3>
-<p>Super polen blev k�rt i denne r�kkef�lge:</p>
+<h3>S#{INVALID_CHAR}#ndag:</h3>
+<p>Super polen blev k#{INVALID_CHAR}#rt i denne r#{INVALID_CHAR}#kkef#{INVALID_CHAR}#lge:</p>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="25%" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-sp01w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-sp01t.jpg" width="128" height="85"></a></td>
@@ -217,7 +217,7 @@ Th: Jyllandsringen under vand! </p>
 	Endte nr. 10</td>                                                                                                                                                                                                                                                                                                  
     <td width="25%" align="center"> 3 Martin Jensen<br>                                                                                                                                                                                                                                                              
 	Endte nr. 7</td>                                                                                                                                                                                                                                                                                                   
-    <td width="25%" align="center"> 11 J�rgen Weinrich<br>                                                                                                                                                                                                                                                           
+    <td width="25%" align="center"> 11 J#{INVALID_CHAR}#rgen Weinrich<br>                                                                                                                                                                                                                                                           
 	Endte nr. 9</td>                                                                                                                                                                                                                                                                                                   
   </tr>                                                                                                                                                                                                                                                                                                              
 </table>                                                                                                                                                                                                                                                                                                             
@@ -231,7 +231,7 @@ Th: Jyllandsringen under vand! </p>
 </table>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
-    <td width="25%" align="center"> 17 Michel Nykj�r<br>
+    <td width="25%" align="center"> 17 Michel Nykj#{INVALID_CHAR}#r<br>
 		Endte nr. 4</td>
     <td width="25%" align="center"> 33 John Nielsen<br>
 	Endte nr. 5</td>
@@ -241,68 +241,68 @@ Th: Jyllandsringen under vand! </p>
 	Endte nr. 3</td>
   </tr>
 </table>
-<p>For f�rste gang i DTC's historie var Casper Elgaard ikke med i Super Pole.</p>
-<p>Henrik Lundgaard k�rte klart bedste tid, med n�sten et halvt sekund ned til 
-Jens Edman. Jason Watt var godt og vel 1� sekund efter Lundgaard og endte alts� 
-p� en 8. plads.</p>
+<p>For f#{INVALID_CHAR}#rste gang i DTC's historie var Casper Elgaard ikke med i Super Pole.</p>
+<p>Henrik Lundgaard k#{INVALID_CHAR}#rte klart bedste tid, med n#{INVALID_CHAR}#sten et halvt sekund ned til 
+Jens Edman. Jason Watt var godt og vel 1#{INVALID_CHAR}# sekund efter Lundgaard og endte alts#{INVALID_CHAR}# 
+p#{INVALID_CHAR}# en 8. plads.</p>
 
 <h3>Prefinalen</h3>
-<p>Jason Watt n�ede i prefinalen at avancere fra en 8. plads til en 7. plads.</p>
+<p>Jason Watt n#{INVALID_CHAR}#ede i prefinalen at avancere fra en 8. plads til en 7. plads.</p>
 <p>Casper Elgaard kom mildest talt racende fra en 13. plads og op til den i 
 prefinalen eftertragtede 5. plads, der jo giver en pole position i finalen. Man 
 kan sige hvad man vil, men der er ingen tvivl i mit sind om, at Casper og hans 
-BMW er suver�ne i DTC og jeg har sv�rt ved at overbevise mig selv om at det ikke 
-skulle blive ham der vinder DTC i �r - igen. Ogs� selvom John Nielsen ogs� g�r 
-efter at komme �verst p� podiet, og derved kan �del�gge chancen for Casper.</p>
-<p>Henrik Lundgaard vandt suver�nt pr�finalen.</p>
+BMW er suver#{INVALID_CHAR}#ne i DTC og jeg har sv#{INVALID_CHAR}#rt ved at overbevise mig selv om at det ikke 
+skulle blive ham der vinder DTC i #{INVALID_CHAR}#r - igen. Ogs#{INVALID_CHAR}# selvom John Nielsen ogs#{INVALID_CHAR}# g#{INVALID_CHAR}#r 
+efter at komme #{INVALID_CHAR}#verst p#{INVALID_CHAR}# podiet, og derved kan #{INVALID_CHAR}#del#{INVALID_CHAR}#gge chancen for Casper.</p>
+<p>Henrik Lundgaard vandt suver#{INVALID_CHAR}#nt pr#{INVALID_CHAR}#finalen.</p>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-dtc05w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-dtc05t.jpg" width="128" height="85"></a></td>
     <td>                                                                                                                                                                                                                                                                                                
-<p>Tv: Man kunne n�sten h�re Klaus Verner sige; "Jeg vil b�res!".</p>                                                                                                                                                                                                                         
+<p>Tv: Man kunne n#{INVALID_CHAR}#sten h#{INVALID_CHAR}#re Klaus Verner sige; "Jeg vil b#{INVALID_CHAR}#res!".</p>                                                                                                                                                                                                                         
     </td>                                                                                                                                                                                                                                                                                               
     <td width="130"></td>                                                                                                                                                                                                                                                                         
   </tr>                                                                                                                                                                                                                                                                                                 
 </table>                                                                                                                                                                                                                                                                                                
                                                                                                                                                                                                                                                                                                         
 <h3>Finalen</h3>                                                                                                                                                                                                                                                                                        
-<p>Med Casper i front fra start var der ikke meget sp�nding om 1. pladsen.                                                                                                                                                                                                                              
-Casper kom i m�l n�sten 8 sekunder foran Jens Edman. Der er ikke meget at sige                                                                                                                                                                                                                          
-til det, andet end: "S�dan skal det g�res".<br>                                                                                                                                                                                                                                               
-Jason m�tte virkelig vise de bagvedk�rende hvor bred Volvo'en er for at holde                                                                                                                                                                                                                           
-sin 5. plads. Og det gjorde han godt. Der var 4� sekund fra Jan Magnussen p� 4.                                                                                                                                                                                                                         
-pladsen til Jason watt p� 5. pladsen. Og bag ved Jason l� der 4 biler inden for                                                                                                                                                                                                                         
-�t sekund. Volvo'en er nu avanceret fra en 18. plads til en 12. plads med 25                                                                                                                                                                                                                            
+<p>Med Casper i front fra start var der ikke meget sp#{INVALID_CHAR}#nding om 1. pladsen.                                                                                                                                                                                                                              
+Casper kom i m#{INVALID_CHAR}#l n#{INVALID_CHAR}#sten 8 sekunder foran Jens Edman. Der er ikke meget at sige                                                                                                                                                                                                                          
+til det, andet end: "S#{INVALID_CHAR}#dan skal det g#{INVALID_CHAR}#res".<br>                                                                                                                                                                                                                                               
+Jason m#{INVALID_CHAR}#tte virkelig vise de bagvedk#{INVALID_CHAR}#rende hvor bred Volvo'en er for at holde                                                                                                                                                                                                                           
+sin 5. plads. Og det gjorde han godt. Der var 4#{INVALID_CHAR}# sekund fra Jan Magnussen p#{INVALID_CHAR}# 4.                                                                                                                                                                                                                         
+pladsen til Jason watt p#{INVALID_CHAR}# 5. pladsen. Og bag ved Jason l#{INVALID_CHAR}# der 4 biler inden for                                                                                                                                                                                                                         
+#{INVALID_CHAR}#t sekund. Volvo'en er nu avanceret fra en 18. plads til en 12. plads med 25                                                                                                                                                                                                                            
 point i den samlede stilling. Til sammenligning har Casper Elgaard 98 point.</p>                                                                                                                                                                                                                        
                                                                                                                                                                                                                                                                                                         
 <table border="0" cellpadding="5" cellspacing="1" width="745">                                                                                                                                                                                                                                          
   <tr>                                                                                                                                                                                                                                                                                                  
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-dtc06w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-dtc06t.jpg" width="128" height="85"></a></td>
     <td>                                                                                                                                                                                                                                                                                                
-<p>Tv: Philip Andersen pressede p� og ville gerne forbi, men det kom han ikke.                                                                                                                                                                                                                          
-Godt k�rt Jason.<br>                                                                                                                                                                                                                                                                                    
-Th: Casper Elgaard k�rer flot sejeren i hus.</p>                                                                                                                                                                                                                                                        
+<p>Tv: Philip Andersen pressede p#{INVALID_CHAR}# og ville gerne forbi, men det kom han ikke.                                                                                                                                                                                                                          
+Godt k#{INVALID_CHAR}#rt Jason.<br>                                                                                                                                                                                                                                                                                    
+Th: Casper Elgaard k#{INVALID_CHAR}#rer flot sejeren i hus.</p>                                                                                                                                                                                                                                                        
     </td>                                                                                                                                                                                                                                                                                               
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-dtc07w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-dtc07t.jpg" width="128" height="85"></a></td>
   </tr>
 </table>
 <hr>
 <h2>Yokohama</h2>
-<p>I Yokohama klassen har Anders Byriel f�et et g�stes�de i en Renault Megane 
-Coupe med en dieselmotor. Det var dejligt at se Anders p� banen igen.</p>
+<p>I Yokohama klassen har Anders Byriel f#{INVALID_CHAR}#et et g#{INVALID_CHAR}#stes#{INVALID_CHAR}#de i en Renault Megane 
+Coupe med en dieselmotor. Det var dejligt at se Anders p#{INVALID_CHAR}# banen igen.</p>
 <p>Og Anders klarede sig godt i warmup. Der fik han 4. bedste tid, mens Michael 
-i Volvo S40 Turbo m�tte n�jes med en 18, bedste tid 2� sekund efter Anders.</p>
-<p>Problemet med Volvo'en er, at den har f�et monteret ny �hlins undervogn. Og 
-den tager det alts� tid at f� justeret ind.</p>
-<p>Som det er vanligt, var der ogs� i denne weekend planlagt 2 tidtagninger. Men 
+i Volvo S40 Turbo m#{INVALID_CHAR}#tte n#{INVALID_CHAR}#jes med en 18, bedste tid 2#{INVALID_CHAR}# sekund efter Anders.</p>
+<p>Problemet med Volvo'en er, at den har f#{INVALID_CHAR}#et monteret ny #{INVALID_CHAR}#hlins undervogn. Og 
+den tager det alts#{INVALID_CHAR}# tid at f#{INVALID_CHAR}# justeret ind.</p>
+<p>Som det er vanligt, var der ogs#{INVALID_CHAR}# i denne weekend planlagt 2 tidtagninger. Men 
 anden tidtagning blev aflyst pga. vejeret. Derfor var der kun en tidtagning som 
-blev lagt til grund for startplaceringerne til f�rste heat.</p>
+blev lagt til grund for startplaceringerne til f#{INVALID_CHAR}#rste heat.</p>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-n01w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-n01t.jpg" width="128" height="85"></a></td>
     <td>                                                                                                                                                                                                                                                                                            
-<p>Tv: �hlins p� Volvo S40 Turbo.<br>                                                                                                                                                                                                                                                               
-Th: Volvo S40 Turbo p� vej ind i hesteskoen.</p>                                                                                                                                                                                                                                                    
+<p>Tv: #{INVALID_CHAR}#hlins p#{INVALID_CHAR}# Volvo S40 Turbo.<br>                                                                                                                                                                                                                                                               
+Th: Volvo S40 Turbo p#{INVALID_CHAR}# vej ind i hesteskoen.</p>                                                                                                                                                                                                                                                    
     </td>                                                                                                                                                                                                                                                                                           
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-n02w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-n02t.jpg" width="128" height="85"></a></td>
   </tr>                                                                                                                                                                                                                                                                                             
@@ -311,23 +311,23 @@ Th: Volvo S40 Turbo p� vej ind i hesteskoen.</p>
   <tr>                                                                                                                                                                                                                                                                                              
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-n03w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-n03t.jpg" width="128" height="85"></a></td>
     <td>                                                                                                                                                                                                                                                                                            
-<p>Tv: Renault Megane Diesel p� vej ud af hesteskoen.<br>                                                                                                                                                                                                                                                 
-Th: Volvo S40 Turbo p� vej ud af hesteskoen.</p>                                                                                                                                                                                                                                              
+<p>Tv: Renault Megane Diesel p#{INVALID_CHAR}# vej ud af hesteskoen.<br>                                                                                                                                                                                                                                                 
+Th: Volvo S40 Turbo p#{INVALID_CHAR}# vej ud af hesteskoen.</p>                                                                                                                                                                                                                                              
     </td>                                                                                                                                                                                                                                                                                           
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-n04w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-n04t.jpg" width="128" height="85"></a></td>
   </tr>
 </table>
 
-<p>Under s�ndagens f�rste heat blev jeg inviteret med i pitten. Og sikke en 
-oplevelse. At st� helt ude ved banen, hvor der kun er f� cm. ud til bilerne n�r 
-de kommer med fuld fart ned af langsiden. Det udnyttede jeg ogs� til at f� taget 
-nogle billeder af b�de Michael i Volvo'en og Anders i Renault'en.</p>
+<p>Under s#{INVALID_CHAR}#ndagens f#{INVALID_CHAR}#rste heat blev jeg inviteret med i pitten. Og sikke en 
+oplevelse. At st#{INVALID_CHAR}# helt ude ved banen, hvor der kun er f#{INVALID_CHAR}# cm. ud til bilerne n#{INVALID_CHAR}#r 
+de kommer med fuld fart ned af langsiden. Det udnyttede jeg ogs#{INVALID_CHAR}# til at f#{INVALID_CHAR}# taget 
+nogle billeder af b#{INVALID_CHAR}#de Michael i Volvo'en og Anders i Renault'en.</p>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-n05w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-n05t.jpg" width="128" height="85"></a></td>
     <td>                                                                                                                                                                                                                                                                                            
 <p>Tv: Michael er klar.<br>                                                                                                                                                                                                                                                                         
-Th: Starten g�r, koblingen slippes og af sted det g�r.</p>                                                                                                                                                                                                                                          
+Th: Starten g#{INVALID_CHAR}#r, koblingen slippes og af sted det g#{INVALID_CHAR}#r.</p>                                                                                                                                                                                                                                          
     </td>                                                                                                                                                                                                                                                                                           
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-n06w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-n06t.jpg" width="128" height="85"></a></td>
   </tr>                                                                                                                                                                                                                                                                                             
@@ -336,7 +336,7 @@ Th: Starten g�r, koblingen slippes og af sted det g�r.</p>
   <tr>                                                                                                                                                                                                                                                                                              
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-n07w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-n07t.jpg" width="128" height="85"></a></td>
     <td>                                                                                                                                                                                                                                                                                            
-<p>Anders Byriel i Renault'en p� vej op af langsiden</p>                                                                                                                                                                                                                                            
+<p>Anders Byriel i Renault'en p#{INVALID_CHAR}# vej op af langsiden</p>                                                                                                                                                                                                                                            
     </td>                                                                                                                                                                                                                                                                                           
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-n08w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-n08t.jpg" width="128" height="85"></a></td>
   </tr>                                                                                                                                                                                                                                                                                             
@@ -345,7 +345,7 @@ Th: Starten g�r, koblingen slippes og af sted det g�r.</p>
   <tr>                                                                                                                                                                                                                                                                                              
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-n09w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-n09t.jpg" width="128" height="85"></a></td>
     <td>                                                                                                                                                                                                                                                                                            
-<p>Michael R. Jensen i Volvo'en p� vej op af langsiden</p>                                                                                                                                                                                                                                          
+<p>Michael R. Jensen i Volvo'en p#{INVALID_CHAR}# vej op af langsiden</p>                                                                                                                                                                                                                                          
     </td>                                                                                                                                                                                                                                                                                           
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20050612-n10w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20050612-n10t.jpg" width="128" height="85"></a></td>
   </tr>
@@ -355,12 +355,12 @@ Th: Starten g�r, koblingen slippes og af sted det g�r.</p>
 
 <p>Anders klarede 1. heat til en flot 7. plads, men aligevel knap 9 sekunder 
 efter Kent Iversen i sin Peugeot 307.<br>
-Michael kom i m�l 3 sekunder efter Anders og havnede p� en 14. plads.</p>
-<p>I 2. heat gik det knap s� godt for Anders. D�kkene var slidt op og det var 
-sv�rt at f� ordentlig grip i asfalten. Anders endte s�ledes p� en 13. plads 
-skarpt forfulgt af Michael der endte hvor han startede p� 14. pladsen.</p>
+Michael kom i m#{INVALID_CHAR}#l 3 sekunder efter Anders og havnede p#{INVALID_CHAR}# en 14. plads.</p>
+<p>I 2. heat gik det knap s#{INVALID_CHAR}# godt for Anders. D#{INVALID_CHAR}#kkene var slidt op og det var 
+sv#{INVALID_CHAR}#rt at f#{INVALID_CHAR}# ordentlig grip i asfalten. Anders endte s#{INVALID_CHAR}#ledes p#{INVALID_CHAR}# en 13. plads 
+skarpt forfulgt af Michael der endte hvor han startede p#{INVALID_CHAR}# 14. pladsen.</p>
 <p></p>
-<p>Det var en weekend med masser af god race og nogle gode snakke med k�rerne i 
+<p>Det var en weekend med masser af god race og nogle gode snakke med k#{INVALID_CHAR}#rerne i 
 depotet.</p>
 
 
@@ -382,7 +382,7 @@ depotet.</p>
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a>
       &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
     </td>
   </tr>
@@ -393,7 +393,7 @@ depotet.</p>
 <thead>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
-    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk</span></td>
     <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>

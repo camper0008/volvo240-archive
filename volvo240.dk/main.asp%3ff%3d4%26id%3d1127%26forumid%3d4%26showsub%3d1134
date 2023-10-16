@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1127"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1127"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-12-2003 20:37</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Min tankm�ler viser meget forkert, n�r den er ca. 3mm fra det r�de omr�de er der ca. 25-30 liter tilbage i tanken.....okay s� l�nge jeg ved at den viser forkert kan det jo v�re lige meget men det irriterer mig nu afligevel s� jeg t�nkte om der ikke skulle v�re et par store volvo fans der kunne give et par tips eller to hvordan jeg kunne f� den til at vise lidt mere pr�cis.<br><br>Jeg tak p� forh�nd for hj�lpen<br><br>Gl�dlig jul samt et godt nyt�r<br><br>Henning</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Min tankm#{INVALID_CHAR}#ler viser meget forkert, n#{INVALID_CHAR}#r den er ca. 3mm fra det r#{INVALID_CHAR}#de omr#{INVALID_CHAR}#de er der ca. 25-30 liter tilbage i tanken.....okay s#{INVALID_CHAR}# l#{INVALID_CHAR}#nge jeg ved at den viser forkert kan det jo v#{INVALID_CHAR}#re lige meget men det irriterer mig nu afligevel s#{INVALID_CHAR}# jeg t#{INVALID_CHAR}#nkte om der ikke skulle v#{INVALID_CHAR}#re et par store volvo fans der kunne give et par tips eller to hvordan jeg kunne f#{INVALID_CHAR}# den til at vise lidt mere pr#{INVALID_CHAR}#cis.<br><br>Jeg tak p#{INVALID_CHAR}# forh#{INVALID_CHAR}#nd for hj#{INVALID_CHAR}#lpen<br><br>Gl#{INVALID_CHAR}#dlig jul samt et godt nyt#{INVALID_CHAR}#r<br><br>Henning</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1127&ForumID=4&Showsub=1134'>Re: Fejlvisning af tankmåler</a> <em>(henning, 20-12-2003 00:46)</em></strong></font></li><br><font face=Verdana>Hejsa<br><br>Hm....i er ikke de f�rste der siger at det er noget man skal vende sig til, men trals er det da......48 liter - 500 km vis det bare var mig, min bil er en 240 Turbo intercooler og den er T�RSTIG...men s�dan er det bare. Men derfor m� tankm�leren da gerne virke rigtig afligevel da vi k�rer rundt i verdens bedste bil, s� her er vi enig med dig Jesper. Der findes to slags biler Volvo og s� alle de andre bil.<br>Men ellers tak for hj�lpen, jeg kan jo h�re at jeg ikke sidder selv i b�den.<br><br>Mojn<br>Henning</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1127&ForumID=4&Showsub=1132'>Re: Fejlvisning af tankmåler</a> <em>(Jesper, 19-12-2003 18:54)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1127&ForumID=4&Showsub=1129'>Re: Fejlvisning af tankmåler</a> <em>(Emil J, 19-12-2003 15:26)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1127&ForumID=4&Showsub=1134'>Re: Fejlvisning af tankmåler</a> <em>(henning, 20-12-2003 00:46)</em></strong></font></li><br><font face=Verdana>Hejsa<br><br>Hm....i er ikke de f#{INVALID_CHAR}#rste der siger at det er noget man skal vende sig til, men trals er det da......48 liter - 500 km vis det bare var mig, min bil er en 240 Turbo intercooler og den er T#{INVALID_CHAR}#RSTIG...men s#{INVALID_CHAR}#dan er det bare. Men derfor m#{INVALID_CHAR}# tankm#{INVALID_CHAR}#leren da gerne virke rigtig afligevel da vi k#{INVALID_CHAR}#rer rundt i verdens bedste bil, s#{INVALID_CHAR}# her er vi enig med dig Jesper. Der findes to slags biler Volvo og s#{INVALID_CHAR}# alle de andre bil.<br>Men ellers tak for hj#{INVALID_CHAR}#lpen, jeg kan jo h#{INVALID_CHAR}#re at jeg ikke sidder selv i b#{INVALID_CHAR}#den.<br><br>Mojn<br>Henning</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1127&ForumID=4&Showsub=1132'>Re: Fejlvisning af tankmåler</a> <em>(Jesper, 19-12-2003 18:54)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1127&ForumID=4&Showsub=1129'>Re: Fejlvisning af tankmåler</a> <em>(Emil J, 19-12-2003 15:26)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

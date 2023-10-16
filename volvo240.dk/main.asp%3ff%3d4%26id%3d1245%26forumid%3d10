@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -226,7 +226,7 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">16-11-2005 20:08</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hvad g�r jeg p� min 240 med B23A, min EGR ventil var helt f�rdig og har randset EGR r�rene, men da jeg skulle havde en ny EGR ventil ved volvo var den udg�et og den der skulle erstatte den var udg�et.<br><br>Men jeg har v�ret ude og se p� ophug om jeg kun finde en brugt men nej, der var s� en som var magen til p�n�r hvor den lille slange skal s�ttes p� er hullet s� lille som en n�l p� min er den ca. 2-3 mm hul.<br>Kan jeg s� ikke save spisen af den med det lille hul for s� er de ens og hvad med den lille skrue der sider p� enden er ikke ens skal jeg tage den fra den gamle og s�tte over eller hvad.<br><br>Er der nogen der kan hj�lpe med problemet.      MVH. Rene</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hvad g#{INVALID_CHAR}#r jeg p#{INVALID_CHAR}# min 240 med B23A, min EGR ventil var helt f#{INVALID_CHAR}#rdig og har randset EGR r#{INVALID_CHAR}#rene, men da jeg skulle havde en ny EGR ventil ved volvo var den udg#{INVALID_CHAR}#et og den der skulle erstatte den var udg#{INVALID_CHAR}#et.<br><br>Men jeg har v#{INVALID_CHAR}#ret ude og se p#{INVALID_CHAR}# ophug om jeg kun finde en brugt men nej, der var s#{INVALID_CHAR}# en som var magen til p#{INVALID_CHAR}#n#{INVALID_CHAR}#r hvor den lille slange skal s#{INVALID_CHAR}#ttes p#{INVALID_CHAR}# er hullet s#{INVALID_CHAR}# lille som en n#{INVALID_CHAR}#l p#{INVALID_CHAR}# min er den ca. 2-3 mm hul.<br>Kan jeg s#{INVALID_CHAR}# ikke save spisen af den med det lille hul for s#{INVALID_CHAR}# er de ens og hvad med den lille skrue der sider p#{INVALID_CHAR}# enden er ikke ens skal jeg tage den fra den gamle og s#{INVALID_CHAR}#tte over eller hvad.<br><br>Er der nogen der kan hj#{INVALID_CHAR}#lpe med problemet.      MVH. Rene</font></td>
       </tr>
       <tr>
 
@@ -254,7 +254,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,7 +198,7 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
@@ -211,7 +211,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>F�lgm�trikker til VOLVO Turbinef�lge.</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>F#{INVALID_CHAR}#lgm#{INVALID_CHAR}#trikker til VOLVO Turbinef#{INVALID_CHAR}#lge.</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -226,7 +226,7 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-08-2003 11:26</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Nye topm�trikker til mine originale Volvo Alu-turbinef�lge (Volvo 245-1988)koster 57 kr./stk. hos Volvo DK, s� det bliver lidt kosbart for 20 nye stk.<br>De gamle er sp�ndt ovale i den yderste del af hullerne og sp�nder helt vildt ved montering.<br>Findes der akceptable alternative l�sninger, f.eks. i form af uoriginale topm�trikker eller kan de gamle sk�res op med en snittap.<br>Hvilket gevind er der tale om ?<br><br></font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Nye topm#{INVALID_CHAR}#trikker til mine originale Volvo Alu-turbinef#{INVALID_CHAR}#lge (Volvo 245-1988)koster 57 kr./stk. hos Volvo DK, s#{INVALID_CHAR}# det bliver lidt kosbart for 20 nye stk.<br>De gamle er sp#{INVALID_CHAR}#ndt ovale i den yderste del af hullerne og sp#{INVALID_CHAR}#nder helt vildt ved montering.<br>Findes der akceptable alternative l#{INVALID_CHAR}#sninger, f.eks. i form af uoriginale topm#{INVALID_CHAR}#trikker eller kan de gamle sk#{INVALID_CHAR}#res op med en snittap.<br>Hvilket gevind er der tale om ?<br><br></font></td>
       </tr>
       <tr>
 
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Michael Jensen, 29-08-2003 21:43)</em></u></strong></font></li><br><font face=Verdana>Gevindene p� hjulm�trikkerne er 1/2UNF.<br>Jeg har selv samme problem idet jeg havde en sk�v f�lg og jeg k�bte<br>4Tunaverken aluf�lge.<br><br>Firmaet BILTEMA s�lger forkromede topm�trikker til Volvo, men de er<br>lavet forkert idet hullet der er boret er for stort, hvilket <br>bevirker at m�trikkerne er meget l�se i gevindet.<br>Jeg vil p� det kraftigste frar�de at man benytter disse m�trikker.<br>Hvad koster m�trikkerne evt. hos en forhandler i Sverige?</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Michael Jensen, 29-08-2003 21:43)</em></u></strong></font></li><br><font face=Verdana>Gevindene p#{INVALID_CHAR}# hjulm#{INVALID_CHAR}#trikkerne er 1/2UNF.<br>Jeg har selv samme problem idet jeg havde en sk#{INVALID_CHAR}#v f#{INVALID_CHAR}#lg og jeg k#{INVALID_CHAR}#bte<br>4Tunaverken aluf#{INVALID_CHAR}#lge.<br><br>Firmaet BILTEMA s#{INVALID_CHAR}#lger forkromede topm#{INVALID_CHAR}#trikker til Volvo, men de er<br>lavet forkert idet hullet der er boret er for stort, hvilket <br>bevirker at m#{INVALID_CHAR}#trikkerne er meget l#{INVALID_CHAR}#se i gevindet.<br>Jeg vil p#{INVALID_CHAR}# det kraftigste frar#{INVALID_CHAR}#de at man benytter disse m#{INVALID_CHAR}#trikker.<br>Hvad koster m#{INVALID_CHAR}#trikkerne evt. hos en forhandler i Sverige?</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -254,7 +254,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

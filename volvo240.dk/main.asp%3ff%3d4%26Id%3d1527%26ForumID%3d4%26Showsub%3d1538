@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1527"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1527"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-03-2004 21:55</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>S� n�rmer den varme tid sig og jeg m�rker langsomt trangen til, at forsyne min i efter�ret indk�bte volvo, med et par aluf�lge med sommerd�k.<br>Min bil er en 240 GLT st.car fra 88 (med en l�kker sort/gr� stue), som jeg gerne vil holde s� original i udseendet som muligt. Jeg kan p� instruktionsbogen fra 1985 (set her p� siden) se en GLT udstyret med corona f�lge. det kunne jo tyde p� at det er de f�lge en GLT skal ha� (jeg synes nu ogs� de er p�ne.)<br>Sp�rgsm�let er s�: Jeg synes at have set flere slags corona f�lge. Der er selvf�lgelig med stor og lille navkapsel, men er der ogs� forskelligt formede huller omkring m�trikkerne p� nogle af f�lgene? jeg mener at have set nogle med n�rmest buko-osteformede huller, og nogle med mere runde huller. Derudover s� jeg et s�t meget flotte coronaf�lge i den bl�, en gang i efter�ret. de var beskrevet som 15" f�lge?? findes det eller var det mon en fejl?<br>Til sidst, er der nogen derude der har et par velholdte coronaer til salg?<br><br>Anders</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>S#{INVALID_CHAR}# n#{INVALID_CHAR}#rmer den varme tid sig og jeg m#{INVALID_CHAR}#rker langsomt trangen til, at forsyne min i efter#{INVALID_CHAR}#ret indk#{INVALID_CHAR}#bte volvo, med et par aluf#{INVALID_CHAR}#lge med sommerd#{INVALID_CHAR}#k.<br>Min bil er en 240 GLT st.car fra 88 (med en l#{INVALID_CHAR}#kker sort/gr#{INVALID_CHAR}# stue), som jeg gerne vil holde s#{INVALID_CHAR}# original i udseendet som muligt. Jeg kan p#{INVALID_CHAR}# instruktionsbogen fra 1985 (set her p#{INVALID_CHAR}# siden) se en GLT udstyret med corona f#{INVALID_CHAR}#lge. det kunne jo tyde p#{INVALID_CHAR}# at det er de f#{INVALID_CHAR}#lge en GLT skal ha#{INVALID_CHAR}# (jeg synes nu ogs#{INVALID_CHAR}# de er p#{INVALID_CHAR}#ne.)<br>Sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#let er s#{INVALID_CHAR}#: Jeg synes at have set flere slags corona f#{INVALID_CHAR}#lge. Der er selvf#{INVALID_CHAR}#lgelig med stor og lille navkapsel, men er der ogs#{INVALID_CHAR}# forskelligt formede huller omkring m#{INVALID_CHAR}#trikkerne p#{INVALID_CHAR}# nogle af f#{INVALID_CHAR}#lgene? jeg mener at have set nogle med n#{INVALID_CHAR}#rmest buko-osteformede huller, og nogle med mere runde huller. Derudover s#{INVALID_CHAR}# jeg et s#{INVALID_CHAR}#t meget flotte coronaf#{INVALID_CHAR}#lge i den bl#{INVALID_CHAR}#, en gang i efter#{INVALID_CHAR}#ret. de var beskrevet som 15" f#{INVALID_CHAR}#lge?? findes det eller var det mon en fejl?<br>Til sidst, er der nogen derude der har et par velholdte coronaer til salg?<br><br>Anders</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1527&ForumID=4&Showsub=1538'>Re: forskellige corona fælge?</a> <em>(Max Tellisen, 15-03-2004 22:49)</em></strong></font></li><br><font face=Verdana>Der findes kun EN fed type aluf�lge til 240 modellen og det er efter min mening dem der hedder GALAXY 16", de ser simpelthen r�fede ud p� en 240, og s� specielt n�r den samtidig er s�nket lidt ogs�, se det er stil, syntes jeg, men som f�r skrevet s� er det jo en smagssag. :-)<br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1527&ForumID=4&Showsub=1537'>Re: forskellige corona fælge?</a> <em>(Max Tellisen, 15-03-2004 22:44)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1527&ForumID=4&Showsub=1532'>Re: forskellige corona fælge?</a> <em>(Tobias Bagge, 15-03-2004 14:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1527&ForumID=4&Showsub=1531'>Re: forskellige corona fælge?</a> <em>(Anders Vedberg, 15-03-2004 10:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1527&ForumID=4&Showsub=1530'>Re: forskellige corona fælge?</a> <em>(Jes, 15-03-2004 08:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1527&ForumID=4&Showsub=1529'>Re: forskellige corona fælge?</a> <em>(Emil J, 14-03-2004 23:26)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1527&ForumID=4&Showsub=1538'>Re: forskellige corona fælge?</a> <em>(Max Tellisen, 15-03-2004 22:49)</em></strong></font></li><br><font face=Verdana>Der findes kun EN fed type aluf#{INVALID_CHAR}#lge til 240 modellen og det er efter min mening dem der hedder GALAXY 16", de ser simpelthen r#{INVALID_CHAR}#fede ud p#{INVALID_CHAR}# en 240, og s#{INVALID_CHAR}# specielt n#{INVALID_CHAR}#r den samtidig er s#{INVALID_CHAR}#nket lidt ogs#{INVALID_CHAR}#, se det er stil, syntes jeg, men som f#{INVALID_CHAR}#r skrevet s#{INVALID_CHAR}# er det jo en smagssag. :-)<br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1527&ForumID=4&Showsub=1537'>Re: forskellige corona fælge?</a> <em>(Max Tellisen, 15-03-2004 22:44)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1527&ForumID=4&Showsub=1532'>Re: forskellige corona fælge?</a> <em>(Tobias Bagge, 15-03-2004 14:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1527&ForumID=4&Showsub=1531'>Re: forskellige corona fælge?</a> <em>(Anders Vedberg, 15-03-2004 10:15)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1527&ForumID=4&Showsub=1530'>Re: forskellige corona fælge?</a> <em>(Jes, 15-03-2004 08:58)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1527&ForumID=4&Showsub=1529'>Re: forskellige corona fælge?</a> <em>(Emil J, 14-03-2004 23:26)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

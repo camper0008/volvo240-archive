@@ -84,7 +84,7 @@ document.write('<' + 'script language="javascript" type="text/javascript" src="'
 
 <script type="text/javascript" language="JavaScript">
 // <!--
-var message="Copyright � 2002-2013 by volvo240.dk";
+var message="Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk";
 function click(e) {
 	if (document.all) {
 		if (event.button == 2) {
@@ -120,7 +120,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -151,7 +151,7 @@ document.onmousedown=click;
               </tr>
             </thead>
             <tbody>
-<tr><td width=90>d. 3/4-2015:</td><td><a href='main.asp?f=1'>Volvo240.dk flytter udbyder</a></td></tr><tr><td width=90>d. 26/12-2013:</td><td><a href='main.asp?f=1'>Internet Explorer og volvo240</a></td></tr><tr><td width=90>d. 9/4-2012:</td><td><a href='main.asp?f=1'>K�b & Salg p� forsiden</a></td></tr><tr><td width=90>d. 22/3-2012:</td><td><a href='main.asp?f=1'>Ny Login metode</a></td></tr><tr><td width=90>d. 14/3-2012:</td><td><a href='main.asp?f=1'>K�b & Salg</a></td></tr><tr><td width=90>d. 13/3-2012:</td><td><a href='main.asp?f=1'>Opdatering af K�b og Salg</a></td></tr>
+<tr><td width=90>d. 3/4-2015:</td><td><a href='main.asp?f=1'>Volvo240.dk flytter udbyder</a></td></tr><tr><td width=90>d. 26/12-2013:</td><td><a href='main.asp?f=1'>Internet Explorer og volvo240</a></td></tr><tr><td width=90>d. 9/4-2012:</td><td><a href='main.asp?f=1'>K#{INVALID_CHAR}#b & Salg p#{INVALID_CHAR}# forsiden</a></td></tr><tr><td width=90>d. 22/3-2012:</td><td><a href='main.asp?f=1'>Ny Login metode</a></td></tr><tr><td width=90>d. 14/3-2012:</td><td><a href='main.asp?f=1'>K#{INVALID_CHAR}#b & Salg</a></td></tr><tr><td width=90>d. 13/3-2012:</td><td><a href='main.asp?f=1'>Opdatering af K#{INVALID_CHAR}#b og Salg</a></td></tr>
             </tbody>
             </table>
 <br>
@@ -169,7 +169,7 @@ document.onmousedown=click;
               </tr>
             </thead>
             <tbody>
-<tr><td width=90>d. 27/3-2012:</td><td nowrap><a href='http://www.volvo240.dk/main.asp?f=328' title='Golfbolde Opsamler'>[Diverse]-[240 Galleri]</a></td></tr><tr><td width=90>d. 23/8-2009:</td><td nowrap><a href='http://www.volvo240.dk/main.asp?f=312' title='Milo`s Racingteam Volvo 850'>[Motorsport]-[Volvo 850 VOC]</a></td></tr><tr><td width=90>d. 20/1-2009:</td><td nowrap><a href='http://www.volvo240.dk/main.asp?f=225' title='Ny Side: 10 Gode R�d til Volvo 240'>[Diverse]-[G�r det selv]-[10 Gode R�d]</a></td></tr>
+<tr><td width=90>d. 27/3-2012:</td><td nowrap><a href='http://www.volvo240.dk/main.asp?f=328' title='Golfbolde Opsamler'>[Diverse]-[240 Galleri]</a></td></tr><tr><td width=90>d. 23/8-2009:</td><td nowrap><a href='http://www.volvo240.dk/main.asp?f=312' title='Milo`s Racingteam Volvo 850'>[Motorsport]-[Volvo 850 VOC]</a></td></tr><tr><td width=90>d. 20/1-2009:</td><td nowrap><a href='http://www.volvo240.dk/main.asp?f=225' title='Ny Side: 10 Gode R#{INVALID_CHAR}#d til Volvo 240'>[Diverse]-[G#{INVALID_CHAR}#r det selv]-[10 Gode R#{INVALID_CHAR}#d]</a></td></tr>
             </tbody>
             </table>
           </td>
@@ -202,7 +202,7 @@ document.onmousedown=click;
               </tr>
             </thead>
             <tbody>
-<tr><td width=90>d. 5/2-2007:</td><td><a href='/main.asp?f=11&tip=9'>Nulstil servicelampe p� Volvo 850</a></td></tr><tr><td width=90>d. 20/7-2006:</td><td><a href='/main.asp?f=11&tip=8'>Matte baglygte glas</a></td></tr><tr><td width=90>d. 30/6-2003:</td><td><a href='/main.asp?f=11&tip=7'>Periodiske problemer med skift til/fra o</a></td></tr><tr><td width=90>d. 15/11-2002:</td><td><a href='/main.asp?f=11&tip=6'>Sm�rring af d�r-l�se</a></td></tr><tr><td width=90>d. 9/11-2002:</td><td><a href='/main.asp?f=11&tip=5'>Vedligeholdelse af batteri</a></td></tr><tr><td width=90>d. 15/7-2002:</td><td><a href='/main.asp?f=11&tip=3'>Problemer med el i bagklappen p� 245</a></td></tr>
+<tr><td width=90>d. 5/2-2007:</td><td><a href='/main.asp?f=11&tip=9'>Nulstil servicelampe p#{INVALID_CHAR}# Volvo 850</a></td></tr><tr><td width=90>d. 20/7-2006:</td><td><a href='/main.asp?f=11&tip=8'>Matte baglygte glas</a></td></tr><tr><td width=90>d. 30/6-2003:</td><td><a href='/main.asp?f=11&tip=7'>Periodiske problemer med skift til/fra o</a></td></tr><tr><td width=90>d. 15/11-2002:</td><td><a href='/main.asp?f=11&tip=6'>Sm#{INVALID_CHAR}#rring af d#{INVALID_CHAR}#r-l#{INVALID_CHAR}#se</a></td></tr><tr><td width=90>d. 9/11-2002:</td><td><a href='/main.asp?f=11&tip=5'>Vedligeholdelse af batteri</a></td></tr><tr><td width=90>d. 15/7-2002:</td><td><a href='/main.asp?f=11&tip=3'>Problemer med el i bagklappen p#{INVALID_CHAR}# 245</a></td></tr>
             </tbody>
             </table>
             <br>
@@ -216,7 +216,7 @@ document.onmousedown=click;
                 <td colspan='3'><b>Seneste biler til salg</b></td>
               </tr>
               <tr>
-                <td>M�rke</td><td>Model</td><td>Pris</td>
+                <td>M#{INVALID_CHAR}#rke</td><td>Model</td><td>Pris</td>
               </tr>
             </thead>
             <tbody>
@@ -240,7 +240,7 @@ document.onmousedown=click;
             <table border='1' width='389' cellpadding='0' cellspacing='0' id='defaultForum'>
             <thead>
               <tr>
-                <td colspan='3'><b>Seneste Forum indl�g</b></td>
+                <td colspan='3'><b>Seneste Forum indl#{INVALID_CHAR}#g</b></td>
               </tr>
               <tr>
                 <td width="90">Dato</td><td width="99">Forum</td>
@@ -248,7 +248,7 @@ document.onmousedown=click;
               </tr>
             </thead>
             <tbody>
-<tr><td width=90>d. 24/12-2015:</td><td width=100><a href='/main.asp?f=3&forumid=7'>Volvo 700 Serien</a></td><td>(1) <a href='/main.asp?f=4&id=5007&ForumID=7'>Sikrings og rel� enhed p� Volvo</a></td></tr><tr><td width=90>d. 12/12-2015:</td><td width=100><a href='/main.asp?f=3&forumid=4'>Volvo-folk imellem</a></td><td>(4) <a href='/main.asp?f=4&id=5006&ForumID=4'>Kn�kket bolt mens jeg skiftede </a></td></tr><tr><td width=90>d. 16/11-2015:</td><td width=100><a href='/main.asp?f=3&forumid=1'>Motor</a></td><td>(3) <a href='/main.asp?f=4&id=5004&ForumID=1'>Volvo 260 kr�ngningsh�mmer p� 2</a></td></tr><tr><td width=90>d. 12/11-2015:</td><td width=100><a href='/main.asp?f=3&forumid=1'>Motor</a></td><td>(0) <a href='/main.asp?f=4&id=5005&ForumID=1'>problemer med en b230f</a></td></tr><tr><td width=90>d. 31/10-2015:</td><td width=100><a href='/main.asp?f=3&forumid=1'>Motor</a></td><td>(3) <a href='/main.asp?f=4&id=38&ForumID=1'>Hvilken motor/�rgang</a></td></tr><tr><td width=90>d. 4/10-2015:</td><td width=100><a href='/main.asp?f=3&forumid=4'>Volvo-folk imellem</a></td><td>(2) <a href='/main.asp?f=4&id=5002&ForumID=4'>Betr�kning af himmel</a></td></tr><tr><td width=90>d. 13/9-2015:</td><td width=100><a href='/main.asp?f=3&forumid=1'>Motor</a></td><td>(6) <a href='/main.asp?f=4&id=5003&ForumID=1'>turbo projekt</a></td></tr><tr><td width=90>d. 8/9-2015:</td><td width=100><a href='/main.asp?f=3&forumid=2'>Teknik</a></td><td>(3) <a href='/main.asp?f=4&id=5001&ForumID=2'>Hvor k�ber man en slange til se</a></td></tr><tr><td width=90>d. 20/8-2015:</td><td width=100><a href='/main.asp?f=3&forumid=2'>Teknik</a></td><td>(4) <a href='/main.asp?f=4&id=5000&ForumID=2'>Servoolie l�ber ud.</a></td></tr><tr><td width=90>d. 11/8-2015:</td><td width=100><a href='/main.asp?f=3&forumid=2'>Teknik</a></td><td>(2) <a href='/main.asp?f=4&id=4998&ForumID=2'>Forhjulsleje</a></td></tr><tr><td width=90>d. 31/7-2015:</td><td width=100><a href='/main.asp?f=3&forumid=1'>Motor</a></td><td>(1) <a href='/main.asp?f=4&id=4999&ForumID=1'>S�gning p� volvo240.dk</a></td></tr><tr><td width=90>d. 28/7-2015:</td><td width=100><a href='/main.asp?f=3&forumid=4'>Volvo-folk imellem</a></td><td>(20) <a href='/main.asp?f=4&id=3883&ForumID=4'>Opskrift - Konstruktiv �ndringe</a></td></tr>
+<tr><td width=90>d. 24/12-2015:</td><td width=100><a href='/main.asp?f=3&forumid=7'>Volvo 700 Serien</a></td><td>(1) <a href='/main.asp?f=4&id=5007&ForumID=7'>Sikrings og rel#{INVALID_CHAR}# enhed p#{INVALID_CHAR}# Volvo</a></td></tr><tr><td width=90>d. 12/12-2015:</td><td width=100><a href='/main.asp?f=3&forumid=4'>Volvo-folk imellem</a></td><td>(4) <a href='/main.asp?f=4&id=5006&ForumID=4'>Kn#{INVALID_CHAR}#kket bolt mens jeg skiftede </a></td></tr><tr><td width=90>d. 16/11-2015:</td><td width=100><a href='/main.asp?f=3&forumid=1'>Motor</a></td><td>(3) <a href='/main.asp?f=4&id=5004&ForumID=1'>Volvo 260 kr#{INVALID_CHAR}#ngningsh#{INVALID_CHAR}#mmer p#{INVALID_CHAR}# 2</a></td></tr><tr><td width=90>d. 12/11-2015:</td><td width=100><a href='/main.asp?f=3&forumid=1'>Motor</a></td><td>(0) <a href='/main.asp?f=4&id=5005&ForumID=1'>problemer med en b230f</a></td></tr><tr><td width=90>d. 31/10-2015:</td><td width=100><a href='/main.asp?f=3&forumid=1'>Motor</a></td><td>(3) <a href='/main.asp?f=4&id=38&ForumID=1'>Hvilken motor/#{INVALID_CHAR}#rgang</a></td></tr><tr><td width=90>d. 4/10-2015:</td><td width=100><a href='/main.asp?f=3&forumid=4'>Volvo-folk imellem</a></td><td>(2) <a href='/main.asp?f=4&id=5002&ForumID=4'>Betr#{INVALID_CHAR}#kning af himmel</a></td></tr><tr><td width=90>d. 13/9-2015:</td><td width=100><a href='/main.asp?f=3&forumid=1'>Motor</a></td><td>(6) <a href='/main.asp?f=4&id=5003&ForumID=1'>turbo projekt</a></td></tr><tr><td width=90>d. 8/9-2015:</td><td width=100><a href='/main.asp?f=3&forumid=2'>Teknik</a></td><td>(3) <a href='/main.asp?f=4&id=5001&ForumID=2'>Hvor k#{INVALID_CHAR}#ber man en slange til se</a></td></tr><tr><td width=90>d. 20/8-2015:</td><td width=100><a href='/main.asp?f=3&forumid=2'>Teknik</a></td><td>(4) <a href='/main.asp?f=4&id=5000&ForumID=2'>Servoolie l#{INVALID_CHAR}#ber ud.</a></td></tr><tr><td width=90>d. 11/8-2015:</td><td width=100><a href='/main.asp?f=3&forumid=2'>Teknik</a></td><td>(2) <a href='/main.asp?f=4&id=4998&ForumID=2'>Forhjulsleje</a></td></tr><tr><td width=90>d. 31/7-2015:</td><td width=100><a href='/main.asp?f=3&forumid=1'>Motor</a></td><td>(1) <a href='/main.asp?f=4&id=4999&ForumID=1'>S#{INVALID_CHAR}#gning p#{INVALID_CHAR}# volvo240.dk</a></td></tr><tr><td width=90>d. 28/7-2015:</td><td width=100><a href='/main.asp?f=3&forumid=4'>Volvo-folk imellem</a></td><td>(20) <a href='/main.asp?f=4&id=3883&ForumID=4'>Opskrift - Konstruktiv #{INVALID_CHAR}#ndringe</a></td></tr>
             </tbody>
             </table>
           </td>
@@ -273,20 +273,20 @@ document.onmousedown=click;
           <td valign="top">
 
 <!--*****************************-->
-<!-- K�B & SALG                  -->
+<!-- K#{INVALID_CHAR}#B & SALG                  -->
 <!--*****************************-->
 
             <table border='1' width='389' cellpadding='0' cellspacing='0' id='defaultSales'>
             <thead>
               <tr>
-                <td colspan='2'>Seneste K�b & Salg</td>
+                <td colspan='2'>Seneste K#{INVALID_CHAR}#b & Salg</td>
               </tr>
               <tr>
                 <td width="96">Dato</td><td>Overskrift</td>
               </tr>
             </thead>
 						</table>
-          	<iframe id="I1" name="ks" style="width: 100%" src="ks.asp" marginheight="5" marginwidth="5" title="K�b og Salg" height="170">Din browser underst�tter ikke inline frames.</iframe>
+          	<iframe id="I1" name="ks" style="width: 100%" src="ks.asp" marginheight="5" marginwidth="5" title="K#{INVALID_CHAR}#b og Salg" height="170">Din browser underst#{INVALID_CHAR}#tter ikke inline frames.</iframe>
           </td>
         </tr>
       </table>
@@ -300,7 +300,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a>
       &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
     </td>
   </tr>
@@ -311,7 +311,7 @@ document.onmousedown=click;
 <thead>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
-    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk</span></td>
     <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>

@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1705"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1705"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">22-04-2004 22:36</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvotosser :-)<br><br>Som nybagt volvo ejer, og f�rste gangs bilejer, er det ikke sm�ting man skal holde �je med. S� efter at have siddet og hyggel�st her p� forum til aften, faldt jeg over en der skrev at der SKULLE v�re precis 1 cm under gevindet med olie i karburatoren. Jeg har lige checket oliestanden p� min "nye" volvo 245 model 85 med b23a og pierburg 175cd. Der var circa � cm oile der l� og sjaskede rundt nede p� bunden. <br><br>S� kommer 64000 kroners sp�rgsm�lene:<br><br>1 Hvilken olie skal jeg komme p� ?<br>2 Kan den lave oliestand have noget at g�re med at bilen bruger afsindige m�ngder benzin ?<br>3 Er der noget der kan v�re g�et i stykker pga manglende olie ?<br>4 Er der andet jeg skal v�re opm�rksom p� ?<br><br>Mvh<br>Eik Madsen</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvotosser :-)<br><br>Som nybagt volvo ejer, og f#{INVALID_CHAR}#rste gangs bilejer, er det ikke sm#{INVALID_CHAR}#ting man skal holde #{INVALID_CHAR}#je med. S#{INVALID_CHAR}# efter at have siddet og hyggel#{INVALID_CHAR}#st her p#{INVALID_CHAR}# forum til aften, faldt jeg over en der skrev at der SKULLE v#{INVALID_CHAR}#re precis 1 cm under gevindet med olie i karburatoren. Jeg har lige checket oliestanden p#{INVALID_CHAR}# min "nye" volvo 245 model 85 med b23a og pierburg 175cd. Der var circa #{INVALID_CHAR}# cm oile der l#{INVALID_CHAR}# og sjaskede rundt nede p#{INVALID_CHAR}# bunden. <br><br>S#{INVALID_CHAR}# kommer 64000 kroners sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#lene:<br><br>1 Hvilken olie skal jeg komme p#{INVALID_CHAR}# ?<br>2 Kan den lave oliestand have noget at g#{INVALID_CHAR}#re med at bilen bruger afsindige m#{INVALID_CHAR}#ngder benzin ?<br>3 Er der noget der kan v#{INVALID_CHAR}#re g#{INVALID_CHAR}#et i stykker pga manglende olie ?<br>4 Er der andet jeg skal v#{INVALID_CHAR}#re opm#{INVALID_CHAR}#rksom p#{INVALID_CHAR}# ?<br><br>Mvh<br>Eik Madsen</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1715'>Re: Manglende olie i Pierburg 175CD</a> <em>(Johan Årman, 23-04-2004 20:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1708'>Re: Manglende olie i Pierburg 175CD</a> <em>(Emil J, 23-04-2004 00:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1707'>Re: Manglende olie i Pierburg 175CD</a> <em>(Eik Madsen, 22-04-2004 23:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1706'>Re: Manglende olie i Pierburg 175CD</a> <em>(Eik Madsen, 22-04-2004 23:33)</em></strong></font></li><br><font face=Verdana>Efter yderligere inspektion opdagede jeg at luft-filteret lugter af benzin, er det normalt ? Samt at en slange var revet helt over. Slangen sad tilsluttet lige under choker-"benet", og f�rte op til en T fordeler i bilens venstre side oppe ved vindues rammen.. Jeg aner ikke hvad det var for en slange, men den var heldigvis til at sk�re til og tilslutte igen.</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1715'>Re: Manglende olie i Pierburg 175CD</a> <em>(Johan Årman, 23-04-2004 20:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1708'>Re: Manglende olie i Pierburg 175CD</a> <em>(Emil J, 23-04-2004 00:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1707'>Re: Manglende olie i Pierburg 175CD</a> <em>(Eik Madsen, 22-04-2004 23:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1705&ForumID=4&Showsub=1706'>Re: Manglende olie i Pierburg 175CD</a> <em>(Eik Madsen, 22-04-2004 23:33)</em></strong></font></li><br><font face=Verdana>Efter yderligere inspektion opdagede jeg at luft-filteret lugter af benzin, er det normalt ? Samt at en slange var revet helt over. Slangen sad tilsluttet lige under choker-"benet", og f#{INVALID_CHAR}#rte op til en T fordeler i bilens venstre side oppe ved vindues rammen.. Jeg aner ikke hvad det var for en slange, men den var heldigvis til at sk#{INVALID_CHAR}#re til og tilslutte igen.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

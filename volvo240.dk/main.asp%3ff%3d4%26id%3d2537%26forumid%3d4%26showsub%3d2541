@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=2537"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=2537"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-12-2004 13:05</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har k�bt en tidligere importeret 240 st.car fra 1987.<br>Hvordan kan jeg tjekke at den p� registreringsattesten har f�et den rette modelbetegnelse? Der st�r at det er en GL, men hvordan kan jeg v�re sikker p� at det rigtigt?. (der er vist ca.1200kr at spare i v�gtafg. hvis det viser sig at det er en DL)<br>mvh<br>kristian</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har k#{INVALID_CHAR}#bt en tidligere importeret 240 st.car fra 1987.<br>Hvordan kan jeg tjekke at den p#{INVALID_CHAR}# registreringsattesten har f#{INVALID_CHAR}#et den rette modelbetegnelse? Der st#{INVALID_CHAR}#r at det er en GL, men hvordan kan jeg v#{INVALID_CHAR}#re sikker p#{INVALID_CHAR}# at det rigtigt?. (der er vist ca.1200kr at spare i v#{INVALID_CHAR}#gtafg. hvis det viser sig at det er en DL)<br>mvh<br>kristian</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2569'>Re: modelbetegnelse</a> <em>(kristian, 23-12-2004 11:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2568'>Re: modelbetegnelse</a> <em>(Michael Jensen, 22-12-2004 15:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2566'>Re: modelbetegnelse</a> <em>(Jes, 22-12-2004 11:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2565'>Re: modelbetegnelse</a> <em>(kristian norup, 22-12-2004 11:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2550'>Re: modelbetegnelse</a> <em>(Kent, 17-12-2004 10:37)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2541'>Re: modelbetegnelse</a> <em>(Jes, 16-12-2004 07:49)</em></strong></font></li><br><font face=Verdana>Hej<br><br>V�gtafgiften afh�nger ikke af om det er en GL eller DL model<br><br>Derimod er der forskellige regler i de enkelte lande til beregning af egenv�gten, alt afh�ngig af om det er et afgiftspunkt eller ej. I Danmark beregnes egenv�gten uden alle v�sker i bilen og div. andre dele, men inkl. reservehjul. Dette giver en lavere v�gt end i eks. Tyskland, Schweiz, Belgien m.fl. Dette bevirker at importbilers egenv�gt iht. den udenlandske reg.attest er over 1300 kg. I de danske typegodkendelser er egenv�gten under 1300 kg med mindre det er en specialmodel.<br>Derfor er det ved import vigtigt at bilen bliver synet iflg. dansk typegodkendelse. Dette er ikke et krav og mange er ikke klar over dette lille trick, som kan �ndre v�gtafgiften fra ca. 4800,- til 3600,- �rligt.<br>Hvis du opgiver dit stelnummer og bilens �rgang til mig, s� kan jeg finde den rigtige danske typegodkendelse og den rette v�gt. Med det i h�nden kan du f� bilen synet og omregisteret til den lavere v�gt.<br><br>mvh<br><br>Jes</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2538'>Re: modelbetegnelse</a> <em>(Erling, 15-12-2004 15:20)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2569'>Re: modelbetegnelse</a> <em>(kristian, 23-12-2004 11:32)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2568'>Re: modelbetegnelse</a> <em>(Michael Jensen, 22-12-2004 15:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2566'>Re: modelbetegnelse</a> <em>(Jes, 22-12-2004 11:43)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2565'>Re: modelbetegnelse</a> <em>(kristian norup, 22-12-2004 11:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2550'>Re: modelbetegnelse</a> <em>(Kent, 17-12-2004 10:37)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2541'>Re: modelbetegnelse</a> <em>(Jes, 16-12-2004 07:49)</em></strong></font></li><br><font face=Verdana>Hej<br><br>V#{INVALID_CHAR}#gtafgiften afh#{INVALID_CHAR}#nger ikke af om det er en GL eller DL model<br><br>Derimod er der forskellige regler i de enkelte lande til beregning af egenv#{INVALID_CHAR}#gten, alt afh#{INVALID_CHAR}#ngig af om det er et afgiftspunkt eller ej. I Danmark beregnes egenv#{INVALID_CHAR}#gten uden alle v#{INVALID_CHAR}#sker i bilen og div. andre dele, men inkl. reservehjul. Dette giver en lavere v#{INVALID_CHAR}#gt end i eks. Tyskland, Schweiz, Belgien m.fl. Dette bevirker at importbilers egenv#{INVALID_CHAR}#gt iht. den udenlandske reg.attest er over 1300 kg. I de danske typegodkendelser er egenv#{INVALID_CHAR}#gten under 1300 kg med mindre det er en specialmodel.<br>Derfor er det ved import vigtigt at bilen bliver synet iflg. dansk typegodkendelse. Dette er ikke et krav og mange er ikke klar over dette lille trick, som kan #{INVALID_CHAR}#ndre v#{INVALID_CHAR}#gtafgiften fra ca. 4800,- til 3600,- #{INVALID_CHAR}#rligt.<br>Hvis du opgiver dit stelnummer og bilens #{INVALID_CHAR}#rgang til mig, s#{INVALID_CHAR}# kan jeg finde den rigtige danske typegodkendelse og den rette v#{INVALID_CHAR}#gt. Med det i h#{INVALID_CHAR}#nden kan du f#{INVALID_CHAR}# bilen synet og omregisteret til den lavere v#{INVALID_CHAR}#gt.<br><br>mvh<br><br>Jes</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2537&ForumID=4&Showsub=2538'>Re: modelbetegnelse</a> <em>(Erling, 15-12-2004 15:20)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

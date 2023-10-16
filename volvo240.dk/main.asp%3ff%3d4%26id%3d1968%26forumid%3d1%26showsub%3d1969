@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1968"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1968"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">30-06-2004 22:05</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Min 240 �rg.87 bruger periodevis kl�lerv�ske. Den k�rer 5-6 mdr (15-18000 km) uden man kan se vandstanden synker, pludselig er ekspansionsbeholderen tom. Forslag? Temp m�leren st�r altid vandret,<br>bilen bruger ca �l olie p� 10000 km. Motoren er en 230k,har k�rt 342000, k�rer 10-11 km/l, s� motoren er i god stand. Det eneste tegn p� vandtab jeg har set er at der af og til er fugt at se nedenunder hvor k�lerslangen g�r ind i topstykket. En ut�t pakning? Og hvorfor s� periodevis?</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Min 240 #{INVALID_CHAR}#rg.87 bruger periodevis kl#{INVALID_CHAR}#lerv#{INVALID_CHAR}#ske. Den k#{INVALID_CHAR}#rer 5-6 mdr (15-18000 km) uden man kan se vandstanden synker, pludselig er ekspansionsbeholderen tom. Forslag? Temp m#{INVALID_CHAR}#leren st#{INVALID_CHAR}#r altid vandret,<br>bilen bruger ca #{INVALID_CHAR}#l olie p#{INVALID_CHAR}# 10000 km. Motoren er en 230k,har k#{INVALID_CHAR}#rt 342000, k#{INVALID_CHAR}#rer 10-11 km/l, s#{INVALID_CHAR}# motoren er i god stand. Det eneste tegn p#{INVALID_CHAR}# vandtab jeg har set er at der af og til er fugt at se nedenunder hvor k#{INVALID_CHAR}#lerslangen g#{INVALID_CHAR}#r ind i topstykket. En ut#{INVALID_CHAR}#t pakning? Og hvorfor s#{INVALID_CHAR}# periodevis?</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1968&ForumID=1&Showsub=1969'>Re: kølervæske</a> <em>(Jes, 01-07-2004 08:22)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Mon ikke din vandpumpe er ut�t. Ved lejet i pumpen er der p� undersiden af vandpumpen boret et hul, som f�rer ind til lejet. Hvis lejet bliver ut�t ( og det g�r det med tiden) s� render k�lerv�sken ud gennem dette hul. Du kan pr�ve at f� et par fingre ind under vandpumpen ved remskiven og m�rke om den er v�d af k�lerv�ske.<br>Er vandpumpen ut�t er problemet i starten periodisk som du beskriver.<br>Ryk ogs� i vingen for at m�rke om der er kommet sl�r i vandpumpelejet.<br>L�sningen er selvf�lgelig en ny vandpumpe.<br><br>mvh<br><br>Jes</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1968&ForumID=1&Showsub=1969'>Re: kølervæske</a> <em>(Jes, 01-07-2004 08:22)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Mon ikke din vandpumpe er ut#{INVALID_CHAR}#t. Ved lejet i pumpen er der p#{INVALID_CHAR}# undersiden af vandpumpen boret et hul, som f#{INVALID_CHAR}#rer ind til lejet. Hvis lejet bliver ut#{INVALID_CHAR}#t ( og det g#{INVALID_CHAR}#r det med tiden) s#{INVALID_CHAR}# render k#{INVALID_CHAR}#lerv#{INVALID_CHAR}#sken ud gennem dette hul. Du kan pr#{INVALID_CHAR}#ve at f#{INVALID_CHAR}# et par fingre ind under vandpumpen ved remskiven og m#{INVALID_CHAR}#rke om den er v#{INVALID_CHAR}#d af k#{INVALID_CHAR}#lerv#{INVALID_CHAR}#ske.<br>Er vandpumpen ut#{INVALID_CHAR}#t er problemet i starten periodisk som du beskriver.<br>Ryk ogs#{INVALID_CHAR}# i vingen for at m#{INVALID_CHAR}#rke om der er kommet sl#{INVALID_CHAR}#r i vandpumpelejet.<br>L#{INVALID_CHAR}#sningen er selvf#{INVALID_CHAR}#lgelig en ny vandpumpe.<br><br>mvh<br><br>Jes</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

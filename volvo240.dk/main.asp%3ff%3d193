@@ -80,7 +80,7 @@ document.write('<' + 'script language="javascript" type="text/javascript" src="'
 
 <script type="text/javascript" language="JavaScript">
 <!--
-var message="Copyright � 2002-2013 by volvo240.dk";
+var message="Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk";
 function click(e) {
 	if (document.all) {
 		if (event.button == 2) {
@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Volvo 240 Turbo nedbr�ndt</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">Volvo 240 Turbo nedbr#{INVALID_CHAR}#ndt</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -131,40 +131,40 @@ document.onmousedown=click;
 <table border="0" cellpadding="5" cellspacing="1" width="760" align="center">
   <tr>
     <td>
-      <h2>Henrik �lsgaards Volvo 240 Turbo nedbr�ndt...</h2>
+      <h2>Henrik #{INVALID_CHAR}#lsgaards Volvo 240 Turbo nedbr#{INVALID_CHAR}#ndt...</h2>
 		<table border="0" cellpadding="5" cellspacing="1" width="745">
 		  <tr>
 		    <td>
 		      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="600" align="center">
 		        <tr>
 		          <td width="100%">
-		            Den udbr�ndte totalt den 18. juli 2005.<p>Vi var i gang med at rulle 
-					den p� et rullefelt, da en benzin slange sprang af. Med et 
-					benzintryk p� 6 bar og en bil der k�rer 250 km/t p� rullefeltet, 
+		            Den udbr#{INVALID_CHAR}#ndte totalt den 18. juli 2005.<p>Vi var i gang med at rulle 
+					den p#{INVALID_CHAR}# et rullefelt, da en benzin slange sprang af. Med et 
+					benzintryk p#{INVALID_CHAR}# 6 bar og en bil der k#{INVALID_CHAR}#rer 250 km/t p#{INVALID_CHAR}# rullefeltet, 
 					skal jeg love for at der blev panik da det hele eksploderede. Vi fik 
-					dog hevet bilen ud i det fri, s� vi ikke br�ndte hele g�rden af.<br>
+					dog hevet bilen ud i det fri, s#{INVALID_CHAR}# vi ikke br#{INVALID_CHAR}#ndte hele g#{INVALID_CHAR}#rden af.<br>
 					<br>
 					Det var en trist oplevelse for der var lagt rigtigt mange timer og 
 					penge i den. Og det var ellers begyndt at se rigtigt godt ud med 
 					tiderne.<br>
-					Vinter pausen havde jeg brugt til at lette bilen yderligere, s� 
-					kampv�gten var nede p� 1060kg. <br>
+					Vinter pausen havde jeg brugt til at lette bilen yderligere, s#{INVALID_CHAR}# 
+					kampv#{INVALID_CHAR}#gten var nede p#{INVALID_CHAR}# 1060kg. <br>
 					Jeg havde pillet turboen af og erstattet den med en kompressor. Da 
-					jeg stadig skulle overholde v�gt/effekt gr�nsen p� 4.2kg/hk s� m�tte 
-					bilen nu kun have 252hk med den nye v�gt.<br>
+					jeg stadig skulle overholde v#{INVALID_CHAR}#gt/effekt gr#{INVALID_CHAR}#nsen p#{INVALID_CHAR}# 4.2kg/hk s#{INVALID_CHAR}# m#{INVALID_CHAR}#tte 
+					bilen nu kun have 252hk med den nye v#{INVALID_CHAR}#gt.<br>
 					<br>
-					Jeg n�ede at k�re et l�b i den p� Ring Djursland i slutningen af maj 
+					Jeg n#{INVALID_CHAR}#ede at k#{INVALID_CHAR}#re et l#{INVALID_CHAR}#b i den p#{INVALID_CHAR}# Ring Djursland i slutningen af maj 
 					2005.<br>
-					L�bet p� Ring Djursland gik som forventet. Der var et par sm� ting 
+					L#{INVALID_CHAR}#bet p#{INVALID_CHAR}# Ring Djursland gik som forventet. Der var et par sm#{INVALID_CHAR}# ting 
 					som skulle rettes med den nye kompressor. <br>
-					Det positive ved l�bet var det gode vejr samt at jeg p� de f� 
-					omgange jeg k�rte fik sat banerekorden for Club Race i tiden 56.08 
+					Det positive ved l#{INVALID_CHAR}#bet var det gode vejr samt at jeg p#{INVALID_CHAR}# de f#{INVALID_CHAR}# 
+					omgange jeg k#{INVALID_CHAR}#rte fik sat banerekorden for Club Race i tiden 56.08 
 					sek.<br>
-					Jeg udgik midt i f�rste heat med teknisk defekt. S� det var s� den 
+					Jeg udgik midt i f#{INVALID_CHAR}#rste heat med teknisk defekt. S#{INVALID_CHAR}# det var s#{INVALID_CHAR}# den 
 					weekend.
 					Og det var sp den bil.<br>
 					<br>
-					Henriks n�ste projekt bliver en Volvo 850, som ogs� kan f�lges her p� volvo240.dk
+					Henriks n#{INVALID_CHAR}#ste projekt bliver en Volvo 850, som ogs#{INVALID_CHAR}# kan f#{INVALID_CHAR}#lges her p#{INVALID_CHAR}# volvo240.dk
 					</td>
 		        </tr>
 		      </table>
@@ -194,7 +194,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a>
       &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
 <thead>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
-    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk</span></td>
     <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>

@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -211,7 +211,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>R-Sport d�mpere</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>R-Sport d#{INVALID_CHAR}#mpere</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -226,7 +226,7 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">28-08-2005 15:18</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Jeg ville h�rer, kan det virkelig passe at man ikke kan f� de org. R-sport gas d�mpere mere, lidt tr�ls!! Har spurgt ved volvo og de siger, at de er g�et ud! Trist - har h�rt de skulle v�re effektive..<br><br>Mvh. Karsten<br><br></font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Jeg ville h#{INVALID_CHAR}#rer, kan det virkelig passe at man ikke kan f#{INVALID_CHAR}# de org. R-sport gas d#{INVALID_CHAR}#mpere mere, lidt tr#{INVALID_CHAR}#ls!! Har spurgt ved volvo og de siger, at de er g#{INVALID_CHAR}#et ud! Trist - har h#{INVALID_CHAR}#rt de skulle v#{INVALID_CHAR}#re effektive..<br><br>Mvh. Karsten<br><br></font></td>
       </tr>
       <tr>
 
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kim Poulsen, 28-08-2005 15:49)</em></u></strong></font></li><br><font face=Verdana>Hej Lars!<br><br>Jeg kan ikke svare p� dit sp�rgsm�l, men KG i Sverige forhandler Bilstein sportsd�mpere der er billigere en R-Sport, men har de samme dimentioner: 40mm Stempel i st�dd�mperene. Jeg k�rer selv med dem og er meget glad! 4 d�mperer koster ca. 4500kr. Skriv eller ring for mere info kim_d_poulsen@hotmail.com 28 58 00 81 <br>Mvh. Kim Poulsen</font><br><li><font face=Verdana><strong><u>Re: - <em>(kent, 31-08-2005 09:17)</em></u></strong></font></li><br><font face=Verdana>det er rigtigt,jeg har spurgt om det samme og der ku de kun skaffe de foreste.Jeg k�ber sachs til min</font><br><li><font face=Verdana><strong><u>Re: - <em>(, 31-08-2005 19:36)</em></u></strong></font></li><br><font face=Verdana>Hej.<br><br>jeg k�bte Monroe Reflex til min volvo 244 turbo, de virker ogs� rigtig fint, m� jeg sige!!<br><br>Mvh. Lars</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kim Poulsen, 28-08-2005 15:49)</em></u></strong></font></li><br><font face=Verdana>Hej Lars!<br><br>Jeg kan ikke svare p#{INVALID_CHAR}# dit sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l, men KG i Sverige forhandler Bilstein sportsd#{INVALID_CHAR}#mpere der er billigere en R-Sport, men har de samme dimentioner: 40mm Stempel i st#{INVALID_CHAR}#dd#{INVALID_CHAR}#mperene. Jeg k#{INVALID_CHAR}#rer selv med dem og er meget glad! 4 d#{INVALID_CHAR}#mperer koster ca. 4500kr. Skriv eller ring for mere info kim_d_poulsen@hotmail.com 28 58 00 81 <br>Mvh. Kim Poulsen</font><br><li><font face=Verdana><strong><u>Re: - <em>(kent, 31-08-2005 09:17)</em></u></strong></font></li><br><font face=Verdana>det er rigtigt,jeg har spurgt om det samme og der ku de kun skaffe de foreste.Jeg k#{INVALID_CHAR}#ber sachs til min</font><br><li><font face=Verdana><strong><u>Re: - <em>(, 31-08-2005 19:36)</em></u></strong></font></li><br><font face=Verdana>Hej.<br><br>jeg k#{INVALID_CHAR}#bte Monroe Reflex til min volvo 244 turbo, de virker ogs#{INVALID_CHAR}# rigtig fint, m#{INVALID_CHAR}# jeg sige!!<br><br>Mvh. Lars</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -254,7 +254,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a>
       &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
     </td>
   </tr>

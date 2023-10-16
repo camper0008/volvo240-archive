@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1524"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1524"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">14-03-2004 20:54</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle sammen, jeg vil s�men bare h�re om der er ved at v�re truffet en beslutning om HVOR OG HVORN�R, for s�dan som jeg kan forst� det s� skal der nok blive opbakning/fremm�de nok.<br>S� jeg h�ber at der snart kan komme en FAST dato og sted.<br>Ogs� s� vi herhjemme kan f� planlagt lidt osv.<br>P� forh�nd tak<br>Max Tellisen</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle sammen, jeg vil s#{INVALID_CHAR}#men bare h#{INVALID_CHAR}#re om der er ved at v#{INVALID_CHAR}#re truffet en beslutning om HVOR OG HVORN#{INVALID_CHAR}#R, for s#{INVALID_CHAR}#dan som jeg kan forst#{INVALID_CHAR}# det s#{INVALID_CHAR}# skal der nok blive opbakning/fremm#{INVALID_CHAR}#de nok.<br>S#{INVALID_CHAR}# jeg h#{INVALID_CHAR}#ber at der snart kan komme en FAST dato og sted.<br>Ogs#{INVALID_CHAR}# s#{INVALID_CHAR}# vi herhjemme kan f#{INVALID_CHAR}# planlagt lidt osv.<br>P#{INVALID_CHAR}# forh#{INVALID_CHAR}#nd tak<br>Max Tellisen</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1524&ForumID=4&Showsub=1561'>Re: 240 træf, tid og sted, afgørelse???</a> <em>(Ren&#233; Østergaard, 21-03-2004 14:52)</em></strong></font></li><br><font face=Verdana>Jeg foresl�r at en som er lokalt bekendt, og endnu bedre; Bor i Middelfart giver kommunen et kald, og h�rer om det er noget som kan lade sig g�re. Personligt kender jeg ikke stedet tilstr�kkeligt til at kunne anmode kommunen om en tilladelse, men jeg har i de gamle topics set, at der ihvertfald er 1 som er bosat i eller omkring Middelfart..(?) Kunne vedkommende ikke give sig til kende, og evt. g�re os alle den tjeneste at forh�re sig hos kommunen? ;)<br><br>P� forh�nd tak... :D</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1524&ForumID=4&Showsub=1552'>Re: 240 træf, tid og sted, afgørelse???</a> <em>(Benny Juul, 19-03-2004 08:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1524&ForumID=4&Showsub=1541'>Re: 240 træf, tid og sted, afgørelse???</a> <em>(Lars Vestman, 15-03-2004 23:51)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1524&ForumID=4&Showsub=1561'>Re: 240 træf, tid og sted, afgørelse???</a> <em>(Ren&#233; Østergaard, 21-03-2004 14:52)</em></strong></font></li><br><font face=Verdana>Jeg foresl#{INVALID_CHAR}#r at en som er lokalt bekendt, og endnu bedre; Bor i Middelfart giver kommunen et kald, og h#{INVALID_CHAR}#rer om det er noget som kan lade sig g#{INVALID_CHAR}#re. Personligt kender jeg ikke stedet tilstr#{INVALID_CHAR}#kkeligt til at kunne anmode kommunen om en tilladelse, men jeg har i de gamle topics set, at der ihvertfald er 1 som er bosat i eller omkring Middelfart..(?) Kunne vedkommende ikke give sig til kende, og evt. g#{INVALID_CHAR}#re os alle den tjeneste at forh#{INVALID_CHAR}#re sig hos kommunen? ;)<br><br>P#{INVALID_CHAR}# forh#{INVALID_CHAR}#nd tak... :D</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1524&ForumID=4&Showsub=1552'>Re: 240 træf, tid og sted, afgørelse???</a> <em>(Benny Juul, 19-03-2004 08:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1524&ForumID=4&Showsub=1541'>Re: 240 træf, tid og sted, afgørelse???</a> <em>(Lars Vestman, 15-03-2004 23:51)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

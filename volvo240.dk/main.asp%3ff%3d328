@@ -80,7 +80,7 @@ document.write('<' + 'script language="javascript" type="text/javascript" src="'
 
 <script type="text/javascript" language="JavaScript">
 <!--
-var message="Copyright � 2002-2013 by volvo240.dk";
+var message="Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk";
 function click(e) {
 	if (document.all) {
 		if (event.button == 2) {
@@ -116,7 +116,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -134,21 +134,21 @@ document.onmousedown=click;
     <td>
 
 <h2>Ombygget Volvo 240: Goflbolde henter</h2>
-<p>S�ndag den 25, marts 2012 var vi inviteret til Golf Introduktion 
-p� S�by Golfklub. En s�ndag med godt vejr og mange fejlslag.</p>
-	<p>P� en tr�ningsbane, hvor man �ver de lange slag, fyrer man den ene bold 
-	efter den anden af sted. Og det er mange bolde der ligger p� banen. Og de 
+<p>S#{INVALID_CHAR}#ndag den 25, marts 2012 var vi inviteret til Golf Introduktion 
+p#{INVALID_CHAR}# S#{INVALID_CHAR}#by Golfklub. En s#{INVALID_CHAR}#ndag med godt vejr og mange fejlslag.</p>
+	<p>P#{INVALID_CHAR}# en tr#{INVALID_CHAR}#ningsbane, hvor man #{INVALID_CHAR}#ver de lange slag, fyrer man den ene bold 
+	efter den anden af sted. Og det er mange bolde der ligger p#{INVALID_CHAR}# banen. Og de 
 	skal samles op...</p>
 	<p>I siden stod en special bygget Volvo 240. Ombygget til at samle golfbolde 
 	op!<br>Foran var kofangeren pillet af og et stort apperat 
-	var monteret p� forenden.</p>
-	<p>Den "Plov-lignende" konstruktion k�res hen over pl�nen med golfboldene. 
-	Boldene kiler sig fast mellem lamellerne og l�ftes med op. P� vej ned m�des 
-	de af en lille plade, som f�r boldene til at slippe og falde ned i en kurv 
+	var monteret p#{INVALID_CHAR}# forenden.</p>
+	<p>Den "Plov-lignende" konstruktion k#{INVALID_CHAR}#res hen over pl#{INVALID_CHAR}#nen med golfboldene. 
+	Boldene kiler sig fast mellem lamellerne og l#{INVALID_CHAR}#ftes med op. P#{INVALID_CHAR}# vej ned m#{INVALID_CHAR}#des 
+	de af en lille plade, som f#{INVALID_CHAR}#r boldene til at slippe og falde ned i en kurv 
 	foran hjulene.</p>
-	<p>En sjov konstruktion, som jeg ikke har set f�r.</p>
-	<p>I �vrigt b�rer bilen pr�g af at den st�r ved en golfbane. Og meget tyder 
-	p� at nogle spillere ikke rammer bolden helt rent, for buler i bilen og 
+	<p>En sjov konstruktion, som jeg ikke har set f#{INVALID_CHAR}#r.</p>
+	<p>I #{INVALID_CHAR}#vrigt b#{INVALID_CHAR}#rer bilen pr#{INVALID_CHAR}#g af at den st#{INVALID_CHAR}#r ved en golfbane. Og meget tyder 
+	p#{INVALID_CHAR}# at nogle spillere ikke rammer bolden helt rent, for buler i bilen og 
 	revner i ruderne var der en del af.</p>
 <p></p>
 
@@ -194,7 +194,7 @@ p� S�by Golfklub. En s�ndag med godt vejr og mange fejlslag.</p>
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a>
       &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
     </td>
   </tr>
@@ -205,7 +205,7 @@ p� S�by Golfklub. En s�ndag med godt vejr og mange fejlslag.</p>
 <thead>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
-    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk</span></td>
     <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>

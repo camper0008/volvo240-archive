@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -226,7 +226,7 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">22-03-2006 19:36</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Ville h�rer om der er nogen som kender �n eller et firma som g�r i, og k�be Volvo reservedele i Sverige og s�lge dem i Danmark, havde engang kendskab til et firma, man han lukkede desv�rre pga. personlige �rsager. :-( Det var ellers noget billigere for dejlig org. udstyr og dele!!<br><br>Mvh. Svend</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Ville h#{INVALID_CHAR}#rer om der er nogen som kender #{INVALID_CHAR}#n eller et firma som g#{INVALID_CHAR}#r i, og k#{INVALID_CHAR}#be Volvo reservedele i Sverige og s#{INVALID_CHAR}#lge dem i Danmark, havde engang kendskab til et firma, man han lukkede desv#{INVALID_CHAR}#rre pga. personlige #{INVALID_CHAR}#rsager. :-( Det var ellers noget billigere for dejlig org. udstyr og dele!!<br><br>Mvh. Svend</font></td>
       </tr>
       <tr>
 
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Erik Rytter, 22-03-2006 21:17)</em></u></strong></font></li><br><font face=Verdana>Hej,<br><br>Du kan evt. pr�ve Rasmussen & S�nner i Lystrup.  Deres hjemmeside med kontaktinfo er http://www.rsbiler.dk - jeg har haft gode erfaringer med deres reservedele fra Sverige.  Snak med Poul Rasmussen.<br><br>vh<br>Erik<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(frederik simonsen, 24-06-2006 22:40)</em></u></strong></font></li><br><font face=Verdana>pr�v www.spare-parts.dk</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Erik Rytter, 22-03-2006 21:17)</em></u></strong></font></li><br><font face=Verdana>Hej,<br><br>Du kan evt. pr#{INVALID_CHAR}#ve Rasmussen & S#{INVALID_CHAR}#nner i Lystrup.  Deres hjemmeside med kontaktinfo er http://www.rsbiler.dk - jeg har haft gode erfaringer med deres reservedele fra Sverige.  Snak med Poul Rasmussen.<br><br>vh<br>Erik<br></font><br><li><font face=Verdana><strong><u>Re: - <em>(frederik simonsen, 24-06-2006 22:40)</em></u></strong></font></li><br><font face=Verdana>pr#{INVALID_CHAR}#v www.spare-parts.dk</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -254,7 +254,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a>
       &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
     </td>
   </tr>

@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=2530"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=2530"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-12-2004 08:27</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><br>1. N�r jeg drejer skarpt til venstre, f.eks i en rundk�rsel, kommer  der pludselig ekstra meget varme p� anl�gget. Det forsvinder s� snart jeg retter op...Mystisk.<br><br>2. Servostyringen svigter af og til og virker kun i sm� hak.<br>Der er v�ske nok p�.<br><br>Er der nogen der kan g�re mig klogere??<br>Venlig hilsen og tak.</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><br>1. N#{INVALID_CHAR}#r jeg drejer skarpt til venstre, f.eks i en rundk#{INVALID_CHAR}#rsel, kommer  der pludselig ekstra meget varme p#{INVALID_CHAR}# anl#{INVALID_CHAR}#gget. Det forsvinder s#{INVALID_CHAR}# snart jeg retter op...Mystisk.<br><br>2. Servostyringen svigter af og til og virker kun i sm#{INVALID_CHAR}# hak.<br>Der er v#{INVALID_CHAR}#ske nok p#{INVALID_CHAR}#.<br><br>Er der nogen der kan g#{INVALID_CHAR}#re mig klogere??<br>Venlig hilsen og tak.</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2530&ForumID=4&Showsub=2534'>Re: 2 ting.</a> <em>(Kent, 15-12-2004 10:19)</em></strong></font></li><br><font face=Verdana>ang�ende servoen tror jeg du ska pr�ve at ringe til flemming andersen p� tlf 21645354</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2530&ForumID=4&Showsub=2534'>Re: 2 ting.</a> <em>(Kent, 15-12-2004 10:19)</em></strong></font></li><br><font face=Verdana>ang#{INVALID_CHAR}#ende servoen tror jeg du ska pr#{INVALID_CHAR}#ve at ringe til flemming andersen p#{INVALID_CHAR}# tlf 21645354</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

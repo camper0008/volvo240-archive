@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -211,7 +211,7 @@ document.onmousedown=click;
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
         color="#FFFFFF"><strong>Emne:</strong></font></td>
-        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>svagheder p� en 850 volvo</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>svagheder p#{INVALID_CHAR}# en 850 volvo</strong></font></td>
       </tr>
       <tr>
         <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
@@ -226,7 +226,7 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-11-2005 20:49</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har se en 850 2,0 T5 med 210 HK fra 94 som har k�rt 338.000 km 79.900 kr. hos forhandler er det for meget for den, er den s� ved at v�re slidt op eller er der et par 100.000 km mere inden den er slidt op. Jeg ville gerne h�re om der nogen som ved andet som der kan v�re slidt som der b�r kikkes efter f�r k�b. <br><br>Jeg er den glade ejer af en 240 GL �rgang 83 og en 760 GLE �rgang 83. som volvos siger (volvo for life) og det har de rat i volvo er for livet, det er kvalitet. P.S. tak for en super side som jeg har stor gl�de af.<br><br>MVH. Rene</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har se en 850 2,0 T5 med 210 HK fra 94 som har k#{INVALID_CHAR}#rt 338.000 km 79.900 kr. hos forhandler er det for meget for den, er den s#{INVALID_CHAR}# ved at v#{INVALID_CHAR}#re slidt op eller er der et par 100.000 km mere inden den er slidt op. Jeg ville gerne h#{INVALID_CHAR}#re om der nogen som ved andet som der kan v#{INVALID_CHAR}#re slidt som der b#{INVALID_CHAR}#r kikkes efter f#{INVALID_CHAR}#r k#{INVALID_CHAR}#b. <br><br>Jeg er den glade ejer af en 240 GL #{INVALID_CHAR}#rgang 83 og en 760 GLE #{INVALID_CHAR}#rgang 83. som volvos siger (volvo for life) og det har de rat i volvo er for livet, det er kvalitet. P.S. tak for en super side som jeg har stor gl#{INVALID_CHAR}#de af.<br><br>MVH. Rene</font></td>
       </tr>
       <tr>
 
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Dennis C, 10-11-2005 16:49)</em></u></strong></font></li><br><font face=Verdana>850'eren er generelt en ok bil. Det er ikke en som g�r i stykker konstant.. men en T5'er med det kilometertal skal man nok passe lidt p�, for den har jo nok f�et nogle lussinger i dens levetid (nu hvor det er en T5...) Men! forleden kom der en T5'er ind p� v�rkstedet hvor jeg er ansat. Den stod p� 587.000km i t�lleren.. Men havde nok ogs� f�et en ny motor p� et tidspunkt :-) Og et andet plus, de ruster heller ikke s�dan...<br><br>Dennis</font><br><li><font face=Verdana><strong><u>Re: - <em>(Rene, 10-11-2005 19:23)</em></u></strong></font></li><br><font face=Verdana>tak for de gode r�d, den er nok lidt for usikker at k�be med det h�je kilometertal.<br><br>MVH. Rene</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Dennis C, 10-11-2005 16:49)</em></u></strong></font></li><br><font face=Verdana>850'eren er generelt en ok bil. Det er ikke en som g#{INVALID_CHAR}#r i stykker konstant.. men en T5'er med det kilometertal skal man nok passe lidt p#{INVALID_CHAR}#, for den har jo nok f#{INVALID_CHAR}#et nogle lussinger i dens levetid (nu hvor det er en T5...) Men! forleden kom der en T5'er ind p#{INVALID_CHAR}# v#{INVALID_CHAR}#rkstedet hvor jeg er ansat. Den stod p#{INVALID_CHAR}# 587.000km i t#{INVALID_CHAR}#lleren.. Men havde nok ogs#{INVALID_CHAR}# f#{INVALID_CHAR}#et en ny motor p#{INVALID_CHAR}# et tidspunkt :-) Og et andet plus, de ruster heller ikke s#{INVALID_CHAR}#dan...<br><br>Dennis</font><br><li><font face=Verdana><strong><u>Re: - <em>(Rene, 10-11-2005 19:23)</em></u></strong></font></li><br><font face=Verdana>tak for de gode r#{INVALID_CHAR}#d, den er nok lidt for usikker at k#{INVALID_CHAR}#be med det h#{INVALID_CHAR}#je kilometertal.<br><br>MVH. Rene</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -254,7 +254,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a>
       &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
     </td>
   </tr>

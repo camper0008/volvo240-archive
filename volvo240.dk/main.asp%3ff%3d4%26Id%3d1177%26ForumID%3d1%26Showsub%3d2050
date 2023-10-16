@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1177"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1177"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-01-2004 16:05</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej <br>Jeg har l�st her p� side, at en god olie til en 240 Gl er Valvoline max life men hvor kan den k�bes, jeg bor i Kolding men kan ikke finde den nogle stedet, de har Valvoline men ikke Max life<br>p� forh�nd tak og et godt nyt�r til alle her p� siden<br><br>Hilsen Hans</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej <br>Jeg har l#{INVALID_CHAR}#st her p#{INVALID_CHAR}# side, at en god olie til en 240 Gl er Valvoline max life men hvor kan den k#{INVALID_CHAR}#bes, jeg bor i Kolding men kan ikke finde den nogle stedet, de har Valvoline men ikke Max life<br>p#{INVALID_CHAR}# forh#{INVALID_CHAR}#nd tak og et godt nyt#{INVALID_CHAR}#r til alle her p#{INVALID_CHAR}# siden<br><br>Hilsen Hans</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2050'>Re: olie</a> <em>(Kent, 24-07-2004 00:39)</em></strong></font></li><br><font face=Verdana>hvorfor ska det lige v�re den olie jeg har f�et af vide bare det hedder 10/40  s� er det ok man ka vel bare skifte lidt tidere</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2043'>Re: olie</a> <em>(Emil J, 21-07-2004 13:54)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2042'>Re: olie</a> <em>(bjarne g, 21-07-2004 10:00)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2039'>Re: olie</a> <em>(Emil J, 20-07-2004 22:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2032'>Re: olie</a> <em>(malnitz, 19-07-2004 13:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2026'>Re: olie</a> <em>(Jes, 14-07-2004 18:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2024'>Re: olie</a> <em>(malnitz, 13-07-2004 15:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2023'>Re: olie</a> <em>(Emil J, 13-07-2004 15:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2022'>Re: olie</a> <em>(malnitz, 13-07-2004 15:35)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=1416'>Re: olie</a> <em>(becker, 24-02-2004 12:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=1182'>Re: olie</a> <em>(hansa75, 08-01-2004 14:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=1178'>Re: olie</a> <em>(Jesper Karlsen, 07-01-2004 18:59)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2050'>Re: olie</a> <em>(Kent, 24-07-2004 00:39)</em></strong></font></li><br><font face=Verdana>hvorfor ska det lige v#{INVALID_CHAR}#re den olie jeg har f#{INVALID_CHAR}#et af vide bare det hedder 10/40  s#{INVALID_CHAR}# er det ok man ka vel bare skifte lidt tidere</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2043'>Re: olie</a> <em>(Emil J, 21-07-2004 13:54)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2042'>Re: olie</a> <em>(bjarne g, 21-07-2004 10:00)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2039'>Re: olie</a> <em>(Emil J, 20-07-2004 22:38)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2032'>Re: olie</a> <em>(malnitz, 19-07-2004 13:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2026'>Re: olie</a> <em>(Jes, 14-07-2004 18:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2024'>Re: olie</a> <em>(malnitz, 13-07-2004 15:57)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2023'>Re: olie</a> <em>(Emil J, 13-07-2004 15:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=2022'>Re: olie</a> <em>(malnitz, 13-07-2004 15:35)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=1416'>Re: olie</a> <em>(becker, 24-02-2004 12:18)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=1182'>Re: olie</a> <em>(hansa75, 08-01-2004 14:28)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1177&ForumID=1&Showsub=1178'>Re: olie</a> <em>(Jesper Karlsen, 07-01-2004 18:59)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

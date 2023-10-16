@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -226,7 +226,7 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-12-2005 19:09</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har lige k�bt en af disse "semi"-GLT politimodeller, med 230E motoren. Jeg ved godt at det er sv�rt at stille diagnoser - men jeg pr�ver alligevel----Jeg synes at den starter d�rligt n�r den er kold, den turner fint men springer ligesom ikke rigtig igang - hvad kan v�re galt ?? (jeg �nsker af indlysende �rsager ikke at skifte alt fra en ende af).....Hvad kan der i �vrigt fort�lles om denne 230E motor - styrker svagheder etc. Alt har interesse</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har lige k#{INVALID_CHAR}#bt en af disse "semi"-GLT politimodeller, med 230E motoren. Jeg ved godt at det er sv#{INVALID_CHAR}#rt at stille diagnoser - men jeg pr#{INVALID_CHAR}#ver alligevel----Jeg synes at den starter d#{INVALID_CHAR}#rligt n#{INVALID_CHAR}#r den er kold, den turner fint men springer ligesom ikke rigtig igang - hvad kan v#{INVALID_CHAR}#re galt ?? (jeg #{INVALID_CHAR}#nsker af indlysende #{INVALID_CHAR}#rsager ikke at skifte alt fra en ende af).....Hvad kan der i #{INVALID_CHAR}#vrigt fort#{INVALID_CHAR}#lles om denne 230E motor - styrker svagheder etc. Alt har interesse</font></td>
       </tr>
       <tr>
 
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Johan Årman, 12-12-2005 22:37)</em></u></strong></font></li><br><font face=Verdana>Hej. Dit problem er nok fugt. Hvorn�r er din rotor, str�mfordelerd�ksel og t�ndkabler sidst skiftet? Skift alle disse dele, og det bliver straks bedre. Det er ikke s� dyrt, men til gengld bliver det sjovere at starte om morgenen... Jeg kan selvf�lgelig ikke garantere noget, men jeg har lige haft samme problem med min 244 med B21E, og det hjalp helt enormt.<br><br>Venlig hilsen<br>Johan �rman</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Jensen, 13-12-2005 18:16)</em></u></strong></font></li><br><font face=Verdana>Jeg har lige bestilt den komplette "t�ndingspakke". I�vrigt kiggede jeg p� rotoren ig�r - og hold k�ft hvor s� den ud, den var helt tilgroet med ir, s� jeg tror og h�ber ogs� at det er det.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Jensen, 17-12-2005 19:24)</em></u></strong></font></li><br><font face=Verdana>Nu er alt hvad ang�r t�ndingen skiftet, rotor, d�ksel, t�ndr�r & kabler....og hold da k�ft hvor det hjalp. Det er en HELT anden bil at starte - den er bare igang ved f�rste "turn". Hele mollevitten har kostet 350,- hvilket jeg vil anbefale ALLE som er i tvivl om alderen p� det som sidder i forvejen.</font><br><li><font face=Verdana><strong><u>Re: - <em>(kent skovsen, 17-12-2005 20:22)</em></u></strong></font></li><br><font face=Verdana>Lyder da godt.Ja man ku jo evt skifte det hvergang man laver service ,skifter olie p� sin bil.Da det jo normalt er en meget driftsikker bil.mvh Kent</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Johan Årman, 12-12-2005 22:37)</em></u></strong></font></li><br><font face=Verdana>Hej. Dit problem er nok fugt. Hvorn#{INVALID_CHAR}#r er din rotor, str#{INVALID_CHAR}#mfordelerd#{INVALID_CHAR}#ksel og t#{INVALID_CHAR}#ndkabler sidst skiftet? Skift alle disse dele, og det bliver straks bedre. Det er ikke s#{INVALID_CHAR}# dyrt, men til gengld bliver det sjovere at starte om morgenen... Jeg kan selvf#{INVALID_CHAR}#lgelig ikke garantere noget, men jeg har lige haft samme problem med min 244 med B21E, og det hjalp helt enormt.<br><br>Venlig hilsen<br>Johan #{INVALID_CHAR}#rman</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Jensen, 13-12-2005 18:16)</em></u></strong></font></li><br><font face=Verdana>Jeg har lige bestilt den komplette "t#{INVALID_CHAR}#ndingspakke". I#{INVALID_CHAR}#vrigt kiggede jeg p#{INVALID_CHAR}# rotoren ig#{INVALID_CHAR}#r - og hold k#{INVALID_CHAR}#ft hvor s#{INVALID_CHAR}# den ud, den var helt tilgroet med ir, s#{INVALID_CHAR}# jeg tror og h#{INVALID_CHAR}#ber ogs#{INVALID_CHAR}# at det er det.</font><br><li><font face=Verdana><strong><u>Re: - <em>(Christian Jensen, 17-12-2005 19:24)</em></u></strong></font></li><br><font face=Verdana>Nu er alt hvad ang#{INVALID_CHAR}#r t#{INVALID_CHAR}#ndingen skiftet, rotor, d#{INVALID_CHAR}#ksel, t#{INVALID_CHAR}#ndr#{INVALID_CHAR}#r & kabler....og hold da k#{INVALID_CHAR}#ft hvor det hjalp. Det er en HELT anden bil at starte - den er bare igang ved f#{INVALID_CHAR}#rste "turn". Hele mollevitten har kostet 350,- hvilket jeg vil anbefale ALLE som er i tvivl om alderen p#{INVALID_CHAR}# det som sidder i forvejen.</font><br><li><font face=Verdana><strong><u>Re: - <em>(kent skovsen, 17-12-2005 20:22)</em></u></strong></font></li><br><font face=Verdana>Lyder da godt.Ja man ku jo evt skifte det hvergang man laver service ,skifter olie p#{INVALID_CHAR}# sin bil.Da det jo normalt er en meget driftsikker bil.mvh Kent</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -254,7 +254,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

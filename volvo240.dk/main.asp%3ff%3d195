@@ -80,7 +80,7 @@ document.write('<' + 'script language="javascript" type="text/javascript" src="'
 
 <script type="text/javascript" language="JavaScript">
 <!--
-var message="Copyright � 2002-2013 by volvo240.dk";
+var message="Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk";
 function click(e) {
 	if (document.all) {
 		if (event.button == 2) {
@@ -116,7 +116,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -144,14 +144,14 @@ document.onmousedown=click;
   <tr>
     <td>
 <p>Jyllandsringen den 29. og 30. april 2006.<p>Nu er Anders Byriel igen tilbage.
-I �r er det i en gul Peugeot 206. Dejligt at se ham igen.<h2>DTC</h2>
-<p>Pontus M�rth er igen tilbage i Volvo'en.<br>
+I #{INVALID_CHAR}#r er det i en gul Peugeot 206. Dejligt at se ham igen.<h2>DTC</h2>
+<p>Pontus M#{INVALID_CHAR}#rth er igen tilbage i Volvo'en.<br>
 <i>Volvo Motorsport Danmark</i> skiftet navn til <i>Sport A Racing</i> og er
-ogs� skiftet fra at v�re et fabriks team til et privat team.<br>
-Kombinationen med en Volvo S60 og Pontus M�rth vil uden tvivl give nogle
-podiepladser, hvis ellers de andre k�rerer kan lade v�re med at k�re ind i
-Volvo'en. Nu m� vi se, men jeg forestiller mig Pontus st�r p� podiet n�r der til
-efter�ret skal deles pokaler ud.</p>
+ogs#{INVALID_CHAR}# skiftet fra at v#{INVALID_CHAR}#re et fabriks team til et privat team.<br>
+Kombinationen med en Volvo S60 og Pontus M#{INVALID_CHAR}#rth vil uden tvivl give nogle
+podiepladser, hvis ellers de andre k#{INVALID_CHAR}#rerer kan lade v#{INVALID_CHAR}#re med at k#{INVALID_CHAR}#re ind i
+Volvo'en. Nu m#{INVALID_CHAR}# vi se, men jeg forestiller mig Pontus st#{INVALID_CHAR}#r p#{INVALID_CHAR}# podiet n#{INVALID_CHAR}#r der til
+efter#{INVALID_CHAR}#ret skal deles pokaler ud.</p>
 
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
@@ -163,18 +163,18 @@ efter�ret skal deles pokaler ud.</p>
   </tr>
 </table>
 
-<p>Der er en del k�rere som har skiftet bilen ud i �r og der er kommet
-nogle nye k�rere til.<br>
-De f�rste �ndringer man l�gger m�rke til er DBA teamet med Henrik Lundgaard og
-Jan Magnussen. Fra sidste �r at k�re i Toyota ses de begge nu i en sprit ny BMW
+<p>Der er en del k#{INVALID_CHAR}#rere som har skiftet bilen ud i #{INVALID_CHAR}#r og der er kommet
+nogle nye k#{INVALID_CHAR}#rere til.<br>
+De f#{INVALID_CHAR}#rste #{INVALID_CHAR}#ndringer man l#{INVALID_CHAR}#gger m#{INVALID_CHAR}#rke til er DBA teamet med Henrik Lundgaard og
+Jan Magnussen. Fra sidste #{INVALID_CHAR}#r at k#{INVALID_CHAR}#re i Toyota ses de begge nu i en sprit ny BMW
 320SI E 90.<br>
-Og p� modsat side, hos Team Essex, holder der ligeledes to nye BMW 320SI E 90
-som Casper Elgaard og John Nielsen k�re i.</p>
-<p>Mens vi er ved BMW bilerne s� k�rer sidste �rs kendinge Philip Andersen,
+Og p#{INVALID_CHAR}# modsat side, hos Team Essex, holder der ligeledes to nye BMW 320SI E 90
+som Casper Elgaard og John Nielsen k#{INVALID_CHAR}#re i.</p>
+<p>Mens vi er ved BMW bilerne s#{INVALID_CHAR}# k#{INVALID_CHAR}#rer sidste #{INVALID_CHAR}#rs kendinge Philip Andersen,
 Jesper Sylvest, Rene Rasmussen, Michael Klostermann og Mike Legarth samt Michael
 Outzen og Kurt Thiim i BMW 320i E 46.</p>
 <p>Alt i alt 11 ud af 27 biler i feltet er BMW. Det er godt 40% af bilerne som
-er BMW. I �vrigt er der 26% af bilerne som er Peugeot.</p>
+er BMW. I #{INVALID_CHAR}#vrigt er der 26% af bilerne som er Peugeot.</p>
 
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
@@ -187,18 +187,18 @@ Th. Casper Elgaard's BMW 320SI E90 </p>
   </tr>
 </table>
 
-<h3>S�ndag:</h3>
-<p>I �r k�res der ikke Superpole. I stedet k�res der nu "Shoot Out". Tidligere 
-havde l�rdagens tidtagning betydning for l�rdages opstilling og Superpole 
-bestemte r�kkef�lgen for de 12 bedste fra tidtagningen. Nu er tidtagningen "kun" 
-tr�ning.<br>
-I Shoot Out sendes alle bilerne p� banen i 20 min. Herefter sorteres de 
-langsomste fra og f�r placeringerne fra pos 16 og nedefter afh�ngig af deres 
-tider i f�rste Shoot Out. De 15 bedste sendes ud i en ny Shoot Out runde p� 15 
+<h3>S#{INVALID_CHAR}#ndag:</h3>
+<p>I #{INVALID_CHAR}#r k#{INVALID_CHAR}#res der ikke Superpole. I stedet k#{INVALID_CHAR}#res der nu "Shoot Out". Tidligere 
+havde l#{INVALID_CHAR}#rdagens tidtagning betydning for l#{INVALID_CHAR}#rdages opstilling og Superpole 
+bestemte r#{INVALID_CHAR}#kkef#{INVALID_CHAR}#lgen for de 12 bedste fra tidtagningen. Nu er tidtagningen "kun" 
+tr#{INVALID_CHAR}#ning.<br>
+I Shoot Out sendes alle bilerne p#{INVALID_CHAR}# banen i 20 min. Herefter sorteres de 
+langsomste fra og f#{INVALID_CHAR}#r placeringerne fra pos 16 og nedefter afh#{INVALID_CHAR}#ngig af deres 
+tider i f#{INVALID_CHAR}#rste Shoot Out. De 15 bedste sendes ud i en ny Shoot Out runde p#{INVALID_CHAR}# 15 
 min. og 
-herefter g�r kun 7 videre til tredie Shoot Out runde p� 10 min. Disse sidste 7 k�mper s� 
+herefter g#{INVALID_CHAR}#r kun 7 videre til tredie Shoot Out runde p#{INVALID_CHAR}# 10 min. Disse sidste 7 k#{INVALID_CHAR}#mper s#{INVALID_CHAR}# 
 om de 7 bedste startplaceringer.</p>
-<p>De 7 bedste fra Shoot Out var f�lgende. Den bedste vises f�rst.</p>
+<p>De 7 bedste fra Shoot Out var f#{INVALID_CHAR}#lgende. Den bedste vises f#{INVALID_CHAR}#rst.</p>
 
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
@@ -228,7 +228,7 @@ om de 7 bedste startplaceringer.</p>
   <tr>
     <td width="25%" align="center"> 3. Jens Edman</td>
     <td width="25%" align="center"> 15. Michael Outzen</td>
-    <td width="25%" align="center"> 6. Pontus M�rth</td>
+    <td width="25%" align="center"> 6. Pontus M#{INVALID_CHAR}#rth</td>
     <td width="25%" align="center"></td>
   </tr>
 </table>
@@ -236,15 +236,15 @@ om de 7 bedste startplaceringer.</p>
 
 <h3>Prefinalen</h3>
 <p>I prefinalen lavede Casper en af sine gode starter i den nye BMW. Og han 
-f�rte fra start til slut. Ingen sp�nding om den f�rste plads. I starten fulgte 
-Lundgaard lige i h�lene p� Elgaard, men Elgaard stak hurtig fra resten af 
-feltet. Magnussen have lidt problemer med sit setup og m�tte se sig overhalet af 
-flere. DTC Debutanten Michael Outzen var absolut st�rk nok k�rende til at kunne 
-komme forbi Magnussen, men valgte nok bevist at holde en 5. plads for s� at 
-starte p� pole i finalen.<br>
-De fem f�rste blev: Casper Elgaard, John Nielsen, Henrik Lundgaard, Jan 
+f#{INVALID_CHAR}#rte fra start til slut. Ingen sp#{INVALID_CHAR}#nding om den f#{INVALID_CHAR}#rste plads. I starten fulgte 
+Lundgaard lige i h#{INVALID_CHAR}#lene p#{INVALID_CHAR}# Elgaard, men Elgaard stak hurtig fra resten af 
+feltet. Magnussen have lidt problemer med sit setup og m#{INVALID_CHAR}#tte se sig overhalet af 
+flere. DTC Debutanten Michael Outzen var absolut st#{INVALID_CHAR}#rk nok k#{INVALID_CHAR}#rende til at kunne 
+komme forbi Magnussen, men valgte nok bevist at holde en 5. plads for s#{INVALID_CHAR}# at 
+starte p#{INVALID_CHAR}# pole i finalen.<br>
+De fem f#{INVALID_CHAR}#rste blev: Casper Elgaard, John Nielsen, Henrik Lundgaard, Jan 
 Magnussen og Michael Outzen.<br>
-Pontus endte p� en 9. plads.</p>
+Pontus endte p#{INVALID_CHAR}# en 9. plads.</p>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20060430-12w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20060430-12t.jpg" width="128" height="85"></a></td>
@@ -256,21 +256,21 @@ Pontus endte p� en 9. plads.</p>
 </table>
 
 <h3>Finalen</h3>
-<p>Michael Outzen m�tte se sig sl�et i starten af Jan Magnussen og med Casper 
+<p>Michael Outzen m#{INVALID_CHAR}#tte se sig sl#{INVALID_CHAR}#et i starten af Jan Magnussen og med Casper 
 Elgaard og John Nielsen. Casper og Jan byttede plads et par gange og i et af 
-Caspers fors�g p� at overhale Jan, rykkede John Nielsen forbi Casper. Jan holdte 
-sin f�rsteplads efterfulgt af John Nielsen og Casper Elgaard.</p>
-<p>Edman's gearkasse gik itu og han mistede kontrollen over bilen, r�g op over 
+Caspers fors#{INVALID_CHAR}#g p#{INVALID_CHAR}# at overhale Jan, rykkede John Nielsen forbi Casper. Jan holdte 
+sin f#{INVALID_CHAR}#rsteplads efterfulgt af John Nielsen og Casper Elgaard.</p>
+<p>Edman's gearkasse gik itu og han mistede kontrollen over bilen, r#{INVALID_CHAR}#g op over 
 curben, og ind i siden af Pontus 
-M�rth i 1. omgang. Surt surt surt for Volvo teamet. Men et h�ndeligt uheld. </p>
+M#{INVALID_CHAR}#rth i 1. omgang. Surt surt surt for Volvo teamet. Men et h#{INVALID_CHAR}#ndeligt uheld. </p>
 
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20060430-13w.jpg&palt=','','height=433,width=620,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20060430-13t.jpg" width="128" height="85"></a></td>
     <td>
-<p>Tv: En fortvivlet Pontus M�rth.<br>
-Th: Pontus M�rth og Kent Stefensen p� sidelinien.</p>
-<h6>Begge fotos med tilladelse af fotograf Claus Sj�din.</h6>
+<p>Tv: En fortvivlet Pontus M#{INVALID_CHAR}#rth.<br>
+Th: Pontus M#{INVALID_CHAR}#rth og Kent Stefensen p#{INVALID_CHAR}# sidelinien.</p>
+<h6>Begge fotos med tilladelse af fotograf Claus Sj#{INVALID_CHAR}#din.</h6>
     </td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20060430-14w.jpg&palt=','','height=433,width=620,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20060430-14t.jpg" width="128" height="85"></a></td>
   </tr>
@@ -278,15 +278,15 @@ Th: Pontus M�rth og Kent Stefensen p� sidelinien.</p>
 <hr>
 <h2>Advan Cup</h2>
 
-<p>Anders Byriel fik et alvorligt problem i 1. tr�ning. I et fors�g p� at skifte 
-fra 3. til 4. gear, r�g den i 2. og d� var den motor f�rdig. Men p� kun 3 timer 
+<p>Anders Byriel fik et alvorligt problem i 1. tr#{INVALID_CHAR}#ning. I et fors#{INVALID_CHAR}#g p#{INVALID_CHAR}# at skifte 
+fra 3. til 4. gear, r#{INVALID_CHAR}#g den i 2. og d#{INVALID_CHAR}# var den motor f#{INVALID_CHAR}#rdig. Men p#{INVALID_CHAR}# kun 3 timer 
 fik teamet fat i en ny motor og fik den skiftet. Super flot team arbejde.</p>
 
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20060430-15w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20060430-15t.jpg" width="128" height="85"></a></td>
     <td>
-<p>Tv og th: Syv mand om at skifte en motor. S� k�rer det. S�dan!<br>
+<p>Tv og th: Syv mand om at skifte en motor. S#{INVALID_CHAR}# k#{INVALID_CHAR}#rer det. S#{INVALID_CHAR}#dan!<br>
 </p>
     </td>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20060430-16w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20060430-16t.jpg" width="128" height="85"></a></td>
@@ -294,10 +294,10 @@ fik teamet fat i en ny motor og fik den skiftet. Super flot team arbejde.</p>
 </table>
 
 
-<p>Anders kunne af gode grunde ikke n� tidtagningen. Men i f�rste heat viste han 
-super k�rsel og avancerede til en 17. plads.<br>
+<p>Anders kunne af gode grunde ikke n#{INVALID_CHAR}# tidtagningen. Men i f#{INVALID_CHAR}#rste heat viste han 
+super k#{INVALID_CHAR}#rsel og avancerede til en 17. plads.<br>
 Og i 2. heat rykkede han yderligere frem. Der er ingen tvivl om, at Anders 
-Byriel vil frem i �r. Og som det ser ud nu, skal han nok komme det.</p>
+Byriel vil frem i #{INVALID_CHAR}#r. Og som det ser ud nu, skal han nok komme det.</p>
 <table border="0" cellpadding="5" cellspacing="1" width="745">
   <tr>
     <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/20060430-17w.jpg&palt=','','height=457,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/20060430-17t.jpg" width="128" height="85"></a></td>
@@ -308,9 +308,9 @@ Byriel vil frem i �r. Og som det ser ud nu, skal han nok komme det.</p>
   </tr>
 </table>
 <p></p>
-<p>Jeg gl�der mig til at se hvad Pontus og Anders kan pr�stere i de kommende 
-l�b.</p>
-<p>En sp�ndende racer weekend.</p>
+<p>Jeg gl#{INVALID_CHAR}#der mig til at se hvad Pontus og Anders kan pr#{INVALID_CHAR}#stere i de kommende 
+l#{INVALID_CHAR}#b.</p>
+<p>En sp#{INVALID_CHAR}#ndende racer weekend.</p>
 <hr>
     </td>
   </tr>
@@ -326,7 +326,7 @@ l�b.</p>
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a>
       &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
     </td>
   </tr>
@@ -337,7 +337,7 @@ l�b.</p>
 <thead>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
-    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk</span></td>
     <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>

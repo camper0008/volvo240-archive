@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1003"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1003"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">16-11-2003 20:12</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har nogle problemer med en 1986 240 DL med B230K motor. <br>N�r motoren  er varm, og man k�rer hurigt p� motorvejen, h�nder det, at den ganske langsomt begynder at hugge og k�re langsommere, for til sidst helt at stoppe. Derefter m� man vente et par minutter, hvorefter motoren igen kan starte.<br>Hvis man k�rer i byen og giver gas, for at komme lidt hurtigere frem, hugger den ogs�, som om motoren var kold, og forbr�nder derefter benzinen i udst�dningen med et knald.<br>Til sidst er det ogs� flere gange sket, at motoren er g�et ned i omdrejninger, for til sidst at g� ud ved r�dt lys.<br>Det er ikke min egen bil, s� det er problemer, jeg har f�et beskrevet, men for mig lyder det som om, den f�r for meget benzin. Men den har tilsyneladende haft problemerne en rum tid -ogs� efter talrige v�rkstedsbes�g, deriblandt hos Volvo.<br>Hvad kan der v�re galt? Jeg er sikkerp�, at nogle Volvol�ger kan stille diagnosen.<br><br>Venlig hilsen<br><br>Johan �rman</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har nogle problemer med en 1986 240 DL med B230K motor. <br>N#{INVALID_CHAR}#r motoren  er varm, og man k#{INVALID_CHAR}#rer hurigt p#{INVALID_CHAR}# motorvejen, h#{INVALID_CHAR}#nder det, at den ganske langsomt begynder at hugge og k#{INVALID_CHAR}#re langsommere, for til sidst helt at stoppe. Derefter m#{INVALID_CHAR}# man vente et par minutter, hvorefter motoren igen kan starte.<br>Hvis man k#{INVALID_CHAR}#rer i byen og giver gas, for at komme lidt hurtigere frem, hugger den ogs#{INVALID_CHAR}#, som om motoren var kold, og forbr#{INVALID_CHAR}#nder derefter benzinen i udst#{INVALID_CHAR}#dningen med et knald.<br>Til sidst er det ogs#{INVALID_CHAR}# flere gange sket, at motoren er g#{INVALID_CHAR}#et ned i omdrejninger, for til sidst at g#{INVALID_CHAR}# ud ved r#{INVALID_CHAR}#dt lys.<br>Det er ikke min egen bil, s#{INVALID_CHAR}# det er problemer, jeg har f#{INVALID_CHAR}#et beskrevet, men for mig lyder det som om, den f#{INVALID_CHAR}#r for meget benzin. Men den har tilsyneladende haft problemerne en rum tid -ogs#{INVALID_CHAR}# efter talrige v#{INVALID_CHAR}#rkstedsbes#{INVALID_CHAR}#g, deriblandt hos Volvo.<br>Hvad kan der v#{INVALID_CHAR}#re galt? Jeg er sikkerp#{INVALID_CHAR}#, at nogle Volvol#{INVALID_CHAR}#ger kan stille diagnosen.<br><br>Venlig hilsen<br><br>Johan #{INVALID_CHAR}#rman</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1003&ForumID=1&Showsub=1036'>Re: B230K med problemer</a> <em>(Lars Erik Kolden, 27-11-2003 21:56)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1003&ForumID=1&Showsub=1005'>Re: B230K med problemer</a> <em>(Lars Vestman, 17-11-2003 10:04)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1003&ForumID=1&Showsub=1004'>Re: B230K med problemer</a> <em>(Kim Thomsen, 17-11-2003 02:14)</em></strong></font></li><br><font face=Verdana>Jeg har ogs� haft problemet og har det stadig ind i mellem, men mest i regnvejr. Motoren d�r lige s� stille, men starter igen efter et minut dog under en del hakken og sprutten og derefter er der intet galt. Jeg har h�ldt til at den fik fugt, men det er da muligt det er for meget benzin.<br>245 1987</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1003&ForumID=1&Showsub=1036'>Re: B230K med problemer</a> <em>(Lars Erik Kolden, 27-11-2003 21:56)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1003&ForumID=1&Showsub=1005'>Re: B230K med problemer</a> <em>(Lars Vestman, 17-11-2003 10:04)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1003&ForumID=1&Showsub=1004'>Re: B230K med problemer</a> <em>(Kim Thomsen, 17-11-2003 02:14)</em></strong></font></li><br><font face=Verdana>Jeg har ogs#{INVALID_CHAR}# haft problemet og har det stadig ind i mellem, men mest i regnvejr. Motoren d#{INVALID_CHAR}#r lige s#{INVALID_CHAR}# stille, men starter igen efter et minut dog under en del hakken og sprutten og derefter er der intet galt. Jeg har h#{INVALID_CHAR}#ldt til at den fik fugt, men det er da muligt det er for meget benzin.<br>245 1987</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,7 +198,7 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
@@ -226,7 +226,7 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">02-06-2005 00:21</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej, <br><br>Jeg har en Volvo 240 Turbo til salg, hvis der er nogen, der er interessede:<br><br>http://www.bilbasen.dk/biler/private/show.asp?id=675598<br><br>Og jeg ved godt at jeg skal oprette mig som bruger og smide den under "Salg", men det virker desv�rre ikke p� min Mac. S� p� forh�nd undskyld. <br><br>Skal bare af med bil, s� smid et bud eller sp�rgsm�l p� mail. <br><br>Takker. <br><br>d:-)<br>Michael</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej, <br><br>Jeg har en Volvo 240 Turbo til salg, hvis der er nogen, der er interessede:<br><br>http://www.bilbasen.dk/biler/private/show.asp?id=675598<br><br>Og jeg ved godt at jeg skal oprette mig som bruger og smide den under "Salg", men det virker desv#{INVALID_CHAR}#rre ikke p#{INVALID_CHAR}# min Mac. S#{INVALID_CHAR}# p#{INVALID_CHAR}# forh#{INVALID_CHAR}#nd undskyld. <br><br>Skal bare af med bil, s#{INVALID_CHAR}# smid et bud eller sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l p#{INVALID_CHAR}# mail. <br><br>Takker. <br><br>d:-)<br>Michael</font></td>
       </tr>
       <tr>
 
@@ -254,7 +254,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

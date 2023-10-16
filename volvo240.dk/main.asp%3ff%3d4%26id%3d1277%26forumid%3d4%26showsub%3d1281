@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1277"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1277"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">02-02-2004 18:16</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle sammen.<br><br>Jeg er blevet tilbudt en volvo 244 original turbu, fra 1982. Kabinen er fin. og bilen har k�rt ca. 280000 km. Manden vil have 700 kr. for den. hvad er jeres bud, dyrt eller billigt? Der skal skiftet panel, indersk�rme og s� er der et par huller i bunden.<br><br>Mvh. Dennis</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle sammen.<br><br>Jeg er blevet tilbudt en volvo 244 original turbu, fra 1982. Kabinen er fin. og bilen har k#{INVALID_CHAR}#rt ca. 280000 km. Manden vil have 700 kr. for den. hvad er jeres bud, dyrt eller billigt? Der skal skiftet panel, indersk#{INVALID_CHAR}#rme og s#{INVALID_CHAR}# er der et par huller i bunden.<br><br>Mvh. Dennis</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1277&ForumID=4&Showsub=1281'>Re: Hvad skal den koste.?</a> <em>(Sebastian Neumann, 02-02-2004 21:36)</em></strong></font></li><br><font face=Verdana>Hej igen.<br><br>Det betyder simpelthen at svinghjul og trykplade k�rer med forskellige omdrejninger. Du kan m�rke det hvis du k�rer, s�tter bilen i fx. andet gear, klamper pedalen og omdrejningerne bare stiger og stiger men bilen "tr�kker" ikke rigtig med - lyden er umiskendelig og det samme er lugten hvis man holder p�...<br><br>H�ber det besvarede sp�rgsm�let.<br><br>Mvh.<br>Sebastian</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1277&ForumID=4&Showsub=1280'>Re: Hvad skal den koste.?</a> <em>(Allan, 02-02-2004 18:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1277&ForumID=4&Showsub=1279'>Re: Hvad skal den koste.?</a> <em>(Dennis, 02-02-2004 18:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1277&ForumID=4&Showsub=1278'>Re: Hvad skal den koste.?</a> <em>(Sebastian Neumann, 02-02-2004 18:43)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1277&ForumID=4&Showsub=1281'>Re: Hvad skal den koste.?</a> <em>(Sebastian Neumann, 02-02-2004 21:36)</em></strong></font></li><br><font face=Verdana>Hej igen.<br><br>Det betyder simpelthen at svinghjul og trykplade k#{INVALID_CHAR}#rer med forskellige omdrejninger. Du kan m#{INVALID_CHAR}#rke det hvis du k#{INVALID_CHAR}#rer, s#{INVALID_CHAR}#tter bilen i fx. andet gear, klamper pedalen og omdrejningerne bare stiger og stiger men bilen "tr#{INVALID_CHAR}#kker" ikke rigtig med - lyden er umiskendelig og det samme er lugten hvis man holder p#{INVALID_CHAR}#...<br><br>H#{INVALID_CHAR}#ber det besvarede sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#let.<br><br>Mvh.<br>Sebastian</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1277&ForumID=4&Showsub=1280'>Re: Hvad skal den koste.?</a> <em>(Allan, 02-02-2004 18:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1277&ForumID=4&Showsub=1279'>Re: Hvad skal den koste.?</a> <em>(Dennis, 02-02-2004 18:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1277&ForumID=4&Showsub=1278'>Re: Hvad skal den koste.?</a> <em>(Sebastian Neumann, 02-02-2004 18:43)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

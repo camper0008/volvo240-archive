@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=306"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=306"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">11-04-2003 09:55</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Jeg har en 245 fra 89, model GLT 2,3l.<br>345.000 km p� uret, og den k�re ellers bare fint. :-)<br>Men, n�r man om morgnen har k�rt i ca. 8-10 minutter s� kommer der en meget svag hyletone, som �ndre lyd i forhold til motoromdrejningerne.<br><br>Lyden er der ogs� n�r jeg kobler ud, og det lyder bestemt som om den kommer fra motorrummet.<br>Hyletonen forsvinder igen efter ca. �t minut, og kommer s� ikke tilbage f�r n�ste morgen.<br>Jeg t�nker selv p� eks. noget i retning af en "slap" kilerem (eks. servo-remmen), men det er noget sv�rt at finde ud af n�r det forsvinder igen s� hurtigt.<br><br>Har du et godt et bud p� hvad det kan v�re, s� vil jeg meget gerne h�re om det. :-)<br><br>Mvh.<br>Peter</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Jeg har en 245 fra 89, model GLT 2,3l.<br>345.000 km p#{INVALID_CHAR}# uret, og den k#{INVALID_CHAR}#re ellers bare fint. :-)<br>Men, n#{INVALID_CHAR}#r man om morgnen har k#{INVALID_CHAR}#rt i ca. 8-10 minutter s#{INVALID_CHAR}# kommer der en meget svag hyletone, som #{INVALID_CHAR}#ndre lyd i forhold til motoromdrejningerne.<br><br>Lyden er der ogs#{INVALID_CHAR}# n#{INVALID_CHAR}#r jeg kobler ud, og det lyder bestemt som om den kommer fra motorrummet.<br>Hyletonen forsvinder igen efter ca. #{INVALID_CHAR}#t minut, og kommer s#{INVALID_CHAR}# ikke tilbage f#{INVALID_CHAR}#r n#{INVALID_CHAR}#ste morgen.<br>Jeg t#{INVALID_CHAR}#nker selv p#{INVALID_CHAR}# eks. noget i retning af en "slap" kilerem (eks. servo-remmen), men det er noget sv#{INVALID_CHAR}#rt at finde ud af n#{INVALID_CHAR}#r det forsvinder igen s#{INVALID_CHAR}# hurtigt.<br><br>Har du et godt et bud p#{INVALID_CHAR}# hvad det kan v#{INVALID_CHAR}#re, s#{INVALID_CHAR}# vil jeg meget gerne h#{INVALID_CHAR}#re om det. :-)<br><br>Mvh.<br>Peter</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=306&ForumID=1&Showsub=312'>Re: Svag kortvarig hylelyd ??</a> <em>(Jes, 12-04-2003 09:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=306&ForumID=1&Showsub=311'>Re: Svag kortvarig hylelyd ??</a> <em>(Jan Lassen, 12-04-2003 01:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=306&ForumID=1&Showsub=307'>Re: Svag kortvarig hylelyd ??</a> <em>(Jes, 11-04-2003 16:40)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Det du beskriver lyder mest som midterlejet p� kardanen. Lejet er ikke trykbelastet, men med tiden bliver det t�rt l�ber dermed ikke frit rundt. Typisk opdages det ved de omtalte hylelyde under k�rsel i opvarmningsperioden. N�r f�rst man har k�rt 5-10 km oph�rer lyden. Den er som regel ogs� mest udtalt n�r det er koldt. <br>Fejlen udbedres ved at skifte lejet.<br><br>mvh<br><br>Jes</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=306&ForumID=1&Showsub=312'>Re: Svag kortvarig hylelyd ??</a> <em>(Jes, 12-04-2003 09:07)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=306&ForumID=1&Showsub=311'>Re: Svag kortvarig hylelyd ??</a> <em>(Jan Lassen, 12-04-2003 01:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=306&ForumID=1&Showsub=307'>Re: Svag kortvarig hylelyd ??</a> <em>(Jes, 11-04-2003 16:40)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Det du beskriver lyder mest som midterlejet p#{INVALID_CHAR}# kardanen. Lejet er ikke trykbelastet, men med tiden bliver det t#{INVALID_CHAR}#rt l#{INVALID_CHAR}#ber dermed ikke frit rundt. Typisk opdages det ved de omtalte hylelyde under k#{INVALID_CHAR}#rsel i opvarmningsperioden. N#{INVALID_CHAR}#r f#{INVALID_CHAR}#rst man har k#{INVALID_CHAR}#rt 5-10 km oph#{INVALID_CHAR}#rer lyden. Den er som regel ogs#{INVALID_CHAR}# mest udtalt n#{INVALID_CHAR}#r det er koldt. <br>Fejlen udbedres ved at skifte lejet.<br><br>mvh<br><br>Jes</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

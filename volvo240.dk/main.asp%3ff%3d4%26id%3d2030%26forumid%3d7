@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -226,7 +226,7 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">03-01-2007 17:00</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">hej jeg har en 740 turbo og jeg g�r og  overvejer at k�be en olie catch tank. men s� er mit sp�rgsm�l om det kan svare sig n�r jeg af lige vel har f�rt min motor udluftning ud i det fri?? eller for jeg for mere efekt ud af at s�tte s�dan en tank p�.</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">hej jeg har en 740 turbo og jeg g#{INVALID_CHAR}#r og  overvejer at k#{INVALID_CHAR}#be en olie catch tank. men s#{INVALID_CHAR}# er mit sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l om det kan svare sig n#{INVALID_CHAR}#r jeg af lige vel har f#{INVALID_CHAR}#rt min motor udluftning ud i det fri?? eller for jeg for mere efekt ud af at s#{INVALID_CHAR}#tte s#{INVALID_CHAR}#dan en tank p#{INVALID_CHAR}#.</font></td>
       </tr>
       <tr>
 
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Marquis, 03-01-2007 17:52)</em></u></strong></font></li><br><font face=Verdana>Hvis du allerede har f�rt din motorudluftning ud i det fri, f�r du ingen �get effekt.<br><br>En catch-tank kun til opsamling af olien, som ellers bare vil blive spr�jtet ud i motorrummet, eller hvor du nu har f�rt udluftningen hen!<br><br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Thomas Jensen, 03-01-2007 21:33)</em></u></strong></font></li><br><font face=Verdana>Det giver �get effekt at montere en vakuumpumpe f�r catch tank, den pumper overtrykket ud af krumtaphuset. Du neds�tter ogs� risikoen for at bl�se bundpakningen. Du kan tage en vakuumpumpe fra en st�rre diselmotor.</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Marquis, 03-01-2007 17:52)</em></u></strong></font></li><br><font face=Verdana>Hvis du allerede har f#{INVALID_CHAR}#rt din motorudluftning ud i det fri, f#{INVALID_CHAR}#r du ingen #{INVALID_CHAR}#get effekt.<br><br>En catch-tank kun til opsamling af olien, som ellers bare vil blive spr#{INVALID_CHAR}#jtet ud i motorrummet, eller hvor du nu har f#{INVALID_CHAR}#rt udluftningen hen!<br><br></font><br><li><font face=Verdana><strong><u>Re: - <em>(Thomas Jensen, 03-01-2007 21:33)</em></u></strong></font></li><br><font face=Verdana>Det giver #{INVALID_CHAR}#get effekt at montere en vakuumpumpe f#{INVALID_CHAR}#r catch tank, den pumper overtrykket ud af krumtaphuset. Du neds#{INVALID_CHAR}#tter ogs#{INVALID_CHAR}# risikoen for at bl#{INVALID_CHAR}#se bundpakningen. Du kan tage en vakuumpumpe fra en st#{INVALID_CHAR}#rre diselmotor.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -254,7 +254,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a>
       &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
     </td>
   </tr>

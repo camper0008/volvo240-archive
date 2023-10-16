@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=2812"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=2812"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">05-02-2005 13:18</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Har opdaget, at min 240 St.car med 230k motor har tabt k�lerv�ske i kabnien. Under mundm�tten i f�rersiden fandt jeg s�ledes en hel del k�lerv�ske. Det skal n�vnes, at bl�seren er st�et af - kan der v�re en sammenh�nger? <br><br>Venlig hilsen<br>Tobias</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Har opdaget, at min 240 St.car med 230k motor har tabt k#{INVALID_CHAR}#lerv#{INVALID_CHAR}#ske i kabnien. Under mundm#{INVALID_CHAR}#tten i f#{INVALID_CHAR}#rersiden fandt jeg s#{INVALID_CHAR}#ledes en hel del k#{INVALID_CHAR}#lerv#{INVALID_CHAR}#ske. Det skal n#{INVALID_CHAR}#vnes, at bl#{INVALID_CHAR}#seren er st#{INVALID_CHAR}#et af - kan der v#{INVALID_CHAR}#re en sammenh#{INVALID_CHAR}#nger? <br><br>Venlig hilsen<br>Tobias</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2812&ForumID=4&Showsub=2814'>Re: Kølervæske i bilen</a> <em>(Emil J, 05-02-2005 15:55)</em></strong></font></li><br><font face=Verdana>Hall�j<br>Vil da n�sten g�tte p� at du har en d�rlig slange eller m�ske en ut�t ventil. Men det med din bl�ser er faktisk en typisk fejl hos en Volvo. Det er bare lidt af et mareridt at f� fisket varmeapperatet ud. Men hvis man giver sig god tid, kan man vel g�re det p� et par timer. Man kan ogs� overlade det til en mekaniker, men de kigger som regel "m�rkeligt" p� en n�r man begynder at n�vne ordne: Defekt bl�ser & skiftes. Det er faktisk ikke s� sv�rt. Mener at have set en billede guide p� nettet. <br>Men allerf�rst ville jeg checke sikringen. Og om den skulle have d�rlig forbindelse. Det er endnu en Volvo fejl. <br>Du skal nok have splittet midter konsollet af, for at komme til at se noget. Men det er heller ikke sv�rt. Bare tag det stille og roligt. :) <br><br>Held og lykke. <br><br>M.v.h<br><br>Emil J</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2812&ForumID=4&Showsub=2814'>Re: Kølervæske i bilen</a> <em>(Emil J, 05-02-2005 15:55)</em></strong></font></li><br><font face=Verdana>Hall#{INVALID_CHAR}#j<br>Vil da n#{INVALID_CHAR}#sten g#{INVALID_CHAR}#tte p#{INVALID_CHAR}# at du har en d#{INVALID_CHAR}#rlig slange eller m#{INVALID_CHAR}#ske en ut#{INVALID_CHAR}#t ventil. Men det med din bl#{INVALID_CHAR}#ser er faktisk en typisk fejl hos en Volvo. Det er bare lidt af et mareridt at f#{INVALID_CHAR}# fisket varmeapperatet ud. Men hvis man giver sig god tid, kan man vel g#{INVALID_CHAR}#re det p#{INVALID_CHAR}# et par timer. Man kan ogs#{INVALID_CHAR}# overlade det til en mekaniker, men de kigger som regel "m#{INVALID_CHAR}#rkeligt" p#{INVALID_CHAR}# en n#{INVALID_CHAR}#r man begynder at n#{INVALID_CHAR}#vne ordne: Defekt bl#{INVALID_CHAR}#ser & skiftes. Det er faktisk ikke s#{INVALID_CHAR}# sv#{INVALID_CHAR}#rt. Mener at have set en billede guide p#{INVALID_CHAR}# nettet. <br>Men allerf#{INVALID_CHAR}#rst ville jeg checke sikringen. Og om den skulle have d#{INVALID_CHAR}#rlig forbindelse. Det er endnu en Volvo fejl. <br>Du skal nok have splittet midter konsollet af, for at komme til at se noget. Men det er heller ikke sv#{INVALID_CHAR}#rt. Bare tag det stille og roligt. :) <br><br>Held og lykke. <br><br>M.v.h<br><br>Emil J</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

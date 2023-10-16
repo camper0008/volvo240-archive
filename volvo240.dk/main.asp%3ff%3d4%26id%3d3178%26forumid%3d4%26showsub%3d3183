@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=3178"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=3178"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-04-2005 10:23</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvo240 entusiaster!<br><br>Er der nogen som ligger inde med en "Slut vaxel huset (bagt�js plade)"?<br><br>Mit speedometer er ustabil! Det "h�nger" ved 0 km/t periodisk, og n�r det g�r det, skal bilen op p� omkring 80-100 km/t, f�r det kommer direkte op til korrekt visning!<br><br>Jeg har ogs� Blaupunkt autoradio med Navigator. N�r speedometret viser 0 km/t, viser installationstesten p� den ogs� "Ingen speedometret-signal".<br><br>Navigatoren f�r signal F�R speedometret, som ER blevet udskifte uden at have l�st problemet. <br><br>Min konklusion er at problemet ligger i signalgiveren, som sidder p� "Slut vaxel huset (bagt�js bag pladen)"!<br><br>Er der nogen som har en s�dan, hvor signalgiveren virker, liggende? S� er jeg interesseret i at k�be den!<br><br>Send mig en e-mail p�: bennekou@privat.dk<br><br>mvh E. Bennekou</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvo240 entusiaster!<br><br>Er der nogen som ligger inde med en "Slut vaxel huset (bagt#{INVALID_CHAR}#js plade)"?<br><br>Mit speedometer er ustabil! Det "h#{INVALID_CHAR}#nger" ved 0 km/t periodisk, og n#{INVALID_CHAR}#r det g#{INVALID_CHAR}#r det, skal bilen op p#{INVALID_CHAR}# omkring 80-100 km/t, f#{INVALID_CHAR}#r det kommer direkte op til korrekt visning!<br><br>Jeg har ogs#{INVALID_CHAR}# Blaupunkt autoradio med Navigator. N#{INVALID_CHAR}#r speedometret viser 0 km/t, viser installationstesten p#{INVALID_CHAR}# den ogs#{INVALID_CHAR}# "Ingen speedometret-signal".<br><br>Navigatoren f#{INVALID_CHAR}#r signal F#{INVALID_CHAR}#R speedometret, som ER blevet udskifte uden at have l#{INVALID_CHAR}#st problemet. <br><br>Min konklusion er at problemet ligger i signalgiveren, som sidder p#{INVALID_CHAR}# "Slut vaxel huset (bagt#{INVALID_CHAR}#js bag pladen)"!<br><br>Er der nogen som har en s#{INVALID_CHAR}#dan, hvor signalgiveren virker, liggende? S#{INVALID_CHAR}# er jeg interesseret i at k#{INVALID_CHAR}#be den!<br><br>Send mig en e-mail p#{INVALID_CHAR}#: bennekou@privat.dk<br><br>mvh E. Bennekou</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3178&ForumID=4&Showsub=3183'>Re: Slut vaxel huset (bagtøjs bag plade)</a> <em>(Erling, 13-04-2005 09:21)</em></strong></font></li><br><font face=Verdana>Dersom du likevel vil teste om det helt sikkert er sensoren som svikter, kan du gjerne finne noe nyttig her:<br>http://www.brickboard.com/FAQ/700-900/ElectricalInstruments.htm#Speedometer_Failures<br>Riktignok skrevet for 700-serien, men det skal passe ogs� for 200-serien med elektronisk speedometer.<br><br>Erling.</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3178&ForumID=4&Showsub=3183'>Re: Slut vaxel huset (bagtøjs bag plade)</a> <em>(Erling, 13-04-2005 09:21)</em></strong></font></li><br><font face=Verdana>Dersom du likevel vil teste om det helt sikkert er sensoren som svikter, kan du gjerne finne noe nyttig her:<br>http://www.brickboard.com/FAQ/700-900/ElectricalInstruments.htm#Speedometer_Failures<br>Riktignok skrevet for 700-serien, men det skal passe ogs#{INVALID_CHAR}# for 200-serien med elektronisk speedometer.<br><br>Erling.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

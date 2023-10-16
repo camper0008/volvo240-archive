@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -226,7 +226,7 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-03-2006 11:42</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har lige set p� en skrotbil i dag at der hvor batteriet st�r p�, at det var af plastic.Ved hvilken �rgang begynder de med det?Det da bedre end metal</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har lige set p#{INVALID_CHAR}# en skrotbil i dag at der hvor batteriet st#{INVALID_CHAR}#r p#{INVALID_CHAR}#, at det var af plastic.Ved hvilken #{INVALID_CHAR}#rgang begynder de med det?Det da bedre end metal</font></td>
       </tr>
       <tr>
 
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Per Braae Kristensen, 12-03-2006 11:47)</em></u></strong></font></li><br><font face=Verdana>Ikke helt sikker, men den gamle jeg havde (86) var af metal, men den nuv�rende (88) er det plastik, s�e deromkring.<br>Mvh.<br>Per</font><br><li><font face=Verdana><strong><u>Re: - <em>(Chr. Mathiasen, 12-04-2006 21:03)</em></u></strong></font></li><br><font face=Verdana>jeg har en fra 1991 og der er det ogs� plastic !!! S� det er bare at f� skiftet den gamle og sikkert ogs� rustne ud - god arb.lyst !!</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Per Braae Kristensen, 12-03-2006 11:47)</em></u></strong></font></li><br><font face=Verdana>Ikke helt sikker, men den gamle jeg havde (86) var af metal, men den nuv#{INVALID_CHAR}#rende (88) er det plastik, s#{INVALID_CHAR}#e deromkring.<br>Mvh.<br>Per</font><br><li><font face=Verdana><strong><u>Re: - <em>(Chr. Mathiasen, 12-04-2006 21:03)</em></u></strong></font></li><br><font face=Verdana>jeg har en fra 1991 og der er det ogs#{INVALID_CHAR}# plastic !!! S#{INVALID_CHAR}# det er bare at f#{INVALID_CHAR}# skiftet den gamle og sikkert ogs#{INVALID_CHAR}# rustne ud - god arb.lyst !!</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -254,7 +254,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

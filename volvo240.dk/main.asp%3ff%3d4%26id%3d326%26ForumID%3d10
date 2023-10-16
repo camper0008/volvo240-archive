@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -226,7 +226,7 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">29-10-2003 23:30</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Umiddelbart kan jeg ikke finde noget om volvo 240 diesel p� dette site....hvorfor ikke, eller er der noget p� vej.<br>Kunne godt t�nke mig at vide lidt omkring den type motor, f.eks fejl og ulemper ved denne type og selvf�lgelig ogs� fordele eller andre positive ting<br>Mvh</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Umiddelbart kan jeg ikke finde noget om volvo 240 diesel p#{INVALID_CHAR}# dette site....hvorfor ikke, eller er der noget p#{INVALID_CHAR}# vej.<br>Kunne godt t#{INVALID_CHAR}#nke mig at vide lidt omkring den type motor, f.eks fejl og ulemper ved denne type og selvf#{INVALID_CHAR}#lgelig ogs#{INVALID_CHAR}# fordele eller andre positive ting<br>Mvh</font></td>
       </tr>
       <tr>
 
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 30-10-2003 00:17)</em></u></strong></font></li><br><font face=Verdana>Du har fuldst�ndig ret. Der er ikke megen information om Volvo 240 Diesel her p� denne hjemmeside. Interessen for den har v�ret til at overse, og derfor er den blevet prioriteret lidt ned i forhold til de �vrige versioner.<br>Men det bliver der, i den n�rmeste fremtid (uger), lavet om p�. Der er noget p� vej.<br><br>mvh<br>Finn Kruse</font><br><li><font face=Verdana><strong><u>Re: - <em>(jacob madsen, 22-11-2005 16:44)</em></u></strong></font></li><br><font face=Verdana>Hej Volvo glade folk, Har selv en volvo "240 TD, har selv lavet lidt mekanik, og s� var det ellers ud over stepperne, gl�der mig til at se flere Folk, som k�re med 6 cylindere<br></font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 30-10-2003 00:17)</em></u></strong></font></li><br><font face=Verdana>Du har fuldst#{INVALID_CHAR}#ndig ret. Der er ikke megen information om Volvo 240 Diesel her p#{INVALID_CHAR}# denne hjemmeside. Interessen for den har v#{INVALID_CHAR}#ret til at overse, og derfor er den blevet prioriteret lidt ned i forhold til de #{INVALID_CHAR}#vrige versioner.<br>Men det bliver der, i den n#{INVALID_CHAR}#rmeste fremtid (uger), lavet om p#{INVALID_CHAR}#. Der er noget p#{INVALID_CHAR}# vej.<br><br>mvh<br>Finn Kruse</font><br><li><font face=Verdana><strong><u>Re: - <em>(jacob madsen, 22-11-2005 16:44)</em></u></strong></font></li><br><font face=Verdana>Hej Volvo glade folk, Har selv en volvo "240 TD, har selv lavet lidt mekanik, og s#{INVALID_CHAR}# var det ellers ud over stepperne, gl#{INVALID_CHAR}#der mig til at se flere Folk, som k#{INVALID_CHAR}#re med 6 cylindere<br></font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -254,7 +254,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

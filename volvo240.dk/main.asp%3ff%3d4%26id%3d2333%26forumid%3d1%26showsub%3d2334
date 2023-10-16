@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2333"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2333"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">31-10-2004 11:42</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Et sp�rgsm�l fra en nybagt 240 ejer.<br>D�mperolien i min Pierburg 175 forsvinder.<br>Har skiftet gummimembranen. Der var en revne i.<br>Har vasket karburatoren af, udvendigt, for at lokalisere et evt. spild.<br>Ingen af delene har givet resultat.<br>Har i "hajer" et godt r�d? <br>P� forh�nd tak.<br><br>Mark</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Et sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l fra en nybagt 240 ejer.<br>D#{INVALID_CHAR}#mperolien i min Pierburg 175 forsvinder.<br>Har skiftet gummimembranen. Der var en revne i.<br>Har vasket karburatoren af, udvendigt, for at lokalisere et evt. spild.<br>Ingen af delene har givet resultat.<br>Har i "hajer" et godt r#{INVALID_CHAR}#d? <br>P#{INVALID_CHAR}# forh#{INVALID_CHAR}#nd tak.<br><br>Mark</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2351'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Mark Bredahl, 03-11-2004 18:46)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2341'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Erling, 02-11-2004 08:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2339'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Emil J, 01-11-2004 18:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2338'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Rasmus Skou, 01-11-2004 10:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2334'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Emil J, 31-10-2004 14:23)</em></strong></font></li><br><font face=Verdana>Hejsa.<br>Velkommen til. �hm. Jeg har ogs� nogen gang klaget min n�d til at f� en lille guide her p� siden om hvordan man laver lidt simple vedligholdelse p� de motore & karburatore der sidder i vores elskede Volvoer. <br>Men jeg kan s� kun g�tte nu. Jeg kan n�sten forstille mig at der m� sidde en slags "samle" pakning i karburatoren. S� olien ikke l�ber ud. Derfor vil jeg nok anbefale dig at k�be en reperations h�ndbog over bilen koster 200 - 300 kr mener jeg. Da der garenteret er et "Exploded view" af karburatoren. <br>Hvad olie type bruger du? Du skal bare bruge almindelig Automat gearkasse olie, det tynde r�de stads.<br>Den olie m� jo l�be ud et sted. fyld "klokken" op, og m�rk alle steder p� karburatoren, om det l�ber ud. <br>Som sagt, kan jeg kun g�tte! Men det kan v�re der er en her p� sitet der ved hvordan du skal h�ndtere det. <br><br>M.v.h<br><br>Emil J.<br>244 �rgang 86, B230A, AW71 & 315.000 p� uret!</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2351'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Mark Bredahl, 03-11-2004 18:46)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2341'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Erling, 02-11-2004 08:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2339'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Emil J, 01-11-2004 18:49)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2338'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Rasmus Skou, 01-11-2004 10:36)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2333&ForumID=1&Showsub=2334'>Re: Dæmperolie i karburator "forsvinder"</a> <em>(Emil J, 31-10-2004 14:23)</em></strong></font></li><br><font face=Verdana>Hejsa.<br>Velkommen til. #{INVALID_CHAR}#hm. Jeg har ogs#{INVALID_CHAR}# nogen gang klaget min n#{INVALID_CHAR}#d til at f#{INVALID_CHAR}# en lille guide her p#{INVALID_CHAR}# siden om hvordan man laver lidt simple vedligholdelse p#{INVALID_CHAR}# de motore & karburatore der sidder i vores elskede Volvoer. <br>Men jeg kan s#{INVALID_CHAR}# kun g#{INVALID_CHAR}#tte nu. Jeg kan n#{INVALID_CHAR}#sten forstille mig at der m#{INVALID_CHAR}# sidde en slags "samle" pakning i karburatoren. S#{INVALID_CHAR}# olien ikke l#{INVALID_CHAR}#ber ud. Derfor vil jeg nok anbefale dig at k#{INVALID_CHAR}#be en reperations h#{INVALID_CHAR}#ndbog over bilen koster 200 - 300 kr mener jeg. Da der garenteret er et "Exploded view" af karburatoren. <br>Hvad olie type bruger du? Du skal bare bruge almindelig Automat gearkasse olie, det tynde r#{INVALID_CHAR}#de stads.<br>Den olie m#{INVALID_CHAR}# jo l#{INVALID_CHAR}#be ud et sted. fyld "klokken" op, og m#{INVALID_CHAR}#rk alle steder p#{INVALID_CHAR}# karburatoren, om det l#{INVALID_CHAR}#ber ud. <br>Som sagt, kan jeg kun g#{INVALID_CHAR}#tte! Men det kan v#{INVALID_CHAR}#re der er en her p#{INVALID_CHAR}# sitet der ved hvordan du skal h#{INVALID_CHAR}#ndtere det. <br><br>M.v.h<br><br>Emil J.<br>244 #{INVALID_CHAR}#rgang 86, B230A, AW71 & 315.000 p#{INVALID_CHAR}# uret!</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

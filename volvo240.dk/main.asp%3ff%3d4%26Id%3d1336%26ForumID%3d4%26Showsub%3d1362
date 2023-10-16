@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1336"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1336"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">12-02-2004 19:35</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">vi g� og roder med en 240 fra 1984 som har helt ged i lyset aldt blingeo og kan ikke slukkes osv j r ret sikker p� ar d m� v�rer en rel� eller eletronisk styrer box der har f�et fugt enner r br�ndt af men nu har vi ledt i 1� time og kun fundet 2 sm� s�l�er son virker perf�kt hvor skal vi lede hvider hende <br>vh Tomas</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">vi g#{INVALID_CHAR}# og roder med en 240 fra 1984 som har helt ged i lyset aldt blingeo og kan ikke slukkes osv j r ret sikker p#{INVALID_CHAR}# ar d m#{INVALID_CHAR}# v#{INVALID_CHAR}#rer en rel#{INVALID_CHAR}# eller eletronisk styrer box der har f#{INVALID_CHAR}#et fugt enner r br#{INVALID_CHAR}#ndt af men nu har vi ledt i 1#{INVALID_CHAR}# time og kun fundet 2 sm#{INVALID_CHAR}# s#{INVALID_CHAR}#l#{INVALID_CHAR}#er son virker perf#{INVALID_CHAR}#kt hvor skal vi lede hvider hende <br>vh Tomas</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1336&ForumID=4&Showsub=1362'>Re: hvor sider den????</a> <em>(Kim Poulsen, 14-02-2004 12:31)</em></strong></font></li><br><font face=Verdana>Hej Thomas!<br>Du har ikke skrevet noget om dine stel-forbindelser!!! Jeg har en gang v�ret ud for samme problem med en anden bil. Selvom man tog n�glen ud lyste instrumentbr�ttet stadig svagt. Efter lang tids s�gning satte jeg en tyk ledning fra %polen p� batteriet og over p� motorblokken p� et "rent" sted med god stel! Der l�d et meget svagt knald efter en gnist der sprang, og det var pga. d�rlig forbindelse ved stel ledning selvom den s� god ud! Det du kan se der lyser er en s�kaldt "Krybestr�m" -Str�mmen kan ikke l�be i stel, s� den pr�ver alle andre steder.<br>Hj�lper dette ikke, s� tjek lige de andre stelforbindelser fra lys osv. Det lyder utroligt men er sandt! H�ber det hj�lper. Mvh. Kim Poulsen -kim_d_poulsen@hotmail.com</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1336&ForumID=4&Showsub=1362'>Re: hvor sider den????</a> <em>(Kim Poulsen, 14-02-2004 12:31)</em></strong></font></li><br><font face=Verdana>Hej Thomas!<br>Du har ikke skrevet noget om dine stel-forbindelser!!! Jeg har en gang v#{INVALID_CHAR}#ret ud for samme problem med en anden bil. Selvom man tog n#{INVALID_CHAR}#glen ud lyste instrumentbr#{INVALID_CHAR}#ttet stadig svagt. Efter lang tids s#{INVALID_CHAR}#gning satte jeg en tyk ledning fra %polen p#{INVALID_CHAR}# batteriet og over p#{INVALID_CHAR}# motorblokken p#{INVALID_CHAR}# et "rent" sted med god stel! Der l#{INVALID_CHAR}#d et meget svagt knald efter en gnist der sprang, og det var pga. d#{INVALID_CHAR}#rlig forbindelse ved stel ledning selvom den s#{INVALID_CHAR}# god ud! Det du kan se der lyser er en s#{INVALID_CHAR}#kaldt "Krybestr#{INVALID_CHAR}#m" -Str#{INVALID_CHAR}#mmen kan ikke l#{INVALID_CHAR}#be i stel, s#{INVALID_CHAR}# den pr#{INVALID_CHAR}#ver alle andre steder.<br>Hj#{INVALID_CHAR}#lper dette ikke, s#{INVALID_CHAR}# tjek lige de andre stelforbindelser fra lys osv. Det lyder utroligt men er sandt! H#{INVALID_CHAR}#ber det hj#{INVALID_CHAR}#lper. Mvh. Kim Poulsen -kim_d_poulsen@hotmail.com</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

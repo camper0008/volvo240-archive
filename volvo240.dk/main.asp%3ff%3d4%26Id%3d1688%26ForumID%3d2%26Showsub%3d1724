@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske sp�rgsm�l om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=1688"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=1688"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-04-2004 18:18</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">har ikke lige v�ret p� nettet fornylig men har stadigt de f�lge hvis det stadigt har interresse.. det var uden d�k som de er nu til en plov men hvis du smider en hund mere skal jeg nok male dem op s� de st�r som sprit nye.. og jeg kommer fra Aulum i vestjylland.. men det kan godt betale sig at k�re et stykke vej til den pris..</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">har ikke lige v#{INVALID_CHAR}#ret p#{INVALID_CHAR}# nettet fornylig men har stadigt de f#{INVALID_CHAR}#lge hvis det stadigt har interresse.. det var uden d#{INVALID_CHAR}#k som de er nu til en plov men hvis du smider en hund mere skal jeg nok male dem op s#{INVALID_CHAR}# de st#{INVALID_CHAR}#r som sprit nye.. og jeg kommer fra Aulum i vestjylland.. men det kan godt betale sig at k#{INVALID_CHAR}#re et stykke vej til den pris..</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1688&ForumID=2&Showsub=1724'>Re: corona fælge til Eik</a> <em>(martin, 24-04-2004 23:19)</em></strong></font></li><br><font face=Verdana>ked af det drenge men jeg har kun et s�t f�lge og det er eik's.. men jeg kan da godt lige ligge en f�ler ud efter nogle flere.. jeg har desv�rre ikke nogle billeder.. jeg skal nok lige ringe en af dagene eik.. vi snakkes..<br><br>det er forresten god stil med s� mange der vil have originale f�lge<br><br>med venlig hilsen Martin</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1688&ForumID=2&Showsub=1709'>Re: corona fælge til Eik</a> <em>(Eik Madsen, 23-04-2004 13:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1688&ForumID=2&Showsub=1695'>Re: corona fælge til Eik</a> <em>(EIk, 21-04-2004 22:46)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1688&ForumID=2&Showsub=1691'>Re: corona fælge til Eik</a> <em>(Johan Årman, 21-04-2004 19:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1688&ForumID=2&Showsub=1690'>Re: corona fælge til Eik</a> <em>(Philip, 21-04-2004 08:23)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1688&ForumID=2&Showsub=1689'>Re: corona fælge til Eik</a> <em>(Emil J, 21-04-2004 01:45)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1688&ForumID=2&Showsub=1724'>Re: corona fælge til Eik</a> <em>(martin, 24-04-2004 23:19)</em></strong></font></li><br><font face=Verdana>ked af det drenge men jeg har kun et s#{INVALID_CHAR}#t f#{INVALID_CHAR}#lge og det er eik's.. men jeg kan da godt lige ligge en f#{INVALID_CHAR}#ler ud efter nogle flere.. jeg har desv#{INVALID_CHAR}#rre ikke nogle billeder.. jeg skal nok lige ringe en af dagene eik.. vi snakkes..<br><br>det er forresten god stil med s#{INVALID_CHAR}# mange der vil have originale f#{INVALID_CHAR}#lge<br><br>med venlig hilsen Martin</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1688&ForumID=2&Showsub=1709'>Re: corona fælge til Eik</a> <em>(Eik Madsen, 23-04-2004 13:47)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1688&ForumID=2&Showsub=1695'>Re: corona fælge til Eik</a> <em>(EIk, 21-04-2004 22:46)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1688&ForumID=2&Showsub=1691'>Re: corona fælge til Eik</a> <em>(Johan Årman, 21-04-2004 19:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1688&ForumID=2&Showsub=1690'>Re: corona fælge til Eik</a> <em>(Philip, 21-04-2004 08:23)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1688&ForumID=2&Showsub=1689'>Re: corona fælge til Eik</a> <em>(Emil J, 21-04-2004 01:45)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

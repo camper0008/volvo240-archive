@@ -80,7 +80,7 @@ document.write('<' + 'script language="javascript" type="text/javascript" src="'
 
 <script type="text/javascript" language="JavaScript">
 <!--
-var message="Copyright � 2002-2013 by volvo240.dk";
+var message="Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk";
 function click(e) {
 	if (document.all) {
 		if (event.button == 2) {
@@ -116,7 +116,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -144,34 +144,34 @@ document.onmousedown=click;
 			<table width="100%" border="0" id="table2">
 				<tr> 
 					<td vAlign="top" width="155"><b>Motorskift</b></td>
-					<td>Motoren kan udskiftes, men udskiftningsmotoren m� h�jst have 20 pct. st�rre effekt (DIN-HK) end k�ret�jets originale motor. Hvis effektfor�gelsen overstiger 20 pct., skal der betales ny afgift af k�ret�jets aktuelle v�rdi. Beregningsgrundlaget for udregning af effektfor�gelsen er begge motorers effekt som nye. Det er fabrikkens angivelser om motoreffekt, der bruges.
-					<p>Hvis man udskifter en benzinmotor med en dieselmotor, g�lder 20 pct.-reglen ogs�.</p>
-					<p>En motor best�r af mange enkeltkomponenter, men vigtige er is�r topstykket, motorblokken og krumtappen. Udskiftning af en eller flere af disse komponenter (fx til indspr�jtningstopstykke), eventuelt kombineret med udskiftning af andre dele, betyder at der skal betales afgift af k�ret�jet, hvis effektfor�gelsen overstiger 20 pct. Motorombygningen sidestilles i disse tilf�lde med en egentlig motorudskiftning. </p>
-					<p>Hvis der samtidig med motorudskiftning/motortuning ogs� foretages udskiftning af st�dd�mpere, bremser, gearkasse, differentiale eller andre �ndringer, kan det betyde, at k�ret�jet mister sin afgiftsm�ssige identitet, og der skal betales afgift, ogs� selv om effektfor�gelsen ikke overstiger 20 pct. Det g�lder, hvis der er tale om helt eller delvist modelskifte, jf. nedenst�ende afsnit.</p>
-					<p>Ved motorudskiftning/-tuning eller anden ombygning er det altid klogt at sp�rge Statens Bilinspektion om eventuelle kr�vede tekniske �ndringer.</p>
-					<p>Effektfor�gelse kan opn�s enten ved motorudskiftning eller ved motortuning, evt. ved en kombination af begge.</p>
+					<td>Motoren kan udskiftes, men udskiftningsmotoren m#{INVALID_CHAR}# h#{INVALID_CHAR}#jst have 20 pct. st#{INVALID_CHAR}#rre effekt (DIN-HK) end k#{INVALID_CHAR}#ret#{INVALID_CHAR}#jets originale motor. Hvis effektfor#{INVALID_CHAR}#gelsen overstiger 20 pct., skal der betales ny afgift af k#{INVALID_CHAR}#ret#{INVALID_CHAR}#jets aktuelle v#{INVALID_CHAR}#rdi. Beregningsgrundlaget for udregning af effektfor#{INVALID_CHAR}#gelsen er begge motorers effekt som nye. Det er fabrikkens angivelser om motoreffekt, der bruges.
+					<p>Hvis man udskifter en benzinmotor med en dieselmotor, g#{INVALID_CHAR}#lder 20 pct.-reglen ogs#{INVALID_CHAR}#.</p>
+					<p>En motor best#{INVALID_CHAR}#r af mange enkeltkomponenter, men vigtige er is#{INVALID_CHAR}#r topstykket, motorblokken og krumtappen. Udskiftning af en eller flere af disse komponenter (fx til indspr#{INVALID_CHAR}#jtningstopstykke), eventuelt kombineret med udskiftning af andre dele, betyder at der skal betales afgift af k#{INVALID_CHAR}#ret#{INVALID_CHAR}#jet, hvis effektfor#{INVALID_CHAR}#gelsen overstiger 20 pct. Motorombygningen sidestilles i disse tilf#{INVALID_CHAR}#lde med en egentlig motorudskiftning. </p>
+					<p>Hvis der samtidig med motorudskiftning/motortuning ogs#{INVALID_CHAR}# foretages udskiftning af st#{INVALID_CHAR}#dd#{INVALID_CHAR}#mpere, bremser, gearkasse, differentiale eller andre #{INVALID_CHAR}#ndringer, kan det betyde, at k#{INVALID_CHAR}#ret#{INVALID_CHAR}#jet mister sin afgiftsm#{INVALID_CHAR}#ssige identitet, og der skal betales afgift, ogs#{INVALID_CHAR}# selv om effektfor#{INVALID_CHAR}#gelsen ikke overstiger 20 pct. Det g#{INVALID_CHAR}#lder, hvis der er tale om helt eller delvist modelskifte, jf. nedenst#{INVALID_CHAR}#ende afsnit.</p>
+					<p>Ved motorudskiftning/-tuning eller anden ombygning er det altid klogt at sp#{INVALID_CHAR}#rge Statens Bilinspektion om eventuelle kr#{INVALID_CHAR}#vede tekniske #{INVALID_CHAR}#ndringer.</p>
+					<p>Effektfor#{INVALID_CHAR}#gelse kan opn#{INVALID_CHAR}#s enten ved motorudskiftning eller ved motortuning, evt. ved en kombination af begge.</p>
 					<p></td>
 				</tr>
 				<tr>
-					<td vAlign="top" width="155"><b>Dom fra �stre Landsret</b></td>
-					<td>If�lge en dom fra �stre Landsret i december 2000 kan motorskift til bilens originale motor ske uden afgiftsm�ssige konsekvenser. Den konkrete sag drejede sig om en hyrevogn, der blev afgiftsberigtiget og taget i brug som hyrevogn med den originale benzinmotor, men som efter at have k�rt 1.750 km. som hyrevogn fik udskiftet motoren til en dieselmotor. Bilen blev frik�rt med dieselmotor efter at have k�rt som hyrevogn i mere end 3 �r og mere end 210.000 km. I forbindelse med udstedelsen af en toldattest om afgiftsfritagelsen ved frik�rslen blev der p�f�rt en klausul om, at der skal betales registreringsafgift, hvis bilen senere il�gges en benzinmotor (evt. den originale), hvor effekten overstiger 20 pct. m�lt i forhold til den dieselmotor, som bilen var forsynet med ved frik�rslen. Der er ved dommen lagt v�gt p�, at bilen ved en senere genil�gning af den originale benzinmotor vil v�re identisk med den bil, der blev afgiftsberigtiget i sin tid. Der kan derfor ikke opkr�ves yderligere registreringsafgift ved en s�dan motorombytning.<p></p></td>
+					<td vAlign="top" width="155"><b>Dom fra #{INVALID_CHAR}#stre Landsret</b></td>
+					<td>If#{INVALID_CHAR}#lge en dom fra #{INVALID_CHAR}#stre Landsret i december 2000 kan motorskift til bilens originale motor ske uden afgiftsm#{INVALID_CHAR}#ssige konsekvenser. Den konkrete sag drejede sig om en hyrevogn, der blev afgiftsberigtiget og taget i brug som hyrevogn med den originale benzinmotor, men som efter at have k#{INVALID_CHAR}#rt 1.750 km. som hyrevogn fik udskiftet motoren til en dieselmotor. Bilen blev frik#{INVALID_CHAR}#rt med dieselmotor efter at have k#{INVALID_CHAR}#rt som hyrevogn i mere end 3 #{INVALID_CHAR}#r og mere end 210.000 km. I forbindelse med udstedelsen af en toldattest om afgiftsfritagelsen ved frik#{INVALID_CHAR}#rslen blev der p#{INVALID_CHAR}#f#{INVALID_CHAR}#rt en klausul om, at der skal betales registreringsafgift, hvis bilen senere il#{INVALID_CHAR}#gges en benzinmotor (evt. den originale), hvor effekten overstiger 20 pct. m#{INVALID_CHAR}#lt i forhold til den dieselmotor, som bilen var forsynet med ved frik#{INVALID_CHAR}#rslen. Der er ved dommen lagt v#{INVALID_CHAR}#gt p#{INVALID_CHAR}#, at bilen ved en senere genil#{INVALID_CHAR}#gning af den originale benzinmotor vil v#{INVALID_CHAR}#re identisk med den bil, der blev afgiftsberigtiget i sin tid. Der kan derfor ikke opkr#{INVALID_CHAR}#ves yderligere registreringsafgift ved en s#{INVALID_CHAR}#dan motorombytning.<p></p></td>
 				</tr>
 				<tr>
 					<td vAlign="top" width="155"><b>Motortuning</b></td>
-					<td>Motortuning er tilladt s� l�nge det sker p� den originale motor eller en senere ilagt tilsvarende motor. Der er her ingen procentgr�nse for effektfor�gelsen.Generelt for alle typer motortuning g�lder, at n�r tuningen f�r karakter af en motorombygning, eksempelvis n�r der foretages v�sentlig indgreb, fx ved udskiftning af topstykke, motorblok eller krumtap, vil dette blive sidestillet med et egentlig motorskifte. Dette betyder, at 20 pct.-gr�nsen g�lder.<p></p></td>
+					<td>Motortuning er tilladt s#{INVALID_CHAR}# l#{INVALID_CHAR}#nge det sker p#{INVALID_CHAR}# den originale motor eller en senere ilagt tilsvarende motor. Der er her ingen procentgr#{INVALID_CHAR}#nse for effektfor#{INVALID_CHAR}#gelsen.Generelt for alle typer motortuning g#{INVALID_CHAR}#lder, at n#{INVALID_CHAR}#r tuningen f#{INVALID_CHAR}#r karakter af en motorombygning, eksempelvis n#{INVALID_CHAR}#r der foretages v#{INVALID_CHAR}#sentlig indgreb, fx ved udskiftning af topstykke, motorblok eller krumtap, vil dette blive sidestillet med et egentlig motorskifte. Dette betyder, at 20 pct.-gr#{INVALID_CHAR}#nsen g#{INVALID_CHAR}#lder.<p></p></td>
 				</tr>
 				<tr>
 					<td vAlign="top" width="155"><b>Eksempel</b></td>
-					<td>Volvo 245 DL med B 21 A, 100 DIN HK karburatormotor tunes p� f�lgende m�de:
+					<td>Volvo 245 DL med B 21 A, 100 DIN HK karburatormotor tunes p#{INVALID_CHAR}# f#{INVALID_CHAR}#lgende m#{INVALID_CHAR}#de:
 						<ul>
-							<li>Der drejes 1,7 mm af stemplerne for at s�nke kompressionen til 7,5 : 1.</li>
-							<li>Indsugningsmanifold ombygges /�ndres for at g�re plads til indspr�jtningsdyser.</li>
-							<li>Komplet indspr�jtningsanl�g monteres.</li>
+							<li>Der drejes 1,7 mm af stemplerne for at s#{INVALID_CHAR}#nke kompressionen til 7,5 : 1.</li>
+							<li>Indsugningsmanifold ombygges /#{INVALID_CHAR}#ndres for at g#{INVALID_CHAR}#re plads til indspr#{INVALID_CHAR}#jtningsdyser.</li>
+							<li>Komplet indspr#{INVALID_CHAR}#jtningsanl#{INVALID_CHAR}#g monteres.</li>
 							<li>Garrat Volvo Turbo monteres.</li>
 							<li>Intercooler monteres.</li>
-							<li>Effektfor�gelse ca. 40 pct. til 140 DIN HK.</li>
+							<li>Effektfor#{INVALID_CHAR}#gelse ca. 40 pct. til 140 DIN HK.</li>
 						</ul>
-						<p>Ovenst�ende betragtes som afgiftsfri motortuning, ogs� selv om der var fr�set/boret huller i topstykket til indspr�jtningsdyserne.
+						<p>Ovenst#{INVALID_CHAR}#ende betragtes som afgiftsfri motortuning, ogs#{INVALID_CHAR}# selv om der var fr#{INVALID_CHAR}#set/boret huller i topstykket til indspr#{INVALID_CHAR}#jtningsdyserne.
 					</td>
 				</tr>
 			</table>
@@ -194,7 +194,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a>
       &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
     </td>
   </tr>
@@ -205,7 +205,7 @@ document.onmousedown=click;
 <thead>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
-    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk</span></td>
     <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>

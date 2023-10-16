@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -234,7 +234,7 @@ document.onmousedown=click;
 
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 04-01-2007 16:06)</em></u></strong></font></li><br><font face=Verdana>Er du sikker p� at mekanikeren har justeret den korrekt.For den skulle da gerne kunne g� de 10 km p� literen.Jeg har h�rt om en med samme motor og den havde k�rt 400000 km. Jeg tror jeg ville skifte de dele der kan f�s nye ogs� pr�ve det.En anden brugt er sikkert bare det samme. mvh Kent</font><br><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 04-01-2007 16:58)</em></u></strong></font></li><br><font face=Verdana>Typisk "doven" mekaniker s�tning.<br>Pr�v med en ny n�l og n�leventil og f� den justeret igen. S� jeg sikker p� render fint p� literen igen. Efterse ogs� lige membranen for ut�theder. En ny koster 30 kr hos spare-parts. Giv den ogs� et s�t nye s�m� vacuum slanger der sidder rundt omkring. De har det med at m�rne. <br><br>MHV<br><br>Emil J.</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 04-01-2007 16:06)</em></u></strong></font></li><br><font face=Verdana>Er du sikker p#{INVALID_CHAR}# at mekanikeren har justeret den korrekt.For den skulle da gerne kunne g#{INVALID_CHAR}# de 10 km p#{INVALID_CHAR}# literen.Jeg har h#{INVALID_CHAR}#rt om en med samme motor og den havde k#{INVALID_CHAR}#rt 400000 km. Jeg tror jeg ville skifte de dele der kan f#{INVALID_CHAR}#s nye ogs#{INVALID_CHAR}# pr#{INVALID_CHAR}#ve det.En anden brugt er sikkert bare det samme. mvh Kent</font><br><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 04-01-2007 16:58)</em></u></strong></font></li><br><font face=Verdana>Typisk "doven" mekaniker s#{INVALID_CHAR}#tning.<br>Pr#{INVALID_CHAR}#v med en ny n#{INVALID_CHAR}#l og n#{INVALID_CHAR}#leventil og f#{INVALID_CHAR}# den justeret igen. S#{INVALID_CHAR}# jeg sikker p#{INVALID_CHAR}# render fint p#{INVALID_CHAR}# literen igen. Efterse ogs#{INVALID_CHAR}# lige membranen for ut#{INVALID_CHAR}#theder. En ny koster 30 kr hos spare-parts. Giv den ogs#{INVALID_CHAR}# et s#{INVALID_CHAR}#t nye s#{INVALID_CHAR}#m#{INVALID_CHAR}# vacuum slanger der sidder rundt omkring. De har det med at m#{INVALID_CHAR}#rne. <br><br>MHV<br><br>Emil J.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -254,7 +254,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a>
       &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
     </td>
   </tr>

@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2273"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2273"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-10-2004 08:38</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har en 240 �rg. 84 med B23A motor og M46 gearkasse. Bilen er f�dt med en B21 men motoren er skiftet og jeg ved ikke hvor langt den har g�et, men den k�rer fint. indtil for en 1� m�neds tid siden k�rte bilen med M45 gearkasse og gik omkring 9-10 km literen b�de ved blandet og langtursk�rsel. Efter skift til M46 er den begyndt at bruge mere benzin 8 -MAX 9km literen, det er en fysisk umulighed at f� den op p� 10 km literen, i forbindelse med skiftet til M46 blev der ogs� lavet "serviceeftersyn" og skiftet tandrem og stilt t�nding af en bekendt jeg har, som har haft og lavet sine egne volvo'er siden han var kn�gt, bilen t�ndingsbankede SYGT da den skulle bestille noget f�rste gang jeg skulle  testk�re den efter "service" min bekendt l�snede og flyttede p� hele rotorhuset <--(hedder det ikke det?), det hjalp, men forleden var jeg ude og k�re med h�j fart i tyskland omkring max hastighed/omdrejninger begyndte bilen og banke lidt igen, tog lidt af gassen af og det forsvandt. st�r den forkert? sidder tandrem evt. forkert? bilen k�rer/starter fint. bor der nogen hernede i s�nderjylland som VED hvad de har med at g�re omkring Volvo som kunne t�nke sig at hj�lpe mod betaling self�lgelig, jeg fatter HAT n�r det kommer til rep. af bil. f�j en roman der, p� forh�nd tak.</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har en 240 #{INVALID_CHAR}#rg. 84 med B23A motor og M46 gearkasse. Bilen er f#{INVALID_CHAR}#dt med en B21 men motoren er skiftet og jeg ved ikke hvor langt den har g#{INVALID_CHAR}#et, men den k#{INVALID_CHAR}#rer fint. indtil for en 1#{INVALID_CHAR}# m#{INVALID_CHAR}#neds tid siden k#{INVALID_CHAR}#rte bilen med M45 gearkasse og gik omkring 9-10 km literen b#{INVALID_CHAR}#de ved blandet og langtursk#{INVALID_CHAR}#rsel. Efter skift til M46 er den begyndt at bruge mere benzin 8 -MAX 9km literen, det er en fysisk umulighed at f#{INVALID_CHAR}# den op p#{INVALID_CHAR}# 10 km literen, i forbindelse med skiftet til M46 blev der ogs#{INVALID_CHAR}# lavet "serviceeftersyn" og skiftet tandrem og stilt t#{INVALID_CHAR}#nding af en bekendt jeg har, som har haft og lavet sine egne volvo'er siden han var kn#{INVALID_CHAR}#gt, bilen t#{INVALID_CHAR}#ndingsbankede SYGT da den skulle bestille noget f#{INVALID_CHAR}#rste gang jeg skulle  testk#{INVALID_CHAR}#re den efter "service" min bekendt l#{INVALID_CHAR}#snede og flyttede p#{INVALID_CHAR}# hele rotorhuset <--(hedder det ikke det?), det hjalp, men forleden var jeg ude og k#{INVALID_CHAR}#re med h#{INVALID_CHAR}#j fart i tyskland omkring max hastighed/omdrejninger begyndte bilen og banke lidt igen, tog lidt af gassen af og det forsvandt. st#{INVALID_CHAR}#r den forkert? sidder tandrem evt. forkert? bilen k#{INVALID_CHAR}#rer/starter fint. bor der nogen hernede i s#{INVALID_CHAR}#nderjylland som VED hvad de har med at g#{INVALID_CHAR}#re omkring Volvo som kunne t#{INVALID_CHAR}#nke sig at hj#{INVALID_CHAR}#lpe mod betaling self#{INVALID_CHAR}#lgelig, jeg fatter HAT n#{INVALID_CHAR}#r det kommer til rep. af bil. f#{INVALID_CHAR}#j en roman der, p#{INVALID_CHAR}# forh#{INVALID_CHAR}#nd tak.</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2273&ForumID=1&Showsub=2277'>Re: Benzinforbrug</a> <em>(Johnny, 10-10-2004 21:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2273&ForumID=1&Showsub=2276'>Re: Benzinforbrug</a> <em>(ole, 10-10-2004 20:39)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2273&ForumID=1&Showsub=2275'>Re: Benzinforbrug</a> <em>(Emil J, 10-10-2004 16:14)</em></strong></font></li><br><font face=Verdana>Det kan vel ogs� skyldes d�rlig benzin.<br>Hvad plejer du at fylde p� din Volvo?<br>jeg ejer en �ldre B230A som har k�rt over 315.000 km. Og den er mest tilfreds med blyfri 95. 98 er jo n�sten ikke til at skaffe. Ogs� kan man jo selvf�lgelig k�be sig fattig i oktan booster. Men min t�ndingsbanker kun hvis jeg h�lder 92 p� den. <br>Det med tandremmen er jeg ikke sikker p�, men du kan da checke om m�rkerne st�r ud fra hinanden, ved at pille d�kslet af. Der faktisk en guide p� denne side om hvordan man selv skifter remmen. Det skulle v�re rimelig nemt p� en Volvo motor. <br><br>M.v.h<br><br>Emil J<br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2273&ForumID=1&Showsub=2274'>Re: Benzinforbrug</a> <em>(Kent, 10-10-2004 16:04)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2273&ForumID=1&Showsub=2277'>Re: Benzinforbrug</a> <em>(Johnny, 10-10-2004 21:25)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2273&ForumID=1&Showsub=2276'>Re: Benzinforbrug</a> <em>(ole, 10-10-2004 20:39)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2273&ForumID=1&Showsub=2275'>Re: Benzinforbrug</a> <em>(Emil J, 10-10-2004 16:14)</em></strong></font></li><br><font face=Verdana>Det kan vel ogs#{INVALID_CHAR}# skyldes d#{INVALID_CHAR}#rlig benzin.<br>Hvad plejer du at fylde p#{INVALID_CHAR}# din Volvo?<br>jeg ejer en #{INVALID_CHAR}#ldre B230A som har k#{INVALID_CHAR}#rt over 315.000 km. Og den er mest tilfreds med blyfri 95. 98 er jo n#{INVALID_CHAR}#sten ikke til at skaffe. Ogs#{INVALID_CHAR}# kan man jo selvf#{INVALID_CHAR}#lgelig k#{INVALID_CHAR}#be sig fattig i oktan booster. Men min t#{INVALID_CHAR}#ndingsbanker kun hvis jeg h#{INVALID_CHAR}#lder 92 p#{INVALID_CHAR}# den. <br>Det med tandremmen er jeg ikke sikker p#{INVALID_CHAR}#, men du kan da checke om m#{INVALID_CHAR}#rkerne st#{INVALID_CHAR}#r ud fra hinanden, ved at pille d#{INVALID_CHAR}#kslet af. Der faktisk en guide p#{INVALID_CHAR}# denne side om hvordan man selv skifter remmen. Det skulle v#{INVALID_CHAR}#re rimelig nemt p#{INVALID_CHAR}# en Volvo motor. <br><br>M.v.h<br><br>Emil J<br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2273&ForumID=1&Showsub=2274'>Re: Benzinforbrug</a> <em>(Kent, 10-10-2004 16:04)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

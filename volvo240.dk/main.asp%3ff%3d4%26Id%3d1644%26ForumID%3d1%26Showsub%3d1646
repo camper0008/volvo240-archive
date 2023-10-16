@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1644"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1644"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">10-04-2004 21:12</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej allesammen.<br><br>Jeg har en volvo 240 fra 89 med en b23 moter.<br>Den k�rer up�klageligt, men lige pludselig vil den ikke st� i<br>tomgang. Jeg kan ikke tro at det er et sp�rgsm�l om justering,n�r<br>den st�r perfekt den ene dag ikke vil den n�ste dag. Men som sagt<br>den k�rer perfekt det er n�r jeg holder for r�dt jeg har problemet<br>H�ber nogle kan hj�lpe.<br>P� forh�nd tak<br>vh hans</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej allesammen.<br><br>Jeg har en volvo 240 fra 89 med en b23 moter.<br>Den k#{INVALID_CHAR}#rer up#{INVALID_CHAR}#klageligt, men lige pludselig vil den ikke st#{INVALID_CHAR}# i<br>tomgang. Jeg kan ikke tro at det er et sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l om justering,n#{INVALID_CHAR}#r<br>den st#{INVALID_CHAR}#r perfekt den ene dag ikke vil den n#{INVALID_CHAR}#ste dag. Men som sagt<br>den k#{INVALID_CHAR}#rer perfekt det er n#{INVALID_CHAR}#r jeg holder for r#{INVALID_CHAR}#dt jeg har problemet<br>H#{INVALID_CHAR}#ber nogle kan hj#{INVALID_CHAR}#lpe.<br>P#{INVALID_CHAR}# forh#{INVALID_CHAR}#nd tak<br>vh hans</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1732'>Re: moter kan ikke stå i tomgang</a> <em>(Kim Poulsen, 26-04-2004 17:59)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1648'>Re: moter kan ikke stå i tomgang</a> <em>(Robert Tastesen, 13-04-2004 09:09)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1647'>Re: moter kan ikke stå i tomgang</a> <em>(Emil J, 11-04-2004 20:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1646'>Re: moter kan ikke stå i tomgang</a> <em>(hans, 11-04-2004 19:28)</em></strong></font></li><br><font face=Verdana>Hej Jes.<br>Jeg var lidt for hurtig. Det er en B230 k. Jeg ved at det kan<br>lyde lidt m�rkeligt men som skrevet i f�rste indl�g ville den  pludselig ikke st�  tomgang. N�ste dag midt under en tur vil<br>den godt igen og har ikke haft problemer siden. kan det mon have<br>v�ret skidt? Jeg mener at vis det havde v�ret falsk luft fra en ut�t<br>slange ville problemet stadig v�re der. findes der mon et rep s�t<br>til karburatoren ? de bliver vel slidte med tiden<br><br>Mvh Hans</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1645'>Re: moter kan ikke stå i tomgang</a> <em>(Jes, 10-04-2004 23:15)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1732'>Re: moter kan ikke stå i tomgang</a> <em>(Kim Poulsen, 26-04-2004 17:59)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1648'>Re: moter kan ikke stå i tomgang</a> <em>(Robert Tastesen, 13-04-2004 09:09)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1647'>Re: moter kan ikke stå i tomgang</a> <em>(Emil J, 11-04-2004 20:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1646'>Re: moter kan ikke stå i tomgang</a> <em>(hans, 11-04-2004 19:28)</em></strong></font></li><br><font face=Verdana>Hej Jes.<br>Jeg var lidt for hurtig. Det er en B230 k. Jeg ved at det kan<br>lyde lidt m#{INVALID_CHAR}#rkeligt men som skrevet i f#{INVALID_CHAR}#rste indl#{INVALID_CHAR}#g ville den  pludselig ikke st#{INVALID_CHAR}#  tomgang. N#{INVALID_CHAR}#ste dag midt under en tur vil<br>den godt igen og har ikke haft problemer siden. kan det mon have<br>v#{INVALID_CHAR}#ret skidt? Jeg mener at vis det havde v#{INVALID_CHAR}#ret falsk luft fra en ut#{INVALID_CHAR}#t<br>slange ville problemet stadig v#{INVALID_CHAR}#re der. findes der mon et rep s#{INVALID_CHAR}#t<br>til karburatoren ? de bliver vel slidte med tiden<br><br>Mvh Hans</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1644&ForumID=1&Showsub=1645'>Re: moter kan ikke stå i tomgang</a> <em>(Jes, 10-04-2004 23:15)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

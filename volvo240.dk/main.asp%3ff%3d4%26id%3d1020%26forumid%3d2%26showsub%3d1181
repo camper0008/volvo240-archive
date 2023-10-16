@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske sp�rgsm�l om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=1020"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=1020"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">19-11-2003 17:29</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Jeg ville h�rer om, der er nogen som har erfaring, pr�vet f�r, og skifte den gamle model instrumentbord, ud med den "nye" model instrumentbord? Jeg har selv en volvo 240 fra 1980 og kunne godt t�nke mig snarest og skifte det ud med den nye type; er der mange ledninger og s�dan nogle ting som ikke passer m.m. Og er der noget med at, de volvoer som har den nye type ogs� har elektronisk speedometer, fra bagt�jet? N�r jeg er vil jeg ogs� skifte til den nye type viskerarme og varmebl�ser. Hvor n�r kommer den nye type varmebl�ser som har 4 trin?<br><br>H�ber der er nogle volvo-folk som har pr�vet denne operation f�r??<br><br>Mvh. Allan</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Jeg ville h#{INVALID_CHAR}#rer om, der er nogen som har erfaring, pr#{INVALID_CHAR}#vet f#{INVALID_CHAR}#r, og skifte den gamle model instrumentbord, ud med den "nye" model instrumentbord? Jeg har selv en volvo 240 fra 1980 og kunne godt t#{INVALID_CHAR}#nke mig snarest og skifte det ud med den nye type; er der mange ledninger og s#{INVALID_CHAR}#dan nogle ting som ikke passer m.m. Og er der noget med at, de volvoer som har den nye type ogs#{INVALID_CHAR}# har elektronisk speedometer, fra bagt#{INVALID_CHAR}#jet? N#{INVALID_CHAR}#r jeg er vil jeg ogs#{INVALID_CHAR}# skifte til den nye type viskerarme og varmebl#{INVALID_CHAR}#ser. Hvor n#{INVALID_CHAR}#r kommer den nye type varmebl#{INVALID_CHAR}#ser som har 4 trin?<br><br>H#{INVALID_CHAR}#ber der er nogle volvo-folk som har pr#{INVALID_CHAR}#vet denne operation f#{INVALID_CHAR}#r??<br><br>Mvh. Allan</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1020&ForumID=2&Showsub=1181'>Re: Instrumentbord</a> <em>(Jes, 08-01-2004 11:52)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Robert beskriver projektet udm�rket, det er faktisk en ret nem operation. Jeg har skiftet p� ca. 9-10 biler. Husk dog at f� alle beslag med.<br>Det er ogs� vigtigt at f� t�ndingsl�sen med, da den er l�ngere p� modeller efter 1980. Hvis du ikke skifter den kan n�glen ikke n� ind til l�sen pga. bekl�dningen omkring rattet.<br><br>mvh<br><br>Jes<br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1020&ForumID=2&Showsub=1180'>Re: Instrumentbord</a> <em>(Robert, 07-01-2004 22:29)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1020&ForumID=2&Showsub=1024'>Re: Instrumentbord</a> <em>(Finn, 20-11-2003 18:41)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1020&ForumID=2&Showsub=1181'>Re: Instrumentbord</a> <em>(Jes, 08-01-2004 11:52)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Robert beskriver projektet udm#{INVALID_CHAR}#rket, det er faktisk en ret nem operation. Jeg har skiftet p#{INVALID_CHAR}# ca. 9-10 biler. Husk dog at f#{INVALID_CHAR}# alle beslag med.<br>Det er ogs#{INVALID_CHAR}# vigtigt at f#{INVALID_CHAR}# t#{INVALID_CHAR}#ndingsl#{INVALID_CHAR}#sen med, da den er l#{INVALID_CHAR}#ngere p#{INVALID_CHAR}# modeller efter 1980. Hvis du ikke skifter den kan n#{INVALID_CHAR}#glen ikke n#{INVALID_CHAR}# ind til l#{INVALID_CHAR}#sen pga. bekl#{INVALID_CHAR}#dningen omkring rattet.<br><br>mvh<br><br>Jes<br></font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1020&ForumID=2&Showsub=1180'>Re: Instrumentbord</a> <em>(Robert, 07-01-2004 22:29)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1020&ForumID=2&Showsub=1024'>Re: Instrumentbord</a> <em>(Finn, 20-11-2003 18:41)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

@@ -80,7 +80,7 @@ document.write('<' + 'script language="javascript" type="text/javascript" src="'
 
 <script type="text/javascript" language="JavaScript">
 <!--
-var message="Copyright � 2002-2013 by volvo240.dk";
+var message="Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk";
 function click(e) {
 	if (document.all) {
 		if (event.button == 2) {
@@ -112,11 +112,11 @@ document.onmousedown=click;
     <td width="315" align="left" valign="bottom">
       <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
     </td>
-    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">D�k</font></b></td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">D#{INVALID_CHAR}#k</font></b></td>
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -133,9 +133,9 @@ document.onmousedown=click;
   <tr>
     <td>
     
-<h2>D�kkets st�rrelse</h2>
+<h2>D#{INVALID_CHAR}#kkets st#{INVALID_CHAR}#rrelse</h2>
     
-<p>D�kkets st�rrelse angives som bredde/h�jde type f�lgdiameter
+<p>D#{INVALID_CHAR}#kkets st#{INVALID_CHAR}#rrelse angives som bredde/h#{INVALID_CHAR}#jde type f#{INVALID_CHAR}#lgdiameter
 belastningskode hastighedskode.<br>
 Eks: <b> 185/70 14 88 T</b></p>
 <table border="1" cellpadding="5" cellspacing="0" width="600" align="center">
@@ -147,30 +147,30 @@ Eks: <b> 185/70 14 88 T</b></p>
   <tbody>
   <tr>
     <th width="66" align="left" valign="top">Bredde</th>
-    <td>Bredde er afstanden mellem de ydre d�ksider udtrykt i mm. (b p� figuren)</td>
+    <td>Bredde er afstanden mellem de ydre d#{INVALID_CHAR}#ksider udtrykt i mm. (b p#{INVALID_CHAR}# figuren)</td>
   <tr>
-    <th width="66" align="left" valign="top">H�jde</th>
-    <td>H�jden er afstanden fra f�lgens kant til slidbanens
-      yderside udtrykt som procent af bredden. (h p� figuren). P� et 185/70 er
-      h�jden s�ledes 70% af 185 mm = 130 mm.<br>
-      Hvis intet st�r angivet, er h�jden 82% af bredden.</td>
+    <th width="66" align="left" valign="top">H#{INVALID_CHAR}#jde</th>
+    <td>H#{INVALID_CHAR}#jden er afstanden fra f#{INVALID_CHAR}#lgens kant til slidbanens
+      yderside udtrykt som procent af bredden. (h p#{INVALID_CHAR}# figuren). P#{INVALID_CHAR}# et 185/70 er
+      h#{INVALID_CHAR}#jden s#{INVALID_CHAR}#ledes 70% af 185 mm = 130 mm.<br>
+      Hvis intet st#{INVALID_CHAR}#r angivet, er h#{INVALID_CHAR}#jden 82% af bredden.</td>
   </tr>
   <tr>
     <th width="66" align="left" valign="top">Type</th>
-    <td>Type er i dag n�sten altid R for Radial.</td>
+    <td>Type er i dag n#{INVALID_CHAR}#sten altid R for Radial.</td>
   </tr>
   <tr>
-    <th width="66" align="left" valign="top">F�lgdiameter</th>
-    <td>F�lgens diameter udtrykkes i tommer.</td>
+    <th width="66" align="left" valign="top">F#{INVALID_CHAR}#lgdiameter</th>
+    <td>F#{INVALID_CHAR}#lgens diameter udtrykkes i tommer.</td>
   </tr>
   <tr>
     <th width="66" align="left" valign="top">Belastningskode</th>
-    <td>Denne kode angiver den st�rste belastning for et d�k ved den hastighed, der 
+    <td>Denne kode angiver den st#{INVALID_CHAR}#rste belastning for et d#{INVALID_CHAR}#k ved den hastighed, der 
 svarer til hastighedskoden.</td>
   </tr>
   <tr>
     <th width="66" align="left" valign="top">Hastighedskode</th>
-    <td>Angiver d�kket max. hastighed.<br>
+    <td>Angiver d#{INVALID_CHAR}#kket max. hastighed.<br>
       De mest almindelige symboler er:
       <table border="1" cellpadding="0" cellspacing="0" width="250">
         <tr>
@@ -209,7 +209,7 @@ svarer til hastighedskoden.</td>
 </p>
 <p></p>
 <table border="1" cellpadding="0" cellspacing="0" width="503" align="center">
-  <caption>Beregningseksempel p� <b>185/70 14 88 T</b></caption>
+  <caption>Beregningseksempel p#{INVALID_CHAR}# <b>185/70 14 88 T</b></caption>
   <tr>
     <th width="117" align="left">Bredde</th>
     <td width="25" align="center">b</td>
@@ -217,13 +217,13 @@ svarer til hastighedskoden.</td>
     <td width="314">185 mm</td>
   </tr>
   <tr>
-    <th width="117" align="left">H�jde</th>
+    <th width="117" align="left">H#{INVALID_CHAR}#jde</th>
     <td width="25" align="center">h</td>
     <td width="37" align="center">70</td>
     <td width="314">129,5 mm</td>
   </tr>
   <tr>
-    <th width="117" align="left">F�lgdiameter</th>
+    <th width="117" align="left">F#{INVALID_CHAR}#lgdiameter</th>
     <td width="25" align="center">d</td>
     <td width="37" align="center">14</td>
     <td width="314">355,6 mm</td>
@@ -254,24 +254,24 @@ svarer til hastighedskoden.</td>
   </tr>
 </table>
 <br>
-<h2>Lovkrav om d�k�ndringer</h2>
-D�kkets omkreds m� ikke afvige mere end 5% fra omkredsen p� den type godkendte d�komkreds.<br>
-Det g�lder ogs� hvis f�lgdiameteren �ndres.<br>
-Dvs. st�rste tilladte omkreds er: 2028 mm<br>
+<h2>Lovkrav om d#{INVALID_CHAR}#k#{INVALID_CHAR}#ndringer</h2>
+D#{INVALID_CHAR}#kkets omkreds m#{INVALID_CHAR}# ikke afvige mere end 5% fra omkredsen p#{INVALID_CHAR}# den type godkendte d#{INVALID_CHAR}#komkreds.<br>
+Det g#{INVALID_CHAR}#lder ogs#{INVALID_CHAR}# hvis f#{INVALID_CHAR}#lgdiameteren #{INVALID_CHAR}#ndres.<br>
+Dvs. st#{INVALID_CHAR}#rste tilladte omkreds er: 2028 mm<br>
 og mindste omkreds er: 1835<br>
 
-<A href="/240info/technic/tires/tirecalc.asp" onclick="window.open( '/240info/technic/tires/tirecalc.asp','','height=240,width=320,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false">D�kst�relse beregninger</A>
+<A href="/240info/technic/tires/tirecalc.asp" onclick="window.open( '/240info/technic/tires/tirecalc.asp','','height=240,width=320,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false">D#{INVALID_CHAR}#kst#{INVALID_CHAR}#relse beregninger</A>
 
 <p></p>
-<h2>Hjul og d�k � vigtige for bilens k�reegenskaber!</h2>
-<p>Bilens gode k�reegenskaber kan forandres m�rkbart, hvis man f. eks. ikke holder det korrekte d�ktryk.</p>
-<h2>Generelt om hjul og d�k</h2>
-<p>Volvo 240 modellerne er fra fabrikken forsynet med  radiald�k i f�lgende dimensioner:</p>
+<h2>Hjul og d#{INVALID_CHAR}#k #{INVALID_CHAR}# vigtige for bilens k#{INVALID_CHAR}#reegenskaber!</h2>
+<p>Bilens gode k#{INVALID_CHAR}#reegenskaber kan forandres m#{INVALID_CHAR}#rkbart, hvis man f. eks. ikke holder det korrekte d#{INVALID_CHAR}#ktryk.</p>
+<h2>Generelt om hjul og d#{INVALID_CHAR}#k</h2>
+<p>Volvo 240 modellerne er fra fabrikken forsynet med  radiald#{INVALID_CHAR}#k i f#{INVALID_CHAR}#lgende dimensioner:</p>
 
 <table border="1" cellpadding="5" cellspacing="0" width="600" align="center">
   <tr><thead>
-    <th width="300" colspan="2">2/4-d�res modeller</th>
-    <th width="300" colspan="2">5 d�rs modeller</th>
+    <th width="300" colspan="2">2/4-d#{INVALID_CHAR}#res modeller</th>
+    <th width="300" colspan="2">5 d#{INVALID_CHAR}#rs modeller</th>
   </thead>
   <tr><tbody>
     <th width="150" align="left">240, 240 GL</td>
@@ -293,59 +293,59 @@ og mindste omkreds er: 1835<br>
   </tbody>
 </table>
 
-<p>Visse varianter af 5-d�res modellen har d�k med betegnelsen 185 SR 14 R, hvor det sidste bogstav R st�r for Reinforced = forst�rket. Hvis De skifter d�k: Pas p� at De f�r d�k med samme dimension (betegnelse) og helst ogs� af samme fabrikat p� alle fire hjul, da der ellers er risiko for, at bilens k�reegenskaber �ndres.</p>
+<p>Visse varianter af 5-d#{INVALID_CHAR}#res modellen har d#{INVALID_CHAR}#k med betegnelsen 185 SR 14 R, hvor det sidste bogstav R st#{INVALID_CHAR}#r for Reinforced = forst#{INVALID_CHAR}#rket. Hvis De skifter d#{INVALID_CHAR}#k: Pas p#{INVALID_CHAR}# at De f#{INVALID_CHAR}#r d#{INVALID_CHAR}#k med samme dimension (betegnelse) og helst ogs#{INVALID_CHAR}# af samme fabrikat p#{INVALID_CHAR}# alle fire hjul, da der ellers er risiko for, at bilens k#{INVALID_CHAR}#reegenskaber #{INVALID_CHAR}#ndres.</p>
 
 <p></p>
-<h2>D�kslidtage</h2>
-<p>Min. m�nsterdybde er 1,6 mm, m�lt p� den <b>midterste 3/4 dele af slidbanen</b>. D.v.s. de yderste 12,5 % i hver side ikke t�ller med ved m�ling af m�nsterdybde. Derudover er det et lovkrav at d�kkene er med slidindikator. P� visse steder i bunden af m�nsteret er der en lille "klods". Den er 1,6 mm h�j, d.v.s. n�r d�kket er slidt ned til klodsen er det p� minimum.</p>
-<p>T�nk p�, at d�k med lille m�nsterdybde har meget d�rligt vejgreb i regn og sne, hvilket forringer sikkerheden betydeligt.<br>
-Ved vinterk�rsel anbefales det at m�nsterdybde er min. 3 mm.</p>
-<h2>S�ledes kan man undg� un�dig d�kslitage</h2>
+<h2>D#{INVALID_CHAR}#kslidtage</h2>
+<p>Min. m#{INVALID_CHAR}#nsterdybde er 1,6 mm, m#{INVALID_CHAR}#lt p#{INVALID_CHAR}# den <b>midterste 3/4 dele af slidbanen</b>. D.v.s. de yderste 12,5 % i hver side ikke t#{INVALID_CHAR}#ller med ved m#{INVALID_CHAR}#ling af m#{INVALID_CHAR}#nsterdybde. Derudover er det et lovkrav at d#{INVALID_CHAR}#kkene er med slidindikator. P#{INVALID_CHAR}# visse steder i bunden af m#{INVALID_CHAR}#nsteret er der en lille "klods". Den er 1,6 mm h#{INVALID_CHAR}#j, d.v.s. n#{INVALID_CHAR}#r d#{INVALID_CHAR}#kket er slidt ned til klodsen er det p#{INVALID_CHAR}# minimum.</p>
+<p>T#{INVALID_CHAR}#nk p#{INVALID_CHAR}#, at d#{INVALID_CHAR}#k med lille m#{INVALID_CHAR}#nsterdybde har meget d#{INVALID_CHAR}#rligt vejgreb i regn og sne, hvilket forringer sikkerheden betydeligt.<br>
+Ved vinterk#{INVALID_CHAR}#rsel anbefales det at m#{INVALID_CHAR}#nsterdybde er min. 3 mm.</p>
+<h2>S#{INVALID_CHAR}#ledes kan man undg#{INVALID_CHAR}# un#{INVALID_CHAR}#dig d#{INVALID_CHAR}#kslitage</h2>
 <ul>
-  <li><p>Hold de korrekte d�ktryk.</li>
-  <li><p>K�r j�vnt. Undg� h�rde igangs�tninger, h�rd kurvek�rsel og h�rde opbremsninger.</li>
-  <li><p>T�nk p�, at h�j hastighed slider meget p� d�kkene.</li>
+  <li><p>Hold de korrekte d#{INVALID_CHAR}#ktryk.</li>
+  <li><p>K#{INVALID_CHAR}#r j#{INVALID_CHAR}#vnt. Undg#{INVALID_CHAR}# h#{INVALID_CHAR}#rde igangs#{INVALID_CHAR}#tninger, h#{INVALID_CHAR}#rd kurvek#{INVALID_CHAR}#rsel og h#{INVALID_CHAR}#rde opbremsninger.</li>
+  <li><p>T#{INVALID_CHAR}#nk p#{INVALID_CHAR}#, at h#{INVALID_CHAR}#j hastighed slider meget p#{INVALID_CHAR}# d#{INVALID_CHAR}#kkene.</li>
   <li><p>Skift ikke hjulene om indbyrdes.</li>
-  <li><p>K�r ikke med forkert hjulindstilling.</li>
-  <li><p>F� hjulene afbalanceret, hvis det er n�dvendigt.</li>
-  <li><p>Pas p� d�kkene ved parkering ind til en fortovskant.</li>
+  <li><p>K#{INVALID_CHAR}#r ikke med forkert hjulindstilling.</li>
+  <li><p>F#{INVALID_CHAR}# hjulene afbalanceret, hvis det er n#{INVALID_CHAR}#dvendigt.</li>
+  <li><p>Pas p#{INVALID_CHAR}# d#{INVALID_CHAR}#kkene ved parkering ind til en fortovskant.</li>
 </ul>
 <p align="center"><img border="2" src="/240info/technic/tires/images/240_tires_02.gif">
 <h2>"Morgensyge"</h2>
-<p>Alle d�k bliver varme under k�rsel. N�r d�kkene derefter k�les af, mens man parkerer, deformeres d�kkene mod underlaget. Det bety�der, at de f�r hver et fladt punkt. Denne deformation kan man kalde for "Morgensyge" og den kan for�rsage lidt vibrationer og ubalance, indtil d�kkene er varmet op. De forskellige d�ktyper har mere eller mindre tendens til "Morgensyge" p� grund af de forskellige typer materiale i d�kket.<br>
-l koldt vejr tager det naturligvis l�ngere tid, inden d�kkene bliver varme og vibrationerne forsvinder.</p>
-<h2>Pigd�k, snek�der</h2>
-<p><b>Pigd�k</b> skal tilk�res 500-1000 km med j�vn fart, s�ledes at piggene s�tter sig rigtigt i d�kkene. Det vil give d�kkene og piggene en l�ngere levetid. Lad d�kkene k�re med samme rotationsretning i hele deres levetid.<br>
-Hvis De vil skifte hjulene, skal De lade hjulet sidde p� samme side som tidligere.<br>
-<b>Snek�der</b> kan s�ttes p� bilens <b> baghjul</b> hvis k�derne har fine led, som ikke g�r s� langt ud fra d�kket, at de kan skrabe mod bremse�gene eller andre dele.<br>
-Volvo-forhandleren har godkendte Volvo-konstruerede snek�der!<br>
-Bem�rk! Man m� ikke k�re hurtigere end 60 km/t med snek�der!<br>
-K�r ikke p� rene veje mere end h�jst n�dvendigt, da det slider meget h�rdt p� snek�der og d�k.<br>
-De s�kaldte "<b>Snabbl�nkar</b>" m� ikke bruges, da afstanden mellem skivebremserne og hjulene er for lille.</p>
+<p>Alle d#{INVALID_CHAR}#k bliver varme under k#{INVALID_CHAR}#rsel. N#{INVALID_CHAR}#r d#{INVALID_CHAR}#kkene derefter k#{INVALID_CHAR}#les af, mens man parkerer, deformeres d#{INVALID_CHAR}#kkene mod underlaget. Det bety#{INVALID_CHAR}#der, at de f#{INVALID_CHAR}#r hver et fladt punkt. Denne deformation kan man kalde for "Morgensyge" og den kan for#{INVALID_CHAR}#rsage lidt vibrationer og ubalance, indtil d#{INVALID_CHAR}#kkene er varmet op. De forskellige d#{INVALID_CHAR}#ktyper har mere eller mindre tendens til "Morgensyge" p#{INVALID_CHAR}# grund af de forskellige typer materiale i d#{INVALID_CHAR}#kket.<br>
+l koldt vejr tager det naturligvis l#{INVALID_CHAR}#ngere tid, inden d#{INVALID_CHAR}#kkene bliver varme og vibrationerne forsvinder.</p>
+<h2>Pigd#{INVALID_CHAR}#k, snek#{INVALID_CHAR}#der</h2>
+<p><b>Pigd#{INVALID_CHAR}#k</b> skal tilk#{INVALID_CHAR}#res 500-1000 km med j#{INVALID_CHAR}#vn fart, s#{INVALID_CHAR}#ledes at piggene s#{INVALID_CHAR}#tter sig rigtigt i d#{INVALID_CHAR}#kkene. Det vil give d#{INVALID_CHAR}#kkene og piggene en l#{INVALID_CHAR}#ngere levetid. Lad d#{INVALID_CHAR}#kkene k#{INVALID_CHAR}#re med samme rotationsretning i hele deres levetid.<br>
+Hvis De vil skifte hjulene, skal De lade hjulet sidde p#{INVALID_CHAR}# samme side som tidligere.<br>
+<b>Snek#{INVALID_CHAR}#der</b> kan s#{INVALID_CHAR}#ttes p#{INVALID_CHAR}# bilens <b> baghjul</b> hvis k#{INVALID_CHAR}#derne har fine led, som ikke g#{INVALID_CHAR}#r s#{INVALID_CHAR}# langt ud fra d#{INVALID_CHAR}#kket, at de kan skrabe mod bremse#{INVALID_CHAR}#gene eller andre dele.<br>
+Volvo-forhandleren har godkendte Volvo-konstruerede snek#{INVALID_CHAR}#der!<br>
+Bem#{INVALID_CHAR}#rk! Man m#{INVALID_CHAR}# ikke k#{INVALID_CHAR}#re hurtigere end 60 km/t med snek#{INVALID_CHAR}#der!<br>
+K#{INVALID_CHAR}#r ikke p#{INVALID_CHAR}# rene veje mere end h#{INVALID_CHAR}#jst n#{INVALID_CHAR}#dvendigt, da det slider meget h#{INVALID_CHAR}#rdt p#{INVALID_CHAR}# snek#{INVALID_CHAR}#der og d#{INVALID_CHAR}#k.<br>
+De s#{INVALID_CHAR}#kaldte "<b>Snabbl#{INVALID_CHAR}#nkar</b>" m#{INVALID_CHAR}# ikke bruges, da afstanden mellem skivebremserne og hjulene er for lille.</p>
 <table border="1" cellpadding="5" cellspacing="0" width="700" align="center">
   <tr>
     <td>
     <h2>ADVARSEL!</h2>
-    <h2>Speclalf�lge</h2>
-<p>De eneste godkendte specialf�lge til Deres Volvo, er de letmetalf�lge som er afpr�vet p� Volvo-fabrikken og som s�lges gennem Volvo-forhandlerne.</p>
+    <h2>Speclalf#{INVALID_CHAR}#lge</h2>
+<p>De eneste godkendte specialf#{INVALID_CHAR}#lge til Deres Volvo, er de letmetalf#{INVALID_CHAR}#lge som er afpr#{INVALID_CHAR}#vet p#{INVALID_CHAR}# Volvo-fabrikken og som s#{INVALID_CHAR}#lges gennem Volvo-forhandlerne.</p>
 <h2>Spoiler</h2>
-<p>Hvis Deres bil er forsynet med spoiler p�virkes k�leluftstr�mmen til forhjulsbremserne. Spoiler m� derfor kun anvendes sammen med letmetalf�lge af Volvos fabrikat, eller med st�lf�lge model 1980 eller senere og ventilerede bremseskiver (sp�rg Deres Volvo-forhandler, hvis De er i tvivl).</p>
+<p>Hvis Deres bil er forsynet med spoiler p#{INVALID_CHAR}#virkes k#{INVALID_CHAR}#leluftstr#{INVALID_CHAR}#mmen til forhjulsbremserne. Spoiler m#{INVALID_CHAR}# derfor kun anvendes sammen med letmetalf#{INVALID_CHAR}#lge af Volvos fabrikat, eller med st#{INVALID_CHAR}#lf#{INVALID_CHAR}#lge model 1980 eller senere og ventilerede bremseskiver (sp#{INVALID_CHAR}#rg Deres Volvo-forhandler, hvis De er i tvivl).</p>
     </td>
   </tr>
 </table>
 
-<h2>Lufttrykket i d�kkene er vigtigt!</h2>
-<p>Kontroller lufttrykket i d�kkene ved hver tankning!<br>
+<h2>Lufttrykket i d#{INVALID_CHAR}#kkene er vigtigt!</h2>
+<p>Kontroller lufttrykket i d#{INVALID_CHAR}#kkene ved hver tankning!<br>
 Det korrekte tryk kan findes i tabellen til herunder.<br>
-Hvis man k�rer med forkert d�ktryk, kan man forringe bilens gode k�reegenskaber m�rkbart og desuden �ges d�kslitagen.<br>
-T�nk p� at v�rdierne i tabellen er beregnet p� kolde d�k. Allerede efter nogle kilometers k�rsel, bliver d�kkene varme og trykket �ges. Dette er normalt og man skal alts� ikke s�nke trykket, hvis dette kontrolleres mens d�kkene er varme. Derimod kan man �ge trykket, hvis det er for lavt.<br>
-Ved varme d�k g�lder 10-30 kPa (1,5-4 psi) h�jere v�rdier afh�ngigt af temperaturen.</p>
-<h2>Lufttryk l d�k, kPa (100 kPa = 1 kp/cm2)</h2>
+Hvis man k#{INVALID_CHAR}#rer med forkert d#{INVALID_CHAR}#ktryk, kan man forringe bilens gode k#{INVALID_CHAR}#reegenskaber m#{INVALID_CHAR}#rkbart og desuden #{INVALID_CHAR}#ges d#{INVALID_CHAR}#kslitagen.<br>
+T#{INVALID_CHAR}#nk p#{INVALID_CHAR}# at v#{INVALID_CHAR}#rdierne i tabellen er beregnet p#{INVALID_CHAR}# kolde d#{INVALID_CHAR}#k. Allerede efter nogle kilometers k#{INVALID_CHAR}#rsel, bliver d#{INVALID_CHAR}#kkene varme og trykket #{INVALID_CHAR}#ges. Dette er normalt og man skal alts#{INVALID_CHAR}# ikke s#{INVALID_CHAR}#nke trykket, hvis dette kontrolleres mens d#{INVALID_CHAR}#kkene er varme. Derimod kan man #{INVALID_CHAR}#ge trykket, hvis det er for lavt.<br>
+Ved varme d#{INVALID_CHAR}#k g#{INVALID_CHAR}#lder 10-30 kPa (1,5-4 psi) h#{INVALID_CHAR}#jere v#{INVALID_CHAR}#rdier afh#{INVALID_CHAR}#ngigt af temperaturen.</p>
+<h2>Lufttryk l d#{INVALID_CHAR}#k, kPa (100 kPa = 1 kp/cm2)</h2>
 
 <table border="1" cellpadding="0" cellspacing="0" width="500" align="center">
   <thead><tr>
     <td width="150" rowspan="2">Bilmodel</td>
-    <td width="150" rowspan="2">D�k</td>
+    <td width="150" rowspan="2">D#{INVALID_CHAR}#k</td>
     <td width="150" colspan="2">1-3 personer</td>
     <td width="150" colspan="2">Fuld last</td>
   </tr>
@@ -372,7 +372,7 @@ Ved varme d�k g�lder 10-30 kPa (1,5-4 psi) h�jere v�rdier afh�ngigt af
     <td width="75">230</td>
   </tr>
   <tr>
-    <th width="150">5-d�res, model</th>
+    <th width="150">5-d#{INVALID_CHAR}#res, model</th>
     <td width="150">185 R 14<br>185 R 14 R<br>195/60 R 15</td>
     <td width="75">190<br>190<br>180</td>
     <td width="75">210<br>210<br>210</td>
@@ -380,7 +380,7 @@ Ved varme d�k g�lder 10-30 kPa (1,5-4 psi) h�jere v�rdier afh�ngigt af
     <td width="75">280<br>300<br>280</td>
   </tr>
   <tr>
-    <th width="300" colspan="2">Reserved�k "Special Spare"</th>
+    <th width="300" colspan="2">Reserved#{INVALID_CHAR}#k "Special Spare"</th>
     <td width="75">280</td>
     <td width="75">280</td>
     <td width="75">280</td>
@@ -388,80 +388,80 @@ Ved varme d�k g�lder 10-30 kPa (1,5-4 psi) h�jere v�rdier afh�ngigt af
   </tbody></tr>
 </table>
 <p>
-Hvis man skal k�re l�nge med h�j hastighed (mere end en time over 120 km/t), b�r man �ge d�ktrykket med ca. 30 kPa.<br>
-Bem�rk! <b> Dette g�lder ikke reservehjulet "Special Spare"</b>, l dette hjul skal lufttrykket altid v�re 280 kPa.</p>
+Hvis man skal k#{INVALID_CHAR}#re l#{INVALID_CHAR}#nge med h#{INVALID_CHAR}#j hastighed (mere end en time over 120 km/t), b#{INVALID_CHAR}#r man #{INVALID_CHAR}#ge d#{INVALID_CHAR}#ktrykket med ca. 30 kPa.<br>
+Bem#{INVALID_CHAR}#rk! <b> Dette g#{INVALID_CHAR}#lder ikke reservehjulet "Special Spare"</b>, l dette hjul skal lufttrykket altid v#{INVALID_CHAR}#re 280 kPa.</p>
 <p>&nbsp</p>
 
 <table border="1" cellpadding="5" cellspacing="0" width="600" align="center">
   <thead><tr>
     <td colspan="2" width="598">
-    <p align="center">D�KKETS V�RSTE FJENDER</td>
+    <p align="center">D#{INVALID_CHAR}#KKETS V#{INVALID_CHAR}#RSTE FJENDER</td>
   </tr></thead>
   <tbody><tr>
     <th width="25" valign="top" align="center">1</th>
     <td width="575"><b>For lidt lufttryk:</b><br>
-D�kket bliver slidt uregelm�ssigt, der er fare for b�ltel�sning og d�kspr�ngning! 
-I tilf�lde af l�ngere tids k�rsel med for lidt luft kan der komme m�rke skygger 
-    indvendigt p� d�ksiden, som et forvarsel til en senere separation i d�kket.</td>
+D#{INVALID_CHAR}#kket bliver slidt uregelm#{INVALID_CHAR}#ssigt, der er fare for b#{INVALID_CHAR}#ltel#{INVALID_CHAR}#sning og d#{INVALID_CHAR}#kspr#{INVALID_CHAR}#ngning! 
+I tilf#{INVALID_CHAR}#lde af l#{INVALID_CHAR}#ngere tids k#{INVALID_CHAR}#rsel med for lidt luft kan der komme m#{INVALID_CHAR}#rke skygger 
+    indvendigt p#{INVALID_CHAR}# d#{INVALID_CHAR}#ksiden, som et forvarsel til en senere separation i d#{INVALID_CHAR}#kket.</td>
   </tr>
   <tr>
     <th width="25" valign="top" align="center">2</th>
-    <td width="575"><b>For h�jt lufttryk:</b><br>
-�ldre d�ktyper (80-serie) slides p� midten af slidbanen, hurtigere nedslidning. 
-Lavprofild�k kr�ver derimod ofte et lidt h�jere d�ktryk for at slides j�vnt.</td>
+    <td width="575"><b>For h#{INVALID_CHAR}#jt lufttryk:</b><br>
+#{INVALID_CHAR}#ldre d#{INVALID_CHAR}#ktyper (80-serie) slides p#{INVALID_CHAR}# midten af slidbanen, hurtigere nedslidning. 
+Lavprofild#{INVALID_CHAR}#k kr#{INVALID_CHAR}#ver derimod ofte et lidt h#{INVALID_CHAR}#jere d#{INVALID_CHAR}#ktryk for at slides j#{INVALID_CHAR}#vnt.</td>
   </tr>
   <tr>
     <th width="25" valign="top" align="center">3</th>
-    <td width="575"><b>Manglende d�kkontrol:</b><br>
-D�k skal kontrolleres grundigt hver 14. dag. Slidbanen kontrolleres for uj�vnt 
-slid og eventuelle fremmedlegemer. Lufttrykket kontrolleres ved kolde d�k! 
-Mister d�kket luft, s� skal d�kket kontrolleres hos en fagmand.</td>
+    <td width="575"><b>Manglende d#{INVALID_CHAR}#kkontrol:</b><br>
+D#{INVALID_CHAR}#k skal kontrolleres grundigt hver 14. dag. Slidbanen kontrolleres for uj#{INVALID_CHAR}#vnt 
+slid og eventuelle fremmedlegemer. Lufttrykket kontrolleres ved kolde d#{INVALID_CHAR}#k! 
+Mister d#{INVALID_CHAR}#kket luft, s#{INVALID_CHAR}# skal d#{INVALID_CHAR}#kket kontrolleres hos en fagmand.</td>
   </tr>
   <tr>
     <th width="25" valign="top" align="center">4</th>
-    <td width="575"><b>Overk�rsel af kantsten i spids vinkel:</b><br>
-    D�kket kan f� klemt sidev�ggen og er dermed �delagt karkassen. D�kspr�ngning 
+    <td width="575"><b>Overk#{INVALID_CHAR}#rsel af kantsten i spids vinkel:</b><br>
+    D#{INVALID_CHAR}#kket kan f#{INVALID_CHAR}# klemt sidev#{INVALID_CHAR}#ggen og er dermed #{INVALID_CHAR}#delagt karkassen. D#{INVALID_CHAR}#kspr#{INVALID_CHAR}#ngning 
     er dermed forprogrammeret.</td>
   </tr>
   <tr>
     <th width="25" valign="top" align="center">5</th>
-    <td width="575"><b>Hurtig k�rsel over h�jt placerede kloakd�ksler og vejhuller:</b><br>
-D�kket bliver klemt og derved �delagt. Der kan opst� brud i d�kket, resultat: 
-D�kspr�ngning.</td>
+    <td width="575"><b>Hurtig k#{INVALID_CHAR}#rsel over h#{INVALID_CHAR}#jt placerede kloakd#{INVALID_CHAR}#ksler og vejhuller:</b><br>
+D#{INVALID_CHAR}#kket bliver klemt og derved #{INVALID_CHAR}#delagt. Der kan opst#{INVALID_CHAR}# brud i d#{INVALID_CHAR}#kket, resultat: 
+D#{INVALID_CHAR}#kspr#{INVALID_CHAR}#ngning.</td>
   </tr>
   <tr>
     <th width="25" valign="top" align="center">6</th>
-    <td width="575"><b>K�rsel med d�rlige st�dd�mpere:</b><br>
-Markant �get d�kslid, ofte med punktvis slidtage af d�kket. </td>
+    <td width="575"><b>K#{INVALID_CHAR}#rsel med d#{INVALID_CHAR}#rlige st#{INVALID_CHAR}#dd#{INVALID_CHAR}#mpere:</b><br>
+Markant #{INVALID_CHAR}#get d#{INVALID_CHAR}#kslid, ofte med punktvis slidtage af d#{INVALID_CHAR}#kket. </td>
   </tr>
   <tr>
     <th width="25" valign="top" align="center">7</th>
-    <td width="575"><b>K�rsel med forkert sporing: (toe-in)</b><br>
-Markant �get d�kslid, ofte med uregelm�ssigt slid af d�km�nsteret. </td>
+    <td width="575"><b>K#{INVALID_CHAR}#rsel med forkert sporing: (toe-in)</b><br>
+Markant #{INVALID_CHAR}#get d#{INVALID_CHAR}#kslid, ofte med uregelm#{INVALID_CHAR}#ssigt slid af d#{INVALID_CHAR}#km#{INVALID_CHAR}#nsteret. </td>
   </tr>
   <tr>
     <th width="25" valign="top" align="center">8</th>
-    <td width="575"><b>K�rsel med forkert styrt�jsindstilling: (camber)</b><br>
-Markant �get d�kslid, ofte p� den ene skulder.</td>
+    <td width="575"><b>K#{INVALID_CHAR}#rsel med forkert styrt#{INVALID_CHAR}#jsindstilling: (camber)</b><br>
+Markant #{INVALID_CHAR}#get d#{INVALID_CHAR}#kslid, ofte p#{INVALID_CHAR}# den ene skulder.</td>
   </tr>
   <tr>
     <th width="25" valign="top" align="center">9</th>
     <td width="575"><b>Nedbremsning med blokering:</b><br>
-D�kket f�r mere eller mindre et fladt punkt, som ikke kan repareres! Komforten 
-bliver ringere, og i visse tilf�lde er d�kket ikke l�ngere anvendeligt.</td>
+D#{INVALID_CHAR}#kket f#{INVALID_CHAR}#r mere eller mindre et fladt punkt, som ikke kan repareres! Komforten 
+bliver ringere, og i visse tilf#{INVALID_CHAR}#lde er d#{INVALID_CHAR}#kket ikke l#{INVALID_CHAR}#ngere anvendeligt.</td>
   </tr>
   <tr>
     <th width="25" valign="top" align="center">10</th>
-    <td width="575"><b>Reng�ring af d�k med h�jtryks-dampspuler (70 bar):</b><br>
-D�k kan selv ved anvendelse af koldt vand p� kort afstand blive beskadiget eller 
-�delagt p� f� sekunder. Skaderne viser sig som "brands�r" p� d�ksiden.</td>
+    <td width="575"><b>Reng#{INVALID_CHAR}#ring af d#{INVALID_CHAR}#k med h#{INVALID_CHAR}#jtryks-dampspuler (70 bar):</b><br>
+D#{INVALID_CHAR}#k kan selv ved anvendelse af koldt vand p#{INVALID_CHAR}# kort afstand blive beskadiget eller 
+#{INVALID_CHAR}#delagt p#{INVALID_CHAR}# f#{INVALID_CHAR}# sekunder. Skaderne viser sig som "brands#{INVALID_CHAR}#r" p#{INVALID_CHAR}# d#{INVALID_CHAR}#ksiden.</td>
   </tr></tbody>
 </table>
 
     </td>
   </tr>
 </table>
-<h6>Udarbejdet med stor hj�lp fra Jes Hebsgaard.</h6>
+<h6>Udarbejdet med stor hj#{INVALID_CHAR}#lp fra Jes Hebsgaard.</h6>
 
     </td>
   </tr>
@@ -473,7 +473,7 @@ D�k kan selv ved anvendelse af koldt vand p� kort afstand blive beskadiget e
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a>
       &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
     </td>
   </tr>
@@ -484,7 +484,7 @@ D�k kan selv ved anvendelse af koldt vand p� kort afstand blive beskadiget e
 <thead>
   <tr>
     <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
-    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright � 2002-2013 by volvo240.dk</span></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright #{INVALID_CHAR}# 2002-2013 by volvo240.dk</span></td>
     <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">Online Brugere</span></font></td>
  </tr>
 </thead>

@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=112"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=112"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">09-12-2002 17:26</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa<br>Jeg er den glade ejer af en 1979 242DL. Mit problem er at jeg ikke kan f� min B19 motor til at g� l�ngere end 8 km/l... men den g�r altid mere end 7,5 km/l... og det er uanset hvordan jeg k�rer - og om jeg har trailer p�..... er der nogen der kan fort�lle mig hvad jeg kan g�re for at f� den til at g� l�ngere p� literen... m�ske f� renoveret karburatoren.... det skal lige siges at jeg fik justeret karburator i januar m�ned....<br><br>MVH<br>Philip</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hejsa<br>Jeg er den glade ejer af en 1979 242DL. Mit problem er at jeg ikke kan f#{INVALID_CHAR}# min B19 motor til at g#{INVALID_CHAR}# l#{INVALID_CHAR}#ngere end 8 km/l... men den g#{INVALID_CHAR}#r altid mere end 7,5 km/l... og det er uanset hvordan jeg k#{INVALID_CHAR}#rer - og om jeg har trailer p#{INVALID_CHAR}#..... er der nogen der kan fort#{INVALID_CHAR}#lle mig hvad jeg kan g#{INVALID_CHAR}#re for at f#{INVALID_CHAR}# den til at g#{INVALID_CHAR}# l#{INVALID_CHAR}#ngere p#{INVALID_CHAR}# literen... m#{INVALID_CHAR}#ske f#{INVALID_CHAR}# renoveret karburatoren.... det skal lige siges at jeg fik justeret karburator i januar m#{INVALID_CHAR}#ned....<br><br>MVH<br>Philip</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=218'>Re: Volvo 242dl B19</a> <em>(Jes, 28-02-2003 15:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=217'>Re: Volvo 242dl B19</a> <em>(Per, 27-02-2003 22:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=116'>Re: Volvo 242dl B19</a> <em>(Philip, 11-12-2002 21:59)</em></strong></font></li><br><font face=Verdana>Hej, og tak for dit svar....<br><br>jeg kan s� lige supplere med at fort�lle f�lgende:<br><br>at jeg ikke tror at det er genneralt slid p� motoren, da de p� vej til arbejde i morgen runder de 155.000... og det ved jeg da der er fuldt tegnet servicebog p� den.... Desuden kan jeg fort�lle at jeg har f�et skiftet til en M47 gearkasse i marts m�ned - og at det ikke gav nogen forbedring..... men det kan m�ske have noget at g�re med at jeg har den "lille" B19 motor... den med 90HK.... desuden k�rer jeg p� Agrip 10W40 olie.... jeg h�lder selv mest til at det er karburatoren der tr�nger til en renovering... p� trods af at da den blev synet i Januar m�ned var det uden anm�rkninger... og forureningen var under den tilladte gr�nse...<br><br>MVH<br>Philip</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=115'>Re: Volvo 242dl B19</a> <em>(Jesper, 11-12-2002 18:20)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=218'>Re: Volvo 242dl B19</a> <em>(Jes, 28-02-2003 15:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=217'>Re: Volvo 242dl B19</a> <em>(Per, 27-02-2003 22:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=116'>Re: Volvo 242dl B19</a> <em>(Philip, 11-12-2002 21:59)</em></strong></font></li><br><font face=Verdana>Hej, og tak for dit svar....<br><br>jeg kan s#{INVALID_CHAR}# lige supplere med at fort#{INVALID_CHAR}#lle f#{INVALID_CHAR}#lgende:<br><br>at jeg ikke tror at det er genneralt slid p#{INVALID_CHAR}# motoren, da de p#{INVALID_CHAR}# vej til arbejde i morgen runder de 155.000... og det ved jeg da der er fuldt tegnet servicebog p#{INVALID_CHAR}# den.... Desuden kan jeg fort#{INVALID_CHAR}#lle at jeg har f#{INVALID_CHAR}#et skiftet til en M47 gearkasse i marts m#{INVALID_CHAR}#ned - og at det ikke gav nogen forbedring..... men det kan m#{INVALID_CHAR}#ske have noget at g#{INVALID_CHAR}#re med at jeg har den "lille" B19 motor... den med 90HK.... desuden k#{INVALID_CHAR}#rer jeg p#{INVALID_CHAR}# Agrip 10W40 olie.... jeg h#{INVALID_CHAR}#lder selv mest til at det er karburatoren der tr#{INVALID_CHAR}#nger til en renovering... p#{INVALID_CHAR}# trods af at da den blev synet i Januar m#{INVALID_CHAR}#ned var det uden anm#{INVALID_CHAR}#rkninger... og forureningen var under den tilladte gr#{INVALID_CHAR}#nse...<br><br>MVH<br>Philip</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=112&ForumID=1&Showsub=115'>Re: Volvo 242dl B19</a> <em>(Jesper, 11-12-2002 18:20)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

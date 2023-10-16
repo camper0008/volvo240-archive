@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Volvo-folk imellem </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp�rge andre Volvo-ejere tilr�ds om alt vedr�rende Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du sp#{INVALID_CHAR}#rge andre Volvo-ejere tilr#{INVALID_CHAR}#ds om alt vedr#{INVALID_CHAR}#rende Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1367"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=4&MessageId=1367"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">15-02-2004 12:13</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle<br><br>Jeg har banket et sp�rgeskema sammen. HUSK at komme med evt. kommentarer nederst p� siden (guestbook).<br><br>Jeg h�ber det virker.... ;o)<br><br><a href='http://d430546.u27.surftown.dk/index.html?1076842850078'>http://d430546.u27.surftown.dk/index.html?1076842850078</a><br><br>(Husk at v�lge "kopier"/"s�t ind" i din browsers menu, da h�jreklik vist nok ikke virker her p� volvo240.dk.)<br><br>M.v.h. Lars Vestman</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle<br><br>Jeg har banket et sp#{INVALID_CHAR}#rgeskema sammen. HUSK at komme med evt. kommentarer nederst p#{INVALID_CHAR}# siden (guestbook).<br><br>Jeg h#{INVALID_CHAR}#ber det virker.... ;o)<br><br><a href='http://d430546.u27.surftown.dk/index.html?1076842850078'>http://d430546.u27.surftown.dk/index.html?1076842850078</a><br><br>(Husk at v#{INVALID_CHAR}#lge "kopier"/"s#{INVALID_CHAR}#t ind" i din browsers menu, da h#{INVALID_CHAR}#jreklik vist nok ikke virker her p#{INVALID_CHAR}# volvo240.dk.)<br><br>M.v.h. Lars Vestman</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1367&ForumID=4&Showsub=1368'>Re: Volvo 240-træf  *spørgeskema*</a> <em>(Lars Vestman, 15-02-2004 18:19)</em></strong></font></li><br><font face=Verdana><br>Mht. sp�rgeskemaet, s� er indtastningerne slettet v. hvilken uge det skal v�re i. Det tyder p�, at der er en der har valgt den samme uge mange gange i tr�k, da antallet af stemmer var st�rkt overrepr�senteret - men det er kun et g�t.<br><br>I m� derfor meget gerne stemme een gang til p� "Hvilken uge...", og fremover vil man kun kunne stemme een gang om dagen. Dette pga. af dem som kan flere weekends, ogs� skal kunne give udtryk for dette samt at man s�ledes ikke kan fuske med tallene... ;o)<br><br>M.v.h. Lars</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1367&ForumID=4&Showsub=1368'>Re: Volvo 240-træf  *spørgeskema*</a> <em>(Lars Vestman, 15-02-2004 18:19)</em></strong></font></li><br><font face=Verdana><br>Mht. sp#{INVALID_CHAR}#rgeskemaet, s#{INVALID_CHAR}# er indtastningerne slettet v. hvilken uge det skal v#{INVALID_CHAR}#re i. Det tyder p#{INVALID_CHAR}#, at der er en der har valgt den samme uge mange gange i tr#{INVALID_CHAR}#k, da antallet af stemmer var st#{INVALID_CHAR}#rkt overrepr#{INVALID_CHAR}#senteret - men det er kun et g#{INVALID_CHAR}#t.<br><br>I m#{INVALID_CHAR}# derfor meget gerne stemme een gang til p#{INVALID_CHAR}# "Hvilken uge...", og fremover vil man kun kunne stemme een gang om dagen. Dette pga. af dem som kan flere weekends, ogs#{INVALID_CHAR}# skal kunne give udtryk for dette samt at man s#{INVALID_CHAR}#ledes ikke kan fuske med tallene... ;o)<br><br>M.v.h. Lars</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

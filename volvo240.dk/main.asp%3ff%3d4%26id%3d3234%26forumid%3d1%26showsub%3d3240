@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=3234"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=3234"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">25-04-2005 14:28</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br>Jeg har en B23E fra 1983 monteret i min Volvo 240. Jeg har monteret en KG-003 knastaksel, 2,5" udst�dning og direkte K&N-filter. Jeg har justeret t�ndingen s� den st�r 10 grader f.�.d. N�r jeg kommer op i 3. og 4. gear begynder den at t�ndingsbanke over 4000 omdr. Jeg tror ikke den f�r benzin nok. Knastakselen er justeret efter alle kunstens regler.<br>Jeg har pr�vet at justere benzintrykket ved at s�tte en ekstra skive p� justeringsn�len inde i indspr�jtningsanl�gget, som det st�r beskrevet i Haynes manualen. Og det har ikke hjulpet p� t�ndingsbankenen.<br>Hvad kan jeg ellers g�re for at f� noget mere benzin igennem det eksisterende system? <br>Jeg ved godt at jeg kan s�tte 2 dobbelte 45 mm kaburatorer p�, men jeg �nsker at beholde indspr�jtningsanl�gget.<br>Eller er det noget andet som er galt?<br><br>mvh Christian</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br>Jeg har en B23E fra 1983 monteret i min Volvo 240. Jeg har monteret en KG-003 knastaksel, 2,5" udst#{INVALID_CHAR}#dning og direkte K&N-filter. Jeg har justeret t#{INVALID_CHAR}#ndingen s#{INVALID_CHAR}# den st#{INVALID_CHAR}#r 10 grader f.#{INVALID_CHAR}#.d. N#{INVALID_CHAR}#r jeg kommer op i 3. og 4. gear begynder den at t#{INVALID_CHAR}#ndingsbanke over 4000 omdr. Jeg tror ikke den f#{INVALID_CHAR}#r benzin nok. Knastakselen er justeret efter alle kunstens regler.<br>Jeg har pr#{INVALID_CHAR}#vet at justere benzintrykket ved at s#{INVALID_CHAR}#tte en ekstra skive p#{INVALID_CHAR}# justeringsn#{INVALID_CHAR}#len inde i indspr#{INVALID_CHAR}#jtningsanl#{INVALID_CHAR}#gget, som det st#{INVALID_CHAR}#r beskrevet i Haynes manualen. Og det har ikke hjulpet p#{INVALID_CHAR}# t#{INVALID_CHAR}#ndingsbankenen.<br>Hvad kan jeg ellers g#{INVALID_CHAR}#re for at f#{INVALID_CHAR}# noget mere benzin igennem det eksisterende system? <br>Jeg ved godt at jeg kan s#{INVALID_CHAR}#tte 2 dobbelte 45 mm kaburatorer p#{INVALID_CHAR}#, men jeg #{INVALID_CHAR}#nsker at beholde indspr#{INVALID_CHAR}#jtningsanl#{INVALID_CHAR}#gget.<br>Eller er det noget andet som er galt?<br><br>mvh Christian</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3234&ForumID=1&Showsub=3258'>Re: Tændingsbanken over 4000 omdr.</a> <em>(Christian Fisker, 28-04-2005 10:09)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3234&ForumID=1&Showsub=3255'>Re: Tændingsbanken over 4000 omdr.</a> <em>(Lars, 27-04-2005 21:06)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3234&ForumID=1&Showsub=3240'>Re: Tændingsbanken over 4000 omdr.</a> <em>(Christian Fisker, 26-04-2005 08:35)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Jeg har selv fundet ud af hvad der er galt. Jeg ringede til Per hos Scantune i Galten og han sagde at det var luftmasse/m�ngdem�leren. Og det er umuligt at justere den. <br>Det kan dog lade sig g�re at modificere den, s� den kan justeres, men det koster 8000-9000 kr. S� det tror jeg lige jeg springer over.<br>S� min teori om at den f�r for lidt benzin, var rigtig.<br>Han foreslog derfor, at jeg monterede 2 dobbelte 45 mm kaburatorer, da de i hvertfald kan levere den m�ngde benzin, som kr�ves. Eller et andet indspr�jtningsanl�g.<br><br>mvh Christian</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3234&ForumID=1&Showsub=3239'>Re: Tændingsbanken over 4000 omdr.</a> <em>(kent, 25-04-2005 23:35)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3234&ForumID=1&Showsub=3236'>Re: Tændingsbanken over 4000 omdr.</a> <em>(Tommy Hansen, 25-04-2005 15:48)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3234&ForumID=1&Showsub=3258'>Re: Tændingsbanken over 4000 omdr.</a> <em>(Christian Fisker, 28-04-2005 10:09)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3234&ForumID=1&Showsub=3255'>Re: Tændingsbanken over 4000 omdr.</a> <em>(Lars, 27-04-2005 21:06)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3234&ForumID=1&Showsub=3240'>Re: Tændingsbanken over 4000 omdr.</a> <em>(Christian Fisker, 26-04-2005 08:35)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Jeg har selv fundet ud af hvad der er galt. Jeg ringede til Per hos Scantune i Galten og han sagde at det var luftmasse/m#{INVALID_CHAR}#ngdem#{INVALID_CHAR}#leren. Og det er umuligt at justere den. <br>Det kan dog lade sig g#{INVALID_CHAR}#re at modificere den, s#{INVALID_CHAR}# den kan justeres, men det koster 8000-9000 kr. S#{INVALID_CHAR}# det tror jeg lige jeg springer over.<br>S#{INVALID_CHAR}# min teori om at den f#{INVALID_CHAR}#r for lidt benzin, var rigtig.<br>Han foreslog derfor, at jeg monterede 2 dobbelte 45 mm kaburatorer, da de i hvertfald kan levere den m#{INVALID_CHAR}#ngde benzin, som kr#{INVALID_CHAR}#ves. Eller et andet indspr#{INVALID_CHAR}#jtningsanl#{INVALID_CHAR}#g.<br><br>mvh Christian</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3234&ForumID=1&Showsub=3239'>Re: Tændingsbanken over 4000 omdr.</a> <em>(kent, 25-04-2005 23:35)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3234&ForumID=1&Showsub=3236'>Re: Tændingsbanken over 4000 omdr.</a> <em>(Tommy Hansen, 25-04-2005 15:48)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

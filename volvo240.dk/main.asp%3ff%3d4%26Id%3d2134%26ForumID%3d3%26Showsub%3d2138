@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=3"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=3&MessageId=2134"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=3&MessageId=2134"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">25-08-2004 20:10</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har problemer med vand i f�rersiden p� min '88 er Volvo, b�de n�r jeg k�rer, og n�r jeg holder stille, er der en stor vandpyt p� plasticm�tten. Ingen rust i ruderamme, ingen stoppede afl�b i d�ren, ingen (synlige) huller i torpedoplade eller indersk�rm, ingen defekt liste i ruden. Hj�lp, inden min min Volvo ruster op i bunden!<br><br>Mvh.<br><br>Lasse Petersen</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har problemer med vand i f#{INVALID_CHAR}#rersiden p#{INVALID_CHAR}# min '88 er Volvo, b#{INVALID_CHAR}#de n#{INVALID_CHAR}#r jeg k#{INVALID_CHAR}#rer, og n#{INVALID_CHAR}#r jeg holder stille, er der en stor vandpyt p#{INVALID_CHAR}# plasticm#{INVALID_CHAR}#tten. Ingen rust i ruderamme, ingen stoppede afl#{INVALID_CHAR}#b i d#{INVALID_CHAR}#ren, ingen (synlige) huller i torpedoplade eller indersk#{INVALID_CHAR}#rm, ingen defekt liste i ruden. Hj#{INVALID_CHAR}#lp, inden min min Volvo ruster op i bunden!<br><br>Mvh.<br><br>Lasse Petersen</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2134&ForumID=3&Showsub=2474'>Re: Utæt Volvo 240 St. car</a> <em>(Lasse P., 07-12-2004 12:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2134&ForumID=3&Showsub=2138'>Re: Utæt Volvo 240 St. car</a> <em>(Johan Årman, 25-08-2004 23:54)</em></strong></font></li><br><font face=Verdana>Hej!<br><br>Jeg har lige haft et tilsvarende problem med min 240. Har du checket afl�bet under motorhj�lmsbeslagene? Der er et hulrum p� hver side, og der samler sig m�ngde af m�g, der med tiden formulder. Har din bil s� f.eks omdrejningst�ller kan vandet, hvis det st�r h�jt nok i dette rum, l�be igennem det lille hul i gummiproppen og ind i bilen.  Hvis afl��bet ikke er stoppet kommer vandet ud under forsk�rmen. Men pr�v at l�gge dig ind i bilen, mens nogen spuler med en vandslange forskellige steder. Trykket fra vandet vil f� selv sm� ut�theder til at virke som niagra Falls.<br><br>Gog forn�jelse med t�rringsprojektet!<br><br>Venlig hilsen <br><br>Johan �rman</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2134&ForumID=3&Showsub=2137'>Re: Utæt Volvo 240 St. car</a> <em>(Lasse Petersen, 25-08-2004 21:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2134&ForumID=3&Showsub=2135'>Re: Utæt Volvo 240 St. car</a> <em>(Emil J, 25-08-2004 20:45)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2134&ForumID=3&Showsub=2474'>Re: Utæt Volvo 240 St. car</a> <em>(Lasse P., 07-12-2004 12:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2134&ForumID=3&Showsub=2138'>Re: Utæt Volvo 240 St. car</a> <em>(Johan Årman, 25-08-2004 23:54)</em></strong></font></li><br><font face=Verdana>Hej!<br><br>Jeg har lige haft et tilsvarende problem med min 240. Har du checket afl#{INVALID_CHAR}#bet under motorhj#{INVALID_CHAR}#lmsbeslagene? Der er et hulrum p#{INVALID_CHAR}# hver side, og der samler sig m#{INVALID_CHAR}#ngde af m#{INVALID_CHAR}#g, der med tiden formulder. Har din bil s#{INVALID_CHAR}# f.eks omdrejningst#{INVALID_CHAR}#ller kan vandet, hvis det st#{INVALID_CHAR}#r h#{INVALID_CHAR}#jt nok i dette rum, l#{INVALID_CHAR}#be igennem det lille hul i gummiproppen og ind i bilen.  Hvis afl#{INVALID_CHAR}##{INVALID_CHAR}#bet ikke er stoppet kommer vandet ud under forsk#{INVALID_CHAR}#rmen. Men pr#{INVALID_CHAR}#v at l#{INVALID_CHAR}#gge dig ind i bilen, mens nogen spuler med en vandslange forskellige steder. Trykket fra vandet vil f#{INVALID_CHAR}# selv sm#{INVALID_CHAR}# ut#{INVALID_CHAR}#theder til at virke som niagra Falls.<br><br>Gog forn#{INVALID_CHAR}#jelse med t#{INVALID_CHAR}#rringsprojektet!<br><br>Venlig hilsen <br><br>Johan #{INVALID_CHAR}#rman</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2134&ForumID=3&Showsub=2137'>Re: Utæt Volvo 240 St. car</a> <em>(Lasse Petersen, 25-08-2004 21:12)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2134&ForumID=3&Showsub=2135'>Re: Utæt Volvo 240 St. car</a> <em>(Emil J, 25-08-2004 20:45)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

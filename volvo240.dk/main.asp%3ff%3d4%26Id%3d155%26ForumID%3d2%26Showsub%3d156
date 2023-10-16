@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske sp�rgsm�l om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=155"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=155"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">24-01-2003 10:38</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvo gutter<br><br>Min 240 skulle have niveau regulering, men jeg syntes nu ikke den regulerer ret meget selv om jeg har bagage rummet fyldt op med tyske pilsnere ;-)<br>S� mine sp�rgsm�l er hvordan virker automatisk niveau regulering, er det en pumpe eller hva?<br><br>Og hvis det ikke virker, hvor d�len kan man starte fejlfindingen.<br><br>Mvh<br>Kaj Erik Olsen<br> <br><br></font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvo gutter<br><br>Min 240 skulle have niveau regulering, men jeg syntes nu ikke den regulerer ret meget selv om jeg har bagage rummet fyldt op med tyske pilsnere ;-)<br>S#{INVALID_CHAR}# mine sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l er hvordan virker automatisk niveau regulering, er det en pumpe eller hva?<br><br>Og hvis det ikke virker, hvor d#{INVALID_CHAR}#len kan man starte fejlfindingen.<br><br>Mvh<br>Kaj Erik Olsen<br> <br><br></font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=155&ForumID=2&Showsub=156'>Re: Niveau regulering</a> <em>(Finn Kruse, 24-01-2003 23:07)</em></strong></font></li><br><font face=Verdana>Hej Kaj<br><br>Jeg har lige lavet en lille beskrivelse med billeder af niveauregulering p� Volvo 240. Du kan finde den under Diverse->Volvo Original->Niveauregulering.<br>Ud fra billederne skulle du kunne se om du har fuldautomatisk eller halvautomatisk niveauregulering.<br><br>Mvh<br>Finn Kruse</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=155&ForumID=2&Showsub=156'>Re: Niveau regulering</a> <em>(Finn Kruse, 24-01-2003 23:07)</em></strong></font></li><br><font face=Verdana>Hej Kaj<br><br>Jeg har lige lavet en lille beskrivelse med billeder af niveauregulering p#{INVALID_CHAR}# Volvo 240. Du kan finde den under Diverse->Volvo Original->Niveauregulering.<br>Ud fra billederne skulle du kunne se om du har fuldautomatisk eller halvautomatisk niveauregulering.<br><br>Mvh<br>Finn Kruse</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

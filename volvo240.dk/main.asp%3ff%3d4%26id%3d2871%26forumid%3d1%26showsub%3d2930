@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2871"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=2871"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">13-02-2005 17:59</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej volvo-venner.<br>Min motor, en b230f, har et problem med at holde sig igang n�r den er varm.<br>Ved koldstart starter den fint, men s� efter ca. 2 min. begynder den at hoste, for tilsidst at g� helt i st�.<br>Starter man den igen, starter den fint, men s� efter kun 5 sek. sker det samme igen, den begynder at hoste og s� g�r den i st�.<br>Diagnose enheden viser at der ingen fejl er.<br>Hj�lp, r�d og vejledning �nskes meget.<br>Med venlig hilsen<br>Allan.<br><br></font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej volvo-venner.<br>Min motor, en b230f, har et problem med at holde sig igang n#{INVALID_CHAR}#r den er varm.<br>Ved koldstart starter den fint, men s#{INVALID_CHAR}# efter ca. 2 min. begynder den at hoste, for tilsidst at g#{INVALID_CHAR}# helt i st#{INVALID_CHAR}#.<br>Starter man den igen, starter den fint, men s#{INVALID_CHAR}# efter kun 5 sek. sker det samme igen, den begynder at hoste og s#{INVALID_CHAR}# g#{INVALID_CHAR}#r den i st#{INVALID_CHAR}#.<br>Diagnose enheden viser at der ingen fejl er.<br>Hj#{INVALID_CHAR}#lp, r#{INVALID_CHAR}#d og vejledning #{INVALID_CHAR}#nskes meget.<br>Med venlig hilsen<br>Allan.<br><br></font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2871&ForumID=1&Showsub=2935'>Re: Motor problemer.</a> <em>(Erling, 23-02-2005 14:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2871&ForumID=1&Showsub=2934'>Re: Motor problemer.</a> <em>(Allan Vilhelmsen, 23-02-2005 13:24)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2871&ForumID=1&Showsub=2932'>Re: Motor problemer.</a> <em>(Brian, 22-02-2005 23:01)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2871&ForumID=1&Showsub=2930'>Re: Motor problemer.</a> <em>(Allan Vilhelmsen, 22-02-2005 19:33)</em></strong></font></li><br><font face=Verdana>Jeg har nu haft bilen p� v�rksted, og 3800,- kr. fattigere.<br>P� v�rkstedet skiftede de, benzinfilter, fordeler d�ksel, rotor, kabler og isatte en pakning under rotoren.<br>Inden bilen kom p� v�rksted havde jeg t�ret fordelerd�kslet af for fugt og en smule olie, uden noget resultat.<br>Det skal siges at bilen k�rte ved egen kraft til v�rkstedet.<br>Er der nogle der har en kommentar til denne reparation.<br>Med venlig hilsen<br>Allan.</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2871&ForumID=1&Showsub=2935'>Re: Motor problemer.</a> <em>(Erling, 23-02-2005 14:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2871&ForumID=1&Showsub=2934'>Re: Motor problemer.</a> <em>(Allan Vilhelmsen, 23-02-2005 13:24)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2871&ForumID=1&Showsub=2932'>Re: Motor problemer.</a> <em>(Brian, 22-02-2005 23:01)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=2871&ForumID=1&Showsub=2930'>Re: Motor problemer.</a> <em>(Allan Vilhelmsen, 22-02-2005 19:33)</em></strong></font></li><br><font face=Verdana>Jeg har nu haft bilen p#{INVALID_CHAR}# v#{INVALID_CHAR}#rksted, og 3800,- kr. fattigere.<br>P#{INVALID_CHAR}# v#{INVALID_CHAR}#rkstedet skiftede de, benzinfilter, fordeler d#{INVALID_CHAR}#ksel, rotor, kabler og isatte en pakning under rotoren.<br>Inden bilen kom p#{INVALID_CHAR}# v#{INVALID_CHAR}#rksted havde jeg t#{INVALID_CHAR}#ret fordelerd#{INVALID_CHAR}#kslet af for fugt og en smule olie, uden noget resultat.<br>Det skal siges at bilen k#{INVALID_CHAR}#rte ved egen kraft til v#{INVALID_CHAR}#rkstedet.<br>Er der nogle der har en kommentar til denne reparation.<br>Med venlig hilsen<br>Allan.</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

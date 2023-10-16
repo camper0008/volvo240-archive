@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1136"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=1&MessageId=1136"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">21-12-2003 12:15</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Min motor er begyndt at tikke og jeg g�r ud fra at det er ventilerne.<br>Jeg har en Haynes h�ndbog som fort�ller hvor nemt det er at checke, hvis blot man har den rigtige tang.<br>Mit problem er at det har jeg ikke og Volvo vil ikke s�lge mig en.<br>Er der nogen som ved hvor den kan k�bes eller evt. kender en m�de at omg�es problemet ?<br><br>Mvh.<br>Peter S. Kj�rsgaard<br>En ellers lykkelig Volvo 240 ejer.<br></font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Min motor er begyndt at tikke og jeg g#{INVALID_CHAR}#r ud fra at det er ventilerne.<br>Jeg har en Haynes h#{INVALID_CHAR}#ndbog som fort#{INVALID_CHAR}#ller hvor nemt det er at checke, hvis blot man har den rigtige tang.<br>Mit problem er at det har jeg ikke og Volvo vil ikke s#{INVALID_CHAR}#lge mig en.<br>Er der nogen som ved hvor den kan k#{INVALID_CHAR}#bes eller evt. kender en m#{INVALID_CHAR}#de at omg#{INVALID_CHAR}#es problemet ?<br><br>Mvh.<br>Peter S. Kj#{INVALID_CHAR}#rsgaard<br>En ellers lykkelig Volvo 240 ejer.<br></font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1136&ForumID=1&Showsub=1206'>Re: Ventiler på B230K</a> <em>(Erling, 16-01-2004 20:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1136&ForumID=1&Showsub=1137'>Re: Ventiler på B230K</a> <em>(Jes, 21-12-2003 15:17)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Normalt s� skal der ikke justeres ventiler p� Volvo�s B 19/21/23/200 og 230 motorer. En B 230K motorer skal "tikke" eller "ralle" som nogen betegner lyden.<br>F�r du investerer i noget, s� lav en kontrol af ventilindstillingen. <br>K�b et bladm�l til f� kr. i eks. Biltema.<br>Selve justeringen sker med nogle brikker, som skal uskiftes hvis m�let ikke passer. Brikkerne findes i forskellige tykkelse med 0,05 mm variation. Selve v�rkt�jet til justeringen kan du k�be hos alle autogrossister, da v�rkt�jet faktisk er opfundet af Fiat. Det er faktisk bare et h�ndtag med en bue p� i kraftig gods. Du kan til n�d udskifte brikkerne med en skruetr�kker alene.<br>Hvis tolerance m�lene for ventilindstilling er overskredne, s� er der noget i topstykket der er slidt, enten ventilstammerne eller knastakslen.<br><br>mvh<br><br>Jes</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1136&ForumID=1&Showsub=1206'>Re: Ventiler på B230K</a> <em>(Erling, 16-01-2004 20:40)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1136&ForumID=1&Showsub=1137'>Re: Ventiler på B230K</a> <em>(Jes, 21-12-2003 15:17)</em></strong></font></li><br><font face=Verdana>Hej<br><br>Normalt s#{INVALID_CHAR}# skal der ikke justeres ventiler p#{INVALID_CHAR}# Volvo#{INVALID_CHAR}#s B 19/21/23/200 og 230 motorer. En B 230K motorer skal "tikke" eller "ralle" som nogen betegner lyden.<br>F#{INVALID_CHAR}#r du investerer i noget, s#{INVALID_CHAR}# lav en kontrol af ventilindstillingen. <br>K#{INVALID_CHAR}#b et bladm#{INVALID_CHAR}#l til f#{INVALID_CHAR}# kr. i eks. Biltema.<br>Selve justeringen sker med nogle brikker, som skal uskiftes hvis m#{INVALID_CHAR}#let ikke passer. Brikkerne findes i forskellige tykkelse med 0,05 mm variation. Selve v#{INVALID_CHAR}#rkt#{INVALID_CHAR}#jet til justeringen kan du k#{INVALID_CHAR}#be hos alle autogrossister, da v#{INVALID_CHAR}#rkt#{INVALID_CHAR}#jet faktisk er opfundet af Fiat. Det er faktisk bare et h#{INVALID_CHAR}#ndtag med en bue p#{INVALID_CHAR}# i kraftig gods. Du kan til n#{INVALID_CHAR}#d udskifte brikkerne med en skruetr#{INVALID_CHAR}#kker alene.<br>Hvis tolerance m#{INVALID_CHAR}#lene for ventilindstilling er overskredne, s#{INVALID_CHAR}# er der noget i topstykket der er slidt, enten ventilstammerne eller knastakslen.<br><br>mvh<br><br>Jes</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

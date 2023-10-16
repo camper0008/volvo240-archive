@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -198,12 +198,12 @@ document.onmousedown=click;
     <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: Teknik </font></strong></td>
   </tr>
   <tr>
-    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske sp�rgsm�l om om din Volvo. </font></td>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Tekniske sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l om om din Volvo. </font></td>
     <td width="30%" bgcolor="#f0f0f0">
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=2"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=1558"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=2&MessageId=1558"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">20-03-2004 23:22</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle.<br><br>Er der nogen som har erfaringer med montering af 18" tommer f�lge p� en 240? Hvad er den anbefalede ET, f�lgbredde og d�k dimension?<br><br>Mvh. Dennis</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle.<br><br>Er der nogen som har erfaringer med montering af 18" tommer f#{INVALID_CHAR}#lge p#{INVALID_CHAR}# en 240? Hvad er den anbefalede ET, f#{INVALID_CHAR}#lgbredde og d#{INVALID_CHAR}#k dimension?<br><br>Mvh. Dennis</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1558&ForumID=2&Showsub=1573'>Re: Erfaringer med 18" fælge?</a> <em>(Dennis Carlsen, 22-03-2004 20:54)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1558&ForumID=2&Showsub=1572'>Re: Erfaringer med 18" fælge?</a> <em>(flemming andersen, 22-03-2004 20:33)</em></strong></font></li><br><font face=Verdana>hej Dennis de spacer jeg har er 20 mm for og 25 mm bag med b�de nav og f�lg styr jeg har m�ske ogs� et s�t 18 tommer f�lge tilsalg hilsen flemming</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1558&ForumID=2&Showsub=1563'>Re: Erfaringer med 18" fælge?</a> <em>(Dennis Carlsen, 21-03-2004 15:21)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1558&ForumID=2&Showsub=1559'>Re: Erfaringer med 18" fælge?</a> <em>(flemming andersen, 21-03-2004 11:31)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1558&ForumID=2&Showsub=1573'>Re: Erfaringer med 18" fælge?</a> <em>(Dennis Carlsen, 22-03-2004 20:54)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1558&ForumID=2&Showsub=1572'>Re: Erfaringer med 18" fælge?</a> <em>(flemming andersen, 22-03-2004 20:33)</em></strong></font></li><br><font face=Verdana>hej Dennis de spacer jeg har er 20 mm for og 25 mm bag med b#{INVALID_CHAR}#de nav og f#{INVALID_CHAR}#lg styr jeg har m#{INVALID_CHAR}#ske ogs#{INVALID_CHAR}# et s#{INVALID_CHAR}#t 18 tommer f#{INVALID_CHAR}#lge tilsalg hilsen flemming</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1558&ForumID=2&Showsub=1563'>Re: Erfaringer med 18" fælge?</a> <em>(Dennis Carlsen, 21-03-2004 15:21)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1558&ForumID=2&Showsub=1559'>Re: Erfaringer med 18" fælge?</a> <em>(flemming andersen, 21-03-2004 11:31)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=3"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=3&MessageId=1635"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=3&MessageId=1635"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-04-2004 07:10</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvovenner,<br><br>Min elskede kone har i g�r lavet et p�ske-projekt til mig - hun har ridset den ene side af bilen. Heldigvil er det meste p� bagerste sided�r (som jo kan skiftes ud), men der er ogs� lidt p� bagsk�rmen.<br><br>Der er tre typer ridser.<br>1 overfladiske, der ikke g�r gennem den bl� farve<br>2 dybere der g�r gennem den bl� farve og ned til en hvid farve som jeg formoder er en grunder<br>3 meget dybe ridser der g�r ind til metallet.<br><br>Hvordan udbedrer jeg de tre typer ridser og hvordan rammer jeg den bl� metallic farve min volvo har.<br><br>P� forh�nd tak, Peter</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Volvovenner,<br><br>Min elskede kone har i g#{INVALID_CHAR}#r lavet et p#{INVALID_CHAR}#ske-projekt til mig - hun har ridset den ene side af bilen. Heldigvil er det meste p#{INVALID_CHAR}# bagerste sided#{INVALID_CHAR}#r (som jo kan skiftes ud), men der er ogs#{INVALID_CHAR}# lidt p#{INVALID_CHAR}# bagsk#{INVALID_CHAR}#rmen.<br><br>Der er tre typer ridser.<br>1 overfladiske, der ikke g#{INVALID_CHAR}#r gennem den bl#{INVALID_CHAR}# farve<br>2 dybere der g#{INVALID_CHAR}#r gennem den bl#{INVALID_CHAR}# farve og ned til en hvid farve som jeg formoder er en grunder<br>3 meget dybe ridser der g#{INVALID_CHAR}#r ind til metallet.<br><br>Hvordan udbedrer jeg de tre typer ridser og hvordan rammer jeg den bl#{INVALID_CHAR}# metallic farve min volvo har.<br><br>P#{INVALID_CHAR}# forh#{INVALID_CHAR}#nd tak, Peter</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1635&ForumID=3&Showsub=1641'>Re: Ridser - hvordan udbedrer man</a> <em>(flemming andersen, 07-04-2004 20:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1635&ForumID=3&Showsub=1639'>Re: Ridser - hvordan udbedrer man</a> <em>(Jesper BP, 07-04-2004 13:53)</em></strong></font></li><br><font face=Verdana>Hej Peter<br>Ikke fordi jeg har en l�sning p� dit sp�rgsm�l, men blot for at sige at du ikke er alene.... Min kone lavede pr�cis det samme stunt med samme udfald! Der m� v�re et eller andet galt med de bagd�re....Jeg valgte at n�jes med at give omr�det en gang klar lak, som nu i et �r har forhindret at skaden blev forv�rret, og desuden fjernede en del af ridserne. Jeg er dog meget interesseret i at h�re hvad andre har af l�sningsforslag. Farven (kode) p� din bil (hvis det er originalfarven) kan bla. du afl�se (ihvertfald i en 245) p� en metalplade i bagegerummet. Mvh Jesper BP</font><br></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1635&ForumID=3&Showsub=1641'>Re: Ridser - hvordan udbedrer man</a> <em>(flemming andersen, 07-04-2004 20:52)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=1635&ForumID=3&Showsub=1639'>Re: Ridser - hvordan udbedrer man</a> <em>(Jesper BP, 07-04-2004 13:53)</em></strong></font></li><br><font face=Verdana>Hej Peter<br>Ikke fordi jeg har en l#{INVALID_CHAR}#sning p#{INVALID_CHAR}# dit sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#l, men blot for at sige at du ikke er alene.... Min kone lavede pr#{INVALID_CHAR}#cis det samme stunt med samme udfald! Der m#{INVALID_CHAR}# v#{INVALID_CHAR}#re et eller andet galt med de bagd#{INVALID_CHAR}#re....Jeg valgte at n#{INVALID_CHAR}#jes med at give omr#{INVALID_CHAR}#det en gang klar lak, som nu i et #{INVALID_CHAR}#r har forhindret at skaden blev forv#{INVALID_CHAR}#rret, og desuden fjernede en del af ridserne. Jeg er dog meget interesseret i at h#{INVALID_CHAR}#re hvad andre har af l#{INVALID_CHAR}#sningsforslag. Farven (kode) p#{INVALID_CHAR}# din bil (hvis det er originalfarven) kan bla. du afl#{INVALID_CHAR}#se (ihvertfald i en 245) p#{INVALID_CHAR}# en metalplade i bagegerummet. Mvh Jesper BP</font><br></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

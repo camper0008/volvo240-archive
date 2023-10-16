@@ -164,7 +164,7 @@ document.onmousedown=click;
     <td width="315" align="right" valign="bottom">
       <form method="POST" action="/main.asp?f=35">
         <input type="text" name="T1" size="20">
-        <input type="submit" value="S�g" name="B1">
+        <input type="submit" value="S#{INVALID_CHAR}#g" name="B1">
       </form>
     </td>
   </tr>
@@ -203,7 +203,7 @@ document.onmousedown=click;
       <ul type="square">
         <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
         <li><a href="main.asp?f=3&ForumId=3"><font face="Verdana"><strong>Til Emne oversift</strong></font></a></li>
-        <li><strong><a href="main.asp?f=5&ForumId=3&MessageId=3155"><font face="Verdana">Besvar indl�g</font></a><font face="Verdana"><br>
+        <li><strong><a href="main.asp?f=5&ForumId=3&MessageId=3155"><font face="Verdana">Besvar indl#{INVALID_CHAR}#g</font></a><font face="Verdana"><br>
          </font></strong></li>
     </ul>
     </td>
@@ -228,13 +228,13 @@ document.onmousedown=click;
         <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">06-04-2005 19:53</font></td>
       </tr>
       <tr>
-        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle..<br><br>Sidste efter�r k�bte jeg lykkeligt et s�t 18" f�lge til den store 240, det ser brand-godt ud og den k�rer godt med dem p�, og sad ogs� fint sidste �r. I mellemtiden har det v�ret vinter, jeg har haft sm� hjul p�, og f�et kraftigere fjedre og andre d�mpere i, MEN... Nu kan mit baghjul sat** ikke v�re der! Sp�rgsm�let lyder nu: (synes nemlig ikke mine nye fjedre var lavere, blot til mere v�gt (k�rer 244) hvordan l�ser jeg mit problem s� mine f�lge igen kan v�re der. Skal jeg k�be s�nkningsfjedre (lyder dumt, den bliver lavere, men trods alt meget h�rdere (st�der p� n�r der er sm� bump) eller nye d�mpere? Eller hvad skal jeg? Skal helst bestille noget imorgen, skal til jylland over weekenden, s�tter stor pris p� hurtigt svar. P� forh�nd tusind tak - Dennis</font></td>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej alle..<br><br>Sidste efter#{INVALID_CHAR}#r k#{INVALID_CHAR}#bte jeg lykkeligt et s#{INVALID_CHAR}#t 18" f#{INVALID_CHAR}#lge til den store 240, det ser brand-godt ud og den k#{INVALID_CHAR}#rer godt med dem p#{INVALID_CHAR}#, og sad ogs#{INVALID_CHAR}# fint sidste #{INVALID_CHAR}#r. I mellemtiden har det v#{INVALID_CHAR}#ret vinter, jeg har haft sm#{INVALID_CHAR}# hjul p#{INVALID_CHAR}#, og f#{INVALID_CHAR}#et kraftigere fjedre og andre d#{INVALID_CHAR}#mpere i, MEN... Nu kan mit baghjul sat** ikke v#{INVALID_CHAR}#re der! Sp#{INVALID_CHAR}#rgsm#{INVALID_CHAR}#let lyder nu: (synes nemlig ikke mine nye fjedre var lavere, blot til mere v#{INVALID_CHAR}#gt (k#{INVALID_CHAR}#rer 244) hvordan l#{INVALID_CHAR}#ser jeg mit problem s#{INVALID_CHAR}# mine f#{INVALID_CHAR}#lge igen kan v#{INVALID_CHAR}#re der. Skal jeg k#{INVALID_CHAR}#be s#{INVALID_CHAR}#nkningsfjedre (lyder dumt, den bliver lavere, men trods alt meget h#{INVALID_CHAR}#rdere (st#{INVALID_CHAR}#der p#{INVALID_CHAR}# n#{INVALID_CHAR}#r der er sm#{INVALID_CHAR}# bump) eller nye d#{INVALID_CHAR}#mpere? Eller hvad skal jeg? Skal helst bestille noget imorgen, skal til jylland over weekenden, s#{INVALID_CHAR}#tter stor pris p#{INVALID_CHAR}# hurtigt svar. P#{INVALID_CHAR}# forh#{INVALID_CHAR}#nd tusind tak - Dennis</font></td>
       </tr>
       <tr>
         <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
       </tr>
       <tr>
-        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4699'>Re: Fælge i skærmkant</a> <em>(Christian Jensen, 15-12-2005 10:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4698'>Re: Fælge i skærmkant</a> <em>(Andreas Christensen, 15-12-2005 01:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4691'>Re: Fælge i skærmkant</a> <em>(Christian Jensen, 13-12-2005 18:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4671'>Re: Fælge i skærmkant</a> <em>(Andreas Christensen, 12-12-2005 02:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3288'>Re: Fælge i skærmkant</a> <em>(morten, 02-05-2005 09:49)</em></strong></font></li><br><font face=Verdana>En spacer er en skive der typisk er 20 mm, som du s�tter p� hjulnavet inden du s�tter hjul p�.s�ledes at hjulet kommer l�ngere ud mod sk�rmen.</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3285'>Re: Fælge i skærmkant</a> <em>(morten, 01-05-2005 21:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3274'>Re: Fælge i skærmkant</a> <em>(Simon D. Hansen, 30-04-2005 06:01)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3162'>Re: Fælge i skærmkant</a> <em>(Dennis Kristensen, 08-04-2005 19:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3156'>Re: Fælge i skærmkant</a> <em>(morten, 06-04-2005 20:56)</em></strong></font></li></ul></font></td>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4699'>Re: Fælge i skærmkant</a> <em>(Christian Jensen, 15-12-2005 10:17)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4698'>Re: Fælge i skærmkant</a> <em>(Andreas Christensen, 15-12-2005 01:27)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4691'>Re: Fælge i skærmkant</a> <em>(Christian Jensen, 13-12-2005 18:30)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=4671'>Re: Fælge i skærmkant</a> <em>(Andreas Christensen, 12-12-2005 02:26)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3288'>Re: Fælge i skærmkant</a> <em>(morten, 02-05-2005 09:49)</em></strong></font></li><br><font face=Verdana>En spacer er en skive der typisk er 20 mm, som du s#{INVALID_CHAR}#tter p#{INVALID_CHAR}# hjulnavet inden du s#{INVALID_CHAR}#tter hjul p#{INVALID_CHAR}#.s#{INVALID_CHAR}#ledes at hjulet kommer l#{INVALID_CHAR}#ngere ud mod sk#{INVALID_CHAR}#rmen.</font><br><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3285'>Re: Fælge i skærmkant</a> <em>(morten, 01-05-2005 21:50)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3274'>Re: Fælge i skærmkant</a> <em>(Simon D. Hansen, 30-04-2005 06:01)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3162'>Re: Fælge i skærmkant</a> <em>(Dennis Kristensen, 08-04-2005 19:34)</em></strong></font></li><li><font face=Verdana><strong><a href='/main.asp?f=4&Id=3155&ForumID=3&Showsub=3156'>Re: Fælge i skærmkant</a> <em>(morten, 06-04-2005 20:56)</em></strong></font></li></ul></font></td>
       </tr>
     </tbody></table>
     </td>
@@ -253,7 +253,7 @@ document.onmousedown=click;
   <tr>
     <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
       &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
-      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf�j til foretrukne">F�j volvo240.dk Foretrukne</a></span>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilf#{INVALID_CHAR}#j til foretrukne">F#{INVALID_CHAR}#j volvo240.dk Foretrukne</a></span>
     </td>
   </tr>
 </thead>

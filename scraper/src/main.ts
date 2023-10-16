@@ -29,10 +29,17 @@ function fix_iso_8859_encoding(value: string | null): string | null {
     if (value === null) {
         return null;
     }
+    console.log(value);
     const fixes = [
         ["&nbsp;", "",],
         ["&quot;", "\"",],
         ["&amp;", "&",],
+        ["\xF8", "ø",],
+        ["\xE6", "æ",],
+        ["\xE5", "å",],
+        ["\xD8", "Ø",],
+        ["\xC6", "Æ",],
+        ["\xC5", "Å",],
     ]
     const is_fixed = (str: string, bad: string[]) => {
         return !bad.map(bad => str.search(bad)).some(v => v !== -1);
@@ -70,6 +77,9 @@ async function main() {
     const max_files = dirs_map.length;
     const effects = dirs_map.map(async ({ filename, url }) => {
         const content = await readFile(`../volvo240.dk/${filename.toLowerCase()}`, "utf-8");
+        if (!content) {
+            return filename
+        }
         const root = HTMLParser.parse(content);
         const post = root.querySelector("table[width='800'] > tbody > tr + tr + tr > td[width='798']");
         if (post === null) {
@@ -105,18 +115,24 @@ async function main() {
         }
         const initial_content = rows.shift()?.trim();
         rows.shift()?.trim();
-        let reply_content = rows.shift()?.trim();
+        if (!initial_content) {
+            return filename
+        }
+        const reply_content = rows.shift()?.trim();
+        if (!reply_content) {
+            return filename
+        }
 
         stmnt.run(
             forum_id,
             post_id,
             sub_id,
-            fix_iso_8859_encoding(fix(title, "Emne:")),
-            fix_iso_8859_encoding(fix(author, "Navn:")),
-            fix_iso_8859_encoding(fix(email, "Email:")),
-            fix_iso_8859_encoding(fix(date, "Dato:")),
-            fix_iso_8859_encoding(initial_content ?? ""),
-            fix_iso_8859_encoding(reply_content ?? ""),
+            fix(title, "Emne:"),
+            fix(author, "Navn:"),
+            fix(email, "Email:"),
+            fix(date, "Dato:"),
+            initial_content,
+            reply_content,
             0
         );
 

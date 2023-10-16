@@ -3,11 +3,11 @@ CREATE TABLE post (
     forum_id INT NOT NULL,
     post_id INT NOT NULL,
     sub_id INT,
-    title BLOB NOT NULL,
-    author BLOB NOT NULL,
-    email BLOB,
-    date BLOB NOT NULL,
-    initial_content BLOB NOT NULL,
-    reply_content BLOB NOT NULL,
+    title TEXT NOT NULL,
+    author TEXT NOT NULL,
+    email TEXT,
+    date TEXT NOT NULL,
+    initial_content TEXT NOT NULL,
+    reply_content TEXT,
     corrected INT NOT NULL
 );

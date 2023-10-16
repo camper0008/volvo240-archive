@@ -4,7 +4,7 @@ use std::{
     path::{Path, PathBuf},
 };
 
-static BYTE_FIXES: [(&[u8], &'static str); 17] = [
+static BYTE_FIXES: [(&[u8], &'static str); 18] = [
     (b"&nbsp;", ""),
     (b"&quot;", "\""),
     (b"&amp;", "&"),
@@ -22,6 +22,7 @@ static BYTE_FIXES: [(&[u8], &'static str); 17] = [
     (b"\xC5", "Å"),
     (b"&#229;", "å"),
     (b"&#197;", "Å"),
+    (b"\xB4", "'"),
 ];
 
 fn replace<T>(source: &[T], from: &[T], to: &[T]) -> Vec<T>

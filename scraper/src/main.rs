@@ -34,19 +34,14 @@ fn parse_sub_reply_content(post: &mut Post, reply_content: &str) {
             Some(ref item) => {
                 let full_match = item.get(0).expect("match 0 should always exist");
                 if full_match.start() == last_look {
+                    last_match = match_info;
                     last_look = full_match.end();
                     continue;
-                }
-                if post.post_id == 2836 {
-                    println!("{}->{}", last_look, full_match.start());
                 }
                 if let Some(info) = last_match {
                     match info.name("author") {
                         Some(author) => {
                             post.author = reply_content[author.range()].to_string();
-                            if post.post_id == 2836 {
-                                println!("{}", post.author);
-                            }
                         }
                         None => (),
                     }
@@ -57,6 +52,10 @@ fn parse_sub_reply_content(post: &mut Post, reply_content: &str) {
                     post.reply_content = Some(re.replace_all(reply_content, "").to_string());
                     break;
                 }
+
+                last_match = match_info;
+                last_look = full_match.end();
+                continue;
             }
             None => {
                 if let Some(info) = last_match {
@@ -73,12 +72,6 @@ fn parse_sub_reply_content(post: &mut Post, reply_content: &str) {
                 break;
             }
         }
-        last_look = if let Some(ref info) = match_info {
-            info.get(0).expect("match 0 should always exist").end()
-        } else {
-            unreachable!("should always break after None case");
-        };
-        last_match = match_info;
     }
 }
 

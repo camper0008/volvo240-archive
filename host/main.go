@@ -38,6 +38,7 @@ type PostItem struct {
 	ForumId   int
 	PostId    int
 	Name      string
+	Date      string
 	Corrected bool
 }
 
@@ -47,7 +48,8 @@ type Post struct {
 	PostId         int
 	SubId          int
 	Title          string
-	Author         string
+	InitialAuthor  string
+	ReplyAuthor    sql.NullString
 	Email          sql.NullString
 	Date           string
 	InitialContent string
@@ -111,7 +113,7 @@ func forumName(forumId int) string {
 func getMainPost(db *sql.DB, forum int, id int) (Post, error) {
 	var mainPost Post
 
-	err := db.QueryRow("SELECT title, author, date, forum_id, post_id, initial_content, reply_content FROM post WHERE forum_id=? AND post_id=?", forum, id).Scan(&mainPost.Title, &mainPost.Author, &mainPost.Date, &mainPost.ForumId, &mainPost.PostId, &mainPost.InitialContent, &mainPost.ReplyContent)
+	err := db.QueryRow("SELECT title, initial_author, reply_author, date, forum_id, post_id, initial_content, reply_content FROM post WHERE forum_id=? AND post_id=?", forum, id).Scan(&mainPost.Title, &mainPost.InitialAuthor, &mainPost.ReplyAuthor, &mainPost.Date, &mainPost.ForumId, &mainPost.PostId, &mainPost.InitialContent, &mainPost.ReplyContent)
 
 	mainPost.ForumTitle = forumName(mainPost.ForumId)
 
@@ -120,7 +122,7 @@ func getMainPost(db *sql.DB, forum int, id int) (Post, error) {
 }
 
 func getSubPosts(db *sql.DB, forum int, id int) ([]Post, error) {
-	query, err := db.Query("SELECT DISTINCT author, date, sub_id, reply_content FROM post WHERE forum_id=? AND post_id=? AND sub_id IS NOT NULL ORDER BY date", forum, id)
+	query, err := db.Query("SELECT DISTINCT initial_author, reply_author, date, sub_id, reply_content FROM post WHERE forum_id=? AND post_id=? AND sub_id IS NOT NULL ORDER BY date", forum, id)
 	if err != nil {
 		return nil, err
 	}
@@ -128,7 +130,7 @@ func getSubPosts(db *sql.DB, forum int, id int) ([]Post, error) {
 	sub_posts := make([]Post, 0)
 	for query.Next() {
 		var sub_post Post
-		err = query.Scan(&sub_post.Author, &sub_post.Date, &sub_post.SubId, &sub_post.ReplyContent)
+		err = query.Scan(&sub_post.InitialAuthor, &sub_post.ReplyAuthor, &sub_post.Date, &sub_post.SubId, &sub_post.ReplyContent)
 		if err != nil {
 			return nil, err
 		}
@@ -195,23 +197,31 @@ func forumEditPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *ht
 			switch key {
 			case "title":
 				tx.Exec("UPDATE post SET title=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
-			case "author":
-				tx.Exec("UPDATE post SET author=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
+			case "initial-author":
+				tx.Exec("UPDATE post SET initial_author=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
 			case "initial-content":
 				tx.Exec("UPDATE post SET initial_content=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
 			case "reply-content":
 				tx.Exec("UPDATE post SET reply_content=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
 			default:
-				if !strings.HasPrefix(key, "sub-reply-content-") {
-					continue
+				if strings.HasPrefix(key, "sub-reply-content-") {
+					sub_id := strings.TrimPrefix(key, "sub-reply-content-")
+					sub_id_int, err := strconv.Atoi(sub_id)
+					if err != nil {
+						w.Write([]byte("err: " + err.Error()))
+						return
+					}
+					tx.Exec("UPDATE post SET reply_content=?, corrected=1 WHERE forum_id=? AND post_id=? AND sub_id=?", values[0], forum, post, sub_id_int)
+				} else if strings.HasPrefix(key, "sub-reply-author-") {
+					sub_id := strings.TrimPrefix(key, "sub-reply-author-")
+					sub_id_int, err := strconv.Atoi(sub_id)
+					if err != nil {
+						w.Write([]byte("err: " + err.Error()))
+						return
+					}
+					tx.Exec("UPDATE post SET reply_author=?, corrected=1 WHERE forum_id=? AND post_id=? AND sub_id=?", values[0], forum, post, sub_id_int)
 				}
-				sub_id := strings.TrimPrefix(key, "sub-reply-content-")
-				sub_id_int, err := strconv.Atoi(sub_id)
-				if err != nil {
-					w.Write([]byte("err: " + err.Error()))
-					return
-				}
-				tx.Exec("UPDATE post SET reply_content=?, corrected=1 WHERE forum_id=? AND post_id=? AND sub_id=?", values[0], forum, post, sub_id_int)
+
 			}
 		}
 		err = tx.Commit()
@@ -280,7 +290,7 @@ func forumPostList(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *ht
 		page = 0
 	}
 	limit := 20
-	rows, err := db.Query("SELECT DISTINCT forum_id, post_id, title, corrected FROM post WHERE forum_id=? LIMIT ? OFFSET ?", forum, limit, page*limit)
+	rows, err := db.Query("SELECT DISTINCT forum_id, post_id, title, corrected, date FROM post WHERE forum_id=? ORDER BY corrected LIMIT ? OFFSET ?", forum, limit, page*limit)
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
@@ -300,7 +310,7 @@ func forumPostList(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *ht
 
 	for rows.Next() {
 		var item PostItem
-		err = rows.Scan(&item.ForumId, &item.PostId, &item.Name, &item.Corrected)
+		err = rows.Scan(&item.ForumId, &item.PostId, &item.Name, &item.Corrected, &item.Date)
 		if err != nil {
 			w.Write([]byte("err: " + err.Error()))
 			return

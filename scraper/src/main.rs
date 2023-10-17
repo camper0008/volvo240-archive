@@ -15,7 +15,8 @@ struct Post {
     post_id: i32,
     sub_id: Option<i32>,
     title: String,
-    author: String,
+    initial_author: String,
+    reply_author: Option<String>,
     email: Option<String>,
     date: String,
     initial_content: String,
@@ -24,8 +25,9 @@ struct Post {
 }
 
 fn parse_sub_reply_content(post: &mut Post, reply_content: &str) {
-    let re = Regex::new(r"Re: .*? \((?<author>.*?), (?<date>\d{2}-\d{2}-\d{4} \d{2}:\d{2})\)")
-        .expect("should compile successfully");
+    let re =
+        Regex::new(r"Re: .*?\n \n\((?<author>.*?), (?<date>\d{2}-\d{2}-\d{4} \d{2}:\d{2})\)\n?")
+            .expect("should compile successfully");
     let mut last_look = 0;
     let mut last_match: Option<Captures<'_>> = re.captures_at(reply_content, last_look);
     loop {
@@ -41,15 +43,16 @@ fn parse_sub_reply_content(post: &mut Post, reply_content: &str) {
                 if let Some(info) = last_match {
                     match info.name("author") {
                         Some(author) => {
-                            post.author = reply_content[author.range()].to_string();
+                            post.reply_author =
+                                Some(reply_content[author.range()].trim().to_string());
                         }
                         None => (),
                     }
                     match info.name("date") {
-                        Some(date) => post.date = reply_content[date.range()].to_string(),
+                        Some(date) => post.date = reply_content[date.range()].trim().to_string(),
                         None => (),
                     }
-                    post.reply_content = Some(re.replace_all(reply_content, "").to_string());
+                    post.reply_content = Some(re.replace_all(reply_content, "").trim().to_string());
                     break;
                 }
 
@@ -60,14 +63,17 @@ fn parse_sub_reply_content(post: &mut Post, reply_content: &str) {
             None => {
                 if let Some(info) = last_match {
                     match info.name("author") {
-                        Some(author) => post.author = reply_content[author.range()].to_string(),
+                        Some(author) => {
+                            post.reply_author =
+                                Some(reply_content[author.range()].trim().to_string())
+                        }
                         None => (),
                     }
                     match info.name("date") {
-                        Some(date) => post.date = reply_content[date.range()].to_string(),
+                        Some(date) => post.date = reply_content[date.range()].trim().to_string(),
                         None => (),
                     }
-                    post.reply_content = Some(re.replace_all(reply_content, "").to_string());
+                    post.reply_content = Some(re.replace_all(reply_content, "").trim().to_string());
                 }
                 break;
             }
@@ -101,8 +107,9 @@ fn next_row_element<'a, 'b>(
         .next()
         .ok_or_else(|| path.to_string() + error)?
         .text()
-        .fold(String::new(), |acc, text| acc + text);
-    let value = value.trim().to_string();
+        .fold(String::new(), |acc, text| acc + "\n" + text)
+        .trim()
+        .to_string();
 
     if value.is_empty() {
         return Err(path.to_string() + error);
@@ -162,10 +169,12 @@ fn process_file(path: &str) -> Result<Option<Post>, String> {
     post.title = next_row_element(&mut rows, path, ": no title")?
         .strip_prefix("Emne:")
         .ok_or_else(|| path.to_string() + ": title didn't have 'Emne:' prefix")?
+        .trim()
         .to_string();
-    post.author = next_row_element(&mut rows, path, ": no author")?
+    post.initial_author = next_row_element(&mut rows, path, ": no author")?
         .strip_prefix("Navn:")
         .ok_or_else(|| path.to_string() + ": author didn't have 'Navn:' prefix")?
+        .trim()
         .to_string();
     let email_or_date = next_row_element(&mut rows, path, ": no email_or_date")?;
     if email_or_date.starts_with("E-mail:") {
@@ -173,11 +182,13 @@ fn process_file(path: &str) -> Result<Option<Post>, String> {
         post.date = next_row_element(&mut rows, path, ": no date")?
             .strip_prefix("Dato:")
             .ok_or_else(|| path.to_string() + ": date didn't have 'Dato:' prefix")?
+            .trim()
             .to_string();
     } else {
         post.date = email_or_date
             .strip_prefix("Dato:")
             .ok_or_else(|| path.to_string() + ": date didn't have 'Dato:' prefix")?
+            .trim()
             .to_string();
     }
     post.initial_content = next_row_element(&mut rows, path, ": no initial_content")?;
@@ -190,7 +201,7 @@ fn process_file(path: &str) -> Result<Option<Post>, String> {
         rows.next()
             .ok_or_else(|| path.to_string() + ": no reply_content")?
             .text()
-            .fold(String::new(), |acc, text| acc + text)
+            .fold(String::new(), |acc, text| acc + "\n" + text)
             .trim()
             .to_string(),
     );
@@ -200,21 +211,17 @@ fn process_file(path: &str) -> Result<Option<Post>, String> {
     };
 
     if let Some(reply_content) = post.reply_content.clone() {
-        parse_sub_reply_content(&mut post, &reply_content);
+        if post.sub_id.is_some() {
+            parse_sub_reply_content(&mut post, &reply_content);
+        }
     }
 
-    post.corrected = !post.title.contains("#{INVALID_CHAR}#")
-        && !post.author.contains("#{INVALID_CHAR}#")
-        && !post.date.contains("#{INVALID_CHAR}#")
-        && !post.initial_content.contains("#{INVALID_CHAR}#")
-        && !post
-            .reply_content
-            .as_ref()
-            .is_some_and(|v| v.contains("#{INVALID_CHAR}#") || v.contains("_"))
-        && !post.title.contains("_")
-        && !post.author.contains("_")
+    post.corrected = !post.title.contains("_")
+        && !post.initial_author.contains("_")
+        && !post.reply_author.as_ref().is_some_and(|v| v.contains("_"))
         && !post.date.contains("_")
-        && !post.initial_content.contains("_");
+        && !post.initial_content.contains("_")
+        && !post.reply_content.as_ref().is_some_and(|v| v.contains("_"));
 
     Ok(Some(post))
 }
@@ -246,8 +253,8 @@ async fn main() -> io::Result<()> {
 
     for post in posts {
         sqlx::query!(
-            "INSERT INTO post (forum_id, post_id, sub_id, title, author, email, date, initial_content, reply_content, corrected) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?);", 
-            post.forum_id, post.post_id, post.sub_id, post.title, post.author, post.email, post.date, post.initial_content, post.reply_content, post.corrected
+            "INSERT INTO post (forum_id, post_id, sub_id, title, initial_author, reply_author, email, date, initial_content, reply_content, corrected) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);", 
+            post.forum_id, post.post_id, post.sub_id, post.title, post.initial_author, post.reply_author, post.email, post.date, post.initial_content, post.reply_content, post.corrected
         )
             .execute(&pool)
             .await

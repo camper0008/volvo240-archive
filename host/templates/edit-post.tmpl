@@ -2,16 +2,16 @@
     <h2><a href="/post?forum={{ .Post.ForumId }}&post={{ .Post.PostId }}">Tilbage</a></h2>
     <form method="post">
         <h1><input name="title" class="editable" value="{{ .Post.Title }}"> <span class="dev-info">({{ .Post.ForumTitle }} #{{ .Post.PostId }})</span> <button type="submit">Gem</button></h1>
-        <span><input name="author" value="{{ .Post.InitialAuthor }}" class="editable"> • {{ .Post.Date }}</span>
-        <textarea name="initial-content" class="text-post editable">{{ .Post.InitialContent }}</textarea>
+        <span><input name="author" value="{{ .Post.Author }}" class="editable"> • {{ .Post.Date }}</span>
+        <textarea name="initial-content" class="text-post editable">{{ .Post.Content }}</textarea>
         {{ if and (not .SubPosts) .Post.ReplyContent.Valid }}
             <hr>
-            <textarea name="reply-content" class="text-post editable">{{ .Post.ReplyContent.String }}</textarea>
+            <textarea name="reply-content" class="text-post editable">{{ .Post.Content }}</textarea>
         {{ end }}
         {{ range .SubPosts }}
             <hr>
-            <span class="dev-info">#{{ .SubId }}</span> <input name="sub-reply-author-{{.SubId}}" class="editable" value="{{.ReplyAuthor.String}}"> • {{ .Date }}
-            <textarea name="sub-reply-content-{{.SubId}}" class="text-post editable">{{ .ReplyContent.String }}</textarea>
+            <span class="dev-info">#{{ .SubId }}</span> <input name="sub-reply-author-{{.SubId}}" class="editable" value="{{.Author}}"> • {{ .Date }}
+            <textarea name="sub-reply-content-{{.SubId}}" class="text-post editable">{{ .Content }}</textarea>
         {{ end }}
     </form>
 {{ end }}

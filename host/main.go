@@ -42,24 +42,22 @@ type PostItem struct {
 	Corrected bool
 }
 
-type Post struct {
-	ForumTitle     string
-	ForumId        int
-	PostId         int
-	SubId          int
-	Title          string
-	InitialAuthor  string
-	ReplyAuthor    sql.NullString
-	Email          sql.NullString
-	Date           string
-	InitialContent string
-	ReplyContent   sql.NullString
-	Corrected      bool
+type Item struct {
+	ForumTitle string
+	ForumId    int
+	PostId     int
+	SubId      int
+	Title      string
+	Author     string
+	Email      sql.NullString
+	Date       string
+	Content    string
+	Corrected  bool
 }
 
 type PostWithReplies struct {
-	Post     Post
-	SubPosts []Post
+	Post     Item
+	SubPosts []Item
 }
 
 type ForumItem struct {
@@ -110,34 +108,34 @@ func forumName(forumId int) string {
 	}
 }
 
-func getMainPost(db *sql.DB, forum int, id int) (Post, error) {
-	var mainPost Post
+func getPost(db *sql.DB, forum int, id int) (Item, error) {
+	var post Item
 
-	err := db.QueryRow("SELECT title, initial_author, reply_author, date, forum_id, post_id, initial_content, reply_content FROM post WHERE forum_id=? AND post_id=?", forum, id).Scan(&mainPost.Title, &mainPost.InitialAuthor, &mainPost.ReplyAuthor, &mainPost.Date, &mainPost.ForumId, &mainPost.PostId, &mainPost.InitialContent, &mainPost.ReplyContent)
+	err := db.QueryRow("SELECT title, author, date, forum_id, post_id, content FROM post WHERE forum_id=? AND post_id=?", forum, id).Scan(&post.Title, &post.Author, &post.Date, &post.ForumId, &post.PostId, &post.Content)
 
-	mainPost.ForumTitle = forumName(mainPost.ForumId)
+	post.ForumTitle = forumName(post.ForumId)
 
-	return mainPost, err
+	return post, err
 
 }
 
-func getSubPosts(db *sql.DB, forum int, id int) ([]Post, error) {
-	query, err := db.Query("SELECT DISTINCT initial_author, reply_author, date, sub_id, reply_content FROM post WHERE forum_id=? AND post_id=? AND sub_id IS NOT NULL ORDER BY date", forum, id)
+func getReplies(db *sql.DB, forum int, id int) ([]Item, error) {
+	query, err := db.Query("SELECT content, date, author, sub_id FROM reply WHERE forum_id=? AND post_id=? AND sub_id IS NOT NULL ORDER BY date ASC", forum, id)
 	if err != nil {
 		return nil, err
 	}
 	defer query.Close()
-	sub_posts := make([]Post, 0)
+	replies := make([]Item, 0)
 	for query.Next() {
-		var sub_post Post
-		err = query.Scan(&sub_post.InitialAuthor, &sub_post.ReplyAuthor, &sub_post.Date, &sub_post.SubId, &sub_post.ReplyContent)
+		var reply Item
+		err = query.Scan(&reply.Content, &reply.Date, &reply.Author, &reply.SubId)
 		if err != nil {
 			return nil, err
 		}
-		sub_posts = append(sub_posts, sub_post)
+		replies = append(replies, reply)
 	}
 
-	return sub_posts, err
+	return replies, err
 }
 
 func queryValue(req *http.Request, query string) (int, error) {
@@ -198,11 +196,9 @@ func forumEditPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *ht
 			case "title":
 				tx.Exec("UPDATE post SET title=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
 			case "initial-author":
-				tx.Exec("UPDATE post SET initial_author=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
+				tx.Exec("UPDATE post SET author=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
 			case "initial-content":
-				tx.Exec("UPDATE post SET initial_content=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
-			case "reply-content":
-				tx.Exec("UPDATE post SET reply_content=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
+				tx.Exec("UPDATE post SET content=?, corrected=1 WHERE forum_id=? AND post_id=?", values[0], forum, post)
 			default:
 				if strings.HasPrefix(key, "sub-reply-content-") {
 					sub_id := strings.TrimPrefix(key, "sub-reply-content-")
@@ -211,7 +207,7 @@ func forumEditPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *ht
 						w.Write([]byte("err: " + err.Error()))
 						return
 					}
-					tx.Exec("UPDATE post SET reply_content=?, corrected=1 WHERE forum_id=? AND post_id=? AND sub_id=?", values[0], forum, post, sub_id_int)
+					tx.Exec("UPDATE reply SET content=?, corrected=1 WHERE forum_id=? AND post_id=? AND sub_id=?", values[0], forum, post, sub_id_int)
 				} else if strings.HasPrefix(key, "sub-reply-author-") {
 					sub_id := strings.TrimPrefix(key, "sub-reply-author-")
 					sub_id_int, err := strconv.Atoi(sub_id)
@@ -219,7 +215,7 @@ func forumEditPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *ht
 						w.Write([]byte("err: " + err.Error()))
 						return
 					}
-					tx.Exec("UPDATE post SET reply_author=?, corrected=1 WHERE forum_id=? AND post_id=? AND sub_id=?", values[0], forum, post, sub_id_int)
+					tx.Exec("UPDATE reply SET reply_author=?, corrected=1 WHERE forum_id=? AND post_id=? AND sub_id=?", values[0], forum, post, sub_id_int)
 				}
 
 			}
@@ -231,13 +227,13 @@ func forumEditPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *ht
 		}
 	}
 
-	mainPost, err := getMainPost(db, forum, post)
+	mainPost, err := getPost(db, forum, post)
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
 	}
 
-	subPosts, err := getSubPosts(db, forum, post)
+	subPosts, err := getReplies(db, forum, post)
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
@@ -261,13 +257,13 @@ func forumPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.R
 		return
 	}
 
-	mainPost, err := getMainPost(db, forum, post)
+	mainPost, err := getPost(db, forum, post)
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
 	}
 
-	subPosts, err := getSubPosts(db, forum, post)
+	subPosts, err := getReplies(db, forum, post)
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return
@@ -290,7 +286,7 @@ func forumPostList(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *ht
 		page = 0
 	}
 	limit := 20
-	rows, err := db.Query("SELECT DISTINCT forum_id, post_id, title, corrected, date FROM post WHERE forum_id=? ORDER BY corrected LIMIT ? OFFSET ?", forum, limit, page*limit)
+	rows, err := db.Query("SELECT forum_id, post_id, title, corrected, date FROM post WHERE forum_id=? ORDER BY corrected ASC, date DESC LIMIT ? OFFSET ?", forum, limit, page*limit)
 	if err != nil {
 		w.Write([]byte("err: " + err.Error()))
 		return

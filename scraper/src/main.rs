@@ -1,84 +1,255 @@
 use rayon::prelude::*;
-use regex::{Captures, Regex};
-use scraper::{Html, Selector};
+use regex::Regex;
+use scraper::{Element, ElementRef, Html, Selector};
 use serde::Serialize;
 use sqlx::SqlitePool;
 use std::{
     fs, io,
     path::{Path, PathBuf},
+    sync::atomic::{AtomicI32, Ordering},
 };
 use url::Url;
 
-#[derive(Default, Serialize)]
+#[derive(Default, Serialize, Clone, Debug)]
 struct Post {
     forum_id: i32,
     post_id: i32,
-    sub_id: Option<i32>,
     title: String,
-    initial_author: String,
-    reply_author: Option<String>,
+    author: String,
     email: Option<String>,
     date: String,
-    initial_content: String,
-    reply_content: Option<String>,
+    content: String,
     corrected: bool,
 }
 
-fn parse_sub_reply_content(post: &mut Post, reply_content: &str) {
-    let re =
-        Regex::new(r"Re: .*?\n \n\((?<author>.*?), (?<date>\d{2}-\d{2}-\d{4} \d{2}:\d{2})\)\n?")
-            .expect("should compile successfully");
-    let mut last_look = 0;
-    let mut last_match: Option<Captures<'_>> = re.captures_at(reply_content, last_look);
-    loop {
-        let match_info: Option<Captures<'_>> = re.captures_at(reply_content, last_look);
-        match match_info {
-            Some(ref item) => {
-                let full_match = item.get(0).expect("match 0 should always exist");
-                if full_match.start() == last_look {
-                    last_match = match_info;
-                    last_look = full_match.end();
-                    continue;
-                }
-                if let Some(info) = last_match {
-                    match info.name("author") {
-                        Some(author) => {
-                            post.reply_author =
-                                Some(reply_content[author.range()].trim().to_string());
-                        }
-                        None => (),
-                    }
-                    match info.name("date") {
-                        Some(date) => post.date = reply_content[date.range()].trim().to_string(),
-                        None => (),
-                    }
-                    post.reply_content = Some(re.replace_all(reply_content, "").trim().to_string());
-                    break;
-                }
+#[derive(Default, Serialize, Clone, Debug)]
+struct Reply {
+    forum_id: i32,
+    post_id: i32,
+    sub_id: i32,
+    author: String,
+    date: String,
+    content: String,
+    corrected: bool,
+}
 
-                last_match = match_info;
-                last_look = full_match.end();
-                continue;
-            }
-            None => {
-                if let Some(info) = last_match {
-                    match info.name("author") {
-                        Some(author) => {
-                            post.reply_author =
-                                Some(reply_content[author.range()].trim().to_string())
-                        }
-                        None => (),
+enum Item {
+    Post(Post),
+    Reply(Reply),
+}
+
+static ID_COUNTER: AtomicI32 = AtomicI32::new(100000);
+
+fn post_from_query(query: &str) -> Result<Post, String> {
+    let mut post = Post::default();
+
+    let query = &query
+        .replace("%26amp;", "&")
+        .replace("%3f", "?")
+        .replace("%3d", "=")
+        .replace("%26", "&")
+        .replace("../", "https://")
+        .to_lowercase();
+    let query = query.parse::<Url>().unwrap();
+    let query = query.query_pairs();
+
+    for (key, value) in query {
+        match key.to_lowercase().as_str() {
+            "forumid" => post.forum_id = value.parse().unwrap(),
+            "id" => post.post_id = value.parse().unwrap(),
+            "f" if value != "4" => return Err("forum != 4".to_string()),
+            "f" | "showsub" => {}
+            key => return Err(format!("unrecognized key {key}")),
+        }
+    }
+
+    Ok(post)
+}
+
+fn parse_link_id(child: &ElementRef) -> Option<i32> {
+    let id_regex =
+        Regex::new(r"[Ss][Hh][Oo][Ww][Ss][Uu][Bb]=(\d+)").expect("should be valid regex");
+
+    let link_selector = Selector::parse("a").expect("should be valid selector");
+    child
+        .select(&link_selector)
+        .next()
+        .map(|element| {
+            element
+                .value()
+                .attr("href")
+                .map(|haystack| {
+                    id_regex
+                        .captures(haystack)
+                        .map(|capture| {
+                            capture
+                                .get(1)
+                                .map(|id| haystack[id.range()].parse::<i32>().ok())
+                                .flatten()
+                        })
+                        .flatten()
+                })
+                .flatten()
+        })
+        .flatten()
+}
+
+fn reformat_date(date: String) -> Option<String> {
+    let re = Regex::new(r"(?<day>\d{2})-(?<month>\d{2})-(?<year>\d{4}) (?<time>\d{2}:\d{2})").expect("should be valid regex");
+    let captures = re.captures(&date)?;
+    let day = &date[captures.name("day")?.range()];
+    let month = &date[captures.name("month")?.range()];
+    let year = &date[captures.name("year")?.range()];
+    let time = &date[captures.name("time")?.range()];
+    Some(format!("{year}-{month}-{day} {time}"))
+}
+
+fn parse_li_element<'a>(
+    forum_id: i32,
+    post_id: i32,
+    child: &ElementRef,
+) -> Result<(usize, Option<Reply>), String> {
+    let mut elements_skipped = 0;
+    let author_selector = Selector::parse("em").map_err(|_| "invalid author selector")?;
+
+    let author_regex =
+        Regex::new(r"\((.*?), (\d{2}-\d{2}-\d{4} \d{2}:\d{2})\)").expect("should be valid regex");
+
+    let author_text = child
+        .select(&author_selector)
+        .next()
+        .map(|v| v.text().fold(String::new(), |acc, curr| acc + curr));
+
+    let author_match = author_text
+        .as_ref()
+        .map(|v| author_regex.captures(v))
+        .flatten()
+        .ok_or_else(|| "invalid author info".to_string())?;
+
+    let author = author_match
+        .get(1)
+        .map(|v| v.range())
+        .map(|range| author_text.as_ref().map(|text| (&text[range]).to_string()))
+        .flatten()
+        .ok_or_else(|| "reply missing author".to_string())?;
+
+    let date = author_match
+        .get(2)
+        .map(|v| v.range())
+        .map(|range| author_text.as_ref().map(|text| (&text[range]).to_string()))
+        .flatten()
+        .map(|date| reformat_date(date))
+        .flatten()
+        .ok_or_else(|| "reply missing date".to_string())?;
+
+    let sub_id = parse_link_id(&child).unwrap_or_else(|| ID_COUNTER.fetch_add(1, Ordering::SeqCst));
+    let Some(next) = child.next_sibling_element() else {
+        return Ok((elements_skipped, None));
+    };
+    elements_skipped += 1;
+    match next.value().name().to_lowercase().as_str() {
+        "li" => {
+            let (parsed_skipped_elements, parsed_post) =
+                parse_li_element(forum_id, post_id, &next)?;
+            return Ok((parsed_skipped_elements + elements_skipped, parsed_post));
+        }
+        "br" => elements_skipped += 1,
+        element => return Err(format!("unhandled element: <{element}>")),
+    }
+
+    let content = next
+        .next_sibling_element()
+        .map(|element| {
+            element.text().fold(String::new(), |acc, v| {
+                acc.trim().to_string() + "\n\n" + v.trim()
+            })
+        })
+        .map(|element| element.trim().to_string())
+        .ok_or_else(|| "reply missing content")?;
+
+    elements_skipped += 1;
+
+    let closing_br = next
+        .next_sibling_element()
+        .map(|element| element.next_sibling_element())
+        .flatten()
+        .map(|element| element.value().name());
+
+    match closing_br {
+        Some(name) if &name.to_lowercase() == "br" => (),
+        Some(name) => return Err(format!("expected <br>, got {name}")),
+        None => return Err("expected <br>, got None".to_string()),
+    };
+
+    elements_skipped += 1;
+
+    Ok((
+        elements_skipped,
+        Some(Reply {
+            corrected: !(author.contains("_") || content.contains("_")),
+            forum_id,
+            post_id,
+            sub_id,
+            author,
+            date,
+            content,
+        }),
+    ))
+}
+fn parse_sub_reply_content(
+    forum_id: i32,
+    post_id: i32,
+    reply_content: ElementRef,
+) -> Result<Vec<Reply>, String> {
+    /*
+        message follows format:
+        <td> <font> <ul>
+            <li> <strong> ... <em> (author, date) </em> </strong> </li>
+            <br>
+            <font> content </font>
+            <br>
+        </ul> </font> </td>
+
+        message is sometimes format:
+        <td> <font> <ul>
+            <li> <strong> <a href="/...some_url..."> </a> <em>(author, date)</em> </li>
+            <br>
+            <font> content </font>
+            <br>
+        </ul> </font> </td>
+    */
+    let mut posts = Vec::new();
+    let mut next_child = reply_content
+        .first_element_child()
+        .ok_or_else(|| "no <td>".to_string())?
+        .first_element_child()
+        .ok_or_else(|| "no <font>".to_string())?
+        .first_element_child()
+        .ok_or_else(|| "no <ul>".to_string())?
+        .first_element_child();
+    loop {
+        let Some(child) = next_child else {
+            break;
+        };
+        match child.value().name().to_lowercase().as_str() {
+            "li" => match parse_li_element(forum_id, post_id, &child)? {
+                (skipped, Some(new_post)) => {
+                    posts.push(new_post);
+                    for _ in 0..skipped {
+                        next_child = next_child
+                            .map(|element| element.next_sibling_element())
+                            .flatten();
                     }
-                    match info.name("date") {
-                        Some(date) => post.date = reply_content[date.range()].trim().to_string(),
-                        None => (),
-                    }
-                    post.reply_content = Some(re.replace_all(reply_content, "").trim().to_string());
                 }
-                break;
+                (_, None) => break,
+            },
+            name => {
+                return Err(format!("unhandled element: <{name}>"));
             }
         }
     }
+
+    Ok(posts)
 }
 
 fn recurse(path: impl AsRef<Path>) -> Vec<PathBuf> {
@@ -118,7 +289,7 @@ fn next_row_element<'a, 'b>(
     Ok(value)
 }
 
-fn process_file(path: &str) -> Result<Option<Post>, String> {
+fn process_file(path: &str) -> Result<Option<Vec<Item>>, String> {
     if path.ends_with(".jpg") || path.ends_with(".png") || path.ends_with(".gif") {
         return Ok(None);
     }
@@ -127,28 +298,10 @@ fn process_file(path: &str) -> Result<Option<Post>, String> {
         return Ok(None);
     }
 
-    let query = &path
-        .replace("%26amp;", "&")
-        .replace("%3f", "?")
-        .replace("%3d", "=")
-        .replace("%26", "&")
-        .replace("../", "https://")
-        .to_lowercase();
-    let query = query.parse::<Url>().unwrap();
-    let query = query.query_pairs();
-
-    let mut post = Post::default();
-
-    for (key, value) in query {
-        match key.to_lowercase().as_str() {
-            "forumid" => post.forum_id = value.parse().unwrap(),
-            "id" => post.post_id = value.parse().unwrap(),
-            "showsub" => post.sub_id = Some(value.parse().unwrap()),
-            "f" if value != "4" => return Ok(None),
-            "f" => {}
-            key => return Err(format!("unrecognized key {key}")),
-        }
-    }
+    let mut post = match post_from_query(path) {
+        Ok(post) => post,
+        Err(_) => return Ok(None),
+    };
 
     let post_selector =
         Selector::parse("table[width='800'] > tbody > tr + tr + tr > td[width='798']")
@@ -171,7 +324,7 @@ fn process_file(path: &str) -> Result<Option<Post>, String> {
         .ok_or_else(|| path.to_string() + ": title didn't have 'Emne:' prefix")?
         .trim()
         .to_string();
-    post.initial_author = next_row_element(&mut rows, path, ": no author")?
+    post.author = next_row_element(&mut rows, path, ": no author")?
         .strip_prefix("Navn:")
         .ok_or_else(|| path.to_string() + ": author didn't have 'Navn:' prefix")?
         .trim()
@@ -181,85 +334,128 @@ fn process_file(path: &str) -> Result<Option<Post>, String> {
         post.email = Some(email_or_date.strip_prefix("E-mail:").unwrap().to_string());
         post.date = next_row_element(&mut rows, path, ": no date")?
             .strip_prefix("Dato:")
-            .ok_or_else(|| path.to_string() + ": date didn't have 'Dato:' prefix")?
-            .trim()
-            .to_string();
+            .map(|v| reformat_date(v.trim().to_string()))
+            .flatten()
+            .ok_or_else(|| path.to_string() + ": date didn't have 'Dato:' prefix")?;
     } else {
         post.date = email_or_date
             .strip_prefix("Dato:")
-            .ok_or_else(|| path.to_string() + ": date didn't have 'Dato:' prefix")?
-            .trim()
-            .to_string();
+            .map(|v| reformat_date(v.trim().to_string()))
+            .flatten()
+            .ok_or_else(|| path.to_string() + ": date didn't have 'Dato:' prefix")?;
     }
-    post.initial_content = next_row_element(&mut rows, path, ": no initial_content")?;
+    post.content = next_row_element(&mut rows, path, ": no initial_content")?;
 
     next_row_element(&mut rows, path, ": no reply header")?
         .strip_prefix("Svar:")
         .ok_or_else(|| path.to_string() + ": reply header didn't have 'Svar:' prefix")?;
 
-    post.reply_content = Some(
+    let  replies = parse_sub_reply_content(
+        post.forum_id,
+        post.post_id,
         rows.next()
-            .ok_or_else(|| path.to_string() + ": no reply_content")?
-            .text()
-            .fold(String::new(), |acc, text| acc + "\n" + text)
-            .trim()
-            .to_string(),
-    );
-
-    if post.reply_content.as_ref().is_some_and(|c| c.is_empty()) {
-        post.reply_content = None;
-    };
-
-    if let Some(reply_content) = post.reply_content.clone() {
-        if post.sub_id.is_some() {
-            parse_sub_reply_content(&mut post, &reply_content);
-        }
-    }
+            .ok_or_else(|| path.to_string() + ": no reply content")?,
+    )
+    .map_err(|err| path.to_string() + ": " + &err)?;
 
     post.corrected = !post.title.contains("_")
-        && !post.initial_author.contains("_")
-        && !post.reply_author.as_ref().is_some_and(|v| v.contains("_"))
-        && !post.date.contains("_")
-        && !post.initial_content.contains("_")
-        && !post.reply_content.as_ref().is_some_and(|v| v.contains("_"));
+        && !post.author.contains("_")
+        && !post.content.contains("_")
+        && !replies.iter().any(|reply| reply.corrected);
 
-    Ok(Some(post))
+    Ok(Some(
+        replies
+            .into_iter()
+            .map(Item::Reply)
+            .chain(std::iter::once(Item::Post(post)))
+            .collect(),
+    ))
 }
 
-fn scrape_content() -> io::Result<Vec<Post>> {
+async fn scrape_content() -> io::Result<Vec<Item>> {
     let paths: Vec<_> = recurse("../volvo240.dk");
+    println!("scraping...");
     println!("failed items:");
-    Ok(paths
+    let content = Ok(paths
         .par_iter()
         .map(|entry| process_file(entry.to_str().expect("invalid path: {entry:?}")))
         .filter_map(|entry| match entry {
-            Ok(post) => post,
+            Ok(Some(post)) => Some(post),
+            Ok(None) => {
+                None
+            },
             Err(err) => {
-                println!("{err}");
+                eprintln!("{err}");
                 None
             }
         })
-        .collect())
+        .flatten()
+        .collect());
+    println!("scraping completed");
+
+    content
 }
 
 #[tokio::main]
 async fn main() -> io::Result<()> {
-    let posts = scrape_content()?;
+    let items = scrape_content().await?;
     let pool = SqlitePool::connect(env!("DATABASE_URL")).await.unwrap();
     sqlx::query!("DELETE FROM post;",)
         .execute(&pool)
         .await
         .unwrap();
+    sqlx::query!("DELETE FROM reply;",)
+        .execute(&pool)
+        .await
+        .unwrap();
 
-    for post in posts {
-        sqlx::query!(
-            "INSERT INTO post (forum_id, post_id, sub_id, title, initial_author, reply_author, email, date, initial_content, reply_content, corrected) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);", 
-            post.forum_id, post.post_id, post.sub_id, post.title, post.initial_author, post.reply_author, post.email, post.date, post.initial_content, post.reply_content, post.corrected
-        )
-            .execute(&pool)
-            .await
-            .unwrap();
+    println!("inserting keys...");
+    println!("failed items:");
+    for item in items {
+        match item {
+            Item::Post(post) => {
+                let result = sqlx::query!(
+                    "INSERT INTO post (forum_id, post_id, title, author, email, date, content, corrected) VALUES (?, ?, ?, ?, ?, ?, ?, ?);", 
+                    post.forum_id, 
+                    post.post_id, 
+                    post.title, 
+                    post.author, 
+                    post.email, 
+                    post.date, 
+                    post.content, 
+                    post.corrected
+                )
+                .execute(&pool)
+                .await;
+
+                match result {
+                    Ok(_) => (),
+                    Err(err) if err.to_string().contains("UNIQUE constraint failed") => {},
+                    Err(err) => eprintln!("forum={}, post={}: {err}", post.forum_id, post.post_id),
+                }
+            }
+            Item::Reply(reply) => {
+                let result = sqlx::query!(
+                    "INSERT INTO reply (forum_id, post_id, sub_id, author, date, content, corrected) VALUES (?, ?, ?, ?, ?, ?, ?);", 
+                    reply.forum_id, 
+                    reply.post_id, 
+                    reply.sub_id, 
+                    reply.author, 
+                    reply.date, 
+                    reply.content, 
+                    reply.corrected
+                )
+                .execute(&pool)
+                .await;
+                match result {
+                    Ok(_) => (),
+                    Err(err) if err.to_string().contains("UNIQUE constraint failed") => {},
+                    Err(err) => eprintln!("{err}"),
+                }
+            },
+        };
     }
+    println!("insertion completed");
 
     Ok(())
 }

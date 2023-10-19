@@ -2,15 +2,11 @@
     <h2><a href="/list?forum={{ .Post.ForumId }}">Tilbage</a> • <a href="/edit?forum={{ .Post.ForumId }}&post={{ .Post.PostId }}">Rediger</a></h2>
     <h1>{{ .Post.Title }} <span class="dev-info">({{ .Post.ForumTitle }} #{{ .Post.PostId }})</span>
     </h1>
-    <span>{{ .Post.InitialAuthor }} • {{ .Post.Date }}</span>
-    <p class="text-post">{{ .Post.InitialContent }}</p>
-    {{ if and (not .SubPosts) .Post.ReplyContent.Valid }}
-        <hr>
-        <p class="text-post">{{ .Post.ReplyContent.String }}</p>
-    {{ end }}
+    <span>{{ .Post.Author }} • {{ .Post.Date }}</span>
+    <p class="text-post">{{ .Post.Content }}</p>
     {{ range .SubPosts }}
         <hr>
-        <span class="dev-info">#{{ .SubId }}</span> <span>{{ if .ReplyAuthor.Valid }} {{ .ReplyAuthor.String }} {{ end }} • {{ .Date }}</span>
-        <p class="text-post">{{ .ReplyContent.String }}</p>
+        <span class="dev-info">#{{ .SubId }}</span> {{ .Author }} • {{ .Date }}</span>
+        <p class="text-post">{{ .Content }}</p>
     {{ end }}
 {{ end }}

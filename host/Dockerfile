@@ -1,13 +1,16 @@
-FROM golang:1.21.2 as builder
+FROM golang:1.21.2-alpine3.18 as builder
 WORKDIR /workspace
+RUN apk add build-base
 COPY main.go .
 COPY go.mod .
 COPY go.sum .
-RUN go build .
+RUN CGO_ENABLED=1 go build .
 
-FROM golang:1.21.2 as runner
+FROM alpine:3.18 as runner
 WORKDIR /workspace 
 COPY assets assets
 COPY templates templates
+COPY scraper.db .
+VOLUME ["scraper.db"]
 COPY --from=builder /workspace/scraper .
 ENTRYPOINT ["/workspace/scraper"]

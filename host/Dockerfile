@@ -11,6 +11,6 @@ WORKDIR /workspace
 COPY assets assets
 COPY templates templates
 COPY scraper.db .
-VOLUME ["scraper.db"]
+VOLUME ["/workspace/scraper.db"]
 COPY --from=builder /workspace/scraper .
 ENTRYPOINT ["/workspace/scraper"]

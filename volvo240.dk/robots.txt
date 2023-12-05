@@ -1,8 +1,0 @@
-# Robot Index Exclusion File
-# Last update by: Finn K. Jensen
-# Last update: 04-04-2015
-# Time: 15:00
-# Contact: Finn K. Jensen
-#
-User-agent: *
-Disallow: /forum/

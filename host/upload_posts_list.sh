@@ -3,7 +3,11 @@
 ## upload posts to meilisearch
 
 # extract posts as json
-sqlite3 scraper.db < ".mode json\n.once posts.json\n.SELECT * FROM post;"
+sqlite3 scraper.db << EOF
+.mode json
+.once posts.json
+SELECT * FROM post;
+EOF
 
 read -p "authorization key: "
 

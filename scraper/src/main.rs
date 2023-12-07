@@ -19,7 +19,6 @@ struct Post {
     email: Option<String>,
     date: String,
     content: String,
-    corrected: bool,
 }
 
 #[derive(Default, Serialize, Clone, Debug)]
@@ -30,7 +29,6 @@ struct Reply {
     author: String,
     date: String,
     content: String,
-    corrected: bool,
 }
 
 enum Item {
@@ -44,12 +42,14 @@ fn post_from_query(query: &str) -> Result<Post, String> {
     let mut post = Post::default();
 
     let query = &query
+        .to_lowercase()
         .replace("%26amp;", "&")
         .replace("%3f", "?")
         .replace("%3d", "=")
         .replace("%26", "&")
-        .replace("../", "https://")
-        .to_lowercase();
+        .replace("%3a", ":")
+        .replace("%2f", "/")
+        .replace("../volvo240.dk/", "");
     let query = query.parse::<Url>().unwrap();
     let query = query.query_pairs();
 
@@ -95,7 +95,7 @@ fn parse_link_id(child: &ElementRef) -> Option<i32> {
 }
 
 fn reformat_date(date: String) -> Option<String> {
-    let re = Regex::new(r"(?<day>\d{2})-(?<month>\d{2})-(?<year>\d{4}) (?<time>\d{2}:\d{2})").expect("should be valid regex");
+    let re = Regex::new(r"(?<day>\d{2})-(?<month>\d{2})-(?<year>\d{4})\s\s?(?<time>\d{2}:\d{2})").expect("should be valid regex");
     let captures = re.captures(&date)?;
     let day = &date[captures.name("day")?.range()];
     let month = &date[captures.name("month")?.range()];
@@ -186,7 +186,6 @@ fn parse_li_element<'a>(
     Ok((
         elements_skipped,
         Some(Reply {
-            corrected: !(author.contains("_") || content.contains("_")),
             forum_id,
             post_id,
             sub_id,
@@ -334,15 +333,13 @@ fn process_file(path: &str) -> Result<Option<Vec<Item>>, String> {
         post.email = Some(email_or_date.strip_prefix("E-mail:").unwrap().to_string());
         post.date = next_row_element(&mut rows, path, ": no date")?
             .strip_prefix("Dato:")
-            .map(|v| reformat_date(v.trim().to_string()))
-            .flatten()
-            .ok_or_else(|| path.to_string() + ": date didn't have 'Dato:' prefix")?;
+            .and_then(|v| reformat_date(v.trim().to_string()))
+            .ok_or_else(|| path.to_string() + ": date didn't have 'Dato:' prefix (a)")?;
     } else {
         post.date = email_or_date
             .strip_prefix("Dato:")
-            .map(|v| reformat_date(v.trim().to_string()))
-            .flatten()
-            .ok_or_else(|| path.to_string() + ": date didn't have 'Dato:' prefix")?;
+            .and_then(|v| reformat_date(v.trim().to_string()))
+            .ok_or_else(|| path.to_string() + ": date didn't have 'Dato:' prefix (b)")?;
     }
     post.content = next_row_element(&mut rows, path, ": no initial_content")?;
 
@@ -357,11 +354,6 @@ fn process_file(path: &str) -> Result<Option<Vec<Item>>, String> {
             .ok_or_else(|| path.to_string() + ": no reply content")?,
     )
     .map_err(|err| path.to_string() + ": " + &err)?;
-
-    post.corrected = !post.title.contains("_")
-        && !post.author.contains("_")
-        && !post.content.contains("_")
-        && !replies.iter().any(|reply| reply.corrected);
 
     Ok(Some(
         replies
@@ -415,7 +407,7 @@ async fn main() -> io::Result<()> {
         match item {
             Item::Post(post) => {
                 let result = sqlx::query!(
-                    "INSERT INTO post (forum_id, post_id, title, author, email, date, content, corrected) VALUES (?, ?, ?, ?, ?, ?, ?, ?);", 
+                    "INSERT INTO post (forum_id, post_id, title, author, email, date, content) VALUES (?, ?, ?, ?, ?, ?, ?);", 
                     post.forum_id, 
                     post.post_id, 
                     post.title, 
@@ -423,7 +415,6 @@ async fn main() -> io::Result<()> {
                     post.email, 
                     post.date, 
                     post.content, 
-                    post.corrected
                 )
                 .execute(&pool)
                 .await;
@@ -436,14 +427,13 @@ async fn main() -> io::Result<()> {
             }
             Item::Reply(reply) => {
                 let result = sqlx::query!(
-                    "INSERT INTO reply (forum_id, post_id, sub_id, author, date, content, corrected) VALUES (?, ?, ?, ?, ?, ?, ?);", 
+                    "INSERT INTO reply (forum_id, post_id, sub_id, author, date, content) VALUES (?, ?, ?, ?, ?, ?);", 
                     reply.forum_id, 
                     reply.post_id, 
                     reply.sub_id, 
                     reply.author, 
                     reply.date, 
                     reply.content, 
-                    reply.corrected
                 )
                 .execute(&pool)
                 .await;

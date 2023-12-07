@@ -7,7 +7,6 @@ CREATE TABLE post (
     email TEXT,
     date TEXT NOT NULL,
     content TEXT NOT NULL,
-    corrected INT NOT NULL,
     UNIQUE(forum_id, post_id)
 );
 
@@ -19,6 +18,5 @@ CREATE TABLE reply (
     author TEXT NOT NULL,
     date TEXT NOT NULL,
     content TEXT NOT NULL,
-    corrected INT NOT NULL,
     UNIQUE(author, date, content, forum_id, post_id)
 );

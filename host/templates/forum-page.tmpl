@@ -4,13 +4,7 @@
     <ul class="forum-list">
         {{ range .Items }}
             {{ if ne .Name "" }}
-                <li>
-                {{ if .Corrected }} 
-                    •
-                {{ else }}
-                    ✕
-                {{ end }}
-                <a href="/post?post={{ .PostId }}&forum={{ .ForumId }}">{{ .Name }}</a></li>
+                <li>• <a href="/post?post={{ .PostId }}&forum={{ .ForumId }}">{{ .Name }}</a></li>
             {{ else }}
                 <li>&nbsp;</li>
             {{ end }}

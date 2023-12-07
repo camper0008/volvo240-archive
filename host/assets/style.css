@@ -1,5 +1,6 @@
 :root {
     color-scheme: light dark;
+    --red: #fb4934;
 }
 
 *, *::before, *::after {
@@ -36,7 +37,13 @@
 }
 
 .highlighted {
-    background-color: #fb4934;
+    background-color: var(--red);
+}
+
+.search-error {
+    padding: 0.5rem;
+    max-width: max-content;
+    background-color: var(--red);
 }
 
 .card {

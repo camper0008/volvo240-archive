@@ -2,7 +2,9 @@
     <h2><a href="/">Tilbage</a></h2>
     <h1>Søg</h1>
     <h3><label for="search">Indtast tekst til at søge efter</label></h3>
-    <input id="search" placeholder="{{ . }}">
-    <div id="search-results"></div>
+    <input id="search" placeholder="{{ .Placeholder }}" value="{{ .Value }}">
+    <div id="search-results">
+        <noscript><h2 class="search-error">Denne side kræver javascript for at fungere.</h2></noscript>
+    </div>
     <script src="/assets/search.js"></script>
 {{ end }}

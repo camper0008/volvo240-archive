@@ -18,48 +18,14 @@ async function search(query, page, limit, key) {
     //     }
     //   ],
     //   "query": "vinter",
-    //   "estimatedTotalHits": 0
+    //   "totalPages": 0
     // }
     const index = "post";
     const api_url = "https://meili.volvo240.dk"
-    const url = `${api_url}/indexes/${index}/search?q=${query}&attributesToRetrieve=title,content&attributesToHighlight=title,content&highlightPreTag=<span class="highlighted">&highlightPostTag=</span>&page=${page}&hitsPerPage=${limit}`;
+    const url = `${api_url}/indexes/${index}/search?q=${query}&attributesToRetrieve=title,content,author,post_id,forum_id&attributesToHighlight=title,content&highlightPreTag=<span class="highlighted">&highlightPostTag=</span>&page=${page}&hitsPerPage=${limit}`;
     const headers = new Headers({"Authorization": `Bearer ${key}`});
 
-    // return await (await fetch(url, { headers })).json();
-    return {
-      hits: [
-        {
-          forum_id: 1,
-          post_id: 102,
-          title: "Hjælp søges!",
-          content: "Hvordan skifter jeg til vinterdæk?",
-          author: "Pieter",
-          _formatted: {
-              forum_id: 1,
-              post_id: 102,
-              title: "Hjælp søges!",
-              content: "Hvordan skifter jeg til <span class=\"highlighted\">vinter</span>dæk?",
-              author: "Pieter",
-          },
-        },
-
-        {
-          forum_id: 1,
-          post_id: 102,
-          title: "Hjælp søges!",
-          content: "Hvordan skifter jeg til vinterdæk?",
-          author: "Pieter",
-          _formatted: {
-              forum_id: 1,
-              post_id: 102,
-              title: "Hjælp søges!",
-              content: "Hvordan skifter jeg til <span class=\"highlighted\">vinter</span>dæk?",
-              author: "Pieter",
-          },
-        }
-      ],
-      estimatedTotalHits: 0
-    };
+    return await (await fetch(url, { headers })).json();
 }
 
 async function onInput(query, key) {

@@ -268,6 +268,11 @@ func forumsList(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, r *http.Re
 	writeTemplate[[]ForumItem](w, "templates/all-forums.tmpl", list)
 }
 
+type SearchInfo struct {
+	Placeholder string
+	Value       string
+}
+
 func searchPage(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, r *http.Request) {
 	mutex.Lock()
 	defer mutex.Unlock()
@@ -298,7 +303,14 @@ func searchPage(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, r *http.Re
 
 	placeholder := list[rand.Intn(len(list))]
 
-	writeTemplate(w, "templates/search.tmpl", placeholder)
+	value := r.URL.Query().Get("q")
+
+	info := SearchInfo {
+		Value: value,
+		Placeholder: placeholder,
+	}
+
+	writeTemplate(w, "templates/search.tmpl", info)
 }
 
 func main() {

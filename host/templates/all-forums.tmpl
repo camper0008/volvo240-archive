@@ -1,5 +1,6 @@
 {{ define "content" }}
-    <h1>Forums</h1>
+    <h1>Kategorier</h1>
+    <h3>Du kan også <a href="/search">søge i alle opslag</a>.</h3>
     <ul class="forum-list">
         {{ range . }}
             <li>• <a href="/list?forum={{ .Id }}">{{ .Name }}</a></li>

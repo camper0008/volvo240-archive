@@ -1,0 +1,8 @@
+{{ define "content" }}
+    <h2><a href="/">Tilbage</a></h2>
+    <h1>Søg</h1>
+    <h3><label for="search">Indtast tekst til at søge efter</label></h3>
+    <input id="search" placeholder="{{ . }}">
+    <div id="search-results"></div>
+    <script src="/assets/search.js"></script>
+{{ end }}

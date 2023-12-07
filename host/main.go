@@ -1,6 +1,7 @@
 package main
 
 import (
+	"math/rand"
 	"database/sql"
 	"errors"
 	"fmt"
@@ -9,7 +10,6 @@ import (
 	"net/http"
 	"os"
 	"strconv"
-	"strings"
 	"sync"
 
 	_ "github.com/mattn/go-sqlite3"
@@ -266,7 +266,39 @@ func forumsList(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, r *http.Re
 	}
 
 	writeTemplate[[]ForumItem](w, "templates/all-forums.tmpl", list)
+}
 
+func searchPage(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, r *http.Request) {
+	mutex.Lock()
+	defer mutex.Unlock()
+
+	rows, err := db.Query("SELECT title FROM post")
+	if err != nil {
+		w.Write([]byte("err: " + err.Error()))
+		return
+	}
+
+	defer rows.Close()
+	list := make([]string, 0)
+	for rows.Next() {
+		var item string
+		err = rows.Scan(&item)
+		if err != nil {
+			w.Write([]byte("err: " + err.Error()))
+			return
+		}
+		list = append(list, item)
+	}
+
+	err = rows.Err()
+	if err != nil {
+		w.Write([]byte("err: " + err.Error()))
+		return
+	}
+
+	placeholder := list[rand.Intn(len(list))]
+
+	writeTemplate(w, "templates/search.tmpl", placeholder)
 }
 
 func main() {
@@ -279,6 +311,7 @@ func main() {
 	http.Handle("/assets/", http.StripPrefix("/assets/", http.FileServer(http.Dir("assets"))))
 	http.HandleFunc("/post", func(w http.ResponseWriter, r *http.Request) { forumPost(db, mutex, w, r) })
 	http.HandleFunc("/list", func(w http.ResponseWriter, r *http.Request) { forumPostList(db, mutex, w, r) })
+	http.HandleFunc("/search", func(w http.ResponseWriter, r *http.Request) { searchPage(db, mutex, w, r) })
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) { forumsList(db, mutex, w, r) })
 	fmt.Println("running server on :3333")
 	err = http.ListenAndServe(":3333", nil)

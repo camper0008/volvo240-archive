@@ -72,3 +72,11 @@ footer hr {
     opacity: 0.7;
     font-size: 0.9em;
 }
+
+.center {
+    text-align: center;
+}
+
+#search-info {
+    margin-top: 2rem;
+}

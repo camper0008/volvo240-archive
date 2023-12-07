@@ -28,9 +28,69 @@ async function search(query, page, limit, key) {
     return await (await fetch(url, { headers })).json();
 }
 
-async function onInput(query, key) {
-    const response = await search(query, 1, 5, key);
+let page = 1;
+let total_pages = 1;
+
+function update_page_buttons() {
+    const page_counter = document.getElementById("page-counter");
+    page_counter.innerText = (page - 1).toString();
+
+    const page_switcher = document.getElementById("page-switcher");
+    if (total_pages <= 1) {
+        page_switcher.setAttribute("style", "display: none;");
+        return;
+    } else {
+        page_switcher.removeAttribute("style");
+    }
+    const next_page_anchor = document.getElementById("next-page");
+    if (page < total_pages) {
+        next_page_anchor.setAttribute("href", "#");
+    } else {
+        next_page_anchor.removeAttribute("href");
+    }
+
+    const prev_page_anchor = document.getElementById("prev-page");
+    if (page > 1) {
+        prev_page_anchor.setAttribute("href", "#");
+    } else {
+        prev_page_anchor.removeAttribute("href");
+    }
+}
+
+function next_page(event, key) {
+    event.preventDefault();
+    const search = document.getElementById("search");
+    if (page < total_pages) {
+        page += 1;
+        on_input(search.value, key);
+        update_page_buttons();
+    }
+}
+
+function previous_page(event, key) {
+    event.preventDefault();
+    const search = document.getElementById("search");
+    if (page > 1) {
+        page -= 1;
+        on_input(search.value, key);
+        update_page_buttons();
+    }
+}
+
+async function on_input(query, key) {
     const results = document.getElementById("search-results");
+    const search_info = document.getElementById("search-info");
+
+    if (query.trim() === "") {
+        results.innerHTML = "<p class='center'>Indtast noget i søgefeltet for at begynde</p>"
+        search_info.setAttribute("style", "display: none;");
+        total_pages = 0;
+        update_page_buttons();
+        return;
+    }
+
+    const response = await search(query, page, 5, key);
+    total_pages = response.totalPages;
     const new_results = response.hits
         .map((hit) => {
             const card = document.createElement("div");
@@ -49,14 +109,32 @@ async function onInput(query, key) {
             return card.outerHTML;
         })
         .join("<hr>");
-    results.innerHTML = new_results;
+    
+    search_info.innerText = response.totalPages > 1 
+        ? `Fandt ${response.totalHits} resultater fordelt over ${response.totalPages} sider.` 
+        : `Fandt ${response.totalHits} resultater.`;
+
+    const next_page_anchor = document.getElementById("next-page");
+    const prev_page_anchor = document.getElementById("prev-page");
+
+    if (query.trim() !== "") {
+        results.innerHTML = new_results;
+        search_info.removeAttribute("style");
+        update_page_buttons();
+    }
 }
 
 async function main() {
     const key = await (await fetch("https://meili.volvo240.dk/public/search_key")).text();
     const search = document.getElementById("search");
-    search.addEventListener("input", () => onInput(search.value, key));
-    onInput(search.value, key);
+    search.addEventListener("input", () => {page = 1; on_input(search.value, key);});
+    on_input(search.value, key);
+
+    const next_page_anchor = document.getElementById("next-page");
+    next_page_anchor.addEventListener("click", (event) => next_page(event, key));
+    const prev_page_anchor = document.getElementById("prev-page");
+    prev_page_anchor.addEventListener("click", (event) => previous_page(event, key));
+    update_page_buttons();
 }
 
 main();

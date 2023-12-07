@@ -3,6 +3,8 @@
     <h1>Søg</h1>
     <h3><label for="search">Indtast tekst til at søge efter</label></h3>
     <input id="search" placeholder="{{ .Placeholder }}" value="{{ .Value }}">
+    <p class="center" id="search-info"></p>
+    <p class="center" id="page-switcher"><a id="prev-page">Tidligere side</a> • <span id="page-counter">0</span> • <a id="next-page">Næste side</a></p>
     <div id="search-results">
         <noscript><h2 class="search-error">Denne side kræver javascript for at fungere.</h2></noscript>
     </div>

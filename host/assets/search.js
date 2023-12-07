@@ -39,9 +39,11 @@ async function onInput(query, key) {
             title.innerHTML = hit._formatted.title
             title.innerHTML = "<b>" + title.innerHTML + "</b>" + "<span class='author'> af " + hit.author + "</span>";
             const content = document.createElement("p");
-            content.innerHTML = hit._formatted.content
+            content.classList.add("text-post");
+            content.innerHTML = hit._formatted.content;
             const link = document.createElement("a");
-            link.href = `/post?post=${hit.post_id}&forum=${hit.forum_id}`
+            const back = query.trim() !== "" ? encodeURIComponent(`/search?q=${query}`) : "/search"
+            link.href = `/post?post=${hit.post_id}&forum=${hit.forum_id}&back=${back}`
             link.innerText = "Se opslag";
             card.append(title, content, link);
             return card.outerHTML;

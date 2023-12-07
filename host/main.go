@@ -54,6 +54,7 @@ type Item struct {
 }
 
 type PostWithReplies struct {
+	Back     string
 	Post     Item
 	SubPosts []Item
 }
@@ -182,7 +183,12 @@ func forumPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.R
 		return
 	}
 
-	writeTemplate[PostWithReplies](w, "templates/post.tmpl", PostWithReplies{Post: mainPost, SubPosts: subPosts})
+	back := req.URL.Query().Get("back")
+	if back == "" {
+		back = "/list?forum=" + req.URL.Query().Get("forum")
+	}
+
+	writeTemplate[PostWithReplies](w, "templates/post.tmpl", PostWithReplies{Post: mainPost, SubPosts: subPosts, Back: back})
 }
 
 func forumPostList(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.Request) {

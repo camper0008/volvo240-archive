@@ -155,91 +155,6 @@ func writeTemplate[T any](w http.ResponseWriter, templatePath string, value T) {
 
 }
 
-func forumEditPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.Request) {
-	mutex.Lock()
-	defer mutex.Unlock()
-
-	forum, err := queryValue(req, "forum")
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
-	}
-	post, err := queryValue(req, "post")
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
-	}
-
-	if req.Method == "POST" {
-		user, pass, ok := req.BasicAuth()
-		if !ok || user != os.Getenv("USERNAME") || pass != os.Getenv("PASSWORD") {
-			w.Header().Add("WWW-Authenticate", "Basic")
-			w.WriteHeader(401)
-			return
-		}
-		if err := req.ParseForm(); err != nil {
-			w.WriteHeader(400)
-			return
-		}
-
-		tx, err := db.Begin()
-		defer tx.Rollback()
-		if err != nil {
-			w.Write([]byte("err: " + err.Error()))
-			return
-		}
-
-		for key, values := range req.PostForm {
-			switch key {
-			case "title":
-				tx.Exec("UPDATE post SET title=? WHERE forum_id=? AND post_id=?", values[0], forum, post)
-			case "initial-author":
-				tx.Exec("UPDATE post SET author=? WHERE forum_id=? AND post_id=?", values[0], forum, post)
-			case "initial-content":
-				tx.Exec("UPDATE post SET content=? WHERE forum_id=? AND post_id=?", values[0], forum, post)
-			default:
-				if strings.HasPrefix(key, "sub-reply-content-") {
-					sub_id := strings.TrimPrefix(key, "sub-reply-content-")
-					sub_id_int, err := strconv.Atoi(sub_id)
-					if err != nil {
-						w.Write([]byte("err: " + err.Error()))
-						return
-					}
-					tx.Exec("UPDATE reply SET content=? WHERE forum_id=? AND post_id=? AND sub_id=?", values[0], forum, post, sub_id_int)
-				} else if strings.HasPrefix(key, "sub-reply-author-") {
-					sub_id := strings.TrimPrefix(key, "sub-reply-author-")
-					sub_id_int, err := strconv.Atoi(sub_id)
-					if err != nil {
-						w.Write([]byte("err: " + err.Error()))
-						return
-					}
-					tx.Exec("UPDATE reply SET reply_author=? WHERE forum_id=? AND post_id=? AND sub_id=?", values[0], forum, post, sub_id_int)
-				}
-
-			}
-		}
-		err = tx.Commit()
-		if err != nil {
-			w.Write([]byte("err: " + err.Error()))
-			return
-		}
-	}
-
-	mainPost, err := getPost(db, forum, post)
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
-	}
-
-	subPosts, err := getReplies(db, forum, post)
-	if err != nil {
-		w.Write([]byte("err: " + err.Error()))
-		return
-	}
-
-	writeTemplate[PostWithReplies](w, "templates/edit-post.tmpl", PostWithReplies{Post: mainPost, SubPosts: subPosts})
-}
-
 func forumPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.Request) {
 	mutex.Lock()
 	defer mutex.Unlock()
@@ -363,7 +278,6 @@ func main() {
 	defer db.Close()
 	http.Handle("/assets/", http.StripPrefix("/assets/", http.FileServer(http.Dir("assets"))))
 	http.HandleFunc("/post", func(w http.ResponseWriter, r *http.Request) { forumPost(db, mutex, w, r) })
-	http.HandleFunc("/edit", func(w http.ResponseWriter, r *http.Request) { forumEditPost(db, mutex, w, r) })
 	http.HandleFunc("/list", func(w http.ResponseWriter, r *http.Request) { forumPostList(db, mutex, w, r) })
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) { forumsList(db, mutex, w, r) })
 	fmt.Println("running server on :3333")

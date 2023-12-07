@@ -1,5 +1,5 @@
 {{ define "content" }}
-    <h2><a href="/list?forum={{ .Post.ForumId }}">Tilbage</a> • <a href="/edit?forum={{ .Post.ForumId }}&post={{ .Post.PostId }}">Rediger</a></h2>
+    <h2><a href="/list?forum={{ .Post.ForumId }}">Tilbage</a></h2>
     <h1>{{ .Post.Title }} <span class="dev-info">({{ .Post.ForumTitle }} #{{ .Post.PostId }})</span>
     </h1>
     <span>{{ .Post.Author }} • {{ .Post.Date }}</span>

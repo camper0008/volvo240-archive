@@ -1,5 +1,3 @@
-# https://nixos.wiki/wiki/Nginx
-
 {
   services.nginx = {
     enable = true;
@@ -21,6 +19,9 @@
       enableACME = true;
       locations."/".proxyPass = "http://localhost:7700";
       locations."/public/" = {
+        # should include a file called search_key in /etc/meilisearch/public/
+        # with the public search token (not master token !)
+        # as gotten from calling `GET localhost:7700/keys`
       	root = "/etc/meilisearch/public";
         tryFiles = "$uri $uri/ =404";
         extraConfig = ''
@@ -48,6 +49,8 @@
   services.meilisearch = {
     environment = "production";
     enable = true;
+    # should include a file called envfile in /etc/meilisearch/
+    # with the master token
     masterKeyEnvironmentFile = "/etc/meilisearch/envfile";
   };
 }

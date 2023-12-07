@@ -1,4 +1,5 @@
 :root {
+    font-family: 'Cantarell', sans-serif;
     color-scheme: light dark;
     --highlighter: #d3869b; 
 }
@@ -44,6 +45,7 @@ footer hr {
 }
 
 #search {
+    font-family: inherit;
     padding: 0.5rem;
     width: 100%;
 }

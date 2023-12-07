@@ -2,6 +2,8 @@
 
 ## upload posts to meilisearch
 
+set -xe
+
 # extract posts as json
 sqlite3 scraper.db << EOF
 .mode json
@@ -14,8 +16,8 @@ read -p "authorization key: "
 # create post index
 curl \
   -X POST 'http://localhost:7700/indexes' \
-  -H 'Content-Type: application/json' \
-  -H 'Authorization: Bearer $REPLY' \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $REPLY" \
   --data-binary '{
     "uid": "post"
   }'
@@ -23,6 +25,6 @@ curl \
 # add documents
 curl \
   -X POST 'http://localhost:7700/indexes/post/documents' \
-  -H 'Content-Type: application/json' \
-  -H 'Authorization: Bearer $REPLY' \
-  --data-binary "$(cat posts.json)"
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $REPLY" \
+  --data-binary "@posts.json)"

@@ -1,6 +1,18 @@
 :root {
     color-scheme: light dark;
-    --red: #fb4934;
+    --highlighter: #d3869b; 
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: #F0F0F0;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --highlighter: #b16286;
+    }
 }
 
 *, *::before, *::after {
@@ -37,13 +49,13 @@
 }
 
 .highlighted {
-    background-color: var(--red);
+    background-color: var(--highlighter);
 }
 
 .search-error {
     padding: 0.5rem;
     max-width: max-content;
-    background-color: var(--red);
+    background-color: var(--highlighter);
 }
 
 .card {

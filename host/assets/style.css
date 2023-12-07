@@ -19,6 +19,10 @@
     box-sizing: border-box;
 }
 
+footer hr {
+    margin-top: 3rem;
+}
+
 .content {
     max-width: 1000px;
     padding: 2rem;
@@ -36,7 +40,7 @@
 }
 
 .dev-info {
-    color: gray;
+    opacity: 0.5;
 }
 
 #search {

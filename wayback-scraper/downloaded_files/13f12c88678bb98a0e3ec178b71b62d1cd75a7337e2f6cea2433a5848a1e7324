@@ -1,0 +1,276 @@
+
+
+<html>
+<HEAD>
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id=DMBRI style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name=DMBImgFiles width="1" height="1" border="0" alt="">
+<img src="menu/dmb_m.gif" name=DMBJSCode width="1" height="1" border="0" alt="">
+</div>
+<script type="text/javascript" language="JavaScript" >
+	var rimPath = null;
+	var rjsPath = null;
+	var rPath2Root = null;
+	
+	function InitRelCode() {
+		var iImg;
+		var jImg;
+		var tObj;
+		
+		if(!document.layers) {
+			iImg = document.images['DMBImgFiles'];
+			jImg = document.images['DMBJSCode'];
+			tObj = jImg;
+		} else {
+			tObj = document.layers['DMBRI'];
+			if(tObj) {
+				iImg = tObj.document.images['DMBImgFiles'];
+				jImg = tObj.document.images['DMBJSCode'];
+			}
+		}
+		if(!tObj) {
+			window.setTimeout("InitRelCode()", 700);
+			return false;
+		}
+		
+		rimPath = _gp(iImg.src);
+		rjsPath = _gp(jImg.src);
+		rPath2Root = rjsPath + "../";
+		
+		return true;
+	}
+	
+	function _purl(u) {
+		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
+	}
+	
+	function _fip(img) {
+		if(img.src.indexOf("%%REL%%")!=-1)
+			img.src = rimPath + img.src.split("%%REL%%")[1];
+		return img.src;
+	}
+	
+	function _gp(p) {
+		return p.substr(0,p.lastIndexOf("/")+1);
+	}
+	
+	function FixImages() {
+		var h = null;
+		var f = new Function("h", "if(h)for(var i=0; i<h.length; i++)h[i] = xrep(h[i], '%%REL%%', rimPath);");
+		f(hStyle);f(hshStyle);
+	}
+	
+	function xrep(s, f, n) {
+		if(s) s = s.split(f).join(n);
+		return s;
+	}
+	
+	InitRelCode();
+</script>
+<script type="text/javascript" language="JavaScript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'main.js"><\/script>');return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright (c) 2002-2008 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="Søg" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=18">Volvo 200 Klub</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Emner med relation til Volvo 200 Klub, Danmark </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=18"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Velkommen til Forummet: Volvo 200 Klub Danmark</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Finn Kruse</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">fkruse@volvo240.dk</font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">23-08-2010&nbsp; 22:10</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Forum oprettet til Volvo 200 Klub Danmark<br><br>/Finn Kruse</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 23-08-2010 22:58)</em></u></strong></font></li><br><font face=Verdana>Vi i den nyoprettede Volvo 200 Klub, Danmark, vil gerne takke Finn Kruse for at tillade os at bruge hans forum til info og debat indtil vores egen hjemmeside er oprettet.<br><br>Referat fra stiftelsen af, Volvo 200 Klub, Danmark 21-08-2010<br><br>Der var mødt 5 mand (inkl. mig selv)<br>Og efter velkomsten spurgte jeg om de fremmødte var int. i at vi prøvede at oprette en Volvo 200 serie klub.<br>Og alle svarede at de var de meget int. i at vi gjorde.<br>Så, alle mand ingår i bestyrelsen.<br>Og vi konstituerede os således&#59;<br>Formand, Jens Peter jensen, Holstebro<br>Næstformand, Morten Vig Jensen, Tåstrup<br>Kasserer&#59; Martin Odgaard, Horsens<br>Koordinator/Referent, Bjarne Larsen, Frederiksberg<br>evt. Webmaster, Peter Hollebeek, Viborg<br><br>På vores første bestyrelsesmøde skulle vi beslutte hvilket navn Volvoklubben skulle have, og efter nogen overvejelse blev navnet&#59; VOLVO 200 KLUB, DANMARK.<br><br>Vi blev også enige om at vi holder de fleste møder via mail og telefon, og vi vil benytte internettet til kontakter imellem klubbens ledelse og medlemmerne.<br>Vi blev også enige om at 1 års kontigent skal være 200,-kr<br><br>Et fuldstændigt regelsæt udarbejdes i nær fremtid, men vi blev enige om at til ALLE klubbens arrangementer, vil der kun være Volvo 200 repræsenteret.<br><br>Når klubben får oprettet sin hjemmeside så kan alle int. melde sig ind i klubben<br><br>Til sidst vil jeg gerne igen takke Finn Kruse for den fornemme gestus, TAK FINN!!!!<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Bill Volche, 25-08-2010 17:42)</em></u></strong></font></li><br><font face=Verdana>super godt det manglede vi. jeg er helt sikkert medlem lige så snart jeg kan..<br><br>MVH Bill/240</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 30-08-2010 12:39)</em></u></strong></font></li><br><font face=Verdana>info til alle<br>Vi arbejder alle med oprettelse af web site/vedtægter/Logo m.m.m.<br>Så der kommer løbende info hen ad vejen.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 30-08-2010 16:45)</em></u></strong></font></li><br><font face=Verdana>Hejsa<br><br>Helt sikkert jeg skal være medlem. :-)<br><br>Glæder mig rigtig meget til at se hjemmesiden. <br><br>MVH<br><br>Emil J.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 12-09-2010 09:30)</em></u></strong></font></li><br><font face=Verdana>info til alle<br>Vi er ved at være på plads med midlertidige vedtægter, således at vi kan få oprettet en forenings-konto i banken.<br>(banken kræver et sæt vedtægter for at oprette en sådan konto)<br>Så, det er ved at være på plads.<br>Og Webmaster er også igang med at finde det rigtige webhotel til os, (domæne er købt)<br>Og Næstformanden arbejder ligeledes på at få konstrueret et smart logo til os.<br>Så, det kører lige så stille og roligt deruaf.<br>Jeg informerer jer løbende når der er nyt, og ligeledes får i at vide når hjemmesiden er oppe at køre, så i kan melde jer ind i den nye Volvo 200 Klub, Danmark.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Thomas R. S&#230;dding, 14-09-2010 10:08)</em></u></strong></font></li><br><font face=Verdana>Hej Jens.<br><br>Helt sikkert, bare kom med det girokort, selvfølgelig skal jeg være medlem....<br><br>MVH<br><br>Thomas S</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(palle larsen, 21-09-2010 22:54)</em></u></strong></font></li><br><font face=Verdana>hej jens<br>i sender også et girokort til mig også...så er der et medlem mere<br><br>MVH<br><br>Palle l</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 01-10-2010 20:00)</em></u></strong></font></li><br><font face=Verdana>Kære Volvo venner<br>Det går lige så stille op roligt fremad med oprettelsen af vores nye volvoklub.<br>Vi vil have alt på plads inden vi går i luften.<br>Så, i må have lidt tålmodighed endnu, inden vi annoncerer at nu er vi klar, men det lysner i øst.<br>Jeg skal nok holde jer orienteret her på siden når det sker.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 07-10-2010 21:19)</em></u></strong></font></li><br><font face=Verdana>Kære Volvo venner<br>SÅ SKETE DET!!!!<br>Vi er i luften, med vores nye Volvo klub :-)<br>Gå ind på vores hjemmeside&#59; http//<a href="http://www.volvo200klub.dk" target="_blank">www.volvo200klub.dk</a><br>Her kan i se hvordan i melder jer ind i klubben, m.m.<br>Jeg vil lige gøre jer opmærksom på at hjemmesiden er under opbygning, og vores webmaster er i øjeblikket på sygehuset, og når han kommer hjem igen, så har han en 2-3 måneders genoptræning derhjemme og skulle så få en masse tid til at opdatere hjemmesiden.<br>De kommende medlemmer er meget velkommen til at maile til bestyrelsen og komme med gode ideer til opbygning af hjemmesiden og klubben.<br>Når vi er blevet en ordentlig stak medlemmer så har vi i tankerne at organisere en del små lokale garagetræf hos medlemmerne rundt omkring i hele landet, især vil de medlemmer der bor lidt udenfor byerne blive foretrukket, (dem som har lidt plads at parkere på) og så vil vi snakke Volvo 200 serie og sparke dæk, og så derefter vil billeder og kommentarer blive lagt ud på hjemmesiden.<br>Til alle potentielle medlemmer af klubben vil jeg ønske et VELKOMMEN I KLUBBEN, for Volvo 200 serien.<br>Med Volvo Hilsen<br>Jens Peter Jensen</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 19-10-2010 22:49)</em></u></strong></font></li><br><font face=Verdana>Kære Volvo venner<br>Jeg vil blot nævne for jer allesammen at tilmeldingerne strømmer ind i den nye volvo klub.<br>Men vores webmaster er ikke så rask endnu at han kan nå at opdatere hjemmesiden med tilgang af medlemmerne.<br>Men det vil blive gjort lige så snart han er rask nok til det.<br>Gå blot ind på hjemmesiden og tilmeld jer der, <a href="http://www.volvo200klub.dk" target="_blank">www.volvo200klub.dk</a><br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 10-11-2010 15:31)</em></u></strong></font></li><br><font face=Verdana>Kære Volvo Venner<br>Nu skal vi til at få dem ud af busken som var posetive potentielle medlemmer af, <a href="http://www.volvo200klub.dk" target="_blank">www.volvo200klub.dk</a> <br>I kan endnu ikke se jeres indbetaling på hjemmesiden, da vores webmaster stadig er for syg til at opdatere hjemmesiden, men det kommer når han bliver rask nok.<br>Når vi er blevet 20-30 medlemmer eller flere så begynder vi at tage initiativ til at lave nogle aktiviteter, om ikke andet så skulle vi gerne være en god "dynge" medlemmer når vi når til foråret, så vi kan få luftet vores Volvoer.<br>MVJ Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 03-12-2010 20:05)</em></u></strong></font></li><br><font face=Verdana>Kære Volvo venners koner/mænd<br>Giv din Volvo Mand/Kone et medlemskab af <a href="http://www.volvo200klub.dk" target="_blank">www.volvo200klub.dk</a> i Julegave.<br>MVH Jens Peter<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Erik Gertsen, 21-12-2010 22:09)</em></u></strong></font></li><br><font face=Verdana>Hejsa. Prøver at komme ind på linket til volvo200klub, men får ikke andet end en hvis side ud af det. <br>Nogen kendte problemer omkring det?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 22-12-2010 00:20)</em></u></strong></font></li><br><font face=Verdana>Hej Erik<br>Jeg har fået samme resultat idag. jeg kontakter vores webmaster<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 03-01-2011 11:41)</em></u></strong></font></li><br><font face=Verdana>Kære allesammen<br>GODT NYTÅR!<br>Så, er vi gået ind i år 2011, og vores webmaster bliver lige så stille og roligt rask igen, og han er nu igang med at opgradere vores hjemmeside.<br>Vi vil nok gøre en del ud af at give medlemmerne gode tips om GDS, (det som på dansk hedder Gør det selv) Og vi er igang med det. Se ind på hjemmesiden <a href="http://www.volvo200klub.dk" target="_blank">www.volvo200klub.dk</a> <br>Og så er det tiden at vi selvfølgelig skal være nogle flere medlemmer, Meld jer ind i klubben.<br>Vi har også nogle flere ideer og tiltag, og vi vil gerne modtage gode tips og ideer fra jer derude som brænder for Volvo 200 serien.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 22-01-2011 20:36)</em></u></strong></font></li><br><font face=Verdana>Så er vores nye flotte Logo gået i trykken, og kommer sikkert hjem i næste uge, så kan de købes via vores hjemmeside. <a href="http://www.volvo200klub.dk" target="_blank">www.volvo200klub.dk</a><br>Folk begynder at vågne lidt op efter vinterdvalen, og vi får nu og da et nyt medlem.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 03-02-2011 16:21)</em></u></strong></font></li><br><font face=Verdana>Så, kan vores logo købes via hjemmesiden, <a href="http://www.volvo200klub.dk" target="_blank">www.volvo200klub.dk</a> enter hos kassereren eller hos mig, stort logo 9 x 9 cm, 20,-kr, lille logo 6 x 6 cm 15,-kr, alt sammen + porto 10,-kr.<br>Foråret nærmer sig og vi skal til at tænke på at få Volvoerne luftet.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 19-02-2011 18:52)</em></u></strong></font></li><br><font face=Verdana>Kære Volvo 200 folk<br>Foråret nærmer sig på kalenderen, og vi har her på Valentine Dag fået et nyt medlem fra Fyns Land, hvor det er Fruen der har givet manden et medlemskab af Volvo 200 klub, Danmark.<br>En rigtig god ide synes vi alle i bestyrelsen.<br>Flere nyheder og Tips kommer op på hjemmesiden, ligesom vi får dem lavet.<br>Om godt 3 uger vi i alle se de gamle klassiske Volvoer og veteraner på gaden igen, (15 marts træder forsikringen i kraft igen)<br>Så, skal der vaskes og pudses Volvoer.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 13-03-2011 09:27)</em></u></strong></font></li><br><font face=Verdana>Kære Volvo 200 folk<br>Så er det ved at være forår!<br>Om 2 dage (15 marts) så ruller se forskellige veteranbiler og klassiske biler ud på gader og stræder igen.Og der er ved at være mange Volvo 200 serier imellem disse nu.<br>Og så nu vil jeg opfordre jer til at melde jer ind i den nye Volvo 200 klub.<br>I er altid velkommen til at sende os en mail via hjemmesiden, vi hjælper gerne med at løse et problem i 200 serien. Se iøvrigt et super projekt som en volvo entusiast fra Thisted er ved at lave, en Volvo der bliver totalrestaureret så er bliver bedre end da den forlod fabrikken. Vi ses på <a href="http://www.volvo200klub.dk" target="_blank">www.volvo200klub.dk</a><br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 06-05-2011 21:40)</em></u></strong></font></li><br><font face=Verdana>Kære Volvo 200 folk<br>Vores webmaster Peter har indkaldt til "Spark Dæk Dag i Frederiks syd for Viborg.<br>Se vores hjemmeside, og evt. tilmeld dig til Peter.<br>datoen er ikke fastlagt endnu, men når der er tilstækkelige int. så aftaler Peter med værkstedet hvor det holdes om en dato, som bliver offentliggjort på hjemmesiden.<br><br>Vores årlige Volvo 200 træf finder sted hos mig lørdag den 20 august 2011. (se hjemmesiden)<br><a href="http://www.volvo200klub.dk" target="_blank">www.volvo200klub.dk</a><br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 01-07-2011 09:00)</em></u></strong></font></li><br><font face=Verdana>Kære Volvo 200 folk<br>Så, er der masser af nyheder og opdateringer på hjemmesiden<br>Og gode tilbud, kig ind på hjemmesiden <a href="http://www.volvo200klub.dk" target="_blank">www.volvo200klub.dk</a><br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 03-08-2011 22:06)</em></u></strong></font></li><br><font face=Verdana>Kære Volvo 200 folk<br>Så nærmer vores første træf sig, samt vores første ordinære general forsamling.<br>Der er en del nyheder på vores hjemmeside, venligst gå ind og se nyhederne, <a href="http://www.volvo200klub.dk" target="_blank">www.volvo200klub.dk</a><br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 19-08-2011 10:42)</em></u></strong></font></li><br><font face=Verdana>Kære Volvo 200 folk<br>Husk at vaske Volvo 240eren idag og kom til træf i morgen, se <a href="http://www.volvo200klub.dk" target="_blank">www.volvo200klub.dk</a><br>Vi ses!<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 21-09-2011 22:01)</em></u></strong></font></li><br><font face=Verdana>Kære Volvo 200 folk<br>Så, er hjemmesiden opdateret med billeder fra vores 1. træf og med Volvo tips, og så har vi flyttet kontoen, (ny kasserer)<br>Tjek hjemmesiden <a href="http://www.volvo200klub.dk" target="_blank">www.volvo200klub.dk</a><br>MVH Jens Peter</font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">7</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

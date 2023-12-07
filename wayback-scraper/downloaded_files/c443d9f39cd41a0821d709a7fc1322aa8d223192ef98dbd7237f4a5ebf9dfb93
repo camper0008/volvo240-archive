@@ -1,0 +1,362 @@
+
+
+<html>
+<HEAD>
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright © 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Fælge</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="Søg" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+<table border="0" width="760" cellpadding="25" cellspacing="0" align="center">
+  <tr>
+    <td>
+    
+<h2>Fælgens mål og dimensioner</h2>
+
+<p align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/240info/technic/wheel/images/240_wheel_01.jpg&palt=Fælgens mål og dimensioner','','height=510,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="1" src="/240info/technic/wheel/images/240_wheel_01t.gif" width="128" height="96"></A></p>
+
+<h2>Offset (indpresningsdybden)</h2>
+<p>Fælgens offset&nbsp; er afstanden fra fælgens monteringsflade til den
+lodrette centerlinie. Med en positiv ET er fælgen bredere mod gaden med større
+sporvidde til følge. Med en negativ ET er den bredere mod indersiden med mindre
+sporvidde til følge</p>
+<p>Fælgens offset angives ofte som ET20.<br>
+<br>
+<b>ET</b> stammer fra det tyske ord <b>Einpreßtiefe</b>.
+</p>
+<p>&nbsp;</p>
+
+<h2>Bolt mønster</h2>
+
+&nbsp;
+<table border="0" cellpadding="0" cellspacing="0" width="893">
+  <tr>
+    <td width="158" align="left" valign="top">
+      <p align="center"><img alt="Stramningsrækkefølge" src="/240info/technic/wheel/images/240_wheel_02.gif" align="middle" border="0" width="80" height="80"></td>
+    <td width="731" rowspan="2" valign="top">Volvo 200 serien laves med et unik bolt mønster på 5x108mm.<br>
+På grund af det unikke bolt mønster på disse modeller, er der kun et
+begrænset antal fælge af vælge mellem. Til gengæld har Volvo et breds udvalg
+      af originale fælge til 200 serien.<br>
+Fælgboltene skal strammes til 110 Nm.</td>
+  </tr>
+  <tr>
+    <td width="158" align="left" valign="top">Den korrekte rækkefølge at
+      stramme boltene i.</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="5" cellspacing="0" width="700" align="center">
+  <tr>
+    <td>
+      <h2>ADVARSEL!</h2>
+      <h2>Specialfælge</h2>
+      <p>De eneste godkendte specialfælge til Deres Volvo, er de letmetalfælge som er afprøvet på Volvo-fabrikken og som sælges gennem Volvo-forhandlerne.</p>
+    </td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<h2>Ændring af fælgstørrelse</h2>
+
+
+<p>Ved at ændre på dæk og fælg kombinationen, øges fælgens diameter og
+højden på dækprofilen mindskes.<br>
+Denne ændring giver som oftest bedre ydelse og et bedre &quot;look&quot;.</p>
+<p>Men vær opmærksom på, at hjulets samlede omkreds kun må ændres med +/-
+5% i forhold til den omkreds som bilen blev typegodkendt med.<br>
+Dette er for at sikre korrekt speedometer og &quot;anti-lock braking&quot; system kalibrering
+og uforandret brændstofforbrug.</p>
+
+<p>&nbsp;</p>
+
+
+<h2>Vedligeholdelse</h2>
+
+<p>Det er vigtig at holde fælgene rene hele tiden. Bremserne vil varme fælgene
+op og denne varme kan forårsage at skidt og bremsestøv brænder sig fast på
+fælgene. Sker det, er der ikke meget at gøre end sandblæsning, maling og lakering
+af fælgene.&nbsp; Beskyt din investering og hold fælgene rene.</p>
+
+
+<p><b>Her er nogle tips til at holde fælgene rene.</b><br>
+Brug ikke husholdningsrengøringsmidler. Den bedste løsning er en mild
+sæbe og vand (som det du bruger på resten af bilen).<br>
+Rengør med en blød fnugfri klud. Kun polerede fælge kan tåle letmetal fælg polish da det har en slibende og ridsende effekt.<br>
+Brug ikke damprensere i vaske haller.<br>
+Brug ikke dækrens til fælgene.<br>
+Rengør fælgene mens de er kolde. Varme kan ændre sæbens egenskaber og få den til at tørre ind i fælgen og det kan være svært at få af.<br>
+Rengør kun et hjul af gangen. Herved undgås at sæben tørre ind i fælgen.<br>
+Når fælgene er rene og tørre, giv dem et tyndt lag blød voks.</p>
+
+<p>&nbsp;</p>
+
+<h2>Centerhullet</h2>
+
+<p>Dette relaterer til centerhullet i hjulet som centrerer hjulet på navet på
+bilen. Da de fleste fælge masseproduceres, har de et stort centerhul for at
+kunne tilpasses mange forskellige køretøjer. Kan det imidlertid ikke
+undgås, skal der anvendes en navring. Navringe er hård plastic eller metal
+som passer mellem hjul og nav. Den centrerer hjulet på navet og sikre at hjulet
+kan monteres forsvarligt.<br>
+<i>Det frarådes at anvende disse fælge. Anvend kun originale Volvo fælge,
+som er lavet og passer perfekt til Volvo 200 serien.</i></p>
+
+<p>&nbsp;</p>
+
+<h2>Tilspænding</h2>
+
+<p>Alle letmetalfælge skal tilspændes med momentnøgle. Dette sikre at hjulet
+ikke strammes for lidt eller - som det oftest er tilfældet - for meget.<br>
+Begge dele er til skade og kan forårsage, at fælgen bliver skæv.</p>
+
+<p>For en Volvo 200 skal skal tilspændingen være: 110Nm</p>
+
+
+<h2>Letmetal versus Stål</h2>
+
+
+<p>En af de store forskelle mellem letmetal og stålfælge er deres&nbsp;styrke
+og holdbarhed. De fleste &quot;high-performance&quot; fælge er lavet af en
+legering af aluminium og andre metaller. Ved at anvende letmetal fælge,
+forbedres ikke kun bilens udseende, men også bilens ydelse. Den ekstra styrke
+giver både længere levetid og et mere effektivt dækslid - positivt ment.
+Vægtreduktionen vil forbedre styreegenskaberne, give bedre acceleration og mere
+effektiv nedbremsning.
+
+
+</p>
+
+
+<p>&nbsp;
+
+
+</p>
+
+
+<h2>Fælgens konstruktion
+
+
+</h2>
+
+
+<p>De fleste letmetal fælge er lavet i en enten et, to eller tre enheders
+konstruktion. Med en enkelt enhed er hele fælgen støbt i en form. Andre er
+støbt i to forme i to separate enheder og er oftest svejset eller boltet
+sammen. Fælge lavet af tre stykker har et center stykke, en inderside halvdel
+og en yderside halvdel. De er boltet sammen med bolte af meget høj kvalitet.
+
+
+</p>
+
+
+<p>Fabrikations metoden er vigtig for fælgens samlede kvalitet og ydeevne.
+Herunder er de mest anvendte teknikker omtalt:
+
+
+</p>
+
+
+<h3>Smedning
+
+
+</h3>
+
+
+<p>Anset for at være den bedste fabrikations teknik, tillader smedning, for en
+enkelt komprimeret aluminiums blok til en fælg, et tryk på over 50 ton
+kombineret med varme. Det giver en både stærkere og lettere fælg, end en
+almindelig standard fælg. (det afspejles også i prisen).
+
+
+</p>
+
+
+<h3>Lavtryks Støbning
+
+
+</h3>
+
+
+<p>Dette er den mest anvendte måde at fremstille letmetal fælge på. Flydende
+metal hældes i en form, hvor det hærder til den færdige fælg er kold nok til
+at blive taget ud af formen.
+
+
+</p>
+
+
+<h3>Undertryks Støbning
+
+
+</h3>
+
+
+<p>Modsat lavtryks støbning bliver den flydende metal hældt i, men snarere
+suget ind i formen med vakuum. Herved reduceres urenheder, hvilket gør fælgen
+stærkere end ved lavtryks støbning.<br>
+
+
+</p>
+
+    </td>
+  </tr>
+</table>
+<h6>Udarbejdet med stor hjælp fra Jes Hebsgaard.</h6>
+
+
+
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright © 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

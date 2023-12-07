@@ -1,0 +1,263 @@
+
+
+<html>
+<HEAD>
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id=DMBRI style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name=DMBImgFiles width="1" height="1" border="0" alt="">
+<img src="menu/dmb_m.gif" name=DMBJSCode width="1" height="1" border="0" alt="">
+</div>
+<script type="text/javascript" language="JavaScript" >
+	var rimPath = null;
+	var rjsPath = null;
+	var rPath2Root = null;
+	
+	function InitRelCode() {
+		var iImg;
+		var jImg;
+		var tObj;
+		
+		if(!document.layers) {
+			iImg = document.images['DMBImgFiles'];
+			jImg = document.images['DMBJSCode'];
+			tObj = jImg;
+		} else {
+			tObj = document.layers['DMBRI'];
+			if(tObj) {
+				iImg = tObj.document.images['DMBImgFiles'];
+				jImg = tObj.document.images['DMBJSCode'];
+			}
+		}
+		if(!tObj) {
+			window.setTimeout("InitRelCode()", 700);
+			return false;
+		}
+		
+		rimPath = _gp(iImg.src);
+		rjsPath = _gp(jImg.src);
+		rPath2Root = rjsPath + "../";
+		
+		return true;
+	}
+	
+	function _purl(u) {
+		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
+	}
+	
+	function _fip(img) {
+		if(img.src.indexOf("%%REL%%")!=-1)
+			img.src = rimPath + img.src.split("%%REL%%")[1];
+		return img.src;
+	}
+	
+	function _gp(p) {
+		return p.substr(0,p.lastIndexOf("/")+1);
+	}
+	
+	function FixImages() {
+		var h = null;
+		var f = new Function("h", "if(h)for(var i=0; i<h.length; i++)h[i] = xrep(h[i], '%%REL%%', rimPath);");
+		f(hStyle);f(hshStyle);
+	}
+	
+	function xrep(s, f, n) {
+		if(s) s = s.split(f).join(n);
+		return s;
+	}
+	
+	InitRelCode();
+</script>
+<script type="text/javascript" language="JavaScript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'main.js"><\/script>');return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright (c) 2002-2008 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="Søg" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=1">Motor</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Forum om <b>Motor</b>. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Volvo 240 årg 93, 230FD</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">S&#248;ren Frydendahl Krab</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">skupmake3@bbsyd.dk</font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">31-12-2011&nbsp; 13:05</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej Godt nytår. " Ønsker hjælp til et godt nytår"<br>Min ny erhvervede  bil, vil pludselig overhovedet ikke starte.<br>Heller ikke med starthjælp, ikke en knyst.<br><br>Inden har jeg bemærket at den kunne give et lille kort sæt ud, når jeg blændede op til højlys.<br><br>Hvad er mon problemet-?  Hvad kan problemt være ud over evt. dette.<br><br>Hvor sidder benzin-relæet i denne bil, og hvordan checker jeg den-?<br>Hvilken sikring kører den under-?<br>Hjælp<br><br>mvh<br>Søren</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 31-12-2011 13:29)</em></u></strong></font></li><br><font face=Verdana>Hej Søren<br>Først tjek sikringerne, og især hovedsikringerne ude ved batteriets + pol (sikring 17-21)<br>Benzinpumperelæet sidder oppe under filten i passersiden (højre)sammen med tændings og motorstyringen<br>Benzinpumpe relæet har ingen selvstændig sikring.<br>Det kan også være tændingsmodulet der er stået af.<br>Held og lyyke med fejlsøgningen<br>Godt Nytår!<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 01-01-2012 11:03)</em></u></strong></font></li><br><font face=Verdana>Hej Jens Peter<br>Kunne lige nå at checke sikringer igår, men de var alle OK.<br>Hvis det nu er tændingsmodulet, er det den samme som i min 88-er GLT, som eg kan afprøve den med.-?<br>Og nej der var ingen fejlkoder.<br>mvh<br>Søren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 01-01-2012 11:26)</em></u></strong></font></li><br><font face=Verdana>Hej Søren<br>Nej, jeg tror ikke at tændingsmodulet er det samme som din GLTer, serie nummeret på modulet du prøver med, skal være det samme som i din ´93er.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Morten VJ, 01-01-2012 12:48)</em></u></strong></font></li><br><font face=Verdana>Har du gnist, og benzin??<br>Eller hvad mangler du??<br><br>Det med lyset kunne tyde på en dårlig stel.<br>Da lygter, og tændingsmodul deler samme stelpunkt.<br>Prøv at rense stelpunkterne, de sidder i v side af motorrummet, på det beslag der holder bla. lysrelæer.<br><br>MVH<br><br>Morten</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kenneth Poulsen, 01-01-2012 17:42)</em></u></strong></font></li><br><font face=Verdana>Det er ikke nok bare at kigge på sikringerne, jeg har lige erfaret at en sikring godt kan se fin ud visuelt, men enden kan være helt tæret væk holderen, så tag alle sikringer ud én efter én og kontroller om de er ok.<br>Jeg havde nøjagtigt samme problem - at der ikke var nogen startreaktion på nøglen - ny sikring nummer 6 (det er også den til injektion og pumperelæet) og så snurrer den igen.<br><br>Check også batteripolerne, om der er sidder fast og de ikke er irrede.<br><br>Det kan også være tændingsbundstykket.<br><br>Der sidder et lysrelæ inde bagved midterkonsollen, det kan være årsagen til udfaldet ved op/nedblænding, kabelskoen bliver løs og så laver den det nummer med udsætteren - de har jeg også lige ordnet det på min egen -93.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 01-01-2012 18:07)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Så fik jeg tid til bilen, og fik liv i bilen igen:<br><br>Årsagen var det hvide relæ, der sidder inden ved motorstyringen, går udfra at det er benzinpumpe relæet.<br><br>Der kommer åbenbart imellem ganske få dråber vand ned ved siden af viskermotor,Hverken tæppe eller noget er våd, men de par dråber lander lige præ ogcis på relæet, som ligger på siden monteret, at det kan trænge ind i relæet.<br>(Relæet har før været åbenet. Jeg rensede det ir/snavs der var mellem lodningerne, og flyttede rælæet. Håber det var problemet, den starter igen.<br><br>Men vil naturligvis checke den stelforbindelse ved lysrelæ i motorrummet, for det lyder også meget sandsynlig.<br><br>Tak for hjælpen<br>mvh<br>Søren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 01-01-2012 18:13)</em></u></strong></font></li><br><font face=Verdana>Hej: Kenneth<br>Iflg min instruktionsbog, er sikring nr. 6 ude af drift, og afløst af en sikring i Motorrummet.<br>mvh<br>Søren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 01-01-2012 19:21)</em></u></strong></font></li><br><font face=Verdana>Hej Søren<br>Sådan, så er den ged barberet, ja det hvide relæ er benzinpumpe relæet, dette relæ kan også på vores gamle Volvoer pludselig stå af, derfor hav altid et nyt liggende i Volvoen, især når du kører på langtur.<br>I min 1993 er sikring nr. 6 også (disponibel), og der sidder 4 sikringer ved + polen i motorrummet.<br>Det er rigtigt som Kenneth skriver, at man ikke blot skal tjekke alle sikringer visuelt, man skal tage dem ud og smøre holderne og sætte de gode sikringer i igen og skifte de tvilsomme.<br>På tidligere modeller er det som Morten skriver rigtigt at tændmodul og lys deler stel, men det gør de ikke på en 1993er, der sidder op/ned blændingsrelæ i høje side. Og deler ikke stel med modul som sidder i venstre side, men det var småtings-afdelingen. Vi ruller igen Søren<br>Godt Volvo Nytår!<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kenneth Poulsen, 02-01-2012 00:29)</em></u></strong></font></li><br><font face=Verdana>Nu ved jeg ikke om man kan linke til en anden tråd her på forum men jeg prøver:<br><br><a href="http://www.volvo240.dk/mains.asp?f=4&id=4485&forumid=1" target="_blank">http://www.volvo240.dk/mains.asp?f=4&id=4485&forumid=1</a><br><br>Der fik vi konstateret at der lidt forskel på vores biler i samme årgang og på nogen er der brugt sikring nummer 6 og andre er den ikke brugt, formentlig beroende på mængden af udstyr.<br><br>Mvh</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 02-01-2012 11:19)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Jo linket fungerer fint.<br>I min store forvirring en nytårs-aften, fik jeg ikke helt præciseret min skrivelse,at (Der også skulle stå, at starteren kørte fint rundt og alt andet med strøm virkede + der var ingen fejlkoder og at der er en god batteri på.)<br><br>Og jeg skrev senere at jeg havede checket sikringerne, og det var gjort på den maåde at de alle har være ude...også alle 8 i motorrummet. ..men lige på denne 240 var ingen irret.<br><br>Her er sikring nr. 18 30Amp. til Motor-elektronik og sikring nr. 19 60amp til Tændingssystem.<br>Nr. 20 er til ABS,og er ikke på min,og nr 21 til Elektronisk ventilator og ej monteret.<br><br>Men så er gåden stadig, hvorfor har den sat ud ved opblænding.Har jeg stadig et lurende problem-?<br><br>mvh<br>Søren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kenneth Poulsen, 02-01-2012 11:52)</em></u></strong></font></li><br><font face=Verdana>>>>>>><br>Der sidder et lysrelæ inde bagved midterkonsollen, det kan være årsagen til udfaldet ved op/nedblænding, kabelskoen bliver løs og så laver den det nummer med udsætteren - det har jeg også lige ordnet det på min egen -93.<br><<<<<<<br><br>Det skrev jeg længere oppe vedrørende tændingsudfald ved op/ned blænding.<br><br>Mvh</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 02-01-2012 18:23)</em></u></strong></font></li><br><font face=Verdana>Hej Søren<br>Ja, det er rigtigt som Kenneth skriver, det lysrelæinde bag midterkonsollet, giver ofte problemer i vores årg. af 240 serien, det har det med at "brænde" fatningen i stykker i det ene ben, og jeg har rep. dette i mange 90er Volvoer, isat en ny fatning, og rep af spadestikket, så kører det igen.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 14-01-2012 20:05)</em></u></strong></font></li><br><font face=Verdana>Hej<br>Så fik jeg lysrelæet skiftet, havde smeltet fatningen, og det var også grunden til udsætteren, som i skrev.<br>Bare på min 93 sidder lysrelæet i højre side ude foran i motorrummet bag ved kølervæske beholderen, og som eneste relæ der.<br><br>mvh<br><br>Søren</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 14-01-2012 20:14)</em></u></strong></font></li><br><font face=Verdana>Hej Søren<br>Tak for meldingen, det var godt du fik skovlen under problemet.<br>Det relæ du omtaler, kalder du lysrelæet, og det er der så mange der gør.<br>Jeg kalder det nær/fjernlys relæ.<br>Lysrelæet sidder oppe under dashboard i venstre side af midterkonsollet, ved siden af relæer til C-lås og rudehejs.<br>MVH Jens Peter</font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">13</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

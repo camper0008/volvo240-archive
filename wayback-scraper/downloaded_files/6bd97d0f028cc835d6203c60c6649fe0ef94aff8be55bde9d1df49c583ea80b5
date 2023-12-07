@@ -1,0 +1,538 @@
+
+
+<html>
+<HEAD>
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright © 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Et besøg hos Volvo</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="Søg" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+<table border="0" cellpadding="5" cellspacing="1" width="760" align="center">
+  <tr>
+    <td>
+
+<h1>Et besøg hos Volvo i Torslanda</h1>
+En torsdag morgen i august oprandt dagen, hvor jeg skulle af sted til Volvo’s hjemland: Sverige.<br>
+<br>
+Jeg valgte at lade min Volvo stå i Frederikshavn og bruge de kr. 1200,-, jeg derved sparede, på taxi i Göteborg.<br>
+En taxi (Volvo S60) fra Stena terminalen til Volvo Torslanda kostede 269,- SEK.<br>
+<br>
+
+
+<h2>Ankomst til Volvo Torslanda</h2>
+Jeg meddelte min ankomst til den søde receptionist hos Volvo, som straks fandt mit navn på listen over besøgende.<br>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td valign="top">Omkring mig så jeg Volvo’s fabriksområde udefra. Et område på størrelse med en middelstor dansk provinsby. Det er imponerende. Og lad mig sige det allerede nu: På parkeringspladsen er der MANGE Volvo’er. Men jeg så kun fire Volvo 240 – nu så jeg jo heller ikke dem alle…</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit01.jpg&palt=En af de mange indgange til fabrikken','tog','height=510,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit01t.jpg" width="128" height="96"></a></td>    
+  </tr>
+</table>
+Efter at have kigget mig lidt omkring ”udenfor” gik jeg tilbage til ”Besökscentrum”. og kort tid efter blev jeg, fire andre danskere og 5 svenskere vist ind i et auditorium:
+Gabrielsson Auditorium.<br>
+<br>
+
+
+
+<h2>Besøget på fabrikken</h2>
+En veltalende svensker bød os velkommen og startede en videofilm om Volvo’s historie. Det var en informativ video startende fra da Gabrielsson og Larson sammen fik ideen til Volvo og op til i dag. Sikkerhed og medarbejdernes ve og vel ligger Volvo meget på sinde. Ingen tvivl om det. Og det vil de naturligvis gerne fortælle og det gør de på en god måde i denne engelske video med svenske undertekster.<br>
+Volvo er mere end kun Personbiler. Lastvogne, busser,  bådmotorer og flymotorer blev vist i videoen.<br>
+Vores vært viste også en ”salgsvideo” om den nye SUV (Sports Utility
+Vehicle) som har fået navnet Volvo XC90.<br>
+Endvidere gav vores vært en god fortælling til et lysbilledshow som beskrev sikkerheden i Volvo bilerne.<br>
+Vi gik ej heller glip af udviklingen efter 2. verdenskrig med lastbiler, bådmotorer og fly.<br>
+<br>
+
+<h3>Rundvisningen</h3>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td>Al fotografering var forbudt inde på fabrikken – desværre.<br>
+Vi kom ud til et ”tog” med lokomotiv og fire vogne med højtaler i, så vi alle kunne høre hvad der blev sagt.<br>
+Knap 30% af af medarbejderne i produktionen er kvinder.<br>
+Turen  begrænsede sig til produktionen af personbiler.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit02.jpg&palt=Toget som de besøgende transporteres i rundt på fabrikken','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit02t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+<br>
+<br>
+
+
+<h3>Pladeproduktionen</h3>
+Turen startede i pladeproduktionen, hvor pladerne ligger i store ruller på 2-4 m i diameter. Rullerne bliver sat på maskine og bliver klippet, og standset til de enkelte pladedele.<br>
+<br>
+
+
+<h3>Karosseriet bliver til</h3>
+Når bunden er færdig, bliver det monteret på en ”selvtænkende” samlebåndsvogn.<br>
+Med svejserobotter bliver de enkelte dele sat sammen til et helt karosseri, og når karosseriet er færdig, bliver det frigjort fra samlebåndsvognen, som så selv finder vej tilbage til køen og er klar til et nyt. Et fascinerende syn var det at se en samlebåndsvogn på ca. 2½m x 6 m og ca 30 cm høj selv finde vej tilbage på gangen hvor bl. a. også vores tog kørte.<br>
+<br>
+
+
+<h3>Karosseriet samles</h3>
+Fra pladehallerne, kørte vi til monteringshallerne. Her bliver karosseriet galvaniseret og de ”løse” dele som døre, bagklap og kølerhjelm monteret efterfulgt af en gang maling.<br>
+Noget man lægger mærke til er, at under og omkring samlebåndet er der lagt parketgulv oven på betongulvet. Forklaringen er at det er mere behageligt og mindre skadeligt for medarbejderne at gå på trægulv. Og alt monteringsarbejde foregår i en højde som er bedst for medarbejderne. Medarbejdernes trivsel sættes i højsædet.<br>
+<br>
+
+
+<h3>Undervognen samles</h3>
+Fortøj, motor, udstødning, gearkasse, bagtøj bliver samlet og herefter bliver et karosseri sænket ned over undervognen og bliver spændt fast.<br>
+<br>
+
+
+<h3>Karosseriet monteres</h3>
+Der monteres el-net, interiør og eksteriør. På dette tidspunkt er døre og hjelme blevet afmonteret for at lette arbejdet med monteringen inde i vognen. Men der holdes nøje styr på delene, så de rette dele kommer på de rette biler. Forskellige modeller og farver kommer efter hinanden på samlebåndet i tilfældig rækkefølge, så det er om at holde tungen lige i munden. F. eks. Var der to højrestyrede modeller blandt de som var på samlebåndet mens vi kørte forbi. (Jeg noterede mig at sikringsdåsen sad i højre side på disse). Døre, hjelm og bagklap bliver også monteret og er beklædt med beskyttende plastik som det også er tilfældet med stolene både for og bag.<br>
+<br>
+
+
+<h3>Testen</h3>
+Når bilerne er færdige med at blive monteret,  bliver de kørt af samlebåndet og ind i et testcenter til en omfattende test af bilen. Her bliver alt testet og det er ALLE bilerne som bliver testet. Intet er overladt til tilfældighederne.<br>
+<br>
+
+
+<h3>Den færdige Volvo</h3>
+Efter testen er bilerne klar til at forlade fabrikken. Og lageret er ikke stort. Faktisk er alle biler som bliver produceret forudbestilt af importører verden over.<br>
+<br>
+Noget som jeg var overrasket over, var hvor rent der var i fabrikshallerne. Intet steds lå noget og flød og der var rent overalt.<br>
+<br>
+
+
+<h3>Turen sluttede</h3>
+Efter 1½ times stor oplevelse sluttede vi hvor vi startede. Der var et ”cafeteria” hvor vi, for et næsten symbolsk beløb, kunne få lidt eftermiddagskaffe. 20,- SEK for kaffe og franskbrød m. ost.<br>
+<hr>
+<br>
+Igen lidt taxikørsel. For at komme til Volvo Museum med taxi: 106,- SEK.<br>
+Jeg kørte med en vognmand som fortalte at ca. 60% af alle taxi biler i Göteborg er Volvo. Denne tur var i en Volvo V70.<br>
+<br>
+
+
+<h1>Volvo Museum</h1>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td>Man kommer ind i en hall, hvor man bliver budt velkommen af en smilende
+      svenske dame, som er meget villig til at fortælle om, hvordan man får
+      mest ud af besøget.<br>
+      For at komme ind og se alle herlighederne, skal erlægges blot 30,- SEK.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit03.jpg&palt=Indgang til Volvo Museum','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit03t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+Det første man ser, er en ældre bil (PV801 mener jeg at huske) som har tilhørt det svenske kongehus, og som naturligvis stadig er i stand til at køre.<br>
+Ved siden af står to messing statuer i fuld størrelse af Gustaf Larson og Assar
+Gabrielsson.<br>
+Fra hall’en er der indgang til et auditorium, hvor der vises en film om Volvo’s tilblivelse og historiske udvikling. Den varer ca. 15 min.<br>
+<br>
+
+
+<h2>Udstillingen</h2>
+Herefter går man ind i selve udstillingen, hvor der ved næsten alt det udstillede på museet, stod et skilt med lidt information.
+Først ses et udvalg af de første person biler, den første bus og den første lastvogn. Og så sandelig også et jagerfly med en Volvo motor.<br>
+<br>
+
+
+<h2>1. etage</h2>
+Museet er i to etager. Og nu var det tid at komme op på 1. etage.&nbsp;<br>
+De første rum var inddelt i årtier.<br>
+<br>
+<h3>20’erne, 30’erne og 40’erne</h3>
+
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit04.jpg&palt=Lidt ældre årgange','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit04t.jpg" width="128" height="96"></a></td>
+    <td> Bilerne var stillet smukt op efter det årti, som de blev produceret i. Og i kulisser som sendte tankerne
+      tilbage dengang. Flotte opstillinger var det.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit05.jpg&palt=Lidt ældre årgange','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit05t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>&nbsp;
+
+
+<h3>50’erne og 60'erne</h3>
+I det næste rum var tiden 50’erne og 60'erne. Her var biler som stadig ses på gader og stræder den dag i dag.<br>
+
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit06.jpg&palt=Volvo Amazon','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit06t.jpg" width="128" height="96"></a></td>
+    <td>Den første var en Amazon som den jeg selv havde i starten af 80’erne. Også P1800, 544, 144, 164. Alle i 4 og 5 dørs udgaver.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit07.jpg&palt=Volvo P1800','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit07t.jpg" width="128" height="96"></a></td>
+  </tr>
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit08.jpg&palt=Volvo 144','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit08t.jpg" width="128" height="96"></a></td>
+    <td>De mange færdselstavler som ses på væggen ved udgangen fra 60'erne,
+      symboliserer det svenske skift fra venstre til højre kørsel i 1967.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit09.jpg&palt=Volvo 145','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit09t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>&nbsp;
+
+
+<h3>Motorteknik.</h3>
+
+I dette rum var fire motorer opstillet på prøvebænke, og lidt historie på plancher.&nbsp;<br>
+
+
+<h3>70'erne, 80'erne og 90'erne</h3>
+
+Bilerne ser nu ud som dem vi kender fra 200 serien.<br>
+Lige inde for døren står en Volvo 262 C. Et prægtigt stykke køretøj.<br>
+Det svenske indhold af informationsskiltene ses til højre for billedet.<br>
+<table border="1" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="135" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit10.jpg&palt=Volvo 262C','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit10t.jpg" width="128" height="96"></a></td>
+    <td valign="top" width="600"><b>VOLVO 262 C</b><br>
+      <table border="0" cellspacing="1" width="575" align="left">
+        <tr>
+          <td colspan="2" width="595">Volvo 262 C presenterades 1977 och var italienaren Bertones svar på<br>Volvos begären om en tvådörrars coupé. Inuti präglades den av<br>högsta komfort eftersom 262 C var avsedd för USA. Tillverkningen<br>upphörde 1981 och totalt tillverkades 6.622 exemplar.</td>
+        </tr>
+        <tr>
+          <td width="100">Motor:</td>
+          <td width="470">V6 med enkle överliggande kamaxlar; 2664 cc,<br>senare 2849 cc; 125 respektive 155 hk.</td>
+        </tr>
+        <tr>
+          <td width="100">Transmission:</td>
+          <td width="470">3-stregs automat</td>
+        </tr>
+        <tr>
+          <td width="100">Dimensioner:</td>
+          <td width="470">Hjulbas 264 cm; vikt 1420-1490 kg</td>
+        </tr>
+        <tr>
+          <td width="100">Övrigt:</td>
+          <td width="470">En udda bil med kontroversiellt utseende</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>&nbsp;
+
+<br>
+En bemærkelsesværdig rød Volvo 240 Turbo fra 1980 står lige overfor 262'eren
+og nærmest råber efter opmærksomhed. Og det får den. Man fornemmer næsten
+den kraft og power som denne bil indeholder<br>
+<table border="1" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="135"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit11.jpg&palt=Volvo 240 Turbo','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit11t.jpg" width="128" height="96"></a></td>
+    <td valign="top" width="600"><b>VOLVO 244 TURBO</b><br>
+      <table border="0" cellspacing="1" width="575" align="left">
+        <tr>
+          <td colspan="2" width="595">1980 kompletterades Volvos 240-serie med turboladdad version, där<br>den fyrcylindriga 2,3-litersmotoren gav 155 hk og prestanda i sport-<br>vagnsklass. Dette exemplar användes tidligere av VD:n och Koncern-<br>chefen på AB Volvo, Pehr G Gyllenhammar.</td>
+        </tr>
+        <tr>
+          <td width="100">Motor:</td>
+          <td width="470">Rak 4-cylindrig, enkel överliggande kamaxel;<br>2177 cc; 155 hk</td>
+        </tr>
+        <tr>
+          <td width="100">Transmission:</td>
+          <td width="470">4-vaxlad</td>
+        </tr>
+        <tr>
+          <td width="100">Dimensioner:</td>
+          <td width="470">Hjulbas 264 cm; vikt 1500 kg</td>
+        </tr>
+        <tr>
+          <td width="100">Övrigt:</td>
+          <td width="470">Volvos första turboladdade personbilsbenzsinmotor</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table><br>
+Og ved siden af stod den sidste Volvo 240 som forlod fabrikken. Den blå Volvo 240 ”Polar Italia”
+<table border="1" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="135"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit12.jpg&palt=Volvo 240 Polaris Italia','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit12t.jpg" width="128" height="96"></a></td>
+    <td valign="top" width="600"><b>VOLVO 240 1993</b><br>
+      <table border="0" cellspacing="1" width="575" align="left">
+        <tr>
+          <td colspan="2" width="595">I maj 1993 upphörde tillverkningen av alle tiders Volvo-favorit, 240-<br>serien. Då havde 2.850.500 Volvo 240/260 producerats. Det utställda<br>exemplaret är den sidste herrgårdsvagnen, avsedd för den italienska<br>marknaden, med 2-litersmotor och med tillnamnet Polar Italia.</td>
+        </tr>
+        <tr>
+          <td width="100">Motor:</td>
+          <td width="470">4-syl med enkel överliggande kamaxel;<br>1986 cc; 111 hk</td>
+        </tr>
+        <tr>
+          <td width="100">Transmission:</td>
+          <td width="470">5-växlad</td>
+        </tr>
+        <tr>
+          <td width="100">Dimensioner:</td>
+          <td width="470">Hjulbas 264 cm; vikt 1430 kg</td>
+        </tr>
+        <tr>
+          <td width="100">Övrigt:</td>
+          <td width="470">Nästan var tredje tillverkad 240 var en herrgårdsvagn</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table><br>
+Jeg ville naturlig vis have troet, at disse tre stod på piedestaler - hævet lidt over alle de øvrige biler.&nbsp;<br>
+Det gjorde de ikke, og alle bilerne var låst. ”Se men ikke røre”. Nu var det visuelle indtryk jo også overvældende i sig selv.<br>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit13.jpg&palt=Volvo 760','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit13t.jpg" width="128" height="96"></a></td>
+    <td> Der var også andet end Volvo 200 i dette rum. Til venstre en Volvo 760
+      og til højre en Volvo 480. Begge var de med til at pryde dette rum.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit14.jpg&palt=Volvo 480','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit14t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>&nbsp;
+
+
+<h3>Pokaler og Motorsport</h3>
+Herefter gik turen videre gennem en lang gang med mange pokaler og trofæer
+og ud til bilerne som har været anvendt i forbindelse med motorsport.<br>
+
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit15.jpg&palt=2 af de seje!','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit15t.jpg" width="128" height="96"></a></td>
+    <td> Volvo har gennem tiderne vundet næsten alt, hvad der har været at
+      vinde indenfor motorsport med standardvogne. En overgang vandt Volvo så
+      meget, at mange konkurenter ikke ville stille op hvis Volvo deltog.<br>
+      Th: Volvo 240, 4-cyl, 2.11 turbo, ca 300 hk.&nbsp;</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit16.jpg&palt=Den sejeste!','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit16t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>&nbsp;
+<h3>Eksperimental biler og Prototyper</h3>
+Der er vist mange af de prototyper som blev lavet i 70'erne og 80'erne. De
+fleste står på nedgangen ned fra 1. etagen til stue etagen. De står tæt, og de er interessante at studere.
+Mange finesser kan genkendes i de biler som var i produktion, og andre finesser
+forblev eksperimenter.
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit17.jpg&palt=Volvo 263 Prototype','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit17t.jpg" width="128" height="96"></a></td>
+    <td> Tv: VOLVO 263<br>
+      1975 byggdes denna og ytterligare ett par 3-dörrars halvkombibilar,
+      baserade på 240- och 260-modellerna. Det handlade mer om
+ designövning än realistiska modellförslag.
+      <p>Th: PROTOTYP 262<br>
+      Den här prototypen var tänkt att bli en coupémodell av den nya<br>
+      Volvo 264. En vanlig 164 byggdes om till tvådörrars sportcoupé av Coggiola i Italien.<br>
+      Prototypens tak är 60 mm lägre.</p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit18.jpg&palt=Volvo 262 Prototype','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit18t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>&nbsp;
+<p>Volvo har tre kerneområder som ligger dem meget på sinde: <b>Kvalitet,
+Sikkerhed og miljø</b>. Bl. a. derfor har de lavet en række eksperimenter i
+form af diverse studie-/eksperimental biler for at teste nogle af de ideer som
+senere kommer bilisterne til gode.</p>
+
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit19.jpg&palt=VOLVO VCC 1980','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit19t.jpg" width="128" height="96"></a></td>
+    <td> Tv: VOLVO VCC 1980<br>
+      Volvo Concept Car blev bygget for at vise Volvos tanker i 80'erne. En
+      spoiler under forreste kofanger kommer automatisk frem ved 70 km/t.
+      <p>Th: VOLVO LCP 2000 fra 1983<br>
+      Volvo Light Component Project var et fremtidsstudie i at
+      lave en bil med lav vægt og lille brændstofforbrug.</p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit20.jpg&palt=VOLVO LCP 2000 fra 1983','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit20t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>&nbsp;
+
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit21.jpg&palt=VOLVO VESC fra 1972','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit21t.jpg" width="128" height="96"></a></td>
+    <td> Tv: VOLVO VESC<br>
+      Volvo Experimental Safety Car fra 1972 er nok den mest kendte eksperimental bil fra
+      Volvo. Den vakte stor opmærksomhed verden over, og kom til at danne
+      grundlag for trafiksikkerhedskrav i både Europa og USA.
+      <p>Th: Crash test af en Volvo 760. Resultatet af et
+      frontalt sammenstød med 30 mph.</p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/diverse/images/visit22.jpg&palt=Crash test af en Volvo 760','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/diverse/images/visit22t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>&nbsp;
+
+
+<h3>Lastbiler og busser</h3>
+En samling af ældre lastbiler og et par enkelte specielle busser stod i et
+stort lokale. Oppe under loftet var der et jagerfly som kunne ses tæt på ved
+nedgangen mellem stuen og 1. etage.<br>
+
+
+
+<h3>Volvo Personbiler anno 2002</h3>
+I et rum var der opstillet fire moderne biler anno 2002. Med mange plancher
+som beskriver hvordan Volvos tre kerne værdier er integreret i disse biler.<br>
+
+
+<h3>Volvo Penta</h3>
+Inden man forlader museet, er der mulighed for at få en kop eftermiddagskaffe
+eller hvad der måtte friste.<br>
+Fra dette cafeteria, kan man nyde udsigten til en række af Volvos bådmotorer som de har lavet gennem tiderne.<br>
+
+
+
+<h3>Merchandise</h3>
+Efter denne store oplevelse sad tegnebogen løst i lommen da jeg
+kom til det sted hvor modelbiler, bøger og meget andet stod. Men jeg blev lidt
+skuffet. Der var ikke en eneste modelbil af Volvo 240. Derfor blev det ikke til
+meget jeg investerede i. Det blev til en T-shirt (99,- SEK), en bog med alle
+Volvos biler gennem tiderne (20,- SEK), en kuglepen (45,- SEK), en stik med
+Volvo 240(19,- SEK). Og en modelbil ville jeg have med hjem, så jeg bestemte
+mig til en Volvo S80 (49,- SEK)<br>
+<p align="center"><b>Alt i alt en stor og god oplevelse, som jeg kun kan anbefale til alle Volvo
+interesserede.</b></p>
+<hr>
+
+
+<h1>Turens afslutning</h1>
+
+
+<p>Turen sluttede med en taxitur tilbage til Stena terminalen. Turen foregik i
+en Volvo V70 sammen med en chauffør som var ganske interesseret i Volvo biler.
+Det gav lidt god volvo-snak som en god afslutning. Turen kostede 205,- SEK.</p>
+
+
+    </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright © 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

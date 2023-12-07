@@ -1,0 +1,277 @@
+
+
+<html>
+<HEAD>
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id=DMBRI style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name=DMBImgFiles width="1" height="1" border="0" alt="">
+<img src="menu/dmb_m.gif" name=DMBJSCode width="1" height="1" border="0" alt="">
+</div>
+<script type="text/javascript" language="JavaScript" >
+	var rimPath = null;
+	var rjsPath = null;
+	var rPath2Root = null;
+	
+	function InitRelCode() {
+		var iImg;
+		var jImg;
+		var tObj;
+		
+		if(!document.layers) {
+			iImg = document.images['DMBImgFiles'];
+			jImg = document.images['DMBJSCode'];
+			tObj = jImg;
+		} else {
+			tObj = document.layers['DMBRI'];
+			if(tObj) {
+				iImg = tObj.document.images['DMBImgFiles'];
+				jImg = tObj.document.images['DMBJSCode'];
+			}
+		}
+		if(!tObj) {
+			window.setTimeout("InitRelCode()", 700);
+			return false;
+		}
+		
+		rimPath = _gp(iImg.src);
+		rjsPath = _gp(jImg.src);
+		rPath2Root = rjsPath + "../";
+		
+		return true;
+	}
+	
+	function _purl(u) {
+		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
+	}
+	
+	function _fip(img) {
+		if(img.src.indexOf("%%REL%%")!=-1)
+			img.src = rimPath + img.src.split("%%REL%%")[1];
+		return img.src;
+	}
+	
+	function _gp(p) {
+		return p.substr(0,p.lastIndexOf("/")+1);
+	}
+	
+	function FixImages() {
+		var h = null;
+		var f = new Function("h", "if(h)for(var i=0; i<h.length; i++)h[i] = xrep(h[i], '%%REL%%', rimPath);");
+		f(hStyle);f(hshStyle);
+	}
+	
+	function xrep(s, f, n) {
+		if(s) s = s.split(f).join(n);
+		return s;
+	}
+	
+	InitRelCode();
+</script>
+<script type="text/javascript" language="JavaScript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'main.js"><\/script>');return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright (c) 2002-2008 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="Søg" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=1">Motor</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Forum om <b>Motor</b>. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Startproblemer. B230A</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Kim Junker</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">admin@kjunker.dk</font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">01-02-2008&nbsp; 17:18</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Jeg har ramt bunden af hvad min viden og evner kan mestre.<br><br>Jeg har gnist på alle tændrør, og kabler sidder selvfølgelig korrekt. (kabler, fordeler, rotor, tændrør er nyt)<br>Pumpen giver rigeligt med benzin, og kan lugte benzin på tændrørene så der burde komme tilstrækkeligt til den (ikke rørt ved justeringen før jeg fejlen opstod). (nål, membran, nåleventil og pakninger er nye, karburator renset, flyder tæt)<br>Slanger etc er kontrolleret, der er masser af strøm (haft 2 ekstra batterier sat til med 700 start amp stk)<br>Stelforbindelser er kontrolleret og renset.<br>Bilen kørte fint før jeg pillede karburatoren af, og igen da den blev monteret, men afmonterde igen grundet en utæthed hvorefter den bare er død.<br><br>Som sagtm jeg har ramt bunden af idéer. Jeg overvejer at skaffe en anden karburator der med sikkerhed virker for at se om fejlen evt ligger her, men vil lige hører om der evt er andet jeg ikke har tænkt på.<br><br>Mvh <br>Kim Junker<br>En MEGET våd og ekstremt irriteret volvo ejer..</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 01-02-2008 17:19)</em></u></strong></font></li><br><font face=Verdana>bilen er i øvrigt en 245 van fra 85 (86 model) og motoren har gået små ca. 390.000 km, men det har jo så ikke det store at sige :o)<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 01-02-2008 17:29)</em></u></strong></font></li><br><font face=Verdana>Hej Kim<br>Det hele fungerer jo som det skal efter din beskrivelse.<br>Og jeg kan sikkert heller ikke hjælpe dig med at grave hunden op.<br>Men det hele lyder for mig som en sprunget tandrem, men jeg går ud fra at med den expertise du har, at det ikke er tilfældet.<br>Det er faneme noget mystisk.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 01-02-2008 17:53)</em></u></strong></font></li><br><font face=Verdana>jep, tandremmen snurrer lystigt, og slæber de rem hjul den skal :o)<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 01-02-2008 19:01)</em></u></strong></font></li><br><font face=Verdana>Hej Kim<br><br>Er du sikker på at gnisten på tændrørene er kraftige nok? For tændspolen kan godt miste kraften. Prøv evt. med en anden tændspole. <br>Har du tjekket tændingstidspunktet? Hvis du er kommet til at dreje strømfordeleren, kan den være kommet ud af kurs.<br>Der er et mærke på strømfordeleren, hvor rotoren skal pege lige imod, når cylinder 1 er i øverste dødpunkt.<br><br>Bare nogle ideer.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Allan Strandet Jensen, 01-02-2008 21:22)</em></u></strong></font></li><br><font face=Verdana>Hej Kim.<br><br>Prøv at ta en malerpistol fyld benzin i og så sprøjt ind i kaburatoren mens du tørner motoren, det kræver nok to personer. Hvis motoren starter er det ikke tændingen men derimod brændstof tilførelse formodentlig karburator.<br><br>Mvh Allan</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 01-02-2008 21:53)</em></u></strong></font></li><br><font face=Verdana>Og du er sikker på at nåleventilen får strøm og åbner for benzinen?<br>Nu skriver du ikke hvordan den ter sig, om den hoster lidt en gang imellem eller om den bare er helt død.<br>Eller får den så meget benzin at den drukner?<br><br>Hvis du nu prøve det Allan foreslår, så kan du jo samtidig sætte en spændtang på benzin slangen, så er du sikker på den ikke drukner. Hvis tædingen ellers så står korrekt så skal den nok lige springe igang på den måde.<br><br>Hilsen Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 01-02-2008 21:54)</em></u></strong></font></li><br><font face=Verdana>Hej Christian.<br>"dyret" kørte jo med tændingen stående på 30-40 grader før top da jeg købte den (Svært at sige da skalaen jo ikke ligefrem går så langt om hehe) tvivler jeg en del på tændingen :o) men jeg kontrollere da lige for en sikkerheds skyld, man ved sq aldrig.<br>Alle 4 tændrør trak uden problemer gnist på over 2 cm, så jeg er ret sikker på tændspolen er ok. Har også målt den igennem, ifølge haynes ligger den indenfor data.<br><br>hej Allan<br>Har spekuleret på diesel start (samme effekt) men da jeg altid er selv er det lidt svært, men jo, burde jeg forsøge før jeg prøver en anden karburator (først fået en ny sending hjem idag). Vil prøve at sprøjte det på filteret, plejer at være nok til at kunne starte et par sek. så ved jeg jo hvor problemet er. Det iriterende er så at jeg nok aldrig finder ud af hvorfor. Karburatoren er jo nærmest renoveret, og kanalerne er endda blæst igennem med højtryksluft.<br><br>Jens Peter:<br>Ligger du evt inde med en karburator du ved virker, hvis jeg "finder hunden" i min egen??<br><br>vh KJ<br>en noget tørere, men stadig iriteret volvo ejer hehe</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 01-02-2008 22:00)</em></u></strong></font></li><br><font face=Verdana>Hej Peter<br>Hvad mener du med at nåleventilen skal have strøm?? der er ikke nogen strømtilførsel på karburatoren! (Pierburg DVG)<br>Har haft samme tanke at den drukner, og i den sammenhæng haft co skruen justeret i den sammenhæng, men intet resultat (heller ikke dagen efter)<br><br>Bilen er total død, eneste den gør er at tørne motoren + ovenstående.<br>Før jeg skiftede nål etc, skød den en overgang ud gennem indsugningen (betyder så vidt jeg husker for mager eller fed blanding) men ikke efter skift af indmaden i karburatoren. ingen livs tegn overhovedet.<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 01-02-2008 22:11)</em></u></strong></font></li><br><font face=Verdana>Hej Kim<br><br>Hvad med forbindelsen på tomgangs solenoiden på indsugningsmanifolden? Er der strøm på og ordentlig forbindelse. Der er ikke sådan at tomgangsskruen er skruet helt i bund?<br><br>Mener den solenoid skal måle 30 ohm. Der står en del i Haynes den grønne :-)<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 01-02-2008 22:17)</em></u></strong></font></li><br><font face=Verdana>hej Christian<br><br>tak for "prikket" hehe, ringer lige i morgen, så kan vi tage en snak om hvornår jeg kan hente den "grønne"<br>Solenoiden klikker som den skal, men har faktisk ikke ohmet den igennem (når de klikker syntes jeg de plejer at virke) men vil da lige prøve i morgen.<br>Tomgangsskruen rørte jeg ikke da problemet opstod, men tnken har strejfet mig. Jeg har derfor justeret den som haynes foreskriver (helt i, og 2 fulde omgange ud hvis jeg husker rigtigt)<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 01-02-2008 22:23)</em></u></strong></font></li><br><font face=Verdana>Hej Kim<br><br>Der står i Haynes, at man skal tage solenoiden ud og rense den med en stålbørste for at fjerne de belægninger der sætter sig på den. De belægninger kommer enten af defekt krumtaphusventilation, beskidt filter/indsugningsforbindelser eller dårlig benzinkvalitet.<br>Så mon ikke den også trænger til en gang rengøring, hvis ikke du allerede har gjort det.<br><br>Du ringer bare.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 01-02-2008 22:32)</em></u></strong></font></li><br><font face=Verdana>hej<br><br>Det kan da umuligt skade at gøre den ren (sagde jeg også da jeg pillede karburatoren af hehe) skriver det på listen..<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 01-02-2008 23:14)</em></u></strong></font></li><br><font face=Verdana>Hej igen Kim<br>Jamen det lyder da til at alt fungerer, så det må da være tændingen der står forkert på en eller anden mystisk måde.<br>ang. karburatorer, så har jeg en hel hyldefuld Pierburg karburatorer stående.<br>+ en hylde-fuld med et museum af Solex Sicac, men den går jeg ikke ud fra at du ønsker monteret.<br>MVH Jens Peter<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 01-02-2008 23:24)</em></u></strong></font></li><br><font face=Verdana>PS.<br>Sjovt topstykke!<br>I onsdags skiftede topstykket på en volvo med en B230K motor, som havde sprunget tandremmen.<br>Topstykket havde 5 meget bøjede ventiler, og der var kun ganske lidt mærker i stemplerne.<br>Så et andet topstykke på og volvoens ejer var glad igen.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 01-02-2008 23:34)</em></u></strong></font></li><br><font face=Verdana>Hej Jens Peter<br><br>Selv om der kun er ganske små mærker i stemplerne, kan plejlstængerne godt have taget skade altså blevet bøjet eller trykket. Men det er jo ikke sikkert, at der er sket noget på den motor du lige har fikset for manden. Det kommer jo også an på, ved hvilke motoromdrejninger skaden sker.<br>Men en ting er i hvertfald helt sikkert: Lejerne har været udsat for et gevaldigt tryk idet stemplerne rammer ventilerne og smasker dem op i topstykket.<br><br>Undskyld Kim, det vedrører jo ikke dit problem i denne tråd.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 01-02-2008 23:58)</em></u></strong></font></li><br><font face=Verdana>Sad faktisk med det samme i tankerne. vi har netop skiftet en motor til 185.000 excl moms af samme årsag, plejlstænger så tykke som vel udviklede bananer lignede "sommerhatte".. et af de lidt sjovere projekter i min tid på værkstedet.<br><br>Jeg vil lave en kontrol af tændingen, kan jo være jeg har fået skubbet på den (lyder dog lidt underligt, men man skal aldrig sige aldrig) og skal have testet diesel start. så må jeg tage den derfra.<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Knud Bager, 02-02-2008 14:53)</em></u></strong></font></li><br><font face=Verdana>Et råd mere:<br>Som jeg før har skrevet så tærer benzinrørene op ved tanktoppen-hvis man ikke SELV demonterer dækpladen i bagagerummet og sørger for rustbeskyttelse af tankmåleren med div rør så får motoren falsk luft og går af h-til. 2 Den magnetventil som der skrives om kan du jo prøve at demontere-den hjælper kun mod eftertænding-sæt evt en prop i hullet<br>         K.Bager</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 02-02-2008 18:25)</em></u></strong></font></li><br><font face=Verdana>Nu da det kun er en A motor ville man finde problemet i motorrummet da den lille pumpe ikke vil kunne give noget videre brændstof. Og der kommer rigeligt..<br><br>Hvis du tænker på den ventil Christian nævner, så har den lidt mere at sige, bl.a. den der kapper brændstoftilførsel og dermed sørger for at motoren stopper når nøglen drejes.<br><br>Der er i øvrigt kommet de første livstegn, ved dog ikke hvorfor, men chancen er da at der kommer liv i den i morgen (håber jeg da) prøver at sænke co&#39&#59;en en smule da jeg har en formodning om at den drukner lige nu.<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 04-02-2008 18:28)</em></u></strong></font></li><br><font face=Verdana>Så er jeg endnu engang en lykkelig volvo ejer. Efter en alvorlig samtale med volvoen (og 4 nye tændrør) spinder Garfield (volvoen) igen som havde han lige fået lasagne.<br><br>I galskab over at det "bare" var tændrørene kontrollerede jeg endnu engang de gamle (3. gang) og konstaterede at de altså ikke fejlede noget (kraftig gnist på alle 4). Jeg kan ganske enkelt ikke forklare hvad der kan være sket. Jeg kørte med de gamle i 2 måneder uden de mindste problemer, og først efter jeg havde karburatoren afmonteret for 2. gang ville den ikke starte. Det er virkeligt et mysterie.<br><br>Men nuvel, i min dagligdag på arbejdet (med gamle dårligt vedligeholdte køretøjer) har jeg lært at man skal passe på med at undersøge hvorfor noget pludseligt virker, det ender bare galt.<br><br>Kan i øvrigt varmt anbefale en "renovering" af karburatoren. Efter turen hvor den er blevet justeret ordentligt i chokeren osv (mangler dog at finjustere CO) går den virkeligt godt, ingen problemer med koldstart på chokeren, den gik fuldstændigt jævnt på 1300 o/m. Og trækker igen som en hest på steroider hehe.<br>Eneste jeg dog undrer mig over er at den ikke fylder brændstoffilteret helt op, den får masser af benzin (pumpen er faktisk overraskende effektiv, over 1 DL på 4 sek kørsel med starteren) og hverken hakker eller andet.. men igen, nogle gange skal man ikke studere sagerne for meget :o)<br><br>Tak for hjælpen gutter.<br>mvh<br>Kim Junker</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Peter Rasmussen, 04-02-2008 19:51)</em></u></strong></font></li><br><font face=Verdana>Hej Kim<br>Den har været druknet, man kan slås med det i flere dage fordi den bliver ved med at fylde benzin i cylinderen også selv om man holder pedalen i bund.<br>Jeg lader den stå natten over uden tændrør, selv det er ikke en engang altid nok eller også sætter jeg en spændtang på benzin slangen.<br>Jeg har som sagt prøvet det adskillige gange, man står der og føler sig lidt åndssvag og kan ikke finde nogle fejl.<br>Er det et af de små bezinfiltre? Det er meget normalt de ikke bliver fyldt helt op.<br>Godt du fik liv i den.<br><br>Hilsen Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 04-02-2008 20:03)</em></u></strong></font></li><br><font face=Verdana>Jeg er overbivist om at den har været druknet, men på et tidspunkt stod den i over 14 dage (ventede på nye dele) og da ville den stadig ikke starte.<br>Det kan sagtens være du har ret, har dog aldrig oplevet problemer i den grad, hvilken jeg egentlig syntes er rimeligt godt klaret da den "nyeste" 200 serie jeg har haft var 18 år "ung" da jeg købte den.<br><br>Filteret er netop et af de små "papirsfiltre" plejer jeg at kalde dem (grovfilter er formodentlig det mest rigtige navn hvis vi sammenligner med Diesel verdenen) Har ofte lagt mærke til filteret ikke er fyldt helt op, men dog ikke at der stort set ikke er noget brændstof i som der var en overgang.<br>Men det må jo vise sig, når jeg kommer ud på en lang tur, om det er et problem. Tvivler dog, som sagt arbejder pumpen som en galning, troede faktisk ikke den kunne levere så meget. Det er kun en fordel når jeg skal til at lege lidt med hvilke muligheder der er i den.<br><br>vh KJ<br>NB: den har stået stille siden slutningen af dec, det har været en lang kamp...</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 04-02-2008 21:02)</em></u></strong></font></li><br><font face=Verdana>Hej Kim<br><br>SÅDAN!!!!<br>Sådan en B230A motor har den "rigtige" volvo-lyd.<br><br>apropopo&#59; Tændrør, Volvo-folket er ofte kommet her med en A eller K motor, som går a.h.t.og så har jeg taget tændrørene ud og så sidder der BOSCH 3 eller 4 polet tændrør i den.<br>UD, med dem og i med 4 alm. volvo tændrør, og så kører "dyret" igen, som den skal.<br>MVH Jens Peter</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 04-02-2008 22:17)</em></u></strong></font></li><br><font face=Verdana>Hej Jens Peter.<br><br>Jo, sådan en B230A har nemlig en herlig lyd, svært at forklare til "ikke volvo folket" men den er der :o)<br><br>Angående tændrørene, ja, alle de nymodens mange elektrodet tændrør skal så langt over højre skulder som overhovedet muligt.<br>Det der bare undrer mig er jo at bilen kørte ganske fint (omend dog en smule hårdt, tror jeg dog nærmere var karburatorens knap så gode stand der var skyld i) på tændrørene, for at dø helt ud. Nu har jeg desværre smidt dem ud (noget Fransk et-eller-andet, skulle jeg ha skiftet helt fra starten) men kunne ellers ha været sjovt at montere dem igen for at se om det virkeligt var dem der gemte på problemerne<br>Uanset hvad kan jeg jo give mig selv en dummeflad for ikke at følge mine egne (og jeres råd) og købe nogle ordentlige helt fra starten. Engang imellem må man lære på den hårde måde..<br><br>vh KJ</font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

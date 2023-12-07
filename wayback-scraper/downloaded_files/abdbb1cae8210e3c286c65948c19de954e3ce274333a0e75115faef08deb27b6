@@ -1,0 +1,599 @@
+
+
+<html>
+<HEAD>
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright © 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;240 Serien i tal</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="Søg" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+<table width="800" align="center">
+  <tr>
+    <td>
+      <h2>Produktionstal for Volvo 240/260</h2><br>
+      <h4>Samlet produktion af 200-serien: <b>2.862.053</b></h4><br>
+      <table border="1" width="555" align="center">
+      <caption>Volvo 240 Total Produktion</caption>
+      <thead>
+        <tr>
+          <th width="70">Model</th>
+          <th width="175">Model</th>
+          <th width="55">Fra</th>
+          <th width="55">Til</th>
+          <th width="200">Total Produktion</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th width="70">&nbsp;242</td>
+          <td width="175">&nbsp;2 døre sedan</td>
+          <td width="55">&nbsp;1975</td>
+          <td width="55">&nbsp;1984</td>
+          <td width="200">&nbsp;315.856</td>
+        </tr>
+        <tr>
+          <th width="70">&nbsp;244</td>
+          <td width="175">&nbsp;4 døre sedan</td>
+          <td width="55">&nbsp;1975</td>
+          <td width="55">&nbsp;1993</td>
+          <td width="200">&nbsp;1.478.352</td>
+        </tr>
+        <tr>
+          <th width="70">&nbsp;245</td>
+          <td width="175">&nbsp;5 døre station car</td>
+          <td width="55">&nbsp;1975</td>
+          <td width="55">&nbsp;1993</td>
+          <td width="200">&nbsp;891.847</td>
+        </tr>
+        <tr>
+          <th width="70">&nbsp;Total</td>
+          <td width="175">&nbsp;</td>
+          <td width="55">&nbsp;1975</td>
+          <td width="55">&nbsp;1993</td>
+          <td width="200">&nbsp;2.686.055
+          </td>
+        </tr>
+      </tbody>
+      </table>
+      <br>
+
+      <table border="1" width="555" align="center">
+      <caption>Volvo 260 Total Produktion</caption>
+      <thead>
+        <tr>
+          <th width="70">Model</th>
+          <th width="175">Model</th>
+          <th width="55">Fra</th>
+          <th width="55">Til</th>
+          <th width="200">Total Produktion</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th width="70">&nbsp;262</th>
+          <td width="175">&nbsp;2 døre sedan</td>
+          <td width="55">&nbsp;1976</td>
+          <td width="55">&nbsp;1977</td>
+          <td width="193">&nbsp;9.951</td>
+        </tr>
+        <tr>
+          <th width="70">&nbsp;264</th>
+          <td width="175">&nbsp;4 døre sedan</td>
+          <td width="55">&nbsp;1975</td>
+          <td width="55">&nbsp;1982</td>
+          <td width="193">&nbsp;131.690</td>
+        </tr>
+        <tr>
+          <th width="70">&nbsp;265</th>
+          <td width="175">&nbsp;5 døre station car</td>
+          <td width="55">&nbsp;1976</td>
+          <td width="55">&nbsp;1985</td>
+          <td width="193">&nbsp;34.357</td>
+        </tr>
+        <tr>
+          <th width="70">&nbsp;Total</th>
+          <td width="175">&nbsp;</td>
+          <td width="55">&nbsp;1975</td>
+          <td width="55">&nbsp;1993</td>
+          <td width="193">&nbsp;175.998</td>
+        </tr>
+      </tbody>
+      </table>
+      <br>
+      
+      <table border="1" width="448" align="center">
+      <caption>Volvo 200-serien Produktion pr. år</caption>
+      <thead>
+        <tr>
+          <th width="70" rowspan="6" valign="top">&nbsp;Årstal</th>
+          <th width="65" valign="top">&nbsp;Model</th>
+          <th width="150" valign="top">&nbsp;Produktion</th>
+          <th width="313" valign="top">&nbsp;Års Produktion</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th width="70" rowspan="4" valign="top">&nbsp;1975</th>
+          <th width="65" valign="top">&nbsp;242</th>
+          <td width="150" valign="top" align="right">&nbsp;53.804</td>
+          <td width="313" rowspan="4" valign="bottom">&nbsp;201.163</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;82.976</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;54.709</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;264</th>
+          <td width="150" valign="top" align="right">&nbsp;9.674</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="6" valign="top">&nbsp;1976</th>
+          <th width="65" valign="top">&nbsp;242</th>
+          <td width="150" valign="top" align="right">&nbsp;45.144</td>
+          <td width="313" rowspan="6" valign="bottom">&nbsp;233.014</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;90.736</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;60.640</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;262</th>
+          <td width="150" valign="top" align="right">&nbsp;3.099</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;264</th>
+          <td width="150" valign="top" align="right">&nbsp;25.287</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;265</th>
+          <td width="150" valign="top" align="right">&nbsp;8.108</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="6" valign="top">&nbsp;1977</th>
+          <th width="65" valign="top">&nbsp;242</th>
+          <td width="150" valign="top" align="right">&nbsp;23.215</td>
+          <td width="313" rowspan="6" valign="bottom">&nbsp;186.835</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;100.055</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;48.485</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;262</th>
+          <td width="150" valign="top" align="right">&nbsp;230</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;264</th>
+          <td width="150" valign="top" align="right">&nbsp;12.045</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;265</th>
+          <td width="150" valign="top" align="right">&nbsp;2.805</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="6" valign="top">&nbsp;1978</th>
+          <th width="65" valign="top">&nbsp;242</th>
+          <td width="150" valign="top" align="right">&nbsp;19.230</td>
+          <td width="313" rowspan="6" valign="bottom">&nbsp;178.480</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;89.685</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;47.490</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;262C</th>
+          <td width="150" valign="top" align="right">&nbsp;1.670</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;264</th>
+          <td width="150" valign="top" align="right">&nbsp;15.590</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;265</th>
+          <td width="150" valign="top" align="right">&nbsp;4.815</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="6" valign="top">&nbsp;1979</th>
+          <th width="65" valign="top">&nbsp;242</th>
+          <td width="150" valign="top" align="right">&nbsp;23.445</td>
+          <td width="313" rowspan="6" valign="bottom">&nbsp;223.840</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;117.855</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;53.430</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;262C</th>
+          <td width="150" valign="top" align="right">&nbsp;2.120</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;264</th>
+          <td width="150" valign="top" align="right">&nbsp;20.950</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;265</th>
+          <td width="150" valign="top" align="right">&nbsp;6.040</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="6" valign="top">&nbsp;1980</td>
+          <th width="65" valign="top">&nbsp;242</th>
+          <td width="150" valign="top" align="right">&nbsp;22.145</td>
+          <td width="313" rowspan="6" valign="bottom">&nbsp;212.358</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;106.012</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;51.742</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;262C</th>
+          <td width="150" valign="top" align="right">&nbsp;1.920</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;264</th>
+          <td width="150" valign="top" align="right">&nbsp;24.058</td>
+        </tr>
+        <tr> 
+          <th width="65" valign="top">&nbsp;265</th>
+          <td width="150" valign="top" align="right">&nbsp;6.481</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="6" valign="top">&nbsp;1981</td>
+          <th width="65" valign="top">&nbsp;242</th>
+          <td width="150" valign="top" align="right">&nbsp;17.809</td>
+          <td width="313" rowspan="6" valign="bottom">&nbsp;183.375</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;94.111</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;50.532</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;262C</th>
+          <td width="150" valign="top" align="right">&nbsp;912</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;264</th>
+          <td width="150" valign="top" align="right">&nbsp;17.696</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;265</th>
+          <td width="150" valign="top" align="right">&nbsp;2.315</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="5" valign="top">&nbsp;1982</td>
+          <th width="65" valign="top">&nbsp;242</th>
+          <td width="150" valign="top" align="right">&nbsp;17.049</td>
+          <td width="313" rowspan="5" valign="bottom">&nbsp;218.247</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;126.696</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;66.194</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;264</th>
+          <td width="150" valign="top" align="right">&nbsp;6.390</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;265</th>
+          <td width="150" valign="top" align="right">&nbsp;1.918</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="4" valign="top">&nbsp;1983</th>
+          <th width="65" valign="top">&nbsp;242</th>
+          <td width="150" valign="top" align="right">&nbsp;12893</td>
+          <td width="313" rowspan="4" valign="bottom">&nbsp;210.845</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;125639</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;71295</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;265</th>
+          <td width="150" valign="top" align="right">&nbsp;1018</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="4" valign="top">&nbsp;1984</th>
+          <th width="65" valign="top">&nbsp;242</th>
+          <td width="150" valign="top" align="right">&nbsp;7887</td>
+          <td width="313" rowspan="4" valign="bottom">&nbsp;227.577</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;133104</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;85729</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;265</th>
+          <td width="150" valign="top" align="right">&nbsp;857</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="3" valign="top">&nbsp;1985</th>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;73235</td>
+          <td width="313" rowspan="3" valign="bottom">&nbsp;142.127</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;68188</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;265</th>
+          <td width="150" valign="top" align="right">&nbsp;704</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="2" valign="top">&nbsp;1986</th>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;69511</td>
+          <td width="313" rowspan="2" valign="bottom">&nbsp;127.742</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;58231</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="2" valign="top">&nbsp;1987</th>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;63045</td>
+          <td width="313" rowspan="2" valign="bottom">&nbsp;110.905</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;47860</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="2" valign="top">&nbsp;1988</th>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;55318</td>
+          <td width="313" rowspan="2" valign="bottom">&nbsp;97.365</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;42047</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="2" valign="top">&nbsp;1989</th>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;52509</td>
+          <td width="313" rowspan="2" valign="bottom">&nbsp;89.489</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;36980</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="2" valign="top">&nbsp;1990</th>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;42846</td>
+          <td width="313" rowspan="2" valign="bottom">&nbsp;79.815</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;36969</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="2" valign="top">&nbsp;1991</th>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;27464</td>
+          <td width="313" rowspan="2" valign="bottom">&nbsp;54.510</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;27046</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="2" valign="top">&nbsp;1992</th>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;20790</td>
+          <td width="313" rowspan="2" valign="bottom">&nbsp;49.217</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;28427</td>
+        </tr>
+        <tr>
+          <th width="70" rowspan="2" valign="top">&nbsp;1993</th>
+          <th width="65" valign="top">&nbsp;244</th>
+          <td width="150" valign="top" align="right">&nbsp;11812</td>
+          <td width="313" rowspan="2" valign="bottom">&nbsp;35.149</td>
+        </tr>
+        <tr>
+          <th width="65" valign="top">&nbsp;245</th>
+          <td width="150" valign="top" align="right">&nbsp;23337</td>
+        </tr>
+      </tbody>
+      </table>
+      <br>
+    </td>
+  </tr>
+</table>
+
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright © 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

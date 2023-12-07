@@ -1,0 +1,427 @@
+
+
+<html>
+<HEAD>
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright © 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Ring Djursland 10 aug. 2003</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="Søg" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+<table border="0" cellpadding="5" cellspacing="1" width="760" align="center">
+  <tr>
+    <td>
+
+En søndag midt i den varmeste sommer i mands minde drog jeg til AMU Center 
+Djursland i Pederstrup på 
+Djursland for at opleve et motorløb i fra sidelinien. Og det var en 
+succesoplevelse af de helt store.<p>Lad mig sige det med det samme: Mine to 
+favoritter er DTC-bilen Volvo S40 med den svenske fører Pontus Mörth og fra 
+Gruppe N Yokohama Cup 1601-2000 en Volvo S40 med Anders Byriel fra Randers som 
+fører. To mageløse biler og 
+to top-kørere.</p>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/banen.jpg&palt=Banen','','height=426,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/banent.jpg" width="128" height="65"></a></td>
+    <td> 
+<p>Jeg havde på forhånd købt en depotbillet - et orange armbånd til 
+    kr. 160,- hos en af banens sponsorer.</p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081001.jpg&palt=Billet','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081001t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+<h2>Ankomsten</h2>
+<p>Ved 9:30 tiden var formel 2000 racerne i fuld kamp på banen i en 18 runders 
+dyst. Det hørtes tydeligt, mens jeg gik uden for banens område på vej op mod 
+depotindgangen og monterede min billet på armen.</p>
+<p>En del besøgende købte billetter ved indgangen, hvor der også var mulighed 
+for at købe et program for blot en flad 10'er.</p>
+<p>Man drages af lyden fra banen. Jeg kom til sidelinien ved mållinjen og så de 
+hurtige racere bremse hårdt ned før et hårnåle sving, for herefter at accelerere 
+med brølende motorer på pit-langsiden kun få meter fra hvor jeg stod. Alle sanser blev 
+pirret til det yderste. Synet glædede sig over at se dette 
+smukke syn af bilerne. Hørelsen over lyden af de mange hestekræfter 
+som blev sluppet løs. Lugtesansen sniffede livligt til lugten af de varme dæk og 
+bragende udstødninger. Følelsen af det dirrende publikum og de spændte kører, 
+fik det hele til at gå op i en højere enhed.</p>
+<p>Der gik ikke mange minutter efter den sidste formel 2000 havde forladt banen, 
+før de første Saxo'er blev lukket ud på banen for at deltage i en dyst på 15 
+omgange.</p>
+<h3>Tårnet</h3>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="615">Midt inde i Saxo-løbet, blev jeg inviteret op i tårnet af Jes Hebsgaard. 
+    Her var der en uovertruffen udsigt over banen. I tårnet foregår 
+    bl. a. tidregistreringen. Også speakerne Morten Alstrup og Bo Caspersen holder til 
+    i tårnet mens de holder tilskuerne orienteret på en spændende og 
+    underholdende måde om alt hvad der sker på banen.<br>
+    I tårnet fik jeg forevist tidtagnings systemet, som jeg aldrig har set før, 
+    men kun hørt om via omtale.<br>
+    Det var en stor oplevelse. </td>
+    <td width="130" valign="top"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081002.jpg&palt=Tårnet','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081002t.jpg" width="128" height="96"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" width="745">Hver bil er udstyret med en &quot;transponder&quot;, på størrelse med en pakke cigaretter, som sender et signal til Hebsgaards PC via et coaxialkabel nedgravet i mållinjen hver gang den passerer mållinjen eller kører ud fra pit. Tiderne registreres med 1/1000 sek. nøjagtighed. Ud fra disse tider beregner systemet hver bilens omgangstider o.m.a. Tiderne sendes herfra videre til en anden PC som opdaterer de skærme der står placeret rundt om på området. På Internettet kan løbene følges med tider som også leveres herfra. Og ikke mindst får den dækkende TV kanal tiderne. Det var utroligt spændende at se systemet.<br>
+    I tårnet råder præcision og nøjagtighed og en stor entusiasme hos de som befinder sig deroppe.<p>Fra tårnet fulgte jeg et helt løb: Historiske, klasse 1971. Med start nummer 544 var en Volvo 544 Sport ført af Ulrik Nielsen og med start nummer 44 var en Volvo P1800 ført af Charlotte Engel. Desværre kom ingen af de to på podiet, hvor Brian Stoltze stod øverst efter at have kørt en Ford Mustang HT i mål som nummer 1. 12 omgange kørt på 12 min 12.396 sek.</td>
+  </tr>
+</table>
+&nbsp;<h3>Området<br>
+</h3>
+<p>På min tur rundt i området, fandt jeg frem til &quot;depotsvinget&quot;. Det var et 
+fremragende sted at så og tage nogle gode billeder. To meter fra bilerne når de 
+accelererer efter svinget, fik jeg den perfekte oplevelse af motorsport når det 
+er bedst. </p>
+<p>Yokohama Cup Gr. N 1600-2001 ccm var netop kørt på banen.</p>
+
+
+
+<p>I dette løb lægger 
+man straks mærke til nummer 9. En prægtig Volvo S40 kørt af Anders Byriel fra 
+Randers. </p>
+
+
+
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081003.jpg&palt=Volvo S40','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081003t.jpg" width="128" height="96"></a></td>
+    <td> 
+<p>Lyden fra de mange veltrimmede og velkontrollerede hestekræfter fra den 
+højtydende Volvo motor, gav publikum følelsen af at &quot;her sker der virkelig 
+noget&quot;. Varmen gjorde desværre at alle disse mange hestekræfter havde besvær med 
+at blive overført til asfalten, da dækkene mistede sin maximale vejgreb. Anders 
+Byriel kørte Volvoen ind på en tredjeplads i dette løb.</p>
+    </td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081004.jpg&palt=Volvo S40','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081004t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>I andet løb, måtte Anders stoppe da olietrykket faldt faretruende. (I øvrigt 
+på grund af at oliepinden var gledet op og olien derved fandt vej ud af 
+motoren.)<h3>Depotet</h3>
+<p>Med en depotbillet når man ikke at se alle løbene. Alle bilerne er 
+&quot;udstillet&quot; i depotet. Og hos langt de fleste var mekanikere og kørere meget 
+venlige til at fortælle om hvad de besøgende ville vide. </p>
+<p>Depotområderne er del i to store områder. På en mark overfor AMU Centret 
+ligger det ene depotområde. På selve AMU Centrets område ved banen ligger det 
+andet. Det er på sidstnævnte, at DTC bilerne har deres tilholdssted. Men også 
+flere 
+Formel-racere huses her.</p>
+
+<p>På vej rundt i DTC rækken møder jeg K Motorsport. Her holder Martin Jensen og 
+Phillip Andersen til med hver sin Honda Civic Type R til. TV2 Zulu sender 
+direkte hele eftermiddagen og de har stillet sit grej op netop ved K Motorsport. 
+Herfra foregik en del interviews som blev vist på TV</p>
+<h3>Volvo S40 og Pontus Mörth</h3>
+<p>Selv i denne bagende sol, fornemmer man lyset fra en særlig bil, lige rundt hjørnet, som lyser op mere end alle de andre.</p>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081005.jpg&palt=Volvo S40 DTC Team','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081005t.jpg" width="128" height="96"></a></td>
+    <td> Der stod den så: <i>Volvo S40 med en 5 cylindret 2-liter 20V motor, som 
+    med sine 270 HK rykker fra 0-100 på ca. 4,0 sek. (lidt hurtigere end selv 
+    den mest veltrimmede Volvo 240). Ved 8750 omdr./min når den op på 260 km/t i 
+    6. gear.</i></td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081006.jpg&palt=Volvo S40 DTC - Motor','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081006t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081007.jpg&palt=Volvo S40 DTC - Kabine','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081007t.jpg" width="128" height="96"></a></td>
+    <td> Man fornemmer straks, at hele teamet brænder for denne bil.<br>
+    Under den mørkeblå motorhjelm er motorrummet velpakket men tilgængelig.<br>
+    Kabinen er ikke velegnet som familiebil. Den er bygget  til én person. 
+    Og instrumenteringen er et PI-instrument med datalogger.<br>
+    Bag de 7x17&quot; store fælge sidder 355 mm store bremser foran. Dette giver 
+    føreren mulighed for at udnytte bilens potentielle grib optimalt.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081008.jpg&palt=Volvo S40 DTC - Forhjul','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081008t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081009.jpg&palt=Volvo S40 DTC - Pontus Mörth','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081009t.jpg" width="128" height="96"></a></td>
+    <td> Føreren af denne super Volvo er den svenske topkører Pontus Mörth fra 
+    Karlstad. Med 
+    sine kun 25 år er han allerede veteran i racingkredse. I 1997 blev han 
+    nummer tre i Volvo S40 JTCC - Svenske Junior Championship. Året efter vandt 
+    han privat cuppen i JTCC.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081010.jpg&palt=Volvo','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081010t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+
+&nbsp;<p>Der var også andre biler i depotet end Volvoen.<p>En af de mest besøgte stande var Peugeot-Statoil 
+teamet med Jason Watt og Jan Magnussen. Jan Magnussen viste bilen til enkelte 
+tilskuere.<br>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="615"><b>Jason Watt</b> er lige så venlig og naturlig som vi alle 
+    opfatter ham når vi ser ham på TV. Jason snakkede velvilligt med tilskuerne og 
+    skrev gerne autografer på opfordring.<br>
+    Jeg havde gerne set ham som vinder af dagens afdeling, for han har fortjent 
+    det specielt efter sidste års resultat.<p>Th. ses Jason skrive en autograf til undertegnede.</td>
+    <td width="130" valign="top" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081011.jpg&palt=Jason Watt','','height=660,width=510,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081011t.jpg" width="96" height="128"></a></td>
+  </tr>
+</table>
+<br>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="615">Valvoline Racing (Valvoline er dem med de suveræne olier her 
+    i blandt &quot;Max Life&quot; som er perfekt til Volvo 240) var repræsenteret med en Seat 
+    Toledo - start nummer 18 - med Michael Nykjær ved rattet.</td>
+    <td width="130" valign="top" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081012.jpg&palt=Valvoline Racing','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081012t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+<br>
+
+Hos Team Essex Invest stod de tre rød/hvide BMWer flot linet op, som også en 
+del var henne og kigge på. Det var rigtig sjovt at gå rundt i depotet med DTC 
+bilerne og hos mange var der mulighed for at få autografer.<p>I det andet 
+depotområde, som var noget større, stod bl.a. de historiske biler. Jeg snakkede 
+lidt med Ulrik Nielsen om hans Volvo 544.<br>
+Ved siden af stod P1800. Det jeg her bed mærke i var, at der var tæpper i 
+bunden. Det var den eneste racerbil, som ikke var totalt ripper for ekstra vægt.</p>
+
+
+
+<h2>DTC</h2>
+
+
+
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081013.jpg&palt=Pontus og Jason er klar','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081013t.jpg" width="128" height="96"></a></td>
+    <td>Kl. 12:20 kørte DTC opvarmning i 10 min. inden de skulle køre Super pole.<br>
+    Inden opvarmningen var alle bilerne linet op ved udkørslen til banen. Et flot syn.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081014.jpg&palt=De tre BMWer er klar','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081014t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081015.jpg&palt=Volvoen i fuld acceleration ud af depotsvinget','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081015t.jpg" width="128" height="96"></a></td>
+    <td>Under lørdagens tidtagning, blev der problemer med venstre drivaksel og 
+under opvarmningen søndag fik Pontus et problem med servoen og måtte stoppe 
+opvarmningen. Det var lidt synd, for Pontus har ikke tidligere være på Ring 
+Djursland.<br>
+    th: Servoen blev skiftet inde præfinalen.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081016.jpg&palt=Servoen skal skiftes','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081016t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081017.jpg&palt=Mange konkurenter ser Volvoen fra denne vinkel','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081017t.jpg" width="128" height="96"></a></td>
+    <td> I præfinalen startede Pontus Mörth som nummer 20 og fik kørt Volvoen op på en 13. plads.<br>
+    Flot kørt Pontus.<br>
+    9. omgang var den hurtigste på 56.108 sek.<p>tv: Mange af konkurrenterne må 
+    nøjes med at se den smukt designede bagende på Volvo S40.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081018.jpg&palt=Bremserne presses til det yderste','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081018t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081019.jpg&palt=Pause','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081019t.jpg" width="128" height="96"></a></td>
+    <td> I pausen mellem præfinalen og DTC finalen skal tingene efterses. Og det 
+    skal gå stærkt.<br>
+    tv: Alle arbejder på højtryk mens Pontus lader sig op mentalt og 
+    får noget væske i denne hede hvor temperaturen var over 30C i skyggen.<br>
+    th: Pontus og Volvoen er klar til finalen.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081020.jpg&palt=Klar til finalen','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081020t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+I finalen starter Pontus Mörth på en 13. plads. I Yokohama svinget puffer Pontus og Jakob Sund i nr. 7 lidt til hinanden. 
+Volvoen får 
+bukket den venstre styrestang som resulterede 
+at hjulvinklen ændrede sig en del. Pontus får på trods af dette Volvoen frem til en 10. plads.
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081021.jpg&palt=God race','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081021t.jpg" width="128" height="96"></a></td>
+    <td> Volvoen kører godt. Det er meget varmt, og det går ud over gribbet men 
+    Pontus kører godt og udnytter det potentielle grib optimalt.</td>
+  </tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="1" width="745">
+  <tr>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081022.jpg&palt=Slut - på vej i pit','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081022t.jpg" width="128" height="96"></a></td>
+    <td> Løbet er slut og Pontus bringer Volvoen i pit.<p>Nr. 7, Jakob Sund i Toyota Corolla 
+    T-sport fra Toyota Castrol Racing klarede ikke strabadserne og den anden 
+    Toyota klarede den heller ikke. Så hvorfor så 
+    ikke klage over et eller andet? Dommerne havde ikke set noget og der var 
+    ingen optagelser af hændelsen. Men det går ud over Pontus Mörth. Han får idømt 15 sekunder straf for trængning af 
+    Toyotaen.</td>
+    <td width="130"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/racevisits/images/rd2003081023.jpg&palt=Tid til eftertanke','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/racevisits/images/rd2003081023t.jpg" width="128" height="96"></a></td>
+  </tr>
+</table>
+<p>Jan Magnussen og Jens Edman, begge i Peugeot 307 GTI fra Peugeot Statoil 
+Motorsport kan ikke blive enige om hvem der skal køre hvor så Jan tager turen ud 
+af banen. En noget bulet Peugeot står nu lige ud for tilskuerområdet.</p>
+
+<p>Jason Watt førte en stor del af løbet, men John Nielsen fra Team Essex Invest 
+får han få omgange før mål. Også Casper Elgaard fra Team Essex Invest når lige 
+at komme foran Jason i sidste omgang.</p>
+
+<p>Til slut kører Historiske, klasse 1971 som, ikke overraskende vindes af Brian 
+Stoltze i Ford Mustang HT foran Stig Andersen og Alex Thomsen - begge i Porche 
+911 S.</p>
+
+<p>Dagen er ved at være slut på Ring Djursland på denne varme søndag. En dag med 
+dirrende spænding og en kæmpe oplevelse som afslutning på sommerferien.</p>
+
+<p align="center"><b>En oplevelse som jeg kun kan anbefale til alle motorsport 
+interesserede.</b></p>
+
+<hr>
+
+
+    </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright © 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

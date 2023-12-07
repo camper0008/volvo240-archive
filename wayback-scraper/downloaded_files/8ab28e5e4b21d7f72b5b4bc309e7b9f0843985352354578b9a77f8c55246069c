@@ -1,0 +1,277 @@
+
+
+<html>
+<HEAD>
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id=DMBRI style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name=DMBImgFiles width="1" height="1" border="0" alt="">
+<img src="menu/dmb_m.gif" name=DMBJSCode width="1" height="1" border="0" alt="">
+</div>
+<script type="text/javascript" language="JavaScript" >
+	var rimPath = null;
+	var rjsPath = null;
+	var rPath2Root = null;
+	
+	function InitRelCode() {
+		var iImg;
+		var jImg;
+		var tObj;
+		
+		if(!document.layers) {
+			iImg = document.images['DMBImgFiles'];
+			jImg = document.images['DMBJSCode'];
+			tObj = jImg;
+		} else {
+			tObj = document.layers['DMBRI'];
+			if(tObj) {
+				iImg = tObj.document.images['DMBImgFiles'];
+				jImg = tObj.document.images['DMBJSCode'];
+			}
+		}
+		if(!tObj) {
+			window.setTimeout("InitRelCode()", 700);
+			return false;
+		}
+		
+		rimPath = _gp(iImg.src);
+		rjsPath = _gp(jImg.src);
+		rPath2Root = rjsPath + "../";
+		
+		return true;
+	}
+	
+	function _purl(u) {
+		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
+	}
+	
+	function _fip(img) {
+		if(img.src.indexOf("%%REL%%")!=-1)
+			img.src = rimPath + img.src.split("%%REL%%")[1];
+		return img.src;
+	}
+	
+	function _gp(p) {
+		return p.substr(0,p.lastIndexOf("/")+1);
+	}
+	
+	function FixImages() {
+		var h = null;
+		var f = new Function("h", "if(h)for(var i=0; i<h.length; i++)h[i] = xrep(h[i], '%%REL%%', rimPath);");
+		f(hStyle);f(hshStyle);
+	}
+	
+	function xrep(s, f, n) {
+		if(s) s = s.split(f).join(n);
+		return s;
+	}
+	
+	InitRelCode();
+</script>
+<script type="text/javascript" language="JavaScript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'main.js"><\/script>');return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright (c) 2002-2008 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="Søg" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=5">www.volvo240.dk</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Har du forslag eller kommentarer til dette site. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=5"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Apostrof</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Christian Fisker</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">christian@cbf.dk</font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">07-01-2008&nbsp; 19:12</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej<br><br>Hvorfor kan der ikke overføres apostrof tegn, når man skriver et indlæg eller lignende på volvo240.dk? Alle mulige andre tegn kan godt overføres, når et svar e.l. oploades.<br><br>Det kan godt ske, at det ikke har betydning for nogen andre end mig, men jeg synes, det er uhensigsmæssigt, da det er en del af den danske måde at stave på i flere situationer.<br><br>Mvh Christian</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Jelstr&#248;m, 07-01-2008 19:17)</em></u></strong></font></li><br><font face=Verdana>God idé</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Jelstr&#248;m, 07-01-2008 19:18)</em></u></strong></font></li><br><font face=Verdana>éééééé her virker det</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 07-01-2008 19:26)</em></u></strong></font></li><br><font face=Verdana>Det er meget fint. Sådan én kan jeg også lave. Men det er altså ikke apostrof. Det er den taste med stjernen på lige ved siden af Ø på mit tastetur IBM R50e.<br>Hvis men f.eks. skriver 90erne. Nogen bruger 90érne, men det er ikke det rigtige at bruge. Det bruges hvis man hedder René. Kan ikke huske hvad den hedder.<br>Eller roder jeg dem sammen?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Jelstr&#248;m, 07-01-2008 19:31)</em></u></strong></font></li><br><font face=Verdana>Hmm.. Christianss</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 07-01-2008 19:31)</em></u></strong></font></li><br><font face=Verdana>Jeg roder dem ikke sammen. Den der bruges i René hedder accent.<br>Se den danske retstavningsordbog. <br>1990erne skal deles med apostroftegn mellem 1990 og erne.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Jelstr&#248;m, 07-01-2008 19:36)</em></u></strong></font></li><br><font face=Verdana>Ja.. der prøvede jeg med rigtig apostrof. Den blev ikke synlig.<br><br>Det andet tegn hedder accent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Jelstr&#248;m, 07-01-2008 19:37)</em></u></strong></font></li><br><font face=Verdana>hvor ofte bruger du apostrof tegnet her?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(morten, 07-01-2008 19:38)</em></u></strong></font></li><br><font face=Verdana>90erne<br>DET VAR DA IKKE SÆRLIGT SVÆRT<br>René er ikke så besværligt, <br>Det kræver at man rammer de riktige taster)<br><br>MVH<br><br>Morten</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(morten, 07-01-2008 19:41)</em></u></strong></font></li><br><font face=Verdana>Og jo det var svært da der går noget tabt i oversættelsen fra det skevne til det viste.<br>Tegnet findes desværre ikke her på siden.<br><br>MVH<br><br>Morten</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Jelstr&#248;m, 07-01-2008 19:41)</em></u></strong></font></li><br><font face=Verdana>Hmm.. jeg kan ikke se dit tegn i 90erne<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Per Sand Lauridsen, 07-01-2008 19:41)</em></u></strong></font></li><br><font face=Verdana>Accent aigu = é<br>Accent grave = à<br>Og sådan var det også i 90erne...<br><br>http://da.wikipedia.org/wiki/Accenttegn<br><br>Mvh.<br>Per</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Jelstr&#248;m, 07-01-2008 19:44)</em></u></strong></font></li><br><font face=Verdana>René  Renè  Det kan jeg da også.. men er det samme tegn?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 07-01-2008 19:46)</em></u></strong></font></li><br><font face=Verdana>Ha ha Morten og Per. Så fandt I også lige detaljen. <br>Og jeg tror også Søren er ved at være med nu.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Jelstr&#248;m, 07-01-2008 19:48)</em></u></strong></font></li><br><font face=Verdana>Jeg har hele tiden været med, næsten. Men på min ` står der endna også det omvendt. Nåh.. glem det...<br><br>Hvornår skal du bruge tegnet?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 07-01-2008 19:50)</em></u></strong></font></li><br><font face=Verdana>1990erne som jeg beskrev tidligere.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(morten, 07-01-2008 20:03)</em></u></strong></font></li><br><font face=Verdana><br>En prøve med mellem rumstangenten mellemrum aprostof mellemrum.<br><br>MVH<br><br>Morten</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(morten, 07-01-2008 20:03)</em></u></strong></font></li><br><font face=Verdana>Og det virke jo så heller ikke<br><br>MVh<br><br>Morten<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 07-01-2008 23:23)</em></u></strong></font></li><br><font face=Verdana>Jeg tillader ikke brugen af appostrof, da netop det tegn anvendes til SQL injection.<br>Det samme gælder semikolon.<br><br>/FinnK</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 07-01-2008 23:32)</em></u></strong></font></li><br><font face=Verdana>SQl injection aner jeg ikke, hvad er. Men jeg har så fået svar på mit spørgsmål og det var jo det jeg søgte. Bare en skam at man ikke kan bruge apostrof. Men det må jeg så vænne mig til ikke at bruge.<br>Nu har jeg jo i flere år brugt det her på siden uden at have registreret, at det forsvandt når jeg oploadede, så mon ikke jeg overlever.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 07-01-2008 23:38)</em></u></strong></font></li><br><font face=Verdana>SQL injection er en måde at hacke en hjemmeside på som anvender SQL. Og det gør volvo240.dk<br>Alle felter hvor brugeren kan indtaste noget, bliver rippet for de tegn som har en betydning i SQL inden de bliver indsat i SQL forespørgsler.<br><br>Jeg kunne så vælge at erstatte disse tegn af uskadelige tegnkompinationer når de bliver sendt til SQL for så at konvertere dem til de oprindelige tegn når de bliver vist som uskadelig tekst.<br>Det kan være jeg laver det sådan en dag hvor jeg har lidt tid til overs.<br><br>/Finn</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 07-01-2008 23:41)</em></u></strong></font></li><br><font face=Verdana>Det er også helt i orden. Det er jo super dejligt med en side, som er fri for alt muligt skrammel fra diverse hackere og flere tusinde fiktive brugere, som man ofte ser på andre sider med forum og lignende, hvor folk kan komme med input.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 08-01-2008 15:29)</em></u></strong></font></li><br><font face=Verdana>heh, jeg har også alle dage brugt det, men os først nu bidt mærke i at det ikke bliver vist.. lidt skummelt at tænke på egentligt :-D<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 08-01-2008 15:59)</em></u></strong></font></li><br><font face=Verdana>Nu hvor vi er i området, hvad sker der lige med semikolon?? den har lidt sin egen mening når jeg laver indlæg ser det ud til<br><br>Test = <br>Test = <br>Test = <br>Test = <br>Test kolon = :<br><br>Er det bare mig der ikke får trykket godt nok mon?!?<br><br>Vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 08-01-2008 16:00)</em></u></strong></font></li><br><font face=Verdana>Det er måske samme årsag? i så fald tror jeg der skal nye briller til her, har jeg heller ikke bidt mærke i før :D<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Bjarne Warming, 08-01-2008 16:22)</em></u></strong></font></li><br><font face=Verdana>Hej Kim,<br>Ja, det er af samme sag. Det skrive Finn også lidt længere oppe.<br><br>MVH<br><br>Bjarne</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kim Junker, 08-01-2008 18:12)</em></u></strong></font></li><br><font face=Verdana>Nu arbejder jeg ikke med SQL, så jeg var ikke klar over at semikolon ligeledes var en del af tegnende :)<br>Men tak for svaret..<br><br>vh KJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 08-01-2008 22:38)</em></u></strong></font></li><br><font face=Verdana>Nu kan de omtalte tegn anvendes.<br>Apostrof  '<br>Semikolon  ;<br><br>For de af Jer som vil se hvad SQL Injection er: <A href="" onclick="window.open('/common/showwin.asp?fname=/diverse/sqlinjection.htm','','height=310,width=660,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no'); &#13;&#10;&#9;return false">SQL Injection</a><br><br>/Finn</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 06-02-2008 17:43)</em></u></strong></font></li><br><font face=Verdana>Hej<br><br>Nu kan man pludselig godt anvende apostrof. Men så efterfølges tegnet bare automatisk af et semikolon.<br><br>Prøver lige   &#39&#59;<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Finn Kruse, 06-02-2008 19:57)</em></u></strong></font></li><br><font face=Verdana>Det skulle være løst nu&#39;<br><br>/Finn</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 06-02-2008 20:05)</em></u></strong></font></li><br><font face=Verdana>Hej Finn<br><br>Det er bare super. Så kan jeg skrive 1980&#39;erne alt det jeg lyster.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Lasse Petterson, 06-02-2008 22:17)</em></u></strong></font></li><br><font face=Verdana>Der er mange sjove og medrivende skriftlige dialoger på denne fantastiske side!<br>Ovenstående skriftudveksling er dog den indtil videre mest morsomme, jeg til dato har læst herinde :-) Tak for en god side for indkarnerede Volvo-tosser som jeg selv!</font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><span class="text" style="font-size: 9px;">&nbsp;</span></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright 2002-2006 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">1545</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

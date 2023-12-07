@@ -1,0 +1,215 @@
+
+
+<html>
+<HEAD>
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright © 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="Søg" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=4">Volvo-folk imellem</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spørge andre Volvo-ejere tilråds om alt vedrørende Volvo. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Tøvende acceleration.</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Jonas</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"></font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">26-04-2014&nbsp; 20:12</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br>240 GL, B230FD, 1992. <br><br>Jeg har fået mig et problem jeg ikke lige kan komme af med.<br><br>Når jeg starter bilen i helt kold tilstand, så går den op i omdrejninger til omkring 1500 i tomgang, for at falde til de normale 900 omdrejninger efter 1-2 minutter.<br><br>De første minutter jeg kører "tøver" bilen. Accelerationen er ikke så glat som den plejer at være, men føles som om bilen er bundet til et tov den forsøger at slide sig løs af. Altså en eller anden form for modstand. Så snart bilen er varm sprinter den afsted uden tøven. <br><br>Jeg har tjekket for falsk luft to gange, hvilket der ikke var. Har for nyligt fået skiftet tændrør, tændrørskabler, rotor og fordeler. Endvidere har jeg fået ny katalysator og udstødning såvel som en VX knast. <br><br>Nogen der har et kvalificeret bud på hvad der er galt? <br><br>Mvh,<br>Jonas</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Steen Damsgaard, 26-04-2014 22:23)</em></u></strong></font></li><br><font face=Verdana>Fejlkoder.<br>Sådan en fin beskrivelse som du laver her, skal indeholde information om hvorvidt motor alarm lampen i instrumentpanelet lyser eller ej, samt om motorstyring samt tændingsstyring har sat nogle fejlkoder.<br>Nu skal du ikke spøge om hvordan man udlæser disse koder. Det er allerede dokumenteret her til bevidstløshed.<br>Med venlig hilsen<br>Steen <br>Frederikssund</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 27-04-2014 09:31)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas<br>Det er korrekt som Peter skriver, at man skal altid aflæse fejlkoder i 90er modellerne inden man stillet spørgsmålet herinde, så ved svareren at der ingen fejlkoder er, ellers er det første svar "Er der nogen fejlkoder"<br>Det tyder på at du har noget der trænger til justering, måske gasspjæld, når den går op i omdrejninger som kold, og som varm er OK.<br>Prøv også at kigge indeni dit strømfordeler dæksel og se om polerne er brændte.<br>Held og lykke med fejlfindingen!<br>MVH J.P.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 27-04-2014 18:24)</em></u></strong></font></li><br><font face=Verdana>Hej Steen og Jens Peter,<br><br>Jeg burde naturligvis have udlæst fejlkoder inden jeg skrev. Det har jeg rådet bod på, og jeg fik kun meldingen 1-1-1. Det er jo lidt ærgerligt, for så er jeg fortsat på bar bund.<br><br>Jeg glemte at skrive, at jeg har prøvet med en anden tomgangsregulator, men lige lidt hjalp det.<br><br>Det er især den tøvende acceleration der går mig på - kan det have noget med brændstofsystemet at gøre? Min logik siger nej, da det jo i så fald burde være permanent. <br><br>Mvh,<br>Jonas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Johan Jonker, 11-05-2014 16:45)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas<br><br>kan se du skriver du har vx knast lagt i maskinen, var problemet med tøvende acceleration<br>der også før du skiftede knastaksel.<br><br>MVH JJ</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 11-05-2014 17:09)</em></u></strong></font></li><br><font face=Verdana>Hej Johan.<br><br>Tak for svaret.<br><br>Jeg oplevede periodisk samme symptom med en form for "holden igen" da jeg havde m-knasten i. <br><br>Problemet med accelerationen er fortsat periodisk, hvor min forhøjede tomgang umiddelbart efter start i kold tilstand er blevet permanent. Jeg kører med tændrør "Bosch Super Plus WR7DC". <br><br>Jeg håber der er en der har en god ide til løsningen, for jeg kan ikke rigtigt vise det til mekanikeren? Han får den jo oftest i varm tilstand, og de få gange han har prøvet er der selvfølgelig ingenting:) <br><br>Mvh,<br>Jonas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 14-05-2014 09:16)</em></u></strong></font></li><br><font face=Verdana>Hej,<br><br>Er der nogen der har et forslag til noget jeg kan prøve? Jeg talte med en Bilia mekaniker en dag - og han mente at en 240 skal gå op i omdrejninger ved koldstart? Det har jeg ikke oplevet før, så jeg er noget skeptisk over for den forklaring.<br><br>Mvh,<br>Jonas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 14-05-2014 10:17)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas<br><br>Hvis du er helt sikker på, at tomgangsregulatoren virker 100&#37; som den skal, så tror jeg, at du skal rette fokus mod temperatur-sensoren, som giver signal til motorstyringen om motoren er kold eller driftsvarm. Den sidder ind i topstykket mellem cylinder 3 og 4.<br>Du skal ikke forveksle den med kølevandstemperaturføleren, som også sidder i topstykket, men som sidder omtrent ret ud for cylinder 2.<br><br>En anden ting kan være din indsugningsmanifolds-pakning. Den bør du også tjekke, men det kan være svært at gøre selv med startgas.<br><br>Mvh Christian<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 14-05-2014 13:26)</em></u></strong></font></li><br><font face=Verdana>Hej Christian,<br><br>Tak for svar. Hvordan tjekker jeg om tomgangsregulatoren virker? Jeg har fået den skiftet til en brugt, men det er selvfølgelig ikke en endegyldig garanti.<br><br>Jeg kan ikke finde andet end kølevandstemperaturføleren i spare-part kataloget, har du eventuelt et nr. på temperatur-sensoren?<br><br>Og slutteligt&#59; kan det have noget med den "hakken" jeg oplever i accelerationen? Eller skal jeg prøve med en ny lmm?<br><br>Mvh,<br>Jonas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 14-05-2014 22:44)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas<br><br>Jeg kan ikke huske reservedelsnummeret. Men det er i hvert fald ikke den i kataloget fra spare-parts, for det er kølevandstemperaturen.<br>Jeg ved faktisk ikke, hvordan man tester tomgangsregulatoren. Jeg ved, hvordan man renser den. Og det gør man med bremserens i rigelige mængder og "stemplet" i den skal kunne bevæge sig frit uden den mindste modstand. Der sidder såmen bare en spole og trækker i den, når den får signal fra potentiometeret på gasspjældet.<br><br>Og hvad er da det for nogle tændrør du kører med? En Volvo skal have originale tændrør og intet andet. Jeg kan ikke udtale mig om årsager til huggeri ved acceleration, før end der sidder originale tændrør i motoren med den rette elektrodeafstand. Uoriginale tændrør er nemlig ofte skyld i huggeri på en Volvo-motor uanset årgang og type.<br>Ja nu får jeg sikkert hug for det, men sådan er det. Jeg ved nemlig, jeg har ret :-)<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 30-06-2014 22:03)</em></u></strong></font></li><br><font face=Verdana>Hej igen.<br><br>En lille opfølgning. <br><br>Jeg har nu fået skiftet temperatursensoren. Det lader til at dette har afhjulpet problemet, men det må de næste dage vise. <br><br>I samme ombæring fik jeg skiftet mine motorophæng. Det er som at have fået en ny bil. <br><br><br>Tak for de mange gode råd.<br><br>Mvh,<br>Jonas</font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright © 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

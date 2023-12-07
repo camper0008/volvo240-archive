@@ -1,0 +1,12 @@
+<!DOCTYPE html><html><head>
+  <meta charset="utf-8">
+  <title>Volvo 200 serien</title>
+  <link rel="stylesheet" href="/main-8371dc90e0eb5592.css">
+  
+  <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+
+<link rel="preload" href="/trunk-template-1b8397472d700120_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
+<link rel="modulepreload" href="/trunk-template-1b8397472d700120.js"></head>
+
+<body>
+<script type="module">import init from '/trunk-template-1b8397472d700120.js';init('/trunk-template-1b8397472d700120_bg.wasm');</script></body></html>

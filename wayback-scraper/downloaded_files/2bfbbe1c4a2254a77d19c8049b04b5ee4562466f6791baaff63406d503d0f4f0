@@ -1,0 +1,215 @@
+
+
+<html>
+<HEAD>
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright © 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="Søg" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=7">Volvo 700 Serien</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Dette forum er for <b>Volvo 700 Serien</b> generelt. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=7"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Servo-larm og anden larm fra 740</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Henrik S</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"></font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">18-11-2012&nbsp; 16:38</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej,<br><br>jeg har lige købt en fin 740 GL/B230F.<br><br>Jo større styreudslag, jo mere larmer/piver det fra servoen. Det bliver rimeligt højfrekvent ved fuldt styreudslag. Olien er kontrolleret og efterfyldt uden at det hjalp.<br><br>Er det servopumpen der er ved at stå af? <br>Er det i givet fald en svær operation at skifte den selv? <br>Slangerne af - ny pumpe på - slanger på igen? <br><br>Så er der en anden "slidt" pumpelyd, som kommer sammensteds fra. Når jeg holder for rødt kan jeg høre en pumpe køre (højlydt),det forsvinder så når jeg har holdt der i 10-20 sek. Ved næste lyskryds er larmen tilbage. Den bliver ikke særskilt udløst af at jeg drejer på styretøjet. Lyden kommer fra venstre side - op mod kabinen. Nogen bud?<br><br>mvh Henrik - en ellers glad og tilfreds nybagt 740-ejer.</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 18-11-2012 20:19)</em></u></strong></font></li><br><font face=Verdana><a href="http://1...luft" target="_blank">1...luft</a> i pumpen? slidt rem? find løsninger her på siden via søgefelt. det står meget udførligt...<br><br>2... slidt forreste benzinpumpe?<br><br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 18-11-2012 21:48)</em></u></strong></font></li><br><font face=Verdana>Hej Henrik<br><br>Den der "anden" lyd, som fremkommer, når du holder for rødt: Har du gjort noget for at finde ud af, hvor lyden kommer fra? Altså har du åbnet motorhjelmen og prøvet at lokalisere lyden der eller andet?<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Henrik S, 19-11-2012 11:06)</em></u></strong></font></li><br><font face=Verdana>Christian> Ja, men jeg kan kun høre lyden når jeg sidder i bilen. Den er der lige fra motoren er startet til den slukkes igen. Jeg har selv tænkt på benzintilførslen/pumpe. <br><br>Lyden kan bedst beskrives som når en el-antenne kører op/ned eller en svagere udgave af at aktivere sprinkleren. <br><br>Mht servoen - larmer pumpen hvis der er det forkerte olie på? Min servo er af den nye type med beholder på inderskærmen, og jeg regner med at der skal rød olie på? <br>Tandstangen er skiftet for relativt nyligt (max 4 år), så tror ikke at problemet ligger dér. Remmen er ikke slap. Lige nu ligger det til at servopumpen bliver skiftet. <br><br>/Henrik</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kristian Gr&#248;nbech, 19-11-2012 17:22)</em></u></strong></font></li><br><font face=Verdana>Hej <br>Bruger den servoolie ? Hvis den gør, er det muligvis en læk i servo gummislangen. Utætheden kan måske ses hvis du kigger i motorrum og under bilen. Der skal være tryk på systemet. Du skal bruge en hjælper til at dreje på rattet med motoren kørende i tomgang. Pas på ikke at blive kørt over :-)<br>Kristian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Henrik S, 19-11-2012 18:23)</em></u></strong></font></li><br><font face=Verdana>Jeg overtog bilen for to dage siden, så ved ikke om den taber servoolie - den stod dog lidt under min.-mærket da jeg kiggede efter. Der er efterfyldt. Jeg tester efter Kristians anvisninger snarest muligt. <br><br>Skifter man servopumpen i forbindelse med skift af tandstang m. servo?<br><br>Mht. den anden lyd, så har jeg lokaliseret den til et sted midt under bilen. Har ikke fået min Haynes endnu, men hælder til det er en benzinpumpe, der bogtavelig talt synger på sidste vers. <br><br>Mange spørgsmål...<br><br>/Henrik</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Henrik S, 19-11-2012 19:02)</em></u></strong></font></li><br><font face=Verdana>Efter at have gravet lidt dybere her på siden, faldt jeg over følgende:<br><br><a href="http://www.volvo240.dk/mains.asp?f=4&id=1287&ForumID=7" target="_blank">http://www.volvo240.dk/mains.asp?f=4&id=1287&ForumID=7</a><br><br>Jeg går nu ud fra at det er pumpen i tanken der er stået af og larmen skyldes at hovedpumpen skal arbejde ekstra hårdt - sådan lidt firkantet sagt.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 20-11-2012 15:18)</em></u></strong></font></li><br><font face=Verdana>hovedpumpen kan, mig bekendt sagtens alene forsyne motoren med benzin til kørsel, indtil tankstanden kommer ned til et viswt niveau.<br>Min B230E led af defekt fødepumpe, når der var knap en kvart tank tilbage begyndte pumpen at snakke/knurre, og motoren kunne finde på at tøve et par sekunder under kørsel.<br>Jeg vil godt vædde med at det er din tankpumpe du kan høre. Når bilen har hodlt stille et antal sekunder og benzinen er holdt op med at skvulpe rundt, så får pumpen fat i noget at suge i, og holder så bøtte.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 21-11-2012 17:54)</em></u></strong></font></li><br><font face=Verdana>henrik s.. ja netop....<br><br>jacob.. henrik skrev "samme sted fra" altså fra servoområdet, så går udfra det er forreste pumpe</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jacob, 22-11-2012 07:28)</em></u></strong></font></li><br><font face=Verdana>Jeg var ikke klar over at hovedpumpen sad i motorrummet.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Henrik S, 07-12-2012 09:58)</em></u></strong></font></li><br><font face=Verdana>Hej igen,<br><br>jeg har fundet ud af at den summende lyd stiger i takt med at indholdet i benzintanken falder. Lyden kommer helt sikkert fra et sted mellem rat og ankerplade, og når jeg drejer eller bremser med minimum halvfuld tank, kommer lyden i takt med benzinens skvulp.<br><br>Nogen bud på hvor fejlen ligger nu når det ikke er benzinpumperne?<br><br>/Henrik</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(S&#248;ren Frydendahl Krab, 07-12-2012 20:09)</em></u></strong></font></li><br><font face=Verdana>Hej Henrik<br>Prøv nu at måle den Pumpe i tanken om den kører,for det tror jeg ikke den gør.<br>mvh<br>Søren</font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright © 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

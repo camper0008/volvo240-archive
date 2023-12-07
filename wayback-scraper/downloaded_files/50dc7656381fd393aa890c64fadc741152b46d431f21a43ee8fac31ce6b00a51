@@ -1,0 +1,263 @@
+
+
+<html>
+<HEAD>
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id=DMBRI style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name=DMBImgFiles width="1" height="1" border="0" alt="">
+<img src="menu/dmb_m.gif" name=DMBJSCode width="1" height="1" border="0" alt="">
+</div>
+<script type="text/javascript" language="JavaScript" >
+	var rimPath = null;
+	var rjsPath = null;
+	var rPath2Root = null;
+	
+	function InitRelCode() {
+		var iImg;
+		var jImg;
+		var tObj;
+		
+		if(!document.layers) {
+			iImg = document.images['DMBImgFiles'];
+			jImg = document.images['DMBJSCode'];
+			tObj = jImg;
+		} else {
+			tObj = document.layers['DMBRI'];
+			if(tObj) {
+				iImg = tObj.document.images['DMBImgFiles'];
+				jImg = tObj.document.images['DMBJSCode'];
+			}
+		}
+		if(!tObj) {
+			window.setTimeout("InitRelCode()", 700);
+			return false;
+		}
+		
+		rimPath = _gp(iImg.src);
+		rjsPath = _gp(jImg.src);
+		rPath2Root = rjsPath + "../";
+		
+		return true;
+	}
+	
+	function _purl(u) {
+		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
+	}
+	
+	function _fip(img) {
+		if(img.src.indexOf("%%REL%%")!=-1)
+			img.src = rimPath + img.src.split("%%REL%%")[1];
+		return img.src;
+	}
+	
+	function _gp(p) {
+		return p.substr(0,p.lastIndexOf("/")+1);
+	}
+	
+	function FixImages() {
+		var h = null;
+		var f = new Function("h", "if(h)for(var i=0; i<h.length; i++)h[i] = xrep(h[i], '%%REL%%', rimPath);");
+		f(hStyle);f(hshStyle);
+	}
+	
+	function xrep(s, f, n) {
+		if(s) s = s.split(f).join(n);
+		return s;
+	}
+	
+	InitRelCode();
+</script>
+<script type="text/javascript" language="JavaScript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'main.js"><\/script>');return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright © 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="Søg" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=4">Volvo-folk imellem</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Her kan du spørge andre Volvo-ejere tilråds om alt vedrørende Volvo. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=4"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Mangler benzinpumpe.</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">J&#248;rgen Jacobsen</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"></font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">17-07-2013&nbsp; 08:50</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej derude.<br>Jeg har et sommerferie problem, og tillader mig at bruge dette forum.<br><br>Benzinpumpen på min Volvo 240st, 92´er er defekt.<br>Dvs. det er benzinfilterhuset der er gennemtæret lige over afgangshullet til benzinslangen frem under bilen.<br>Den lette løsning er nok at skifte både benzin- og benzin filter. Slange og ledning af – og på den brugt igen.<br>Min sædvanlige reservedelsleverandør er på ferie så jeg vil prøve at spørge her i dette forum.<br>Jeg er lidt i tidsnød da vi skal køre til Holland om nogle dage.<br>Hvis der ligger en på hylden derude et sted omkring Herning, så vil det være perfekt.<br>Håber der er en der kan hjælpe.<br><a href="mailto:Famjacobsen@fiberpost.dk">Famjacobsen@fiberpost.dk</a><br>Mvh Jørgen Jacobsen<br> <br></font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(J&#248;rgen Jacobsen, 18-07-2013 07:50)</em></u></strong></font></li><br><font face=Verdana>Hej igen.<br>Nå, men vi købte en anden Volvo i går. :-)<br>Så nu er det ikke benzinpumpen der haster :-) Det må vente til efter sommerferien.<br>Vi kom hjem men en XC70, st. aut. fra ´98. 193hk. 270.000. Import fra Sverige i 2010.<br>Fuld læderstue. Aircon. Elstole og en masser andre lækre detaljer. Jeg syntes ikke der mangler noget i den. :-)<br>Så nu er den XC70én der haster. Omregistrering. Syn, og alm. service på en ny indkøbt bil. <br>Den trænger en kærlig hånd men den skal nok blive rigtig fin, efter vask o.s.v. <br>Men, i må have en rigtig god sommer derude i Volvolandet.<br>Jeg har faktisk ikke tid til at sidde her og skrive til jer – så jeg smutter. :-)<br>Mvh Jørgen.<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 19-07-2013 11:46)</em></u></strong></font></li><br><font face=Verdana>Hahaha ER det en joke?? at konvertere sin 240 til en xc serie? pga manglende benzinpumpe? :-D :-)<br><br>ps: hvad er "lækre" detaljer på en bil?<br><br>nå Jørgen.. men du har jo heller ikke tid... god fornøjelse med din volvofordrenault :-)</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(J&#248;rgen Jacobsen, 03-08-2013 20:47)</em></u></strong></font></li><br><font face=Verdana>Nå, men så er vi tilbage fra Holland.<br>Naaej, det er ikke en joke, Torben. :-) Kan godt se det lyder underligt at<br>springe fra 240 til XC pga. en defekt benzinpumpe.<br>Det er jo ikke en dyr reservedel vi snakker om her.<br>Men motoren sejler i olie pga en utæt toppakning, og der er flere ting der trænger gevaldigt til at blive fikset op.<br>Kan nævne sæderne, skærmkanter, dårlig radio og at benzinpumpefilteret på det nærmeste eksploderede her lige op til ferien, gjorde at vi blev enige om, at vi vist var klar til at prøve noget nyt.<br>Ikke at vi skal af med 240én. Jeg kan ikke få mig selv til at sælge den. Gammel kærlighed ruster jo ikke. &#59;.) Man kender jo efterhånden hver en krog i den. Så den beholder jeg indtil videre for at fikse den op. Så ser vi hvornår der skal plader på igen.<br>Mht. lækre detaljer.<br>Der jo en del flere elektriske dimser i en XC, end der er i en 240. <br>Man må jo indrømme - det gør jo livet lidt sjovere.<br>Og jeg har meget længe savnet at Volvoen kunne levere lidt mere i optræk, og det har jeg da fået en del mere af i XC’en<br>Så nu mangler jeg bare nogle der har erfaring med XC70 og kan hjælpe mig med råd vejledning.<br>På turen til Holland blev vi ihverfald klar over at klimaanlægget ikke kører optimalt.<br>Den køler helt vildt i begyndelsen, men efter et stykke tid slår den fra og holder helt op med at køle.<br>Nogen der har et bud på en løsning?<br>Den er jo temmelig tørstig så jeg tænker på at bytte de monterede helårsdæk ud med sommerdæk. Jeg syntes jeg har hørt noget om nogle dæk der skulle være mere økonomiske at køre med pga. mindre rotations friktion. Nogen der ved mere?<br>Ellers mange hilsner til jer derude. Jeg har henter meget råd og vejledning her på siden og det bliver jeg ved med.<br>Mvh Jørgen. <br> <br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Torben V. Hansen, 12-08-2013 21:11)</em></u></strong></font></li><br><font face=Verdana>klima-anlæg: slår det mon fra engang imellem for at "spare" ?</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(J&#248;rgen Jacobsen, 16-08-2013 20:29)</em></u></strong></font></li><br><font face=Verdana>Jeg har fundet ud af at magnetkoplingen på kompressoren med tiden slider indersiden på kompressorhuset, og når den så bliver varm, kan den ikke nå, og slipper så koplingshuset.<br>Så jeg har to muligheder. Skifte koplingenen eller afmontere den, og sætte nogle tykkere simmerringe i den, så afstanden mellem magnetkoplingen og koplingshuset bliver mindre.<br>Så skulle den kunne igen.</font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright © 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">54</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

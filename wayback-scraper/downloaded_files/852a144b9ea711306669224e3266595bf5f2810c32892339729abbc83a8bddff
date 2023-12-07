@@ -1,0 +1,251 @@
+
+
+<html>
+<HEAD>
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="dmbri" style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name="dmbif" width="1" height="1" alt="">
+<img src="menu/dmb_m.gif" name="dmbjs" width="1" height="1" alt="">
+</div>
+<script language="javascript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['dmbif'];jImg=document.images['dmbjs'];tObj=jImg;}else{tObj=document.layers['dmbri'];if(tObj){iImg=tObj.document.images['dmbif'];jImg=tObj.document.images['dmbjs'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="javascript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+;} else {
+document.write('<' + 'script language="javascript" type="text/javascript" src="' + rjsPath + 'iemain.js"><\/script\>');
+}return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright © 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Sturup 18 Juli 2004</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="Søg" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+<table border="0" cellpadding="5" cellspacing="1" width="760" align="center">
+  <tr>
+    <td>
+      <p>Sturup D.17-18 Juli.</p>
+      <h2>Volvo 240 Turbo</h2>
+      <p>Sturup var til dette løb netop blevet udvidet med ca. 500 meter.<br>
+                <br>
+                Jeg havde fået monteret ny motor efter at blokken flækkede på Padborg
+                Park, dog havde vi problemer med indkøringen da TVA autoteknik`s lamda
+                måler gik i stykker under indkøringen.<br>
+                Vi gjorde så det, at vi kørte bilen ind, så vi var sikker på at den fik
+                nok at leve af. Og det gjorde den, for den kørte 1.8 km på literen.<br>
+                <br>
+                I modsætning til de foregående løb så var der masser af træning på
+                Sturup, så vi fik øvet os på de nye sving.<br>
+                <br>
+                Lørdag skulle der køres tidtagning som gav startplaceringerne til 1. løb
+                om søndagen.<br>
+                <br>
+                Tidtagningen gik fint. Jeg satte den hurtigste tid for hele weekenden og
+                dermed banerekorden på 49,7 med Claus Rohr i Alfa Romeo GTS med en tid
+                på 50,2<br>
+                <br>
+                Søndag var der først træning på våd bane og regnvejrs dæk.</p>
+                <h3>Heat 1.</h3>
+                <p>Til første heat var banen tør så vi havde igen skiftet til slick´s.
+                Jeg havde fornøjelsen af at skulle starte som nr.1 <br>
+                Starten gik fint, jeg tog føringen fra første sving skarpt forfulgt af
+                en Porche 944, Alfa Romeo GTA og GTS samt Porche 911.<br>
+                Jeg kørte over målstregen med et forspring til 944 på ca. 200 meter, det
+                var en fed fornemmelse.</p>
+                <h3>Heat 2.</h3>
+                <p>Placeringen fra første heat gav start rækkefølgen til dagens andet
+                heat, så det var jo bare perfekt.<br>
+                <br>
+                Starten i andet heat gik lidt dårlig da jeg missede andet gear og derved
+                lukkede 944´en forbi.<br>
+                De næste 7 omgange gik med at presse Porche'n hele tiden. På 8. omgang
+                kom jeg forbi men lavede en udskridning som gjorde at jeg holdte på
+                tværs foran Porche'n som ikke kunne undgå at påkøre mig.<br>
+                Efter denne påkørsel kom 944´en igen foran men med mig lige i hælene.
+                Desværre blev jeg flaget af for teknisk defekt da min venstre fordør
+                ikke kunne lukke.<br>
+                Jeg fik dog point for en 3. plads, da jeg havde gennemført mere end 75%
+                af de samlede omgange der skulle køreres.<br>
+                <br>
+                Så denne weekend gav sammenlagt en 2. plads, hvilket gør, at jeg i årets
+                mesterskab i Clubrace 1 ligger på en samlet 2. plads.</p>
+                <p>Resultater og billeder, tider kan ses på <a href='/links/redirect.asp?goto=16' Alt='Historisk Motor Sport' target='_blank'>Historisk Motor Sport</a>.<br>
+&nbsp;</p>
+                <p>Til løbet på Sturup skulle den ny designede bremse ventilator jo
+                afprøves og de var en succes. Der var kun lavet en prototype, så det var
+                nemt at måle varme differensen på de 2 forreste bremseskiver.<br>
+                På venstre skive hvor ventilatoren var monteret, var skiven 175<font face="Times New Roman">°</font>
+                C og på højre var temperaturen 280<font face="Times New Roman">°</font>
+                C. Så endnu en succes. <br>
+                <br>
+                Til næste løb på Ring Djursland skal jeg lige have lavet 4 ventilatorer,
+                rettet et par buler ud, lavet ny frontspoiler samt rullet bilen på ny.<br>
+                <br>
+                &nbsp;</p>
+      <table border="0" cellpadding="5" cellspacing="1" width="745">
+        <tr>
+          <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-17_0001.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-17_0001t.jpg" width="128" height="85"></a></td>
+          <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-17_0005.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-17_0005t.jpg" width="128" height="85"></a></td>
+          <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-18_0007.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-18_0007t.jpg" width="128" height="85"></a></td>
+          <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-18_0008.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-18_0008t.jpg" width="128" height="85"></a></td>
+        </tr>
+        <tr>
+          <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-18_0017.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-18_0017t.jpg" width="128" height="85"></a></td>
+          <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-18_0018.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-18_0018t.jpg" width="128" height="85"></a></td>
+          <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-18_0022.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-18_0022t.jpg" width="128" height="85"></a></td>
+          <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-18_0028.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-18_0028t.jpg" width="128" height="85"></a></td>
+        </tr>
+        <tr>
+          <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-18_0029.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-18_0029t.jpg" width="128" height="85"></a></td>
+          <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-18_0036.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-18_0036t.jpg" width="128" height="85"></a></td>
+          <td width="130" align="center"><A href="" onclick="window.open( '/common/showpic.asp?pname=/motorsport/volvo240turbo/imagesrace/2004-07-18_0039.jpg&palt=','','height=510,width=660,menubar=no,toolbar=no,scrollbars=no'); &#13;&#10;&#9;return false"><img border="1" src="/motorsport/volvo240turbo/imagesrace/2004-07-18_0039t.jpg" width="128" height="85"></a></td>
+          <td width="130" align="center">&nbsp;</td>
+        </tr>
+      </table>
+      <p>Næste løb bliver Ring Djursland.</p>
+                <p>
+                <br>
+                MVH Henrik Ølsgård<br>
+&nbsp;</p>
+      <hr>
+    </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright © 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF"></font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

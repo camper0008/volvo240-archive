@@ -1,0 +1,263 @@
+
+
+<html>
+<HEAD>
+    <META NAME="Description" CONTENT="Alt om Volvo 200-Serien">
+    <META NAME="Title" CONTENT="Volvo 200-serien">
+    <META NAME="Keywords" CONTENT="Volvo, Volvo 200, Volvo 240, Volvo 242, Volvo 244, Volvo 245, Volvo 260, Volvo 262, Volvo 264, Volvo 265">
+    <META NAME="Copyright" CONTENT="volvo240.dk">
+    <META NAME="Author" CONTENT="Finn Kruse" >
+    <META NAME="Rating" CONTENT="safe for kids">
+    <META NAME="Revisits" CONTENT="10">
+    <META NAME="ROBOTS" CONTENT="ALL">
+    <META NAME="Distribution" CONTENT="Global">
+    <META NAME="Classification" CONTENT="Hobbies">
+    <META NAME="VW96.objecttype" CONTENT="HOWTO ">
+    <META NAME="GOOGLEBOT" CONTENT="ALL">
+    <META NAME="ROBOTS" CONTENT="ALL,FOLLOW">
+    <META NAME="date" CONTENT="2002-07-16">
+    <META NAME="revisit-after" CONTENT="8 days">
+
+    <META HTTP-EQUIV="CONTENT-Language" CONTENT="DA">
+    <META HTTP-EQUIV="CONTENT-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META HTTP-EQUIV="Window-Target" CONTENT="_top">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+    <TITLE>Volvo 200-serien</TITLE>
+    <script type="text/javascript">
+      if (parent.frames.length > 0) {
+        parent.location.href = location.href
+      }
+      function setWindowSize() {
+        var maxW = screen.availWidth;
+        var maxH = screen.availHeight;
+
+        if (maxW > 1024) {
+          var newW = 1024;
+        }
+        else {
+          var newW = maxW;
+        }
+        if (maxH > 768) {
+          var newH = 768;
+        }
+        else {
+          var newH = maxH;
+        }
+        window.resizeTo(newW, newH);
+      }
+    </script>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="/common/volvo240.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.volvo240.dk/favicon.ico">
+
+<body>
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id=DMBRI style="position:absolute;">
+<img src="menu/images/dmb_i.gif" name=DMBImgFiles width="1" height="1" border="0" alt="">
+<img src="menu/dmb_m.gif" name=DMBJSCode width="1" height="1" border="0" alt="">
+</div>
+<script type="text/javascript" language="JavaScript" >
+	var rimPath = null;
+	var rjsPath = null;
+	var rPath2Root = null;
+	
+	function InitRelCode() {
+		var iImg;
+		var jImg;
+		var tObj;
+		
+		if(!document.layers) {
+			iImg = document.images['DMBImgFiles'];
+			jImg = document.images['DMBJSCode'];
+			tObj = jImg;
+		} else {
+			tObj = document.layers['DMBRI'];
+			if(tObj) {
+				iImg = tObj.document.images['DMBImgFiles'];
+				jImg = tObj.document.images['DMBJSCode'];
+			}
+		}
+		if(!tObj) {
+			window.setTimeout("InitRelCode()", 700);
+			return false;
+		}
+		
+		rimPath = _gp(iImg.src);
+		rjsPath = _gp(jImg.src);
+		rPath2Root = rjsPath + "../";
+		
+		return true;
+	}
+	
+	function _purl(u) {
+		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
+	}
+	
+	function _fip(img) {
+		if(img.src.indexOf("%%REL%%")!=-1)
+			img.src = rimPath + img.src.split("%%REL%%")[1];
+		return img.src;
+	}
+	
+	function _gp(p) {
+		return p.substr(0,p.lastIndexOf("/")+1);
+	}
+	
+	function FixImages() {
+		var h = null;
+		var f = new Function("h", "if(h)for(var i=0; i<h.length; i++)h[i] = xrep(h[i], '%%REL%%', rimPath);");
+		f(hStyle);f(hshStyle);
+	}
+	
+	function xrep(s, f, n) {
+		if(s) s = s.split(f).join(n);
+		return s;
+	}
+	
+	InitRelCode();
+</script>
+<script type="text/javascript" language="JavaScript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'main.js"><\/script>');return true;}LoadMenus();</script>
+<!-- DHTML Menu Builder Loader Code END -->
+<script type="text/javascript" language="JavaScript">
+<!--
+var message="Copyright © 2002-2013 by volvo240.dk";
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+		}
+	}
+	if (document.layers) {
+		if (e.which == 3) {
+			alert(message);
+			return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+<table width="1000" border="0" cellspacing="0" align="center">
+  <thead>
+  <tr>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 240</font></td>
+    <td height="23" align="center"><font color="#c8c8c8" size="1">volvo 200 Serien</font></td>
+    <td width="315" height="23" align="center"><font color="#c8c8c8" size="1">volvo 244</font></td>
+  </tr>
+  <tr>
+    <td width="315" align="left" valign="bottom">
+      <img border="0" src="/images/volvo240dksgray.gif" width="132" height="40" alt="Logo">
+    </td>
+    <td align="center" valign="bottom"><b><font face="tahoma" color="#FFFFFF" size="5">&nbsp;Forum</font></b></td>
+    <td width="315" align="right" valign="bottom">
+      <form method="POST" action="/main.asp?f=35">
+        <input type="text" name="T1" size="20">
+        <input type="submit" value="Søg" name="B1">&nbsp;
+      </form>
+    </td>
+  </tr>
+  </thead>
+</table>
+<hr width="1000" align="center">
+
+
+<table border="0" width="1000" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+  <tr>
+    <td align="center">
+
+
+<table border="1" width="800" cellspacing="1" cellpadding="0" bgcolor="#c0c0c0" align="center">
+<tbody>
+  <tr>
+    <td width="798" bgcolor="#c0c0c0" colspan="2"><strong><font face="Verdana" color="#ffffff">Forum: <a href="/main.asp?f=3&forumid=1">Motor</a></font></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%" bgcolor="#f0f0f0"><font face="verdana">Forum om <b>Motor</b>. </font></td>
+    <td width="30%" bgcolor="#f0f0f0">
+      <ul type="square">
+        <li><a href="main.asp?f=2"><font face="Verdana"><strong>Til Forum oversigt</strong></font></a></li>
+        <li><a href="main.asp?f=3&ForumId=1"><font face="Verdana"><strong>Til Emne oversigt</strong></font></a><br></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="798" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="0"><tbody>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana"
+        color="#FFFFFF"><strong>Emne:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"><strong>Termostat.</strong></font></td>
+      </tr>
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Navn:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">Jonas</font></td>
+      </tr>
+      <!-- tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>E-mail:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF"></font></td>
+      </tr -->
+      <tr>
+        <td width="57" bgcolor="#c0c0c0" align="left"><font face="Verdana" color="#FFFFFF"><strong>Dato:</strong></font></td>
+        <td width="539" bgcolor="#c0c0c0"><font face="Verdana" color="#FFFFFF">31-07-2013&nbsp; 11:55</font></td>
+      </tr>
+      <tr>
+        <td width="596" bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana">Hej.<br><br>Jeg har for nyligt købt en Volvo 240 Gl, B230FD, modelår 1993.<br><br>Da jeg købte den var termostaten hele tiden på klokken 10.00 under kørsel. En meget varm dag med langsom bakkekørsel i Århus nærmede den sig det røde felt uden dog at ramme. For en god ordens skyld fik jeg skiftet termostaten og kølervæske hos Kurt Meyer, der i same ombæring sagde at køleren så fin ud. Ved udskiftningen konstaterede Kurt at måleren simpelthen viser lidt højere end klokken 09.00 (han målte temperaturen infarødt samtidigt, så den er jo god nok).<br><br>Den anden dag (med varmerekorden på 31,4 i det danske sommervejr), kravlede den dog igen tættere op mod det røde felt end mine nerver bryder sig om. <br><br>Så: er der andet jeg kan tjekke, eller skal jeg bare acceptere at vi har høje temperaturer her for tiden, og så lade den stige (uden at ramme det røde)?<br><br>Endvidere har jeg et koblingspunkt der ligger meget sent. Koblingen skurrer ikke og virker fint, men man skal løfte foden meget i forhold til andre biler før den tager ved.<br><br>Min gearkasse er også en smule "slatten". Den er lidt stram i første gear, men er ellers meget blød. Kan udskiftningen af gearkasseolie gøre noget ved dette?<br><br>Jeg har naturligvis købt og læst i Haynes, men synes ikke jeg kan finde tilfredsstillende svar på lige netop disse spørgsmål. Jeg spørger derfor om det her, da jeg snart vil en tur ud til Søren i Stenløse, og gerne vil være forberedt på evt. omkostninger. <br><br>Ud over disse petitesser, så ruller jeg bare derudaf:)<br><br>Jeg har naturligvis søgt i forum inden jeg spørger!<br><br>Mvh.<br>Jonas</font></td>
+      </tr>
+      <tr>
+
+        <td bgcolor="#c0c0c0" align="left" colspan="2"><font face="Verdana" color="#FFFFFF"><strong>Svar:</strong></font></td>
+
+      </tr>
+      <tr>
+        <td bgcolor="#f0f0f0" align="left" colspan="2"><font face="Verdana"><ul type="square"><li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 31-07-2013 13:27)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas<br><br>Hvis dit temperament ikke er til nål der står lidt over kl 9 (Det er normalt)<br><br>Så kunne du jo købe en 87C og sætte i den. Standard er en 92C mener jeg. Og det er dejligt om vinteren.<br><br>En anden ting du skal prøve er om din viskose blæser overhovedet fungere. Den skal brøle når du starter Volvoen fra kold tilstand og derefter langsom dale i omdrejninger, efter ca 15 sek. <br><br>Tjek den også i tomgang når du har kørt en længere tur, og gas motoren op, så temperaturen kommer godt der opaf så skal den "bruse og brøle" Sådan tjekker om viskose blæseren virker.<br><br>Din koblingskabel trænger nok bare til justering. Det ville jeg nok overlade til et værksted. Evt lade Søren gøre det. Han kender de gamle Volvoer. Han kan også skifte din termostat hvis du ikke selv har mod på det. <br><br>At udskifte gearkasse olie er altid en god ting. Da olie bliver slidt med tiden. <br><br>Du kan evt købe lidt af dette og blande i: <br><br><a href="http://www.thansen.dk/product.asp?c=9362215852&n=-2027216145&pn=-2027216021" target="_blank">http://www.thansen.dk/product.asp?c=9362215852&n=-2027216145&pn=-2027216021</a><br><br>Jeg skal prøve det på min gamle 240er fra 1989 hvor gearkassen synger en sang. (den har 380.000 km på klokken)<br><br>MVH<br><br>Emil</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 31-07-2013 15:16)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas<br><br>Du bør justere dit koblingskabel, så du er sikker på, at den kobler helt fint ud. <br>Dernæst bør du prøve at tage gearstangsmanchetten af og tjekke om bakgearsspærringen er justeret korrekt. Det gøres lettest ved at løsne det helt og derefter sætte gearstangen i 1. gear og justere spærringen ind mod plastiktappen på gearstangen (som løftes op over spærringen, når du skal have den i bakgear). Du skal ikke justere den, så den slider hårdt mod tappen, men kun så den lige rører ved. Derefter gør du det samme med gearstangen sat i 2. gear.<br>Gearstangen skal kunne bevæges frem og tilbage mellem første og andet gear uden at slæbe hårdt mod spærringen.<br><br>Hvis gearskiftet er slattent, bør du udskifte de små nylonbøsninger og O-ringen, som sidder i samlingen mellem gearstang og den forbindelsesarm, som går ind i gearkassen. Palen er låst med en lille pinolskrue, som lettest nås nedefra med en unbrakonøgle.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 01-08-2013 09:13)</em></u></strong></font></li><br><font face=Verdana>Hej Emil og Christian.<br><br>Tak for rådene. Dem følger jeg op på. Med hensyn til termostaten, så er det netop en 87&#39; der sidder i nu. Jeg kan godt leve med at den står på klokken 10.00 - det er mere temperaturstigningen ved bakke- og køkørsel der undrer mig. <br><br>Jeg skal på et tidspunkt have skiftet skærmkanterne bagtil og sat inderskærme i - skrev lige for sjov til Bilia hvad det ville koste (minus inderskærmene): 6000,- pr. side plus moms - som udgangspunkt! <br><br><br>Vildt.<br><br>Mvh.<br>Jonas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 01-08-2013 11:16)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas<br><br>Den køler kan godt være "Defekt" også selv om den ser fin ud. Jeg har hørt om folk hvor at den ikke ville køle effektivt nok, og efter de satte ny køler i bilen, så kom temperaturen længere ned. Jeg har aldrig set min kravle op mod det røde felt, selv midt i en hedebølge og ved køkørsel på motorvejen. <br>Og jeg har altid kørt med 92C termostat. (Holder mig til hvad instruktionsbogen fortæller mig)<br><br>6000 kr for at få skiftet en skærmkant, jeg vil da håbe der er maling med i? For mig lyder det tilbud helt hen i vejret. Men det kan ikke komme bag på mig. <br>Snak med Søren om det. Det kan være han også kender en god maler. <br><br>MVH<br><br>Emil</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 01-08-2013 11:34)</em></u></strong></font></li><br><font face=Verdana>Da jeg i sin tid fik renoveret min for rust sagde min pladesmed til mig at han beregnede 4 timer for en skærmkant så hvis man siger 4*500+ moms  for en side + lakering ja puha det render hurtigt løbsk og nok også derfor de bliver skrottet som de bliver ældre osv  .Bilia har jo en høj timepris så det er derfor de kommer med den pris der.<br>Mvh Kent<br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 01-08-2013 11:37)</em></u></strong></font></li><br><font face=Verdana>Har set et par plasticinderskærme til salg på nettet hvis det kunne have interesse for nogen <br><br><br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 01-08-2013 12:01)</em></u></strong></font></li><br><font face=Verdana>Emil:<br><br>OK - jeg får tjekket køleren til den tid så. Kurt Meyer sagde dog den så OK ud, men det gik også lidt hurtigt dengang.<br><br>Kent: Jeg har godt set de omtalte inderskærme. Hvis det er dem på Fyn, så håber jeg at have et ærinde i Jylland i den nærmeste fremtid - så samler jeg dem op der. <br><br>Jeg er helt med på at det er dyrt, men synes bilen er værd at spendere på, da jeg gerne vil have den i pæn stand mange år endnu. Håber jeg kan kombinere turen hjem til svigerforældrene i Herning med et besøg hos en pladesmed/værksted med lidt mere humane priser. <br><br>Må jeg spørge hvad du endte med at hoste op med for en renovering?<br><br>Mvh.,<br>Jonas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 01-08-2013 12:34)</em></u></strong></font></li><br><font face=Verdana>Nu er det så nogle år siden jeg fik det gjort men håber du sidder ned for med lakering og altså kun renovering af karossen ved en pladesmed og lakeret ved en autolakerer ca 50000 og så kommer alt det andet bagefter.mit råd til dem der vil lave en gammel bil er . Find en god karosse for man kan køre sur i det og det gør mange <br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 01-08-2013 12:49)</em></u></strong></font></li><br><font face=Verdana>Kent:<br><br>Det var sørme mange penge - så håber jeg også du er super tilfreds med resultatet!<br><br>Sådan noget er jeg slet ikke ude i. Jeg vil bare gerne have ordnet nogle småting, og så smidt nogle inderskærme på, så rusten holdes på afstand. <br><br></font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Kent Skovsen, 01-08-2013 13:15)</em></u></strong></font></li><br><font face=Verdana>Ja det er mange penge og vidste godt du blev chokeret men det er sandt.Jeg mener det var tilbage i 2005 at jeg fik den lavet for den kom ud og køre i 2007 men bilen er som jeg vil have den så er fuldt ud tilfreds. Jeg har så også en 2 dørs og det tog tid at finde den for havde jo lært noget fra den første. Karossen skulle være sund.renovering af bil tager lang tid og koster mange penge hvis man gør som jeg har gjort og vil gøre med den næste. Tiderne er anderledes idag og folk smider dem væk som tiden går men det er så en helt anden historie. Jeg forstår godt at du vil have din lavet men da din er en hverdagsbil så sørg for at den bliver holdt ved lige med tectyl/dinitrol for med det klima vi har så ruster de bort. Jeg kender 3 som kan lave rust og som jeg stoler på for det er altså ikke alle der kan gøre det så finder du ikke en som kan må du jo skrive igen.<br>Mvh kent</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Leif R&#248;n Pedersen, 01-08-2013 22:24)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas<br><br>Jeg vil lige bakke Emil op mht. køleren. Jeg har nemlig selv prøvet det. På en tur til Kroatien nærmede nålen sig det røde felt ved Kasel bakker. Løste problemet midlertidigt på resten af turen ved at fastgøre møllen med ståltråd, så den fulgte motoren. Den brølede som en brunstig hjort, men temperaturmåleren kom ned på kl. 9, og det holdt til turen tur/retur 2 gange (7500 km.). <br>Nå, men problemet, fandt jeg ud af, var køleren efter at både viskose vingen og pumpen var blevet udskiftet uden effekt. Tilfældigt mærkede jeg på køleren ved driftsvarm temperatur, at den kun var varm i nederste højre hjørne ved udløbsstudsen, resten af køleren var koldt. I med en ny brugt fra Jens Peter, og problemet var løst.<br>Så prøv at mærke på køleren, om den er var over det hele.<br>Mvh. Leif, 240 stc. &#39;92.</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 03-08-2013 13:20)</em></u></strong></font></li><br><font face=Verdana>Hej igen.<br><br>Tak for rådene indtil videre. Tjekker  køleren når jeg kommer hjem fra arbejde mandag - så burde den være varm.<br><br>Jeg fik en brugt køler med fra en Volvo 240 Gl fra 1986 da jeg købte min bil - passer den over i min (1993)? Og er det noget med at man kan tjekke køleren inden den sættes i?<br><br>I Haynes er der nævnt forskellige "Engine cooling fans". Er en fra 1993 med eller uden "clutch"? Kunne nemlig læse mig til i en tråd, at denne kobling kan ruste fast, men det er naturligvis omsonst at lede efter denne hvis den ikke er der.<br><br>På forhånd tak.<br><br>Mvh.<br>Jonas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Emil Jensen, 03-08-2013 13:49)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas<br><br>Den eneste forskel der er, er om køleren har køling til olien på en automat gearkasse. Ellers er kølerne stort set ens på 240 modellerne. Mener også at den fra en diesel motor passer på. <br><br>MVH<br><br>Emil</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Christian Fisker, 03-08-2013 15:23)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas<br><br>Kølervingen på en Volvo 240 fra 1993 skal have viskosekobling. Det har omtrent alle Volvo 200-modelleren med undtagelse af nogle enkelte B19 og stødstangs-B20 fra 1975.<br><br>Godt nok har Kurt Mejer sagt, at din køler tilsyneladende ser fin ud. Men derfor er der altså ingen garanti for, at der er fuld gennemstrømning i den. Og det skal der være, for at en B230 kan køles korrekt ned om sommeren.<br>Du kan evt. afmontere køleren og gennemskylle den med vand fra vandslangen. Og gerne "begge veje". Så skal du bare se, hvor meget skidt der er i sådan en spinkel aluminium-køler. Der skal ikke meget til at stoppe den til indvendigt.<br>Hvis du vil prøve med en brugt, så skriv tilbage. Jeg har flere liggende, som er helt i orden.<br><br>Mvh Christian</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 03-08-2013 15:47)</em></u></strong></font></li><br><font face=Verdana>Hej Christian.<br><br>Jeg vil i kommende weekend kaste mig ud i noget gennemskylning så. Hvor henne af i landet bor du, i fald det skulle blive aktuelt? Jeg bor i Vanløse.<br><br>mvh.<br>Jonas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jonas, 04-08-2013 18:05)</em></u></strong></font></li><br><font face=Verdana>Hej igen.<br><br>Nu har jeg været ude at køre mig en tur i varmen. På grund af motorløb i Kbh kom jeg til at køre en del køkørsel, hvorfor termostaten igen sneg sig opad. Da jeg nåede min destination åbnede jeg kølerhjelmen og gassede godt op. Propelen kørte rundt og flyttede også lidt luft (mærkbart ved at stikke hånden ned), men gik ikke op i omdrejninger eller "lød som en brunstig hjort". Da bilen var kold igen startede jeg med kølerhjelmen åben. Propellen drejede rundt, men uden brøl eller acceleration. <br><br>Det er altså mit indtryk at propellen (viskosekøleren), kører med en konstant hastighed ved opstart og ved opgasning. <br><br>Er det så her hunden ligger begravet? Selve køleren føltes varm der hvor jeg lige kunne komme til at mærke, så den er vel ok?<br><br>Håber jeg har forklaret mig tydligt. <br><br>Mvh.<br>Jonas</font><br>&nbsp;<li><font face=Verdana><strong><u>Re: - <em>(Jens Peter Jensen, 05-08-2013 16:11)</em></u></strong></font></li><br><font face=Verdana>Hej Jonas<br>Ja, det er rigtigt observeret, din viskose kobling er stået af, og kan ikke køle ordentligt.<br>Du kan kontakte mig, og du får en god brugt fra mig som er i orden, for en "hund" + evt. fragt.<br>MVH Jens Peter<br>PS. Prøv evt. som Leif Rønn Pedersen har skrevet, at binde den fast med ståltråd så den kører hele tiden med fulde omdrejninger, så får du det konstateret hvis din Volvo så kører lidt for kold.</font><br>&nbsp;</ul></font></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+    </td>
+  </tr>
+</table>
+
+<hr width="1000" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td align="center"><span class="text" style="font-size: 9px;"><a href="/default.asp" target="_top" class="SubMenu" title="volvo240 Startside">Startside</a>
+      &#124; <a href="/main.asp?f=38" target="_top" class="SubMenu" title="Kontakt volvo240.dk">Kontakt</a>
+      &#124; <a href="javascript:window.external.AddFavorite('http://www.volvo240.dk','volvo 200 Serien')" class="SubMenu" title="Tilføj til foretrukne">Føj volvo240.dk Foretrukne</a>
+      &#124; <a href="/main.asp?f=200" target="_top" class="SubMenu" title="Sitemap">Sitemap</a></span>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0" align="center">
+<thead>
+  <tr>
+    <td width="35%"><a href="http://www.feecasoft.dk" target="_blank"><font color="#808080" size="1">Webdesign by Feecasoft</font></a></td>
+    <td width="30%" align="center"><span class="text" style="font-size: 11px;">&#169; Copyright © 2002-2013 by volvo240.dk</span></td>
+    <td align="right" width="35%"><span class="text" style="font-size: 9px;"><font color="#FFFFFF">25</font><font color="#000000">&nbsp;Online Brugere</span>&nbsp;</font></td>
+ </tr>
+</thead>
+</table>
+
+
+</body>
+
+</html>

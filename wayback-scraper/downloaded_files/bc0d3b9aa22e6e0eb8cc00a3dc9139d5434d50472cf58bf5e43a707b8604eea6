@@ -1,0 +1,86 @@
+
+
+<HTML>
+<HEAD>
+<TITLE>Syn-</TITLE>
+</HEAD>
+<link rel="stylesheet" type="text/css" href="/common/volvofree.css">
+<BODY>
+
+
+<html>
+
+<head>
+<title>Synet -> Start</title>
+</head>
+
+<body bgcolor="#f0f0f0">
+<table border="0" bordercolor="#f0f0f0" align="center">
+  <tr>
+    <td>
+<table width="590" border=1 align="center">
+<thead>
+  <tr>
+    <td colspan="2" width="588">Start</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th width="150" valign="top" align="left">Batteri</th>
+    <td width="438">Det kan være forbundet med fare, hvis uerfarne foretager indgreb i bilens elektriske system.</td>
+  </tr>
+
+  <tr>
+    <th width="150" valign="top" align="left">El-ledninger</th>
+    <td width="438">Det kan være forbundet med fare, hvis uerfarne foretager indgreb i bilens elektriske system.</td>
+  </tr>
+
+  <tr>
+    <th width="150" valign="top" align="left">Forlygter</th>
+    <td width="438">Forlygter skal være &quot;E&quot; eller &quot;e&quot; godkendte. Dette 
+    konstateres ved at der i lygteglasset er støbt et &quot;E&quot; eller &quot;e&quot; efterfulgt 
+    af et tal.<br>
+    Glas der ikke er godkendte, medfører at bilen bliver kasseret til syn hvis 
+    det opdages.<br>
+    Lysstyrken i fjernlyset må ikke overstige 225.000 cd (candela). Dette er 
+    angivet på lygteglasset med et såkaldt ledetal. Ledetallet repræsenterer 
+    3.000 cd. Det samlede største ledetal for fjernlygter på en bil må således 
+    højest være 75.<br>
+    <br>
+    (<i>Ledetal på forlygter på en Volvo 240 er 20 pr. side = 40. Der må således 
+    lovligt monteres 2 fjernlygter, som hver højst må have et ledetal på 17,5.</i>)</td>
+  </tr>
+  <tr>
+    <th width="150" valign="top" align="left">Stop- og blinklys</th>
+    <td width="438">Stoplys skal afgive rødt lys med en styrke som er kraftigere end baglysets og skal lyse når der trædes på bremsepedalen. På nogle biler skal tændingen være slået til før stoplygterne kan lyse.<br>
+Blinklygter er forblinklygter, bagblinklygter og sideblinklygter, skal afgive gult lys. Aktivering af bilens havariblink medfører normalt, at alle bilens blinklygter blinker samtidigt.</td>
+  </tr>
+  <tr>
+    <th width="150" valign="top" align="left">Øvrige lygter</th>
+    <td width="438">Øvrige lygter kan være tågeforlygter, markeringslygter, sidemarkeringslygter, 
+afmærkningslygter, søgelygter og arbejdslygter. Nogle kan være originalt 
+monterede og andre monteres som ekstraudstyr. Generelt gælder det, at der ikke 
+må monteres lygter på en bil udover de tilladte og påbudte lygter, samt at alle 
+lygter skal kunne lyse. Hvis du vil have mere at vide herom, så spørg vores 
+synsmedarbejder. <br>
+En bil skal være forsynet med røde bagudvendende reflekser, som ikke må være 
+trekantede. De trekantede er forbeholdt påhængskøretøjer. Man må gerne udstyre 
+sin bil med ekstra reflekser. Hvis du vil have mere at vide herom, så spørg 
+vores synsmedarbejder.</td>
+  </tr>
+</tbody>
+</table>
+<p align="right">
+<input type="button" value="Luk" onclick="window.close();">
+    </td>
+  </tr>
+</table>
+
+
+
+</body>
+
+</html>
+
+</BODY>
+</HTML>

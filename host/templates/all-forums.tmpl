@@ -1,11 +1,11 @@
 {{ define "content" }}
     <h1>Volvo240 Arkivet</h1>
     <p>Et arkiv af det gamle volvo240.dk, med så meget som muligt reddet og kategoriseret.</p>
-    <p>Du kan også <a href="/search">søge i alle opslag</a>.</p>
+    <p>Du kan også <a href="search">søge i alle opslag</a>.</p>
     <h2>Kategorier</h2>
     <ul class="forum-list">
         {{ range . }}
-            <li>• <a href="/list?forum={{ .Id }}">{{ .Name }}</a></li>
+            <li>• <a href="list?forum={{ .Id }}">{{ .Name }}</a></li>
         {{ end }}
     </ul>
 {{ end }}

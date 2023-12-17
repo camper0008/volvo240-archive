@@ -2,16 +2,10 @@
   services.nginx = {
     enable = true;
 
-    virtualHosts."arkiv.volvo240.dk" = {
+    virtualHosts."volvo240.dk" = {
       forceSSL = true;
       enableACME = true;
-      locations."/".proxyPass = "http://localhost:8081";
-    };
-
-    virtualHosts."archive.volvo240.dk" = {
-      forceSSL = true;
-      enableACME = true;
-      locations."/".proxyPass = "http://localhost:8081";
+      locations."/arkiv".proxyPass = "http://localhost:8081/";
     };
 
     virtualHosts."meili.volvo240.dk" = {

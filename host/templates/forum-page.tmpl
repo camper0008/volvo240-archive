@@ -1,10 +1,10 @@
 {{ define "content" }}
-    <h2><a href="/">Tilbage</a></h2>
+    <h2><a href="/arkiv">Tilbage</a></h2>
     <h1>{{ .Name }} • Side {{ .Page }}</h1>
     <ul class="forum-list">
         {{ range .Items }}
             {{ if ne .Name "" }}
-                <li>• <a href="/post?post={{ .PostId }}&forum={{ .ForumId }}">{{ .Name }}</a></li>
+                <li>• <a href="post?post={{ .PostId }}&forum={{ .ForumId }}">{{ .Name }}</a></li>
             {{ else }}
                 <li>&nbsp;</li>
             {{ end }}
@@ -12,7 +12,7 @@
     </ul>
     <center>
     {{ if ne .Page 0 }}
-        <a href="/list?forum={{ .ForumId }}&page={{ .PreviousPage }}">Tidligere side</a>
+        <a href="list?forum={{ .ForumId }}&page={{ .PreviousPage }}">Tidligere side</a>
     {{ else }}
         <span>Tidligere side</span>
     {{ end }}
@@ -20,7 +20,7 @@
     {{ .Page }}
     •
     {{ if eq .Length .Limit }}
-        <a href="/list?forum={{ .ForumId }}&page={{ .NextPage }}">Næste side</a>
+        <a href="list?forum={{ .ForumId }}&page={{ .NextPage }}">Næste side</a>
     {{ else }}
         <span>Næste side</span>
     {{ end }}

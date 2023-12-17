@@ -102,8 +102,8 @@ async function on_input(query, key) {
             content.classList.add("text-post");
             content.innerHTML = hit._formatted.content;
             const link = document.createElement("a");
-            const back = query.trim() !== "" ? encodeURIComponent(`/search?q=${query}`) : "/search"
-            link.href = `/post?post=${hit.post_id}&forum=${hit.forum_id}&back=${back}`
+            const back = query.trim() !== "" ? encodeURIComponent(`search?q=${query}`) : "search"
+            link.href = `post?post=${hit.post_id}&forum=${hit.forum_id}&back=${back}`
             link.innerText = "Se opslag";
             card.append(title, content, link);
             return card.outerHTML;

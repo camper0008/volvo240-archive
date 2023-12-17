@@ -185,7 +185,7 @@ func forumPost(db *sql.DB, mutex *sync.Mutex, w http.ResponseWriter, req *http.R
 
 	back := req.URL.Query().Get("back")
 	if back == "" {
-		back = "/list?forum=" + req.URL.Query().Get("forum")
+		back = "list?forum=" + req.URL.Query().Get("forum")
 	}
 
 	writeTemplate[PostWithReplies](w, "templates/post.tmpl", PostWithReplies{Post: mainPost, SubPosts: subPosts, Back: back})

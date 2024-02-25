@@ -23,7 +23,7 @@ async function main() {
         .then(entry => entry.map(([filename, url]) => [filename, new URL(url)]))
     app.get("/", (req, res) => {
         const list = app_list.map(([filename, url]) => `<a href="${url.pathname}${url.search}">${url.pathname}${url.search}</a>`)
-        res.send('<h1>Volvo240.dk</h1><hr><p><a href="/default.asp">Link til forsiden</a></p><hr><p>Her er en liste af alle filer fundet:</p> ' + list.join("<br>"));
+        res.send('<h1>Volvo240.dk</h1><hr><p><a href="/default.asp">Link til forsiden</a></p><p><a href="/arkiv/">Link til forum indlæg</a></p><hr><p>Her er en liste af alle ikke-forum filer fundet:</p> ' + list.join("<br>"));
     })
     app.get("/*", (req, res) => {
         const entry = app_list.find(([_, url]) => req.originalUrl === `${url.pathname}${url.search}`)

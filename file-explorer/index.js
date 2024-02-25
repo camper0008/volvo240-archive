@@ -23,7 +23,7 @@ async function main() {
         .then(entry => entry.map(([filename, url]) => [filename, new URL(url)]))
     app.get("/", (req, res) => {
         const list = app_list.map(([filename, url]) => `<a href="${url.pathname}${url.search}">${url.pathname}${url.search}</a>`)
-        res.send(list.join("<br>"));
+        res.send('<a href="/default.asp">Link til forsiden</a><br>Her er en liste af alle filer fundet: ' + list.join("<br>"));
     })
     app.get("/*", (req, res) => {
         const entry = app_list.find(([_, url]) => req.originalUrl === `${url.pathname}${url.search}`)
